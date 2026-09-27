@@ -1,0 +1,820 @@
+---
+title: "Secret History #22:  The Divine Spark of Jesus"
+series: "Secret History"
+episode: 22
+date: "2025-11-27"
+date_kind: "published"
+video_id: "pp0E1gb80WQ"
+url: "https://www.youtube.com/watch?v=pp0E1gb80WQ"
+duration: "1:37:07"
+words: 15278
+punctuated_captions: true
+duplicate_of: null
+source_edited: "source/lightly edited/transcripts/Secret History/074 — Secret History #22 The Divine Spark of Jesus [pp0E1gb80WQ].md"
+---
+
+# Secret History #22: The Divine Spark of Jesus
+
+Secret History · Published 2025-11-27 · 1:37:07 · 15,278 words · [Watch on YouTube](https://www.youtube.com/watch?v=pp0E1gb80WQ)
+
+## YouTube description
+
+> In this Thursday, November 27, 2025 lecture to his Beijing high school students, Professor Jiang explains the true teachings of Jesus.
+>
+> Notes and References:
+> 1.  Gospel of Thomas
+> 2.  Gospel of Matthew
+> 3.  Divine Comedy by Dante
+> 4.  Brothers Karamazov by Fyodor Dostoyevsky
+
+## Transcript
+
+[00:01](https://youtu.be/pp0E1gb80WQ?t=1) Today we discuss the most famous person who has ever lived. There are about two billion people in the world today who believe that Jesus is God. And so a question then is there have been many famous individuals in history. Alexand the great, Julius Caesar Socrates Zorahustra Homer, but it is Jesus that most people worship.
+
+[00:32](https://youtu.be/pp0E1gb80WQ?t=32) And the question we will look at today is why? Okay. So, what I want to do first is discuss the religion of Christianity. And as you know, I grew up in Canada and I studied United States.
+
+[00:50](https://youtu.be/pp0E1gb80WQ?t=50) And so my entire life, Jesus was part of the culture. It was part of the society. [clears throat] And growing up in Canada, not being Christian, I really didn't understand Christianity. I really didn't understand the ideas.
+
+[01:14](https://youtu.be/pp0E1gb80WQ?t=74) So let's go over some of the major ideas of Christianity. First of all it's important to remember that there are many denominations in Christianity. So there's a lot of disagreements. Okay.
+
+[01:24](https://youtu.be/pp0E1gb80WQ?t=84) But these are the major ideas that most Christians agree on. First thing is that Jesus is the son of God and God himself. Okay. And he's king.
+
+[01:40](https://youtu.be/pp0E1gb80WQ?t=100) Okay. [snorts] This already is very confusing. Second thing is they believe that Jesus died for our sins. So remember that we got kicked out of the garden of Eden because we disobeyed God and we ate from the tree of knowledge.
+
+[02:03](https://youtu.be/pp0E1gb80WQ?t=123) So Jesus died for our sins and so Jesus redeemed us. Okay. The third thing that they believe is that eventually Jesus will return something called the second coming.
+
+[02:21](https://youtu.be/pp0E1gb80WQ?t=141) He died, then he was resurrected, then went to heaven. But eventually he will return and this will result in the last judgment in which all individuals are judged whether they will reign in heaven or burn in hell. Okay? He will bring heaven to earth.
+
+[02:44](https://youtu.be/pp0E1gb80WQ?t=164) And this is where Christianity is most controversial. What this says is that if you believe in Jesus, if you're a Christian, you will go to heaven. But if you do not believe in Jesus, you will burn in hell. And this is and this goes against all other religious traditions.
+
+[03:11](https://youtu.be/pp0E1gb80WQ?t=191) Every religious tradition is basically like be a good person and that's all you have to do. But Christianity demands that you must believe in Jesus or you will burn in hell. Okay? So in other words, Christianity is a missionary religion in which if you're a Christian, not only do you believe not only do you must believe in Jesus, but you must go out and try to convert other people because if they don't convert to Christianity during the last judgment, they will burn in hell.
+
+[03:47](https://youtu.be/pp0E1gb80WQ?t=227) And that is why Christianity is one of the most aggressive religions that we have today. So this is all very strange and there are a lot of questions in Christianity and that's why Christianity also proposes the idea of miracles. Okay. How did Jesus die for our sins?
+
+[04:11](https://youtu.be/pp0E1gb80WQ?t=251) Why is there a second coming? It's all a miracle. Okay? Meaning don't question it.
+
+[04:17](https://youtu.be/pp0E1gb80WQ?t=257) Just believe in it. Right? So Christianity is a very problematic religion. It raises a lot of questions.
+
+[04:27](https://youtu.be/pp0E1gb80WQ?t=267) So then the question then is given all the confusion around Christianity, why do so many people believe in Jesus? All right. So what I'm going to do now is I'm going to explain to you what we know for sure about Jesus.
+
+[04:42](https://youtu.be/pp0E1gb80WQ?t=282) This is not religious people. It's scholars who spent decades researching the evidence, looking the Bible, looking at the archeological evidence, looking at all the writings of that period. And this is what we know for sure about Jesus. Okay.
+
+[05:01](https://youtu.be/pp0E1gb80WQ?t=301) So, the life of Jesus. Okay. So, the first thing that we know is he was born maybe about 4 BCE.
+
+[05:09](https://youtu.be/pp0E1gb80WQ?t=309) In a place called Galilee. I know in the Bible it says he was born the year zero, but he's actually born four years before then. All right, that's the first thing that we know for sure.
+
+[05:22](https://youtu.be/pp0E1gb80WQ?t=322) Most people agree on. I'm talking about like mainstream academics. Second thing that we agree on is that his teacher was John the Baptist. And John the Baptist is what we call an apocalyptic preacher.
+
+[05:41](https://youtu.be/pp0E1gb80WQ?t=341) An apocalyptic preacher basically says, "I will reveal the future to you." And the future is that God is coming and God will destroy the evil people in the world. So right now is your opportunity to redeem yourself from your sins to start a new life because God is coming and we must prepare for the return of God. That is the message of John the Baptist and Jesus was one of his students, one of his disciples.
+
+[06:15](https://youtu.be/pp0E1gb80WQ?t=375) But at some point Jesus started to create his own following. So Jesus was preaching a message that is different from John the Baptist. Okay. So that's the second thing we know.
+
+[06:28](https://youtu.be/pp0E1gb80WQ?t=388) The third thing that we know is the crucification the crucifixion. Okay. So we know that the Romans crucified Jesus. We don't know why.
+
+[06:42](https://youtu.be/pp0E1gb80WQ?t=402) We know that the Romans killed Jesus. And crucification is when the Romans nail you onto a wooden cross. Okay? And it's an awful way to die because how you're dying is actually not through the bleeding.
+
+[06:58](https://youtu.be/pp0E1gb80WQ?t=418) You got nails hammered to the cross. You're dying because you have no energy. So your head hangs low, which means you're suffocating slowly.
+
+[07:09](https://youtu.be/pp0E1gb80WQ?t=429) And it takes about 3 days for you to suffocate to death. And so this is like one of the worst punishments that the Romans could ever inflict on you. And really there's only two sets of people that the Romans will use crucification as punishment. Okay?
+
+[07:29](https://youtu.be/pp0E1gb80WQ?t=449) The first type are thieves and bandits. All right? These are considered like the lowest type of people. The second type of people are rebels.
+
+[07:40](https://youtu.be/pp0E1gb80WQ?t=460) People who are trying to overthrow the Roman state. Okay. So Jesus, in other words, was probably a rebel or the Romans considered him a rebel. Okay, so that's the third thing that we know for sure.
+
+[07:57](https://youtu.be/pp0E1gb80WQ?t=477) Now, the last thing that we know for sure is that a brother called James the Just. And James the Just would inherit Jesus' movement after the death of Jesus. And this movement was called the poor or another word for this is Ibionites. Okay, don't worry about the name.
+
+[08:17](https://youtu.be/pp0E1gb80WQ?t=497) Just remember the idea. Okay, so these are only the four things that we know for sure about Jesus. Now, what I'm going to do is I'm going to explain to you what the Bible says about Jesus, what the official story of Jesus is in the Bible, and you can see how different it is from what we know for sure. Okay, so this is what the Bible says.
+
+[08:40](https://youtu.be/pp0E1gb80WQ?t=520) Something to keep in mind is that there are at least four different biographies of Jesus in the Bible. Mark, Matthew, Luke, and John. And they say different things, but these but we'll talk about the main story of Jesus. Okay.
+
+[08:56](https://youtu.be/pp0E1gb80WQ?t=536) So the main story of Jesus is that Jesus is the son of God. And at this point in history, we have disobeyed God. And God is angry at us. And Jesus being the son of God wants to redeem us in the eyes of God.
+
+[09:20](https://youtu.be/pp0E1gb80WQ?t=560) Remember, we try to become God. We try to kill God by eating from the fruit, eating the fruit from the tree of knowledge. Okay? And so now God's angry at us and we can't forgive ourselves.
+
+[09:31](https://youtu.be/pp0E1gb80WQ?t=571) So God so Jesus decides he must come to the planet earth and take a human form and then sacrifice himself as a scapegoat in order to redeem us in the eyes of God. Okay, that's the plan. So what he does is he comes and then he starts a ministry. All right?
+
+[09:52](https://youtu.be/pp0E1gb80WQ?t=592) And what the ministry is it basically is healing people. Okay? So he goes around healing people. If you touch him, you're cure of cancer, you're cure of all your diseases.
+
+[10:02](https://youtu.be/pp0E1gb80WQ?t=602) He also dispels demons. So there are some demons inside of us. And what Jesus will do is get rid of these demons and cleanse us.
+
+[10:13](https://youtu.be/pp0E1gb80WQ?t=613) And then he preaches the gospel, the good news. So he teaches how to be good people basically. The problem though is that a lot of his teachings go against Judeaic authority.
+
+[10:26](https://youtu.be/pp0E1gb80WQ?t=626) So at this time remember he is in Judea, the Roman province of Judea and Jewish priests are in charge and Jewish priests teach people to follow the law to follow the Sabbath. Okay, do not work on Saturdays, obey the law of Moses, obey the customs and traditions of the Jewish tradition. And what Jesus says is no, what's important is to follow the spirit of God.
+
+[10:59](https://youtu.be/pp0E1gb80WQ?t=659) So there's a conflict here, okay? Where Jesus is rebelling against the authority of the Jewish priest, okay? And so what happens is the Jewish priests start to plot against Jesus and eventually Jesus is betrayed by one of his disciples, Judas Escariat. And Jesus is detained by the Jewish priests who then give him over to the Roman authorities.
+
+[11:28](https://youtu.be/pp0E1gb80WQ?t=688) At this point, Pontius Pilate is the governor of Judea. And so he asked Jesus, "What did you do wrong? Why do the Jewish priests want you to be executed?
+
+[11:50](https://youtu.be/pp0E1gb80WQ?t=710) And Jesus refuses to answer. Pontious Pilot doesn't really want to kill him, but there's anger from the Jewish people who demand his head. So, Pontious Pilate orders Jesus to be crucified and then and then he dies. Okay.
+
+[12:06](https://youtu.be/pp0E1gb80WQ?t=726) Jewish Jesus dies and then he's resurrected after 3 days and then and then he returns and appears before his disciples and tells them, "I will come back. I need to go to heaven, but I will come back when I am most needed. Before I come back, tell them the gospel. Tell them the good news that I will one day return and that I've redeemed people from their sins." And therefore, it doesn't matter if you're Jewish or not Jewish.
+
+[12:37](https://youtu.be/pp0E1gb80WQ?t=757) You can all celebrate God. Okay? I brought God to you because I've redeemed you from your sins. So tell everyone the good news.
+
+[12:45](https://youtu.be/pp0E1gb80WQ?t=765) And so this begins the very idea of Christianity. All right? Okay.
+
+[12:52](https://youtu.be/pp0E1gb80WQ?t=772) So this is the official story that you see in the Bible and this is what most Christians believe. But again, the problem of course is there are lots of issues with this story. Okay, so let's go over some of the major issues. The first major issue is [snorts] what does God have a son?
+
+[13:15](https://youtu.be/pp0E1gb80WQ?t=795) How does how does God produce a son? Aren't we all God's children? Why is Jesus different from everyone else? Okay.
+
+[13:24](https://youtu.be/pp0E1gb80WQ?t=804) So, in Greek mythology, the gods come down and impregnate a woman, but that's not what happened here. It's just the Bible says that God had a son and we don't know where he came from. Okay, so this is very confusing. But not only that, but the Bible also says that Jesus is God.
+
+[13:40](https://youtu.be/pp0E1gb80WQ?t=820) And so this is like really confusing. Is he a son of God or is he God? Okay, so this is the first major problem. Second major problem is why is he choosing to sacrifice himself?
+
+[13:57](https://youtu.be/pp0E1gb80WQ?t=837) How does that resolve the issue? Right? We disobey God and now Jesus will redeem us by sacrificing himself. But how does that work?
+
+[14:09](https://youtu.be/pp0E1gb80WQ?t=849) The logic is kind of confusing. The third problem and this actually very problem problematic is the Bible is explicit. It says that the Jewish priests plotted against Jesus and the Jewish priests were responsible for the death of Jesus. And it's problematic because for 2,000 years, Christians have used this as a reason to persecute Jews because you killed our Lord, our Savior.
+
+[14:37](https://youtu.be/pp0E1gb80WQ?t=877) You Jews are evil. Okay? But if you look at Jewish history, I will argue that this could not have happened.
+
+[14:48](https://youtu.be/pp0E1gb80WQ?t=888) It could have it could have happened for like three reasons. The first reason is okay, let's just say that Jesus was rebelling against the Jewish priest. Jesus was in disagreement with the Jewish priest. That's not enough reason for the priest to want to kill Jesus.
+
+[15:05](https://youtu.be/pp0E1gb80WQ?t=905) The reason why is within the Jewish tradition it is okay to argue. Okay. So at this time in history there are at least three different Jewish groups. Okay.
+
+[15:16](https://youtu.be/pp0E1gb80WQ?t=916) They are called the seduces. Who are the seduces? The seduces are the royalty of the religion. These are priests that go back generations.
+
+[15:30](https://youtu.be/pp0E1gb80WQ?t=930) So this is like the Jewish nobility. They call the seduces. Then you have the Pharisees.
+
+[15:38](https://youtu.be/pp0E1gb80WQ?t=938) The Pharisees are believe themselves to be reformers. The seduces they maintain ritual. Okay? So if you are to sacrifice an animal in the temple, you have to go through them.
+
+[15:50](https://youtu.be/pp0E1gb80WQ?t=950) The Pharisees says sacrifice is not what's important. What's important is obeying the law. Okay? So there's a major disagreement between the Pharisees and the seduces.
+
+[15:59](https://youtu.be/pp0E1gb80WQ?t=959) But then you also have the Essenes. Who the scenes these scenes are people who become monks and they believe like John the Baptist we believe that John the Baptist was in a scene that God is coming and there'll be a final war and we must prepare for that so we must abandon all materialistic belongings okay guess what guys there are also other groups within these different groups and all three groups hate each other okay so just because you disagree with the Jewish authority is doesn't mean they kill you. They just it's in the Jewish tradition to argue all the time.
+
+[16:38](https://youtu.be/pp0E1gb80WQ?t=998) In fact, if you go to Israel today, even though that they're at war, they're still arguing with each other. Okay, that's the first thing. Disagreement, rebellion, debate is just part of Jewish tradition. That's the first thing.
+
+[16:52](https://youtu.be/pp0E1gb80WQ?t=1012) Second thing is like there are certain customs and laws of the Jewish people. Okay? The Jewish people see themselves as distinct and separate from everyone else because they are the chosen people. And as we discussed before, they're the Jewish people they must rest on Saturdays and they do not marry foreign men or woman.
+
+[17:17](https://youtu.be/pp0E1gb80WQ?t=1037) They don't marry outside their tribe. Okay. So these are two major customs. But they also as we discussed before they also don't charge interest when they give loans to each other.
+
+[17:29](https://youtu.be/pp0E1gb80WQ?t=1049) Another thing that is not written down but which is commonly accepted is you do not betray other Jews to the Roman authorities. Okay. Does that make sense?
+
+[17:43](https://youtu.be/pp0E1gb80WQ?t=1063) We can argue amongst ourselves but we will not betray each other to non-Jews. Okay. We will not fight among the Romans.
+
+[17:59](https://youtu.be/pp0E1gb80WQ?t=1079) That's just is an unwritten law at this time. So I don't think ever in history have we had a case where the Jewish people betrayed a Jew to the authorities that was non-Jewish. Okay. The Jewish people again see themselves as separate and distinct from other people.
+
+[18:17](https://youtu.be/pp0E1gb80WQ?t=1097) So they would not do this. The third thing, the third piece of evidence that this didn't happen is remember James the just is a brother of Jesus. And after Jesus died, James the just stayed in Jerusalem protected by the Jewish authorities. That makes no sense, right?
+
+[18:37](https://youtu.be/pp0E1gb80WQ?t=1117) If Jesus, if his teachings went against Jewish law and that's why the Jewish priest had him killed, then why did why was James the just who was teaching the same thing as Jesus allowed to stay in Jerusalem? And not only allowed to stay in Jerusalem, but protected by the Jews. Okay. So, I'm not convinced that the Jews betrayed him.
+
+[19:02](https://youtu.be/pp0E1gb80WQ?t=1142) Also remember we discussed this last class but the Romans are just brutal people. They killed people for no particular reason. So they killed Jesus. They didn't care.
+
+[19:14](https://youtu.be/pp0E1gb80WQ?t=1154) So I think it's much more likely the Romans killed Jesus for their own reasons as opposed to the Jew Jews killed Jesus. Yes.
+
+[19:25](https://youtu.be/pp0E1gb80WQ?t=1165) So the real group that killed Jesus is the Jews or the Roman. >> So yeah, I'm saying it's the Romans who killed Jesus. And we all agree it was the Romans who killed Jesus. What the Bible says is that it was the Jews who conspired against Jesus and the Jews encouraged the Romans to kill Jesus.
+
+[19:47](https://youtu.be/pp0E1gb80WQ?t=1187) Okay. >> Okay. >> All right. All right.
+
+[19:48](https://youtu.be/pp0E1gb80WQ?t=1188) So that's another question. Why did the Jews conspire against Jesus? And again, I think the story is not true. Then you have the idea of like Jesus dies.
+
+[20:01](https://youtu.be/pp0E1gb80WQ?t=1201) So the question then is if you're a son of God, you're divine, how do you die? And does death have any meaning? Okay. And then of course you have the resurrection.
+
+[20:13](https://youtu.be/pp0E1gb80WQ?t=1213) Like why would you resurrect yourself? And the second coming, okay, why would you want to come back? Why do you need to come back? You've already redeemed humanity.
+
+[20:23](https://youtu.be/pp0E1gb80WQ?t=1223) Why do you have to come back? And then why do you have why do you have to let people know who you are? You're going to redeem humanity. Why do people have to worship you?
+
+[20:34](https://youtu.be/pp0E1gb80WQ?t=1234) Why do people have to celebrate you? Okay. So this raised a lot of questions and again no other religion has this many questions. And so what the explanation is miracle, mystery, magic.
+
+[20:54](https://youtu.be/pp0E1gb80WQ?t=1254) This is the standard explanation if you talk to Christians. Why is this all happening? Don't question it. Just believe it.
+
+[21:01](https://youtu.be/pp0E1gb80WQ?t=1261) Just embrace it. Okay? But in our class, we don't really do that. We ask questions.
+
+[21:11](https://youtu.be/pp0E1gb80WQ?t=1271) We speculate. So, I know there are two billion Christians in the world and I'm sure they love Jesus, but in our class, we're really trying to figure out who he is. Okay? So, what I'm what we want to figure out today is first of all, what did Jesus believe?
+
+[21:32](https://youtu.be/pp0E1gb80WQ?t=1292) What did he teach? Because it's not it's not really clear. Okay? I'm sure Jesus did not preach, did not teach, believe in me and you, you'll be saved.
+
+[21:38](https://youtu.be/pp0E1gb80WQ?t=1298) He probably did not do that. Christians tell you that but Jesus himself probably did not teach that. Okay, that's the first thing.
+
+[21:46](https://youtu.be/pp0E1gb80WQ?t=1306) Second question is why did he become so popular? What was it about his belief that made him popular? Okay. And the third thing is why did the Romans kill him?
+
+[22:04](https://youtu.be/pp0E1gb80WQ?t=1324) So these are the three big questions we're looking at today. First of all, what did Jesus really believe? Second is why was he so popular?
+
+[22:10](https://youtu.be/pp0E1gb80WQ?t=1330) And the third question is whether Romans have to kill him. And so the argument I want to make you today is what Jesus taught is what every poet prophet we studied this semester taught as well. Okay. So you look at Homer, you look at the Yahweh, you look at Zorathustra, Plato.
+
+[22:35](https://youtu.be/pp0E1gb80WQ?t=1355) What do they all teach? They all teach that there is a source. Okay. The source is the vine, the good, God, the universe, the monac, whatever name you have for it.
+
+[22:46](https://youtu.be/pp0E1gb80WQ?t=1366) And this the source emanates and it creates the entire universe and we come from the source. Now our bodies are material. Okay.
+
+[22:54](https://youtu.be/pp0E1gb80WQ?t=1374) So our bodies come from a process of evolution but our consciousness our soul is a divine spark and it comes from the source. So after our experience here on earth, after we die, our source, our spark goes back to the source. Okay? And there's a constant cycle until we at the end merge to the source.
+
+[23:22](https://youtu.be/pp0E1gb80WQ?t=1402) This is what Buddhism teaches. This is what Hinduism teaches. This is what Zoroastrianism, this is what all major religions teach.
+
+[23:28](https://youtu.be/pp0E1gb80WQ?t=1408) So Jesus was just teaching it for his times. So the question then is if he is teaching what every person every port prophet taught why is he special? He's special because the Roman Empire was particularly evil.
+
+[23:50](https://youtu.be/pp0E1gb80WQ?t=1430) So remember before the Roman Empire remember the problem of the Iliad. Okay remember the Iliad where Achilles cannot forgive himself and his prime who forgave him. Right? And we discussed how during the Iliad during that time we all did good and we all did evil.
+
+[24:14](https://youtu.be/pp0E1gb80WQ?t=1454) And so what's important is for forgive ourselves, right? As long as we find the power to forgive ourselves, we will save the world. But by the time of the Romans, okay, the Romans are just pure evil. They're demonic.
+
+[24:27](https://youtu.be/pp0E1gb80WQ?t=1467) And so you don't forgive yourself, right? And so the question then is how do you explain the fact that the Romans are able to conquer the world for pure evil and you a person they're all good but you're a slave. How do you explain that? How do you find comfort?
+
+[24:46](https://youtu.be/pp0E1gb80WQ?t=1486) How do you find source on the fact that you've done good in your life but at the same time evil triumphs? Okay. And the message that Jesus came is to help people understand why the Romans triumph. Okay.
+
+[24:59](https://youtu.be/pp0E1gb80WQ?t=1499) And what Jesus will say is this. The Romans triumph because the world that we live in is a false world. It is a corpse. It's a dead world.
+
+[25:07](https://youtu.be/pp0E1gb80WQ?t=1507) This is not the true world. So those who most embrace death and evil and hatred will win in this world. But this is a false world. What matters is up there.
+
+[25:24](https://youtu.be/pp0E1gb80WQ?t=1524) So and so what you need to understand is this. The Romans have won by being evil. So in the grand scheme of things, they've lost.
+
+[25:37](https://youtu.be/pp0E1gb80WQ?t=1537) So think about Achilles. How did Achilles get what he wanted? He betrayed Petroles, right? He sacrificed Petroas.
+
+[25:47](https://youtu.be/pp0E1gb80WQ?t=1547) But because he knows he did evil, he can't sleep. He can't eat. He cannot rest. All he has all he can do is mutilate Hector's body.
+
+[25:55](https://youtu.be/pp0E1gb80WQ?t=1555) And that's just the Roman way. What Jesus is telling us is this. I know the world is evil. I know that the rich, the powerful oppress us and we hate them.
+
+[26:08](https://youtu.be/pp0E1gb80WQ?t=1568) But use our imagination, use our heart, use our empathy and look into their minds and you can see how tormented they are. How every day they live with demons that haunt them, how they can't sleep, how they hate themselves, and how they hate the world around them. And then when you see that for yourself, what you will see is they're more pitiful than you are. You may be poor, but you're at least you're not haunted by demons.
+
+[26:47](https://youtu.be/pp0E1gb80WQ?t=1607) And so if you really want to do good in the world, you have to forgive your enemy. You have to love your enemy because only by loving your enemy can you release your enemy from his demons and that will save the world. Okay?
+
+[27:00](https://youtu.be/pp0E1gb80WQ?t=1620) So what Jesus is telling us is this. The enemies, the people who oppress us, the rich, the powerful, they are Achilles. Okay? They are Achilles after they've killed Hector and they have absolutely no purpose in life.
+
+[27:15](https://youtu.be/pp0E1gb80WQ?t=1635) They're haunted by demons. And we have to be ply. We have to kiss Achilles hand, submit before him so that he can be released from his demons. And this will make the world a better place.
+
+[27:29](https://youtu.be/pp0E1gb80WQ?t=1649) That is the message of Jesus. And that is our mission in our in this world in a time of evil in a place of evil to look at our hearts to look in the hearts of other people to forgive our enemies to let go of our hatred and to forgive our enemies and then that will save the world. Okay, that is the central message of Jesus. All right, any questions before we look at the evidence?
+
+[28:00](https://youtu.be/pp0E1gb80WQ?t=1680) So, I present to you the argument. Okay. The argument is this.
+
+[28:04](https://youtu.be/pp0E1gb80WQ?t=1684) Jesus taught a message of love and forgiveness. And that's what made him popular because it reminds people of who they are. Right? You may be a slave.
+
+[28:13](https://youtu.be/pp0E1gb80WQ?t=1693) You may think you're worthless. But Jesus is telling you there's still a spark inside of you that connects you to the monad. And as long as you use love, forgiveness, compassion, this spark will activate and it will release you from your slavery. Okay, this is a false world.
+
+[28:31](https://youtu.be/pp0E1gb80WQ?t=1711) Once that spark is activated, you will see the world as false and that will free you. Okay, and why the Romans kill him? The Romans killed him because Jesus was a rebel. He was trying to subvert the natural order, right?
+
+[28:45](https://youtu.be/pp0E1gb80WQ?t=1725) The natural order is the Romans at the top, the slaves at the very bottom. And Jesus is saying, "No, it's the opposite. Slaves at the top, Romans at the bottom." Okay? Because the Romans are trapped and cursed by the evil in their hearts.
+
+[29:01](https://youtu.be/pp0E1gb80WQ?t=1741) Whereas the slaves are free and they can liberate everyone through their compassion, through their love, through their forgiveness. Okay? And that's why the Roman psalm is a threat. Does that make sense, guys?
+
+[29:14](https://youtu.be/pp0E1gb80WQ?t=1754) And that's why they had to kill him. All right? Right?
+
+[29:18](https://youtu.be/pp0E1gb80WQ?t=1758) And then they made up the sto the Bible in order to justify what they did. Okay? Because as we discussed last class, that's what Romans do. Okay?
+
+[29:29](https://youtu.be/pp0E1gb80WQ?t=1769) They do evil and then they get the Greeks or the Jews to write the history to explain why it was good. Okay? So in other words, and this is something that I will discuss next class is all right. And I know this is hard to understand, but I'll explain it next class.
+
+[29:47](https://youtu.be/pp0E1gb80WQ?t=1787) Is this story guys, it was the Romans who wrote this story. Okay? Because as you can see, this story convened conveniently excuse the Romans from all blame even though it was the Romans who killed Jesus. And it puts all the blames on Jews.
+
+[30:03](https://youtu.be/pp0E1gb80WQ?t=1803) That's the intention of the Bible, right? So Christianity is not an invention of Jesus. Christianity is invention of the romance. Okay.
+
+[30:17](https://youtu.be/pp0E1gb80WQ?t=1817) And that's something I will show you next class. Okay. [clears throat] All right. But are we clear before I go into the evidence?
+
+[30:32](https://youtu.be/pp0E1gb80WQ?t=1832) So the line spark of Jesus.
+
+[30:35](https://youtu.be/pp0E1gb80WQ?t=1835) So the idea here is this. If you read Homer, the Iliad, the Odyssey, if you read Dante, Divine Comedy, if you read any of the great books, you will you will see the divine spark reflected in you. Okay.
+
+[30:51](https://youtu.be/pp0E1gb80WQ?t=1851) The these great books are a portal into the divine. The problem though is most people cannot read the Iliad or the Divine Comedy. Okay. So the question then is what do the common people do and the answer is Jesus is a portal into the vine right so if you just remember the life of Jesus if you just recite his sayings that will give you access to the vine that will remind you of who you are so yes Homer and Dante are great I love Homer and Dante but you have to be very educated in order to read Homer and Dante well whereas Jesus anyone can know the story of Jesus anyone can say what he says and then that will give you access to the vine.
+
+[31:41](https://youtu.be/pp0E1gb80WQ?t=1901) So Jesus is really about the democratization of the divine. Okay. Jesus allows anyone to access the divine whereas before you have to access the vine through poetry.
+
+[31:57](https://youtu.be/pp0E1gb80WQ?t=1917) So the life of Jesus. Okay.
+
+[32:01](https://youtu.be/pp0E1gb80WQ?t=1921) So again Jesus is Jewish. So the center of Jewish life is Jerusalem. Okay. Right here.
+
+[32:09](https://youtu.be/pp0E1gb80WQ?t=1929) Jerusalem. And in the center of Jerusalem is a temple which was rebuilt under the Persians. Right. And Herod will rebuild this.
+
+[32:18](https://youtu.be/pp0E1gb80WQ?t=1938) We renate this. Okay. So we know that Jesus was born in this area Galilee. As you can see, Galilee is by the coast, which makes this region extremely cosmopolitan.
+
+[32:31](https://youtu.be/pp0E1gb80WQ?t=1951) So from an early age, Jesus is experiencing different religions, different cultures, Hinduism, Zorashinism, Judaism. Okay. All right. So, this is an AI depiction of the crucification, crucifixion of Jesus.
+
+[32:51](https://youtu.be/pp0E1gb80WQ?t=1971) Jesus is in the middle and as you can see it is a brutal event. Okay. So we don't know much about Jesus. We only know Jesus from the Bible.
+
+[33:13](https://youtu.be/pp0E1gb80WQ?t=1993) Then in 1945 in a place called N Hamadi. Okay this is in Egypt. We discovered lots of books with sayings of Jesus that we didn't know existed before. So what's important to understand is that after Jesus died, there were many different sects of Christianity that believed different things and they argued with each other and ultimately it was the Catholic Church who won.
+
+[33:37](https://youtu.be/pp0E1gb80WQ?t=2017) Why? Because the Catholic Church is run by the Roman Empire. Okay. So one major book that was discovered in the in 1945 in Hamatti that was lost to us is called the gospel of Thomas.
+
+[33:51](https://youtu.be/pp0E1gb80WQ?t=2031) And what I believe is the gospel of Thomas records the true teachings of Jesus. Okay. So let's first let's first look at the true teachings of Jesus and then we I'll explain to you why I think this is actually his true teachings. All right.
+
+[34:09](https://youtu.be/pp0E1gb80WQ?t=2049) So can you read the highlighted part? Okay. >> And he said whoever finds interpretation of these saying will not experience death. >> Okay.
+
+[34:19](https://youtu.be/pp0E1gb80WQ?t=2059) So okay listen this already makes sense right because in the universe death doesn't exist because after you die your soul goes up to the astral plane to the vine. Okay? So you your soul can never die.
+
+[34:34](https://youtu.be/pp0E1gb80WQ?t=2074) But you have to recognize that you are the divine spark. Okay? You first need to recognize that. Once you recognize that, you'll be immortal.
+
+[34:42](https://youtu.be/pp0E1gb80WQ?t=2082) But if you don't recognize that, then you fear death. Okay? Jesus said, "Let him who seeks continue seeking until he finds. When he finds, he will become troubled.
+
+[34:53](https://youtu.be/pp0E1gb80WQ?t=2093) When he become troubled, he will be astonished and he will rule over the all." Okay, so this goes back to the Plato's allegory of the cave, right? Right. Plato's algo of the cave is this prisoner who escapes his chains, he goes up into the real world where there's sunlight and he sees the truth, right? And now he's able to see whereas everyone else is still chained as prisoners in the cave.
+
+[35:20](https://youtu.be/pp0E1gb80WQ?t=2120) And now he rules overall because he knows the truth. Whereas everyone else is still in prison in darkness. But remember that this is a painful process. When you go in the light, you're blinded by it.
+
+[35:33](https://youtu.be/pp0E1gb80WQ?t=2133) You feel absolute pain. You feel confusion. But over time, if you persist, you will see the truth. Okay.
+
+[35:44](https://youtu.be/pp0E1gb80WQ?t=2144) So this is the cave. Okay. Keep on going. Jesus said, "If those who lead you say to you, see the kingdom is in the sky, then the birds of the sky will precede you.
+
+[35:56](https://youtu.be/pp0E1gb80WQ?t=2156) If they say to you, it is in the sea," then the fish will precede you. Rather, the kingdom is inside of you and it is outside of you. When you comes to know yourself, then you will become known and you will realize that it is you who are the sons of living father. But if you will not know yourselves, you dwell in poverty.
+
+[36:16](https://youtu.be/pp0E1gb80WQ?t=2176) And is it is you who are that poverty. >> Okay. So this is really important idea. Okay.
+
+[36:23](https://youtu.be/pp0E1gb80WQ?t=2183) Going back to the cave. When you escape the cave and you see the real world and you come back, it doesn't matter if you tell them what the real world is. Okay? It doesn't matter if they believe you.
+
+[36:35](https://youtu.be/pp0E1gb80WQ?t=2195) They themselves have to go out and see the world for themselves. Okay? They have to break the chains themselves and then venture out into the light and experience pain and torment for themselves before they recognize the truth. Okay?
+
+[36:46](https://youtu.be/pp0E1gb80WQ?t=2206) That's what Jesus is saying. They people [clears throat] who tell you this stuff don't listen to them. Okay? They can only guide you.
+
+[36:54](https://youtu.be/pp0E1gb80WQ?t=2214) But you can't trust them. You can't believe in them. You have to believe in yourself. You have to look into yourself because the truth divine spark is inside of you.
+
+[37:02](https://youtu.be/pp0E1gb80WQ?t=2222) So what Jesus is saying is this organized religion does not work guys. So there's no way Jesus would say follow me and you're good. Believe in me and you're good.
+
+[37:15](https://youtu.be/pp0E1gb80WQ?t=2235) He would never ever say that because he knows you can't follow someone else. You have to believe in yourself. The divine spark is in you. Okay?
+
+[37:24](https://youtu.be/pp0E1gb80WQ?t=2244) Doesn't make sense. So they are lying to you. When they say the kingdom is in heaven, don't believe them. Okay?
+
+[37:33](https://youtu.be/pp0E1gb80WQ?t=2253) Another thing that you will notice is we're all sons of the living father. You understand? Jesus is not like I'm the son of God and you're not. I'm superior to you.
+
+[37:44](https://youtu.be/pp0E1gb80WQ?t=2264) They're saying we're all sons of the living father. Okay. Also, and this is really important, he actually doesn't throughout the gospel of humus, he actually doesn't refer to the Bible. Okay?
+
+[37:56](https://youtu.be/pp0E1gb80WQ?t=2276) He doesn't talk about Adam and Eve. He doesn't talk about Yahweh. He doesn't talk about David. Doesn't talk about Moses because for him it's all fake.
+
+[38:03](https://youtu.be/pp0E1gb80WQ?t=2283) The Bible is fake. What's true is divine spark in you. Okay.
+
+[38:11](https://youtu.be/pp0E1gb80WQ?t=2291) So again, all this is contradictory modern day Christianity because Jesus was not a Christian. Okay. Keep on going.
+
+[38:23](https://youtu.be/pp0E1gb80WQ?t=2303) Oh, sorry. Let's keep on going. And again guys, what you're seeing is this the similar between the go of Thomas and Plato's algorith of the cave and the Iliad and Zorustra his teachings as well as Niti. Okay, you see how all these poor prophets, they all think alike.
+
+[38:43](https://youtu.be/pp0E1gb80WQ?t=2323) They're expressing things differently. They're talking to a different age and a different audience, but basically saying the same thing. Okay, this is really important. All right, continue reading, please.
+
+[38:54](https://youtu.be/pp0E1gb80WQ?t=2334) >> Jesus saw infants being suckled. He said to his disciples, "These infants being suckled are like those who enter the kingdom." They said to him, "Shall we then as children enter the kingdom?" Jesus said to them, "When you make the two one, and when you make the inside like the outside, and the outside like the inside, and the above like the below, and when you make the male and the female one and the same, so that the male not be male, nor the female. And when you f when you fashion eyes in the place of an eye and a hands in place of a hand and a foot in place of a foot and a likeness in place of a likeness then will enter the kingdom. >> Okay.
+
+[39:37](https://youtu.be/pp0E1gb80WQ?t=2377) So again this is similar to what we've learned before right what he's saying is this we are born into this world and as we grow older we believe in the falseeness that we see around us. Okay. But once we develop our imagination and once we recognize that this world that we live in is our hallucination, it is just a projection of our imagination. Then we can take control over this world and then that will allow us to access the vibe.
+
+[40:06](https://youtu.be/pp0E1gb80WQ?t=2406) It is through the imagination which allows us to access the vine and it will allow us to create this world in a new place. We're able to see fashion eyes in the place of an eye, a hand in the place of a hand. We're able to be our true selves.
+
+[40:18](https://youtu.be/pp0E1gb80WQ?t=2418) And what we will understand is that we're all connected by the vine. The separation of like male female okay? Chinese, American, black, white, it's all made up.
+
+[40:31](https://youtu.be/pp0E1gb80WQ?t=2431) It's not true. Once we able to see reality as it is, we'll all be one and the same. When you make the two one, we make the inside like the outside and the outside the inside and the above like the below. We're all interconnected together.
+
+[40:47](https://youtu.be/pp0E1gb80WQ?t=2447) We're all part of the same source. We have to train ourselves to see the truth from this falsehood. Okay.
+
+[40:55](https://youtu.be/pp0E1gb80WQ?t=2455) So again the idea of asha and douch right this is asha moving towards the interconnectedness of all things the harmony of all things. The is the division of all things. Okay. [snorts] [clears throat] All right.
+
+[41:13](https://youtu.be/pp0E1gb80WQ?t=2473) His disciples said to him, "Show us a place where you are since it is necessary for you to si for us to seek it sack seek it." He said to them, "Whoever has ears, let him hear. There is light within the man of light and he lights up the whole world. If he does not shine, he is darkness." >> Okay. So the disciple says to Jesus, "Tell us how to be like you." And Jesus says, "Be yourself.
+
+[41:38](https://youtu.be/pp0E1gb80WQ?t=2498) There's a light inside of you." Okay? Look for the light and like shine the world. Okay. All right.
+
+[41:50](https://youtu.be/pp0E1gb80WQ?t=2510) Keep on going. Jesus said, "I took my place in the midst of the world, and I appeared to them in flesh. I found all of them intoxicated. I found none of them thirsty.
+
+[42:02](https://youtu.be/pp0E1gb80WQ?t=2522) And my soul become afflict afflicted for the sons of men because they are blind in their hearts and do not have sight. For empty they came into the world and empty too they seek to live the world but for the moment they are intoxicated. When they shake off their wine then they will re repeat repent. Jesus said if the flesh came into being because of spirit it is a wonder.
+
+[42:29](https://youtu.be/pp0E1gb80WQ?t=2549) But if spirit came into being because of the body it is a wonder of wonders. Indeed, I am amazed at how this great wealth have made its home in its poverty. >> Wait, so he's talking about the materialistic world. Okay, we came into this world with nothing.
+
+[42:46](https://youtu.be/pp0E1gb80WQ?t=2566) And guess what? When we die, we're going to go back with nothing. Okay, so this pursuit of materialism, this pursuit of wealth, this pursuit of power makes no sense. Why are you here pursuing all this stuff, this gold, this wealth, this money that you can't take with you?
+
+[43:02](https://youtu.be/pp0E1gb80WQ?t=2582) It seems as though you're drunk. Okay, so this line, the flesh came into being because of spirit is a wonder. Okay, so the idea is that it is the consciousness, the mind that creates the material world, the body, right? That makes sense.
+
+[43:20](https://youtu.be/pp0E1gb80WQ?t=2600) And what Jesus is saying is this. If you think that the body creates the spirit, you're crazy. It's impossible. It's a wonder of wonders.
+
+[43:31](https://youtu.be/pp0E1gb80WQ?t=2611) That's impossible, guys. Why? Because the spirit is full of wealth. The body is impoverished.
+
+[43:35](https://youtu.be/pp0E1gb80WQ?t=2615) How is it possible that an impoverished body is able to create so much wealth? Okay. And this makes sense, right? Our mind, our consciousness is so vast, so abundant, but our bodies are so limited.
+
+[43:47](https://youtu.be/pp0E1gb80WQ?t=2627) So how is it possible that our smaller brains is able to create a universe of ideas and experiences? Okay. All right. So the idea of intoxicated, we're here and we're just drunk, but we are not thirsty for the truth.
+
+[44:08](https://youtu.be/pp0E1gb80WQ?t=2648) We're happy for the way it is. Okay. All right. And this idea is mirrored in a poem that we read before by Roomie, right?
+
+[44:21](https://youtu.be/pp0E1gb80WQ?t=2661) So you may remember Roomie, the Persian poet. He also says this, the world that we live in is a prison for drunks. Okay. So, I'm pretty sure roommate did not read Jesus Gospel of Thomas.
+
+[44:34](https://youtu.be/pp0E1gb80WQ?t=2674) But they're able to think the same thoughts because they're all being inspired by the same source. Does that make sense? All right. Continue, please.
+
+[44:48](https://youtu.be/pp0E1gb80WQ?t=2688) >> Yeah. Jesus said, "The phrases and the scribes have taken the keys of knowledge." this is >> Nostis. Nostis means knowledge. Okay.
+
+[44:58](https://youtu.be/pp0E1gb80WQ?t=2698) And hidden them. They themselves have not entered, nor have they allowed to enter those who wish to. You, however, be as wise as serpents and as innocent as dogs. Okay, so Jesus hates organized religion.
+
+[45:13](https://youtu.be/pp0E1gb80WQ?t=2713) The Pharisees remember are Jewish priests, Jewish leaders, and they create a hierarchy of religion where they say to people, only I know the truth, only I have knowledge, so listen to me. And what Jesus is saying is they themselves are ignorant because you cannot access knowledge through hierarchy. Okay, through oppressing other people. You can only access knowledge by looking into yourself.
+
+[45:36](https://youtu.be/pp0E1gb80WQ?t=2736) So you have to become like the serpent and pretend you don't know anything in order to access knowledge yourself because otherwise if you are capable accessing knowledge then the priest will see as a threat and they will kill you. All right. And what he's the serpent remember it was a serpent who told Eve to eat from the fruit. And so what Jesus is saying is it is good and natural to seek knowledge even if it means those disobeying God.
+
+[46:10](https://youtu.be/pp0E1gb80WQ?t=2770) That's what we're meant to do here. To seek knowledge, to seek the truth, to seek love. If the gods, if the priests stop you from doing so, it's because you're evil.
+
+[46:22](https://youtu.be/pp0E1gb80WQ?t=2782) Because remember the true God, the monad is pure love, pure compassion, pure forgiveness. He can do no wrong. He's perfection.
+
+[46:30](https://youtu.be/pp0E1gb80WQ?t=2790) And if you have the desire to seek knowledge and you believe that knowledge makes you a happier, more fulfilled person, then you should seek knowledge. Even if God tells you don't do so, because if that God tells you don't do so, it means he's a false god. Okay, keep on going. Jesus said, "Whoever has come to understand the world as found only a corpse, and whoever has found a corpse is superior to the world." Okay, so this is this is what's going to get Jesus in trouble, right?
+
+[47:03](https://youtu.be/pp0E1gb80WQ?t=2823) He's saying the Roman Empire, this great empire that you've built that ranges across the Mediterranean, it's a corpse. It's dying. It's dead. It's nothing.
+
+[47:13](https://youtu.be/pp0E1gb80WQ?t=2833) And once you recognize this, once you refuse to comply, once you refuse to obey, they have no power over you. Right?
+
+[47:21](https://youtu.be/pp0E1gb80WQ?t=2841) And so that's a threat to power. That's a threat to the Roman Empire. Keep on going. Jesus said, "The kingdom is like a shafir who had shepherd who had a hund sheep.
+
+[47:33](https://youtu.be/pp0E1gb80WQ?t=2853) One of them, the largest went astray. He left the 99 sheep and looked for that one until he found it. When he had gone to such trouble, he said to the ship, I care for you more than the 99. >> Okay?
+
+[47:49](https://youtu.be/pp0E1gb80WQ?t=2869) So God, the true God, does not want obedience. He wants us to be creative. He wants us to seek knowledge. He wants us to discover.
+
+[47:58](https://youtu.be/pp0E1gb80WQ?t=2878) He wants us to explore. He wants to try new things. And if we do this, he cares for us than those who obey him. Because those who obey him, those who do nothing, contribute nothing to the universe.
+
+[48:12](https://youtu.be/pp0E1gb80WQ?t=2892) When we love, when we imagine, we are making the universe a brighter place. We are shining our light. We just sit back and just do what we're told.
+
+[48:22](https://youtu.be/pp0E1gb80WQ?t=2902) We're doing nothing. Okay. We're like NPCs. Do you guys know NPCs?
+
+[48:27](https://youtu.be/pp0E1gb80WQ?t=2907) Non-playable characters in video game. Okay. We don't we don't exist. All right.
+
+[48:34](https://youtu.be/pp0E1gb80WQ?t=2914) Keep on going. Jesus said, "A man had received visitors, and when he had prepared the dinner, he sent his servant to invite the guys. He went to the first one and said to him, "My master invites you." He said, "I have claimed again some merchants. They are coming to me this evening.
+
+[48:53](https://youtu.be/pp0E1gb80WQ?t=2933) I must go and give them my orders. I asked to be excused from the dinner." He went to another and said to him, "My master have has invited you." He said to him, "I have just bought a house and am required for the day. I shall not have any spare time." He went to another and said to him, "My master invites you." He said to him, "My friends is going to get married and I am to prepare the banquet. I shall not be able to come.
+
+[49:20](https://youtu.be/pp0E1gb80WQ?t=2960) I ask to be excused from the dinner." He went to another and said to him, "My master in advised you." He said to him, "I have just bought a farm and I'm on my way to collect the rent. I should not be able to come. I asked to be excused." The servant returned and said to his master, "Those whom you invited to the dinner have asked to be excused." The master said to his servant, "Go outside to the streets and bring back those whom you happen to meet so that they may dine." businessmen and merchants will not enter the places of my father. >> Okay?
+
+[49:58](https://youtu.be/pp0E1gb80WQ?t=2998) So again, this goes against the empire. What Jesus is saying is the worst people in this world are the rich people. Okay? Think about today how we're supposed to worship Elas, right?
+
+[50:09](https://youtu.be/pp0E1gb80WQ?t=3009) Because he's rich. What Jesus is saying is no, Elmas is the worst person in the world. Why? Because the divine, the monad has prepared a great feast for us.
+
+[50:18](https://youtu.be/pp0E1gb80WQ?t=3018) When we die, when we go with to a monad, we will experience the greatest happiness, the greatest joy. Okay? The monad's inviting us, but the business people are saying, "No, I'm too busy. I'm too busy making money.
+
+[50:32](https://youtu.be/pp0E1gb80WQ?t=3032) I'm too busy doing evil in this world. So, I don't want to go to the stupid feast." So, they're the ones who will lose out in the end, even though today we think they've won out. Okay? So, that's what Jesus is saying.
+
+[50:45](https://youtu.be/pp0E1gb80WQ?t=3045) Jesus is like, "Don't worry about the rich and the powerful. They may look happy, but they're not." At the end of days, when we all go back to the Monad, we all go back to the vine, they're the ones who will not be invited to the grand feast. Yeah. >> I have a question that God let us to be creative and like do our thing that we want to do like seek for the spark.
+
+[51:11](https://youtu.be/pp0E1gb80WQ?t=3071) But since we are born, how can we really know the things that what we want to do? Like I think that requires socialization between other people. But if you socialize, they will brainwash you and affect to let you to seek for materialism. >> Yeah.
+
+[51:26](https://youtu.be/pp0E1gb80WQ?t=3086) That's a great question and it's a problem, right? Because as you say, your parents, the school, society brainwashes you to believe that only money matters, only grades matter. Okay.
+
+[51:37](https://youtu.be/pp0E1gb80WQ?t=3097) And the answer is you have to be brave. You have to be true to yourself because you yourself know what is true. Right? If we didn't know then Jesus would not matter.
+
+[51:48](https://youtu.be/pp0E1gb80WQ?t=3108) Why do two billion people believe in Jesus? Because they know that Jesus spoke the truth. Okay? So listen to your heart.
+
+[51:56](https://youtu.be/pp0E1gb80WQ?t=3116) I know it's hard and most of us cannot do it. Okay? And that's why in many traditions like Buddhism and Hinduism reincarnation is important because maybe in this lifetime we don't figure it out. Maybe in the next lifetime but maybe then you know 50 lifetimes away but eventually you'll figure it out.
+
+[52:12](https://youtu.be/pp0E1gb80WQ?t=3132) Eventually you'll figure out that what other people say does not matter because this world we live in is a false world. Eventually you'll figure that out and then you're like you know what I should do? I should do what I believe to be true. And then and then what you recognize is, oh, when I actually do what I like, what I enjoy, it makes me a more fulfilled person.
+
+[52:30](https://youtu.be/pp0E1gb80WQ?t=3150) And guess what? It connects me to the vine. Okay? I am a much more spiritual person now.
+
+[52:41](https://youtu.be/pp0E1gb80WQ?t=3161) And you can know because look at people's faces, right? When you meet a rich person, his face is kind of, I don't know, evil. When you when you meet a person who's generous, who volunteers his time, who is a good teacher, his face is different. Okay?
+
+[52:57](https://youtu.be/pp0E1gb80WQ?t=3177) So remember Achilles, when you do evil, evil comes into you and it corrupts your soul. When you do good, good comes to you and it brightens your soul and you brighten the world with it. Okay? But without like education and socialization like if we are an infant how do we know what is right or wrong and what should we seek for?
+
+[53:22](https://youtu.be/pp0E1gb80WQ?t=3202) Because of the spark in you right because of the spark in you. You know and it glows. When you love someone and that person loves you back your spark glows. When you become a teacher and you teach students, your teach your students learn well, your spark glows.
+
+[53:44](https://youtu.be/pp0E1gb80WQ?t=3224) >> So like you try different things until the you find the things that make your spark glow. >> Yeah. And say the important idea is that our lives are infinite. Okay.
+
+[53:50](https://youtu.be/pp0E1gb80WQ?t=3230) So we will die and die is like a game reset. Okay. It's just like you suck at this game, you die, you come back and you try again. Okay.
+
+[54:00](https://youtu.be/pp0E1gb80WQ?t=3240) But it's your choice. The a really important idea here is free will. It's your choice to do whatever you want with your life. No one's going to force you.
+
+[54:08](https://youtu.be/pp0E1gb80WQ?t=3248) So, the idea of when you die is you go back to the astral plane and then you're able to reflect on your own life and then you come back and you start over. Eventually, you'll figure it out. It may take a million years.
+
+[54:22](https://youtu.be/pp0E1gb80WQ?t=3262) It may take a thousand years. Who knows? But eventually, you'll figure it out. Okay?
+
+[54:28](https://youtu.be/pp0E1gb80WQ?t=3268) Because the world is infinite. Does that make sense? Okay. What's really important to understand is you have to figure out it by yourself.
+
+[54:37](https://youtu.be/pp0E1gb80WQ?t=3277) No one can teach you. I can give you the idea. Jesus can tell you what he thinks, but you have to figure out by yourself. Okay?
+
+[54:45](https://youtu.be/pp0E1gb80WQ?t=3285) And that's why this is so hard for people to accept because people don't want to accept individual responsibility. Okay? [snorts] All right. Okay.
+
+[54:54](https://youtu.be/pp0E1gb80WQ?t=3294) So this gives us so the problem is this. The problem is that Jesus says that you there's a spark inside of you and it's your responsibility. You don't have to but it's your responsibility to let it grow. If you let it grow you will bring happiness to the world.
+
+[55:17](https://youtu.be/pp0E1gb80WQ?t=3317) You'll bring happiness to yourself and then you will able to feast with a mon with a vine in heaven. Okay. And as I said as we discussed it's hard man it's really hard you think individual responsibility you have to ignore people around you. You have to learn for yourself.
+
+[55:39](https://youtu.be/pp0E1gb80WQ?t=3339) So you know this idea maybe a few people thousands tens of thousands will love this idea but what about the millions of other people who just want to like live normal lives? What can we do about them? Okay, so this is the book the brothers Kara Mazoff by Theodor Dossi. He's talking about the problem left by Jesus.
+
+[56:04](https://youtu.be/pp0E1gb80WQ?t=3364) Jesus comes to the world. He tells us the truth. He tells us freedom is what will enable us to seek the vine. But this creates this anxiety in people because like oh my god now I have to like think for myself.
+
+[56:17](https://youtu.be/pp0E1gb80WQ?t=3377) Now I have to like go out into the light and feel all this pain. But I don't want to. I just want to live a happy life. I just want to watch TV every day, man.
+
+[56:26](https://youtu.be/pp0E1gb80WQ?t=3386) And then so and so then the church is like, okay, we need to create an organized religion and we need to fool people. Okay, how do we fool people? By teaching them that Jesus didn't actually say these things. And we're going to not we will we will not worship Jesus.
+
+[56:45](https://youtu.be/pp0E1gb80WQ?t=3405) We worship Satan instead. Why? Because Satan encourages us to enforce our will on people. Okay?
+
+[56:55](https://youtu.be/pp0E1gb80WQ?t=3415) We need to be evil in order to do good in the world. Okay? Think about this. These children are naughty, right?
+
+[57:04](https://youtu.be/pp0E1gb80WQ?t=3424) Now, we can say to them like Jesus, hey man, you'll grow up one day and then you won't be naughty. So, okay. But in this process, you're going to hurt each other. You're going to do stupid things.
+
+[57:16](https://youtu.be/pp0E1gb80WQ?t=3436) So, we have to be the strict father. We have to create this church in order to enforce the law on people to make sure the children don't hurt themselves so that children can just be children. Okay? And quite honestly, most of you guys, 99% of you guys will never ever grow up.
+
+[57:31](https://youtu.be/pp0E1gb80WQ?t=3451) So, we have to be Satan. Okay? So, the church, the Catholic Church, will pretend to worship Jesus, but actually we're going to worship Satan. And so, we're going to enforce the law on people.
+
+[57:44](https://youtu.be/pp0E1gb80WQ?t=3464) We will now be the evil empire. The Roman Empire is dead. Okay? But now the Catholic Church will be the evil empire and we're going to go around and we're going to persecute people who disobey the law so that everyone can live in peace.
+
+[57:55](https://youtu.be/pp0E1gb80WQ?t=3475) People want to be sheep. And you know what? People have the right to be sheep. And so we're going to be the shepherd.
+
+[58:01](https://youtu.be/pp0E1gb80WQ?t=3481) We will be Satan. And we will enforce goodness on people whether they like it or not. And this is good for people because now they don't have to accept individual responsibility. Right?
+
+[58:11](https://youtu.be/pp0E1gb80WQ?t=3491) If my life sucks, it's not because of me. It's because of the devil. It's because of the Catholic Church. Is because of Satan and that's what's good.
+
+[58:23](https://youtu.be/pp0E1gb80WQ?t=3503) So Dasc is saying this is how the Catholic Church came into being and we'll discuss this next class in more detail. Okay, because Jesus left a huge problem a void in the hearts of people. People want to obey. People want to be told what to do.
+
+[58:38](https://youtu.be/pp0E1gb80WQ?t=3518) People don't want to think for themselves. If you make people think for themselves, they'll feel nothing but fear and anxiety. Okay? Right?
+
+[58:45](https://youtu.be/pp0E1gb80WQ?t=3525) So we need to impose order. So in this story what happens is the Catholic church is being is being the evil empire. It is oppressing people. And so one day Jesus comes from heaven and he walks among the people and people will know oh my god he's Jesus he's come back and he's curing people and they're all happy and but because the Catholic church worships Satan they need to arrest this guy.
+
+[59:09](https://youtu.be/pp0E1gb80WQ?t=3549) And the grand inquisitor the leader appears before Jesus. They have a conversation that Jesus is called a prisoner in the story and he says to the prisoner, "We know who you are. You are Jesus and we're supposed to worship you, but we're going to have to kill you because you are a threat to the people.
+
+[59:24](https://youtu.be/pp0E1gb80WQ?t=3564) You're a threat to the happiness of the people." Okay? And what the grandchild will say to Jesus is, "We create good in this world by being evil and your presence will destroy this and therefore we must destroy you." Okay. So this is from the brothers K maz. Okay.
+
+[59:49](https://youtu.be/pp0E1gb80WQ?t=3589) Thou this. Okay. Thou does not love them at all. Thou who does come to give thy life for them.
+
+[59:56](https://youtu.be/pp0E1gb80WQ?t=3596) Instead of taking possession of man's freedom, thou does increase it and burden the spiritual kingdom of mankind with its suffering forever. >> Okay. So what he's saying is you came to this world to free people to tell them that the not exists that there's a spark inside them that they don't have to be slaves they can they can go wherever they want but that just confuses people that traps people in their own fear and anxiety. Life now becomes complicated.
+
+[1:00:25](https://youtu.be/pp0E1gb80WQ?t=3625) Keep on going. Thou did desire man's free love that he should follow thee freely enticed and taken captive by thee. In place of the rigid Asian law, men must hereafter with free heart decide for himself what is good and what is evil. Having only thy image before him as his guide.
+
+[1:00:48](https://youtu.be/pp0E1gb80WQ?t=3648) >> Okay, this is okay. Sorry. This is like really annoying, okay, for people because before your teacher would tell you what is good and what is evil. Now the teacher is saying you guys decide now it's complete chaos.
+
+[1:00:58](https://youtu.be/pp0E1gb80WQ?t=3658) And again it creates anxiety in people. People just want to be told what to do. Okay.
+
+[1:01:07](https://youtu.be/pp0E1gb80WQ?t=3667) People were like, you know, at 5:00 we're going to have dinner at Pizza Hut. Okay. People don't want to be like, "what should I what should I have for dinner?" Okay. People don't want to think, man.
+
+[1:01:15](https://youtu.be/pp0E1gb80WQ?t=3675) Keep on going. But this thou dot know that he would at last reject even thy image and thy truth if he is w weigh down with a fearful burden of free choice. They will cry aloud at last that the truth is not in thee.
+
+[1:01:33](https://youtu.be/pp0E1gb80WQ?t=3693) For they could not have been left in greater confusion and suffering than thou has caused laying upon them so many cars cares and unanswerable problems. >> Okay. Right. You're creating all this anxiety in people for no particular reason.
+
+[1:01:49](https://youtu.be/pp0E1gb80WQ?t=3709) People were happy just being slaves and now you free them and they're completely confused as what to do next. >> All right, keep on reading. >> Only some thousands. >> Okay.
+
+[1:02:01](https://youtu.be/pp0E1gb80WQ?t=3721) So, so what he's saying again is your freedom is only good for the minority of people who can think for themselves who aspire to the divine. What about everyone else? And what of the rest? And how are the other weak ones to blame?
+
+[1:02:17](https://youtu.be/pp0E1gb80WQ?t=3737) Because they cannot endure what the strong have endured. How is the weak soul to blame that it is unable to receive such terrible gifts? Can thou have simply came come to the elect and for the elect? But if so, it is a mystery and we cannot understand it.
+
+[1:02:36](https://youtu.be/pp0E1gb80WQ?t=3756) And if it is a mystery, we too have a right to preach a mystery and to teach them that it's not the free judgment of their hearts, not love that mattered, but a mystery which they must follow blindly even against their conscience. So we have John. >> Okay. All right.
+
+[1:02:54](https://youtu.be/pp0E1gb80WQ?t=3774) So what he's saying is this. Okay. I understand Christianity is complete chaos. Okay.
+
+[1:02:58](https://youtu.be/pp0E1gb80WQ?t=3778) But this complete chaos means people will never understand what your true teachings are. And if people don't understand what your true teachings are, they don't have to follow it. They don't have to think for themselves. Okay?
+
+[1:03:11](https://youtu.be/pp0E1gb80WQ?t=3791) So we created complete chaos so that people will not be forced to obey us. Okay? That's why we corrupted your teachings. Keep on going.
+
+[1:03:22](https://youtu.be/pp0E1gb80WQ?t=3802) We have corrected thy work and have funded it upon miracle, mystery, and authority. And manly joy that they were again led like sheep, and that the terrible gift that had brought them such suffering was at last lifted from their hearts. Were we right teaching them this? Speak.
+
+[1:03:40](https://youtu.be/pp0E1gb80WQ?t=3820) Do we not love mankind so might meekly acknowledging their feelessness, lovingly enlightening their burden and permitting their weak nature even sing or sanction? Why has thou come now to ponder us? >> Okay, do you understand this idea? They understand is why is there evil in the world?
+
+[1:03:59](https://youtu.be/pp0E1gb80WQ?t=3839) Because people don't want to think for themselves. So you need evil people to command people to enslave people to force them against their will. Now people are like, "Well, I don't have a choice in the matter. I can't think for myself.
+
+[1:04:12](https://youtu.be/pp0E1gb80WQ?t=3852) Sorry, man." Okay. If you actually give people complete freedom, it'd be complete chaos in the world. That's why there's Satan. That's why there's Satan in this world.
+
+[1:04:21](https://youtu.be/pp0E1gb80WQ?t=3861) This is why Satan must rule this world. Okay, I meant to end it like this. When the inquisitor ceased speaking, he waited some time for his prisoner to answer him. His silence weighed down upon him.
+
+[1:04:40](https://youtu.be/pp0E1gb80WQ?t=3880) He saw that the president had listened intently all the time, licking gently in his face and evidently not wishing to reply. The old man longed for him to say something, however bitter and terrible, but he suddenly approached an old man in silence and softly kissed him on his bloodness age lips. That was all his answer. The old man shuddered.
+
+[1:05:02](https://youtu.be/pp0E1gb80WQ?t=3902) His lips moved. He went to the door, opened it, and said to him, "Go and come no more. Come not all, not at all. Never, never." And he led him out into the dark alleys of the town.
+
+[1:05:18](https://youtu.be/pp0E1gb80WQ?t=3918) The prisoner went away. And the old man, the keys close in his heart, but the old man adheres to his idea. >> Okay, so the prison of course is Jesus, right? And so the inquisitor has these great arguments and the inquisitor is right.
+
+[1:05:36](https://youtu.be/pp0E1gb80WQ?t=3936) And what he's saying is, "Okay, Jesus, what's your response to this?" And Jesus' response is basically, "I forgive you. I love you and I forgive you." Same thing as what Prime did to Achilles, right? And as you can see, by kissing the Inquisitor rather than fighting him, the Inquisitor loses. He knows he's lost.
+
+[1:06:00](https://youtu.be/pp0E1gb80WQ?t=3960) He knows he's been humbled. So he lets Jesus go. Says, "Just get out of here. Please don't bother us again." Okay?
+
+[1:06:05](https://youtu.be/pp0E1gb80WQ?t=3965) This is not your world. This is Satan's world. And the kiss glows in his heart, but the old man aderes to his ideas. Okay?
+
+[1:06:12](https://youtu.be/pp0E1gb80WQ?t=3972) So Jesus did not change the old man's mind. Okay? But there's a spark in him that now glows. Okay?
+
+[1:06:19](https://youtu.be/pp0E1gb80WQ?t=3979) The spark that he killed that he tried all this time to kill with reason with evil is still able to grow glow. Okay? And that's the power of forgiveness. Even though the person seems to be the most evil person in the world and this guy really is the most evil person in the world, as long as you're able to show him the possibility of love, the spark will glow.
+
+[1:06:43](https://youtu.be/pp0E1gb80WQ?t=4003) Now what's the So the Inquisitor poses this problem like okay people don't want to think for themselves. People lack free will. People don't want free will.
+
+[1:06:56](https://youtu.be/pp0E1gb80WQ?t=4016) What's the solution? The solution is the soul is eternal. Okay? And you have to give people time.
+
+[1:07:04](https://youtu.be/pp0E1gb80WQ?t=4024) We're talking about like millions of years. Maybe not in 50 years people will figure it out, but in about a million years people will figure it out for themselves. Okay? And Jesus, God is patient.
+
+[1:07:14](https://youtu.be/pp0E1gb80WQ?t=4034) He's loving. He's forgiving. He's generous. He's compassionate.
+
+[1:07:19](https://youtu.be/pp0E1gb80WQ?t=4039) So, take your time. Okay. What's important is that people learn for themselves. Eventually, you'll figure out being a slave sucks.
+
+[1:07:31](https://youtu.be/pp0E1gb80WQ?t=4051) You know what? It may seem as though watching Netflix, playing video games, being online all the time is fun. But if you go outside and play, that's a lot more fun, guys. Eventually, you'll figure it out.
+
+[1:07:41](https://youtu.be/pp0E1gb80WQ?t=4061) And you have fear by yourself. So God is forever patient. Okay, does that make sense?
+
+[1:07:51](https://youtu.be/pp0E1gb80WQ?t=4071) So next class we'll talk about the Catholic Church and how it came into being and why it is it really is the church of Satan. All right, why it's going to go against this teaching of Jesus. But do actually point this out how the Catholic Church and Jesus are com are competing forces. Okay.
+
+[1:08:10](https://youtu.be/pp0E1gb80WQ?t=4090) Now, let's go on to Divine Comedy by Dante. And again, Dante is trying to answer the question, why did Jesus have to kill himself? What's the logic of that?
+
+[1:08:20](https://youtu.be/pp0E1gb80WQ?t=4100) That makes no sense. Okay? And traditionally, what the Catholic Church teaches people is it's because when we do evil, we become slaves of Satan. So Jesus made a deal with Satan.
+
+[1:08:34](https://youtu.be/pp0E1gb80WQ?t=4114) Basically Jesus says, "I will die and then I will and then you can take my body, okay? And then you will have to free my people." And Satan is like, "That's a really good deal, man. God for exchange in exchange for the slaves. Sure, I'll make that deal." But the thing is that Jesus when he died and he freed us, he cannot ever truly die.
+
+[1:08:57](https://youtu.be/pp0E1gb80WQ?t=4137) Does that make sense? So this is called a ransom theory. And this is how during Tan's time most people understood why Jesus had to die. Jesus died so that we would stop being slaves of Satan and now we are slaves to Jesus and that's why we must worship Jesus.
+
+[1:09:12](https://youtu.be/pp0E1gb80WQ?t=4152) And Dian's like no that can't possibly be right. Okay. God did not come to free us so that we become slaves to God. God came to free us so that we could be free.
+
+[1:09:25](https://youtu.be/pp0E1gb80WQ?t=4165) So this is Dante. And what's going to happen here is in heaven there's going to be a conversation between Dante and Beatrice who he loves.
+
+[1:09:34](https://youtu.be/pp0E1gb80WQ?t=4174) And they're going to discuss the nature of the universe. And this is Beatric talking to Dante. The greatest gift the magna magnanimity of God as he created gave the gift most suited to his goodness.
+
+[1:09:51](https://youtu.be/pp0E1gb80WQ?t=4191) Gift that he most prices was a freedom of the world. >> Okay. So the underlying principle of the universe is freedom of will. If God is love, okay?
+
+[1:10:02](https://youtu.be/pp0E1gb80WQ?t=4202) And he loves people, then he must trust people. Therefore, freedom of will is the most important principle. Okay? Same thing if you're a parent.
+
+[1:10:12](https://youtu.be/pp0E1gb80WQ?t=4212) If you truly love your child, you will let your child go and make his own mistakes. You will not protect your child. Okay? Even if it means that your child goes to the park and might get kidnapped or whatever, okay?
+
+[1:10:23](https://youtu.be/pp0E1gb80WQ?t=4223) You have to let him go. You have to let him or her go because true love means trusting other people. Okay, keep on going. You say what I have heard is clear to me but this is hidden from me.
+
+[1:10:40](https://youtu.be/pp0E1gb80WQ?t=4240) Why God weld precisely this pathway for redemption? >> Okay. So again the Catholic Church teaches you that Jesus redeemed us from our for redeemed us from our sins. Okay.
+
+[1:10:53](https://youtu.be/pp0E1gb80WQ?t=4253) But then the question is why did you have to kill himself again? That makes no sense. Keep on going >> brother. This ordinance is buried from the eyes of everyone whose intellect has not ma matured within the flame of love.
+
+[1:11:08](https://youtu.be/pp0E1gb80WQ?t=4268) >> So Peter is saying to Dante, yes I know this makes no sense because you're thinking with your mind but the mind is not where the spark is. Okay. The divine spark is in the heart. So stop thinking with your mind and feel with your heart and let the spark the divine spark glow in you and then you will see the truth for yourself.
+
+[1:11:29](https://youtu.be/pp0E1gb80WQ?t=4289) >> Sorry. Okay. >> The godly godness that has banished every envy from its own self burn in itself and sparkling soul. It shows eternal beauties.
+
+[1:11:39](https://youtu.be/pp0E1gb80WQ?t=4299) All that derives directly from this godness is everlasting. Since the sale of godness impressed an imprint that ever alters. >> Okay. So God is perfect.
+
+[1:11:50](https://youtu.be/pp0E1gb80WQ?t=4310) He's forever good. He's forever love. He's forever compassion, forever forgiveness. Okay.
+
+[1:11:58](https://youtu.be/pp0E1gb80WQ?t=4318) And there's a spark of God in us, right? The divine spark which is our hearts. So there's always a this perfection in us. Okay.
+
+[1:12:09](https://youtu.be/pp0E1gb80WQ?t=4329) Keep on going. Only man sing annoys man's liberty makes him unlike the highest good. So that in him the brightness of its light is dimin. >> Okay this is important.
+
+[1:12:18](https://youtu.be/pp0E1gb80WQ?t=4338) Even though the spark is forever in us we can cover it up with mud. We can cover it up with dirt. We can forget about it.
+
+[1:12:26](https://youtu.be/pp0E1gb80WQ?t=4346) Why? How? By doing evil.
+
+[1:12:26](https://youtu.be/pp0E1gb80WQ?t=4346) By disobeying. All right. If we do more and more evil, we forget the spark more and more and it dims in us. So the spark can glow or it can dim depending on our actions but the spark will ever always be there.
+
+[1:12:45](https://youtu.be/pp0E1gb80WQ?t=4365) >> So if like [snorts] you said that parents the true love is to trust right? So if parents trust their kid they will let their kids to make mistakes. But what if kids are for example being kidnapped and they're being killed? Is that still count as the love of trust?
+
+[1:13:05](https://youtu.be/pp0E1gb80WQ?t=4385) Obviously if your child is in danger, you go save your child. Okay, but you cannot let your fear and anxiety of your child being kidnapped destroy the child's freedom. Does that make sense? You cannot impose your fear on your child.
+
+[1:13:25](https://youtu.be/pp0E1gb80WQ?t=4405) >> Like you need to let your child to feel the anxieties. >> No, no, no, no, no. You have to let your child do what your child wants to do. Your child wants to go play in the go play in the playground, you let the child go play in the playground.
+
+[1:13:38](https://youtu.be/pp0E1gb80WQ?t=4418) And if you feel like there's a danger, then you go and make sure that your child is safe. You understand? >> But still doing but still letting him to do what they want.
+
+[1:13:48](https://youtu.be/pp0E1gb80WQ?t=4428) >> Yeah. Okay. Look, when you when you're actually a parent, you know what is safe and what is not safe. Okay?
+
+[1:13:51](https://youtu.be/pp0E1gb80WQ?t=4431) Sending your child to the playground where there are other children, there are adults around is safe. Do you understand? Sending your child outside at midnight to one of the streets is not safe. Do you understand?
+
+[1:14:07](https://youtu.be/pp0E1gb80WQ?t=4447) >> Okay. You know, you don't have to think about this. All right. All right.
+
+[1:14:15](https://youtu.be/pp0E1gb80WQ?t=4455) Keep on reading. >> And man cannot regain his dignity unless within left emptiness man fills a void with just a mans for evil pleasure. >> Okay.
+
+[1:14:26](https://youtu.be/pp0E1gb80WQ?t=4466) So the problem is this. We do all this evil and now we can't forgive ourselves. So we're stuck where we are. Okay?
+
+[1:14:36](https://youtu.be/pp0E1gb80WQ?t=4476) We cannot compensate for the evil that we do. So what we do is do more evil to ignore the fact that we cannot forgive ourselves. Does that make sense? So evil creates more evil.
+
+[1:14:48](https://youtu.be/pp0E1gb80WQ?t=4488) Evil compounds on evil. So now we're just stuck. Okay. So the first so by disobeying God by eating that fruit by trying to be like God we created evil and this evil forces us to be more evil now we're just stuck.
+
+[1:15:08](https://youtu.be/pp0E1gb80WQ?t=4508) For when your nature sings so totally within its seed then from these dignities just as from paradise that nature parted. >> Okay. So we left the garden of Eden not because we broke the law. We left the garden of Eden because we cannot forgive ourselves from the evil that we've committed and so we keep on doing more and more evil.
+
+[1:15:29](https://youtu.be/pp0E1gb80WQ?t=4529) So the garden of Eden is metaphorical. Keep on going. And they can never be regained if you consider carefully.
+
+[1:15:36](https://youtu.be/pp0E1gb80WQ?t=4536) By any way that did not pass across one of these fs either through nothing other than his mercy. God has to pardon man or of himself. Man has to prefer payment for his folly. Okay.
+
+[1:15:50](https://youtu.be/pp0E1gb80WQ?t=4550) So now that we've broken the law, now that we've disobeyed God, now that we've there's evil in our hearts, how what can we do? Okay. And what Beatric says is there's two possibilities. The first possibility is that we compensate for the first evil for the first act of disobedience.
+
+[1:16:07](https://youtu.be/pp0E1gb80WQ?t=4567) And what Petric says is you can't do that because you try to be God. You try to kill God. So you cannot ever compensate God for the evil that you've done. Okay?
+
+[1:16:19](https://youtu.be/pp0E1gb80WQ?t=4579) And then she says, "Well, the other possibility is that God forgives you." The problem though is that if God just forgives you, you won't learn anything. Okay, you want to go. Man in his limits could not recmp recompense for no obedience, no humility he offered later could have been so deep that it could match the heights he made to reach through disobedience. Man lacked the power to offer satisfaction by himself.
+
+[1:16:49](https://youtu.be/pp0E1gb80WQ?t=4609) >> Okay. Good. Okay. So, do you understand this idea?
+
+[1:16:50](https://youtu.be/pp0E1gb80WQ?t=4610) You try to be God. So, you can't ever ask for forgiveness for that. Keep on going.
+
+[1:16:57](https://youtu.be/pp0E1gb80WQ?t=4617) >> For God show greater generosity in giving his own self that man might be able to rise than if he simply pardoned. For every other means fell short of justice except the way whereby the son of God humbled himself where he became incar incarnate. >> Okay. Incarnate just means human.
+
+[1:17:16](https://youtu.be/pp0E1gb80WQ?t=4636) So this is why Jesus had to kill himself. All right. So the problem is that God has to forgive us.
+
+[1:17:21](https://youtu.be/pp0E1gb80WQ?t=4641) But he has to forgive us in a way that allows us to learn from our mistakes and be better people. Okay? And so let's use an analogy. The analogy is this.
+
+[1:17:34](https://youtu.be/pp0E1gb80WQ?t=4654) I'm a father and I have a daughter named Eve. And I have a dog. And I say to Eve, "I love you, Eve, so much." And then Eve says to me, "Do you love me or do you love the dog more?" I said, "I love you both equally. Love is infinite." Of course, I love you, but I also love the dog.
+
+[1:17:52](https://youtu.be/pp0E1gb80WQ?t=4672) And Eve goes and says to herself, "Yeah, but how do I know he truly loves me?" So what Eve does is she kills the dog. Okay. And then Eve, Eve says to me, "Hey, do you love me or do you love the dog more?" And now I'm kind of stuck the father, right? Because if I punish her, that shows her I love the dog more, right?
+
+[1:18:13](https://youtu.be/pp0E1gb80WQ?t=4693) But if I don't punish her, she's going to do this again. Okay? She's going to kill another animal. So I'm stuck.
+
+[1:18:20](https://youtu.be/pp0E1gb80WQ?t=4700) So what do I do? So what God decides to do is this. The only way out of this conundrum, the only way out of this paradox is if I punish myself. Okay?
+
+[1:18:32](https://youtu.be/pp0E1gb80WQ?t=4712) Because I should have said to her, I love you as much as the dog. All right? So what I do is I take a whip and I hit myself. All right?
+
+[1:18:40](https://youtu.be/pp0E1gb80WQ?t=4720) And Eve watches this. And now Eve knows, first of all, I do love her because I'm punishing myself for her sake. And second of all, she won't do it again because she doesn't want to see me punished. And that's why Jesus had to kill himself.
+
+[1:18:54](https://youtu.be/pp0E1gb80WQ?t=4734) Do you understand? That's the logic here. Now it makes sense, right? God had to punish himself so that we would be humbled by a sacrifice.
+
+[1:19:03](https://youtu.be/pp0E1gb80WQ?t=4743) We would feel so much reg remorse and regret for making God die that we would never ever disobey him again. We would never ever try to become God ourselves. And that's why this had to happen. Okay?
+
+[1:19:19](https://youtu.be/pp0E1gb80WQ?t=4759) And because of this, Jesus freed us from the evil in us and led us to the path of good. Because now all we have to do is remember Jesus, remember what he said, remember what he taught and we ever forever will forever be on the path towards the light. Yes. >> do we like for example if I had done a extreme mistakes in previously do I can I completely make it up or just forgive myself because I think I can't.
+
+[1:19:52](https://youtu.be/pp0E1gb80WQ?t=4792) >> Okay, that that's a great point. Okay, so yeah, so the problem is this. The problem is that there are people who do real evil in this world. Okay, it's possible like a man kills your daughter and then he's put in prison for the longest time and it's he does all this evil and so can he be forgiven?
+
+[1:20:10](https://youtu.be/pp0E1gb80WQ?t=4810) And the answer is yes. Because the only way for this world to work is if people are allowed to be forgiven. If people are not allowed to be forgiven, this entire world, this entire universe breaks down. That's why God is a God of forgiveness.
+
+[1:20:28](https://youtu.be/pp0E1gb80WQ?t=4828) Because if you think about it, if you think, okay, if we don't have forgiveness, what world do we live in? We live in a world of vengeance, right? If you kill my daughter, then I have to have to go kill your daughter and then you're going to have to go kill my family and I have to go kill your family.
+
+[1:20:43](https://youtu.be/pp0E1gb80WQ?t=4843) So, the only way for this world to work, the only way for just to prevail is if we're allowed to forgive each other. And previously we don't have a tool to forgive each other because we ourselves don't have the wisdom. And now with the arrival of Jesus, we remember that if Jesus forgive us, Jesus will forgive me always.
+
+[1:21:02](https://youtu.be/pp0E1gb80WQ?t=4862) And so if I turn towards Jesus, then I will be forgiven. But like currently I think I still could not forgive myself for making that mistake. Like I think whatever things that I do to make up the mistake I think I could not forgive me at that time making that mistake >> right but at the same time you went to prison right you you've been punished already so justice hasn't served so you can now forgive yourself okay just because you've you believe in Jesus doesn't mean you won't go to prison for killing someone you're still going to go to prison but now you can forgive yourself because you've done your time And also because you remember that Jesus forgives you. Okay?
+
+[1:21:47](https://youtu.be/pp0E1gb80WQ?t=4907) But the only way for you to move on in your life, the only way for society to move on is if you're able to forgive yourself. Okay? That doesn't make sense. If in a world there's no forgiveness, this world would break down really quickly because everyone would just kill each other.
+
+[1:22:03](https://youtu.be/pp0E1gb80WQ?t=4923) So, and again, what what's happening is this, and this is what Dante teaches us. You're thinking of your head. Okay?
+
+[1:22:10](https://youtu.be/pp0E1gb80WQ?t=4930) Because you're still young. When you grow older and your heart matures and you have more life experience, then you'll be able to feel your heart. Once you feel your heart, all this will make sense to you. Okay?
+
+[1:22:24](https://youtu.be/pp0E1gb80WQ?t=4944) But I completely understand where you're coming from because at your age, if someone told me this, I'd be like, you're crazy. This makes no sense because if you do evil, then you should be then your entire life should be one of evil. If you do evil, evil should come to you. Okay.
+
+[1:22:39](https://youtu.be/pp0E1gb80WQ?t=4959) But what Jesus is saying is like no in that world no one can be happy. Okay. Because the people whose evil has been done to them are so focused on vengeance, on hatred, on anger that you can never ever be a happy person. Okay?
+
+[1:23:01](https://youtu.be/pp0E1gb80WQ?t=4981) You leave the monad. You leave the divine. Okay? So when you hate someone, you're actually hitting yourself as opposed to that person.
+
+[1:23:10](https://youtu.be/pp0E1gb80WQ?t=4990) So now that we understand the this idea, now what Don is gonna explain is why are we here? Okay.
+
+[1:23:19](https://youtu.be/pp0E1gb80WQ?t=4999) What's the purpose of the universe? Okay. Can you read Alan? You say, I see that water, see the fire and air and earth and all that they compose harm to the corruption and endure so briefly.
+
+[1:23:32](https://youtu.be/pp0E1gb80WQ?t=5012) And yet these two were things created. If what has been said above is true, then these things never should be subject to corruption. >> Okay? So the idea is like God is perfect.
+
+[1:23:46](https://youtu.be/pp0E1gb80WQ?t=5026) Everything he creates is perfect. So if that's the case, then why do we die? And so what Peter says is this. God is perfect.
+
+[1:23:52](https://youtu.be/pp0E1gb80WQ?t=5032) He creates perfection. But he creates the laws of the universe. He creates the game. Okay?
+
+[1:23:58](https://youtu.be/pp0E1gb80WQ?t=5038) That's perfect. The things within the game enter a cycle of destruction and life. Life and death. Okay, because that's the only way for the game for the universe to work properly.
+
+[1:24:10](https://youtu.be/pp0E1gb80WQ?t=5050) Does that make sense? Okay, keep on reading. >> Brother, the angels and the pure country where you are now, these may be said to be created and they are in all their being. Whereas the elements that you have mentioned, as well as those things that are made from them, receive their form from a created power.
+
+[1:24:33](https://youtu.be/pp0E1gb80WQ?t=5073) The matter they contain has been created just as within the stars that well about them. The power to give form had been created. The race and motion of the holy light draw forth the soul of every animal and plant from matter able to take form. >> Okay.
+
+[1:24:49](https://youtu.be/pp0E1gb80WQ?t=5089) So understand the world the laws of the universe are created. Okay. But your life is breathed forth immediately by the chief god good who so enormous enamemers it of his own self that it desires him always. So reasoning you also can deduce your resurrection.
+
+[1:25:06](https://youtu.be/pp0E1gb80WQ?t=5106) You need but remember the way in which your human flesh was fashioned when both of the first parents were created. >> Okay. So the world that we live in is a world in which we can make mistakes in which we can learn, we can grow. Okay.
+
+[1:25:23](https://youtu.be/pp0E1gb80WQ?t=5123) And we don't have to worry about making mistakes because when we die, all that will happen is we'll just return to the good and we will be reincarnated. Okay. We'll come back. Jesus was resurrected.
+
+[1:25:35](https://youtu.be/pp0E1gb80WQ?t=5135) But so but we will be resurrected as well. We have infinite opportunity to grow as souls and that's the purpose of life to learn to make mistakes to be creative to imagine new possibilities. That's why we were created. Okay?
+
+[1:25:48](https://youtu.be/pp0E1gb80WQ?t=5148) And to ensure that we can continue to grow, there's death. Okay? Death allows for a reset. Death allows us to rejuvenate ourselves and learn from mistakes.
+
+[1:26:03](https://youtu.be/pp0E1gb80WQ?t=5163) So don't think about this lifetime. Think about all possible lifetimes and live your life accordingly to that. Okay? Make the most of your life here by making as many mistakes as possible because only by making mistakes can you actually grow as a soul.
+
+[1:26:22](https://youtu.be/pp0E1gb80WQ?t=5182) So, this is Leon Leonardo da Vinci's famous painting, the last supper. Now, this depicts Jesus before his betrayal, before he is crucified by the Romans.
+
+[1:26:35](https://youtu.be/pp0E1gb80WQ?t=5195) What's really interesting about this painting is you can see there's a number here, right? 33 1 33. When you go to the Bible and you look for the passage 33133 in Lamentations, you have this quotation.
+
+[1:26:57](https://youtu.be/pp0E1gb80WQ?t=5217) For no one is cast off by the Lord forever through he brings grief, he will show compassion. So great is his unfolding love. For it does not willing willingly bring affle affliction or grief to anyone. >> Okay, that's who Jesus is.
+
+[1:27:16](https://youtu.be/pp0E1gb80WQ?t=5236) Jesus came to remind us that we will all be forgiven in the end. So, forgive other people. Okay, love your enemy. All right.
+
+[1:27:28](https://youtu.be/pp0E1gb80WQ?t=5248) So, let's look at what actually the Bible says. Okay. So, this is what Jesus taught.
+
+[1:27:35](https://youtu.be/pp0E1gb80WQ?t=5255) And again I believe this is what Jesus taught because one gospel of Thomas is a unique voice. Remember the thing about poetry is that it is unique. It is divine spark itself. So it cannot be replicated.
+
+[1:27:51](https://youtu.be/pp0E1gb80WQ?t=5271) So when we read the gospel Thomas you can see this is poetic. This is beautiful and it touches you. It's a divine spark.
+
+[1:27:59](https://youtu.be/pp0E1gb80WQ?t=5279) That's number one. Number two is what he teaches aligns with every other poor prophet that we've studied so far, right? Number three is these other poor prophets like Dante, Dashki, they go back and they're able to see exactly what Jesus was teaching us. Okay?
+
+[1:28:15](https://youtu.be/pp0E1gb80WQ?t=5295) So that's why I'm convinced that the gospel of Thomas is the true teachings of Jesus. There are also other teachings of Jesus that we find in the Bible that also conforms to our theory. Okay. So this is from the gospel of Matthew and this is called the sermon on the mount where Jesus stands on a hill and he's preaching the secrets of the universe to people.
+
+[1:28:44](https://youtu.be/pp0E1gb80WQ?t=5324) So can you read please Alan? >> Yeah. Blessed are the poor in spirit for theirs is the kingdom of heaven.
+
+[1:28:49](https://youtu.be/pp0E1gb80WQ?t=5329) Blessed are those who mourn for they will be comforted. Blessed are the meek, for they will inherit the earth. Blessed are those who hunger this and thirst for righteousness, for they will be filled. Blessed are the mer merciful, for they will be shown mercy.
+
+[1:29:07](https://youtu.be/pp0E1gb80WQ?t=5347) Blessed are the pure in heart, for they will see God. Blessed are the peacemakers, for they will be called children of God. Blessed are those who are pre persecuted because of righteousness. Of theirs is the kingdom of heaven.
+
+[1:29:25](https://youtu.be/pp0E1gb80WQ?t=5365) >> So this is his message to people, right? What matters is the spark inside of you. It doesn't matter how wealthy you are. It doesn't matter how powerful you are.
+
+[1:29:33](https://youtu.be/pp0E1gb80WQ?t=5373) In fact, it is probably those who are slaves that will benefit who are more virtuous and as such they will inherit the kingdom. Okay, keep on reading. >> You are the salt of earth. But if the salt loses its saintness, saintness, how can it be made salty again?
+
+[1:29:51](https://youtu.be/pp0E1gb80WQ?t=5391) It is no longer good for anything except to be thrown out and tramped underfoot. You are the light of the world. A tongue built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl.
+
+[1:30:06](https://youtu.be/pp0E1gb80WQ?t=5406) Instead, they put it on its stand. And it gives light to everyone in the house. In the same way, let light shine before others. That they may see you good deeds and glorify you father in heaven.
+
+[1:30:21](https://youtu.be/pp0E1gb80WQ?t=5421) >> Okay. So be the light. Okay. Every one of you has a light [clears throat] in you.
+
+[1:30:24](https://youtu.be/pp0E1gb80WQ?t=5424) Every one of you has a power to change the universe. Every one of you has a power to do good in this world. Okay. Keep on going.
+
+[1:30:33](https://youtu.be/pp0E1gb80WQ?t=5433) You have heard that it was said, "Love your neighbor and hate your enemy." But I tell you, love your enemy and pray for those who persecute you that you may be children of your father in heaven. He causes his son to rise on the evil and the goods and sends rain on the righteous and unrighteous. If you love those who love you, what reward will you get? Are not even the tax collectors doing that?
+
+[1:30:59](https://youtu.be/pp0E1gb80WQ?t=5459) And if you great only your own people, what are you doing more than others? Do not even p pack pagans do that. Be perfect therefore as your heavenly father is perfect. >> Okay, we are in this world to do as much good as possible.
+
+[1:31:17](https://youtu.be/pp0E1gb80WQ?t=5477) Thank evil people because it opp gives you opportunity to do good. Okay, there's no evil in the world. How do you possibly do good? Right?
+
+[1:31:29](https://youtu.be/pp0E1gb80WQ?t=5489) Keep on going. Do not store up for yourself treasures on earth where mouth moth and vermin destroy and where thieves break in and steal, but store up for yourself treasures in heaven where moth and vermin do not destroy. And where thieves do not break in and steal. For where your treasure is, there your heart will be also.
+
+[1:31:49](https://youtu.be/pp0E1gb80WQ?t=5509) So focus on your own spiritual enlightenment. Focus on making your heart pure, good, and virtuous. Don't worry about other people.
+
+[1:32:00](https://youtu.be/pp0E1gb80WQ?t=5520) Don't worry about money and these things because when you die, you can't take these things with you. But your heart will always follow you wherever you are. Okay, keep on going. >> The eye is a lamp of the body.
+
+[1:32:09](https://youtu.be/pp0E1gb80WQ?t=5529) If your eyes are healthy, your whole body will be full of light. But if your eye are unhealthy, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness? >> Okay, so this is really important idea.
+
+[1:32:27](https://youtu.be/pp0E1gb80WQ?t=5547) But we imagine reality. So what matters is how you imagine this reality. What matters is how you see the world.
+
+[1:32:35](https://youtu.be/pp0E1gb80WQ?t=5555) And how you see the world is a reflection of the spark inside of you. If you see goodness, if you do goodness, the then goodness will come. Okay.
+
+[1:32:42](https://youtu.be/pp0E1gb80WQ?t=5562) This also called the law of attraction. Okay. Keep on going. No one can serve two masters.
+
+[1:32:50](https://youtu.be/pp0E1gb80WQ?t=5570) Either you will hate the one and love the other or you will be devoted to the one and dis despise the other. You cannot serve both God and money. >> Okay, this is a really important idea. What is Satan?
+
+[1:33:01](https://youtu.be/pp0E1gb80WQ?t=5581) Satan is money. It's power. Okay, so this world belongs to Satan. This rule, this world is ruled by Satan.
+
+[1:33:10](https://youtu.be/pp0E1gb80WQ?t=5590) There's nothing you can do about it. When you leave that world is the world of God. Okay, so it's your choice. Okay, your choice is to triumph in this world or to triumph in the spiritual world.
+
+[1:33:24](https://youtu.be/pp0E1gb80WQ?t=5604) It's your choice. But you cannot have both, guys. Okay, you can either you can be Alan Musk. You can you can have all this wealth in this world, but we'll see what happens to Ellen Musk, you know, after he dies.
+
+[1:33:36](https://youtu.be/pp0E1gb80WQ?t=5616) So, he won't die. Okay. So, his plan is I won't die, then I'm good. Okay.
+
+[1:33:46](https://youtu.be/pp0E1gb80WQ?t=5626) Keep on going. >> Not everyone who says to me, Lord, Lord, will enter the kingdom of heaven, but only the one who does the will of my father who is in heaven. Many will say to me on that day, Lord, Lord, did we not prophecy in your name, and in your name drive out demons, and in your name perform many miracles?
+
+[1:34:05](https://youtu.be/pp0E1gb80WQ?t=5645) Then I will tell them plainly, I never knew you. Away from me, your evadors. Okay, so this is a really important idea. The Christian religion tells us that you must believe in Jesus to be saved by Jesus.
+
+[1:34:18](https://youtu.be/pp0E1gb80WQ?t=5658) All that matters is believe in Jesus. Doesn't matter what you do. Doesn't matter what you say. What matters is your belief in Jesus.
+
+[1:34:27](https://youtu.be/pp0E1gb80WQ?t=5667) And what Jesus himself is telling us, no, no, no. Don't use my name. Okay? Don't follow me.
+
+[1:34:35](https://youtu.be/pp0E1gb80WQ?t=5675) Follow your heart. In fact, if you use my name, it's because you mean to do evil in this world. So the question then is how do we get from this to the Catholic Church, which is no, you must obey us otherwise you'll be condemned to hell. Okay?
+
+[1:34:54](https://youtu.be/pp0E1gb80WQ?t=5694) And that's the topic we'll discuss next class. How the Catholic Church was created. And the argument I will make to you is it was created by the Roman Empire. Okay.
+
+[1:35:08](https://youtu.be/pp0E1gb80WQ?t=5708) And not Jesus himself. Okay. So any questions guys? Yeah.
+
+[1:35:14](https://youtu.be/pp0E1gb80WQ?t=5714) >> I think like you said that people have infinite lives and like death is a reset of your life and you can learn many times but I think death will just clear a person's memory and they won't remember the mistakes and the things that they learn. >> Yeah that's a great point. Okay. Yes.
+
+[1:35:31](https://youtu.be/pp0E1gb80WQ?t=5731) Exactly. So the idea is the divine spark right so the divine spark either glows brightly or it dims. So when you die, what goes is not the brain. You won't remember anything, the memories, but what goes is the is the spark.
+
+[1:35:45](https://youtu.be/pp0E1gb80WQ?t=5745) Do you understand? The spark if it glows really brightly, it goes up to a higher plane. You're closer to the monad. You're closer to God.
+
+[1:35:53](https://youtu.be/pp0E1gb80WQ?t=5753) And therefore, you feel more pleasure, right? But if your spark has been dim, it goes to a lower place. And so what you want to do is obviously glow that spark as much as possible. All right?
+
+[1:36:11](https://youtu.be/pp0E1gb80WQ?t=5771) And so again, I know this is hard to understand, but most people will not figure this out. Okay? You understand? It may it may take like 50 lifetimes before you figure out, you know what, I should really try to glow my spark.
+
+[1:36:24](https://youtu.be/pp0E1gb80WQ?t=5784) It may take a thousand lifetimes, a million lifetimes, who knows? But it's your choice. Do you understand? Some will figure out quick more quicker than others.
+
+[1:36:34](https://youtu.be/pp0E1gb80WQ?t=5794) So this is the thing that you must remember. Every religion teaches us like when you die, you won't you won't remember how much money you have. You won't remember anything. Okay, but what will what you what you but what you will remember what you will leave behind is the amount of goodness you did or the amount of evil you did.
+
+[1:36:53](https://youtu.be/pp0E1gb80WQ?t=5813) Does that make sense? Okay, any more questions, guys? Okay, great. So, next class we do the rise of the Catholic Church.

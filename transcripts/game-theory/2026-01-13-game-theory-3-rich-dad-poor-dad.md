@@ -1,0 +1,355 @@
+---
+title: "Game Theory #3:  Rich Dad, Poor Dad"
+series: "Game Theory"
+episode: 3
+date: "2026-01-13"
+date_kind: "published"
+video_id: "MX93U4KzA28"
+url: "https://www.youtube.com/watch?v=MX93U4KzA28"
+duration: "52:23"
+words: 6741
+punctuated_captions: true
+duplicate_of: null
+source_edited: "source/lightly edited/transcripts/Game Theory/064 — Game Theory #3 Rich Dad, Poor Dad [MX93U4KzA28].md"
+---
+
+# Game Theory #3: Rich Dad, Poor Dad
+
+Game Theory · Published 2026-01-13 · 52:23 · 6,741 words · [Watch on YouTube](https://www.youtube.com/watch?v=MX93U4KzA28)
+
+## YouTube description
+
+> In this Tuesday, January 13, 2026 lecture to his Beijing high school students, Professor Jiang explains who succeeds, and why.
+>
+> Notes and References:
+> 1.  The Marshmallow Test by Walter Mischel
+> 2.  Mindset by Carol Dweck
+> 3.  Peak by K. Anders Ericsson
+
+## Transcript
+
+[00:00](https://youtu.be/MX93U4KzA28?t=0) Today we look at the question of success. Okay, the question is who succeeds and why? Okay, so we we've done a lot of research and we've discovered that people who succeed for certain reasons. So there is a Colombia psychologist named Walter Mitchell and he devised a very famous experiment called the marshmallow test.
+
+[00:41](https://youtu.be/MX93U4KzA28?t=41) In the marshmallow test, it's very easy. Okay. So imagine a room and I invite a fouryear-old or 5-year-old to come into this room and have a conversation with him or her. I ask him, "How's your mother?
+
+[00:54](https://youtu.be/MX93U4KzA28?t=54) What do you like to do?" And it's a very good conversation. Then suddenly I get up and say, "I'm really sorry, but I need to go across the hallway for another meeting, but I'll be back. Okay? So just wait for me.
+
+[01:09](https://youtu.be/MX93U4KzA28?t=69) And here and here, I'll make you a deal. Here's a marshmallow. I'm going to put a marshmallow in front of you. And you can have it right now, but if I come back and the marshmallow is still there, I will give you two marshmallows.
+
+[01:24](https://youtu.be/MX93U4KzA28?t=84) And then Walter Mitchell, he goes away and he goes behind the room and for a seeth through mirror, he's able to see the students as they struggle to contain themselves because obviously they want two marshmallows. And there are some students who can in fact resist the temptation to eat the first marshmallow and then a second marshmallow. But then there are others who cannot.
+
+[01:51](https://youtu.be/MX93U4KzA28?t=111) And Walter Mitchell will spend 50 years just tracking them. Okay. What he discovers is this. The students who resist the temptation who get the second marshmallow there are much more likely to do better in school.
+
+[02:04](https://youtu.be/MX93U4KzA28?t=124) They have higher test scores. They have better careers. Their careers are more stable. They get promoted in their careers.
+
+[02:11](https://youtu.be/MX93U4KzA28?t=131) They're much more able to find a stable relationship. They avoid jail. They avoid drugs. They avoid alcohol.
+
+[02:19](https://youtu.be/MX93U4KzA28?t=139) They're more lean. They're more fit. They live longer, better teeth. And those who cannot resist and eat the first marshmallow right away, they have the opposite effect.
+
+[02:35](https://youtu.be/MX93U4KzA28?t=155) And so the idea is that for Walter Mitchell success means delayed gratification. And all this means is that people who succeed are capable of longterm planning. To succeed today, I will make sacrifices necessary.
+
+[03:04](https://youtu.be/MX93U4KzA28?t=184) So RA, so if my friends are playing outside and I need to do my homework, well, I'm going to stay home, do my homework. Okay, so long-term planning, what he calls delayed gratification. Or a much more simple way of saying this is the idea of self-control, right?
+
+[03:21](https://youtu.be/MX93U4KzA28?t=201) Or the idea of emotional regulation. [snorts] You're able to keep your emotions in check. If you're angry, you're able to calm yourself down. Okay?
+
+[03:39](https://youtu.be/MX93U4KzA28?t=219) And so we've tried, we know about this and that's why in school we focus on the idea of emotional regulation, teaching you how to better control your emotions, how to do long-term planning. Okay, so that's one theory of success. Another theory of success comes to us from another psychologist named Carol Dwight and she's at Stanford and she wrote a book called Mindset. Okay.
+
+[04:11](https://youtu.be/MX93U4KzA28?t=251) And what she tells us is that those who succeeded in life have a growth mindset and those who fail in life have a fixed mindset. Okay. And it's not hard. Okay.
+
+[04:27](https://youtu.be/MX93U4KzA28?t=267) The idea is resilience. Those of a growth mindset, if they fall or they fail, they say to themselves, "This opportunity for me to learn, so I'm going to think about what I did wrong. Next time I'll do better." And a fixed mindset are people who cannot accept the idea of failure. Who think that it's because they're not capable of improving and therefore they give up.
+
+[05:01](https://youtu.be/MX93U4KzA28?t=301) So those with a growth mindset, if they fail, they try harder. Those who have a fixed mindset, if they fail, they just give up. And so the idea of resilience, okay, pretty simple, right?
+
+[05:18](https://youtu.be/MX93U4KzA28?t=318) And the third idea of success comes to us from K. Anders Ericson who is a Swedish psychologist and she wants to know why certain people are able to succeed as musicians or athletes and he creates the idea of deliberate practice. Okay. So what he found is that people who want to become athletes or musicians they work really hard.
+
+[05:49](https://youtu.be/MX93U4KzA28?t=349) They practice every day. But the people who succeed practice strategically. Okay? So those who work hard just work a long time.
+
+[06:02](https://youtu.be/MX93U4KzA28?t=362) But those who work strategically have a plan. The plan is this. What are my goals? How can I achieve these goals?
+
+[06:17](https://youtu.be/MX93U4KzA28?t=377) And then how do I improve my plan? Okay. So, they're examining their own practices and they're trying to figure out where the weaknesses are, where they can improve. Instead of plan on how to improve and then they follow his plan and if this plan helps them improve, they stick to a plan.
+
+[06:40](https://youtu.be/MX93U4KzA28?t=400) But if the plan doesn't really work, they change the plan as well. Okay. So, this is the idea of selfreflection. Or selfassessment constantly thinking about how you are as a student and figure out figure out how to improve your own learning strategies.
+
+[07:08](https://youtu.be/MX93U4KzA28?t=428) And what Kersner Ericson discovered is that if you do this, you'll succeed at anything. And this is true. Okay? Right.
+
+[07:16](https://youtu.be/MX93U4KzA28?t=436) And the reason why we know it's true is there are two American psychologists named Dunning and Krueger something the Dunning Krueger effect. And so what they did was this. They ran an experiment. They have 500 students in their psychology class first year university.
+
+[07:34](https://youtu.be/MX93U4KzA28?t=454) They made every student take an IQ test. And then after they took the IQ test, they asked each student, "How do you think you did on the IQ test? Do you place in the top 5% or the bottom 5%." And it turns out that no one got the ranking correct. Okay, so those who were in the top 5% in terms of IQ thought they were maybe in the top 20%.
+
+[08:04](https://youtu.be/MX93U4KzA28?t=484) Because for them it was easy. So they assumed everyone for everyone else it was easy as well. But what was dramatic is that those who scored the lowest thought they were average. Okay?
+
+[08:18](https://youtu.be/MX93U4KzA28?t=498) So the worst 5% in the class thought they were in the top 50% or just average. And the easy and the reason why is those people who are stupid lack the capacity to know they're stupid. Okay. So what Dunning Kuba discovered is that the hardest part of being a student is to assess yourself properly to know exactly where you stand and how to improve.
+
+[08:47](https://youtu.be/MX93U4KzA28?t=527) Those who are stupid are often the most confident in the world. That's what what's called the Dunning Krueger effect. And this is this helps explain why the world is why it is because often the people in power are stupid. They don't know they're stupid.
+
+[09:02](https://youtu.be/MX93U4KzA28?t=542) They were confident and they do stupid things like [clears throat] Donald Trump. Okay. All right. All right.
+
+[09:06](https://youtu.be/MX93U4KzA28?t=546) So now we have these three theories, right? We have self-control, we have resilience, and we have self assessment. And which and so as educators, as schools, what we can do is deise strategies and curriculum to help students all succeed. Correct?
+
+[09:29](https://youtu.be/MX93U4KzA28?t=569) The problem is that when we actually try this, it doesn't work. Okay? If you take a bad student and you teach him self-control, resilience, and self assessment, the student doesn't actually get better.
+
+[09:47](https://youtu.be/MX93U4KzA28?t=587) The reason why is okay and this is a very important idea for you guys to remember is that correlation does not equal causation. Okay, you guys you guys need to remember this. Just because things are correlated does not mean they cause each other. So I'll give you an example.
+
+[10:09](https://youtu.be/MX93U4KzA28?t=609) We know that successful people they get up early in the morning. Okay, they get up at four o'clock in the morning. But just because you get up at four o'clock in the morning does not mean you'll succeed. Okay, just because you work hard, just because you're resilient, just because you have growth mindset does not mean you'll succeed.
+
+[10:34](https://youtu.be/MX93U4KzA28?t=634) But if you're successful, you will get up early in the morning because you're more you are more motivated. If you are successful in life, you will have more cons self self-control. You will have more resilience. You you'll be more humble.
+
+[10:49](https://youtu.be/MX93U4KzA28?t=649) Does that make sense? So, if you're rich, guess what happens? You become successful and therefore you will have growth mindset, self-control, deliberate practice. Okay, does that make sense?
+
+[11:10](https://youtu.be/MX93U4KzA28?t=670) But just because you have growth mindset, deliver practice and resilience does not mean you'll succeed. Okay. So the question for us is why does this happen and ultimately who succeeds? Okay.
+
+[11:27](https://youtu.be/MX93U4KzA28?t=687) So we know for a fact that rich people are much more likely to succeed than poor people. And in fact, what we know from macroeconomic studies is that school doesn't really matter. Doesn't matter how well you do in school. If your parents are rich, you'll be successful in life.
+
+[11:48](https://youtu.be/MX93U4KzA28?t=708) If your parents are poor, you will not be successful in life. Okay. So, what's the difference? Okay.
+
+[11:53](https://youtu.be/MX93U4KzA28?t=713) So, now let's look at parenting strategies between rich and poor. Okay. So there are lots of differences but let's focus on three major differences. The first major difference is that rich parents speak to their kids more than poor parents.
+
+[12:21](https://youtu.be/MX93U4KzA28?t=741) High vocab vocabulary, low vocabulary. When rich parents speak to the kids, rich parents will use higher vocabulary, longer sentences, poor parents will just be no, yes, go away. Okay.
+
+[12:46](https://youtu.be/MX93U4KzA28?t=766) Another major difference is in attitude. Okay. So rich parents use a friendly attitude and poor parents use an authoritarian or command attitude. So for example, if you are a rich kid and you go and touch a stove, okay, and you burn your hand, the rich parent will say, "Listen, you made a mistake.
+
+[13:22](https://youtu.be/MX93U4KzA28?t=802) Don't worry about it. Let me explain to you why touching a fire is bad for you because you'll burn yourself and you might have to go to doctor and we will feel pain if you hurt yourself. Okay? So the rich parent will spend a lot of time explaining to the child why this is wrong and how not to do it again.
+
+[13:43](https://youtu.be/MX93U4KzA28?t=823) The poor parent is like don't you ever do that again or I'll beat the crap out of you. Okay? Don't do that. Pretty simple.
+
+[13:51](https://youtu.be/MX93U4KzA28?t=831) But as you can you can understand the rich kid will understand that the world is safe and that he is respected in this world. Okay. Whereas the poor child will think that the world is scary and he or she must be afraid of adults.
+
+[14:12](https://youtu.be/MX93U4KzA28?t=852) And this carries on into school, right? Because as a rich kid, you go into school and you think that oh my teacher is my friend. So you smile at the teacher and you hug the teacher and the teacher smiles back and now you're friends, right? But if you're a poor kid and you see the teacher, you don't you're afraid to look at the teacher.
+
+[14:32](https://youtu.be/MX93U4KzA28?t=872) You don't smile. You're you are stressed. Okay? And the teacher thinks that you might be a problem child.
+
+[14:40](https://youtu.be/MX93U4KzA28?t=880) So the problem with this is that yes, being a third parent, it is effective, but it creates stress in the family. Okay, it makes the child feel unsafe. And this leads to our the third major difference between rich parents and poor parents. Rich parents offer stability.
+
+[15:05](https://youtu.be/MX93U4KzA28?t=905) Poor parents can only offer volatility. This is a very simple idea. Rich parents have money so they can afford to keep promises. So I'm rich parent.
+
+[15:17](https://youtu.be/MX93U4KzA28?t=917) I say to my child, "Okay, next week we'll go to Thailand for vacation. Guess what? Next week you go, you guys go to Thailand for vacation." [snorts] But if you are a poor parent, money is always an issue. So, it's hard for you to keep promises, right?
+
+[15:32](https://youtu.be/MX93U4KzA28?t=932) So, it's like, "Next week, we'll go to McDonald's for lunch, but your paycheck is not enough." So, you're like, "Sorry, we can't go anymore." Okay? [snorts] And now because of these different parenting styles, we understand why rich kids behave different from poor kids, right? So let's look at let's look at the idea of self-control, right? Self-control.
+
+[16:03](https://youtu.be/MX93U4KzA28?t=963) What is the marshmallow test? Marshmallow test is not a test of self-control. It's a test of your trust in others. Right?
+
+[16:12](https://youtu.be/MX93U4KzA28?t=972) If you believe that the teacher who goes outside, if you believe that he or she comes back and will pro when will keep his or her promise, then you will not eat that marshmallow. But if you think that this teacher is lying to me, then you're not going to eat that marshmallow. Then you will eat that marshmallow. Right?
+
+[16:33](https://youtu.be/MX93U4KzA28?t=993) So it's not really about self-control. It's about your belief and trust in authority figures. Right? So if you're rich, stability, you have stability.
+
+[16:41](https://youtu.be/MX93U4KzA28?t=1001) But if you're poor, you don't have stability. So you're actually better off eating that marshmallow rather than waiting for that second marshmallow. Because guess what? Most of the time, you will not get that second marshmallow.
+
+[16:53](https://youtu.be/MX93U4KzA28?t=1013) Do you do you understand? So it's not that poor kids are stupid. Poor kids are rational and they're responding to the circumstances that they live in.
+
+[17:07](https://youtu.be/MX93U4KzA28?t=1027) And resilience, right? Well, the idea of resilience is that you believe that the world will help you, right? So, if you're rich and you believe that everyone helps you, you can be resilient because if you fail, someone will help you get up.
+
+[17:30](https://youtu.be/MX93U4KzA28?t=1050) If you're poor, if you fail, that probably tells you should be doing this. Okay, you probably won't succeed doing this. So, you don't have you don't have much confidence in others. Okay, and the idea of self assessment, right?
+
+[17:45](https://youtu.be/MX93U4KzA28?t=1065) Looking inward. Well, if you're a poor child who lives under a lot of stress, it's hard for you to be self-reflective because if you look back at yourself, all you think about is your pain and your stress. Okay. So from these different parenting strategies, we can now explain why different students behave the way they do.
+
+[18:17](https://youtu.be/MX93U4KzA28?t=1097) This of course may lead you to think, okay, well then rather than construct our schools around self-control, resilience, and self-reflection, we should construct our schools around better parenting skills. Okay? Which means that hey let's construct schools where kids are exposed to a lot of vocabulary where teachers are friendly and where there's a lot of stability. Okay.
+
+[18:47](https://youtu.be/MX93U4KzA28?t=1127) And we've tried this and it's more effective but it doesn't really work either. Why? Because the kids come in too late. A lot of their worldview is already established.
+
+[18:59](https://youtu.be/MX93U4KzA28?t=1139) Then you're like, "Okay, well then let's change how parents behave." And when you do that, what you recognize is that nope, you can't change how they behave either. Okay? So no matter what you do, you end up with massive differences between the poor and the rich. The rich stay rich and the poor stay poor.
+
+[19:22](https://youtu.be/MX93U4KzA28?t=1162) So now the question for us is why is this the case? Okay. And it's the case because society is a hierarchy.
+
+[19:46](https://youtu.be/MX93U4KzA28?t=1186) And the hierarchy is usually divided between the rich and the poor. Okay. And these two worlds are night and day.
+
+[20:02](https://youtu.be/MX93U4KzA28?t=1202) They're very, very different. As a poor person, if you want to survive, you have to obey authority. Okay? But if you're a rich person, the way that you get along with others, the way that you maximize your outcome is by negotiating with others.
+
+[20:26](https://youtu.be/MX93U4KzA28?t=1226) Negotiating. Okay? So, negotiating can also mean debate, right?
+
+[20:35](https://youtu.be/MX93U4KzA28?t=1235) So, who should be the boss? Well, let's have a debate and present different evidence as to figure out who's who should be the boss. Okay. So, negotiation means debate and argument.
+
+[20:52](https://youtu.be/MX93U4KzA28?t=1252) So, this helps us this helps us understand why different parents parent their child differently. If you're a poor parent, your responsibility is to make sure that your child knows how to obey authority. Okay? That's why you command your child.
+
+[21:12](https://youtu.be/MX93U4KzA28?t=1272) But if you are a rich parent, you want your child to be able to negotiate with authority. And that's why you respect your child and you teach your child how to debate, how to argue, how to negotiate with others. Okay? Because they live in different worlds.
+
+[21:38](https://youtu.be/MX93U4KzA28?t=1298) Another way of saying this is that from day one, rich kids know that they're playing a different game than they're playing a different game from poor kids. Okay. So, [sighs and clears throat] let's go back and look at parents. Okay.
+
+[22:02](https://youtu.be/MX93U4KzA28?t=1322) So per poor parents command their child don't really speak, don't communicate. And don't keep promises. Okay. All right.
+
+[22:25](https://youtu.be/MX93U4KzA28?t=1345) So poor parents do these three things. And we know that if they do these three things, the outcome won't be so good. Okay? And the reason why they do this is that they're not playing a game to improve their kids outcome.
+
+[22:40](https://youtu.be/MX93U4KzA28?t=1360) They're playing a game to get along with other parents. Okay. Okay. Colleagues, family.
+
+[22:55](https://youtu.be/MX93U4KzA28?t=1375) Authority. Okay. So, another way of saying this is this police, boss.
+
+[23:06](https://youtu.be/MX93U4KzA28?t=1386) Family. Okay. All right.
+
+[23:06](https://youtu.be/MX93U4KzA28?t=1386) So, as a parent, you're trying to figure out how to negotiate with the police, with your boss, and with your family. So, if you're a poor person, and the police knows you're a poor person, the police is going to bully you. And if you fight back, the police will probably put you in jail. Okay?
+
+[23:31](https://youtu.be/MX93U4KzA28?t=1411) So, it's very important that you accept authority. You don't challenge authority because if you do, you'll probably get into trouble. Your boss, right? If you're a poor person, your boss will just command you about.
+
+[23:45](https://youtu.be/MX93U4KzA28?t=1425) And so, it's very important that your child knows how to take orders rather than ask questions, rather than debate. Your child must learn how to just follow orders or at least keep his mouth shut. Okay? And then family is about maintaining good relations with those who can most support you and that often means the same values.
+
+[24:16](https://youtu.be/MX93U4KzA28?t=1456) So if the if your family members or your friends if they are ch if they are parenting their child in this manner you're also going to copy them okay imitation. All right and for a poor person this is the optimal strategy of how to parent. [snorts] Okay, does it make sense guys?
+
+[24:47](https://youtu.be/MX93U4KzA28?t=1487) Because if you do another way, okay, if you are if you choose to be a friend to your child, if you choose to communicate, if you choose to keep your promises, then the your friends and your family will think that you're doing something wrong. You understand? They won't think, "Oh my god, you are an enlightened parent who's read a lot of parenting books and great for you." They're going to think there's something wrong with you. Okay, so let me give you an example of this.
+
+[25:24](https://youtu.be/MX93U4KzA28?t=1524) Let me give you an example of this. So my wife and I have three kids. Okay, my parenting style. So my wife and I have three kids and this is how we parent our kid.
+
+[25:40](https://youtu.be/MX93U4KzA28?t=1540) First of all, we have our child we give our child a lot of freedom. So we don't have our kids do activities. Okay?
+
+[25:50](https://youtu.be/MX93U4KzA28?t=1550) We don't have our kids do lots of lots of activities. We don't send our kids to math class. We don't send our kids to swimming class. We don't send our kids to piano class.
+
+[26:00](https://youtu.be/MX93U4KzA28?t=1560) We just let our kids run around and play. The other thing that we do is we communicate a lot with our child. Okay.
+
+[26:11](https://youtu.be/MX93U4KzA28?t=1571) Communication. We believe in democracy in our in our family. If there's if we're going to make a decision together, we want everyone to communicate together. Okay.
+
+[26:21](https://youtu.be/MX93U4KzA28?t=1581) So a normal Chinese family will just have a very tight schedule, right? And then the other thing that we do that's different is we tell stories. The other Chinese families will do math. Okay?
+
+[26:39](https://youtu.be/MX93U4KzA28?t=1599) So we raise our children in a way that's very different from normal Chinese families from the way that you you've been raised. Okay? And we do this because both my wife and I, we spend a lot of time talking about parenting. I've read a lot of books about parenting.
+
+[27:01](https://youtu.be/MX93U4KzA28?t=1621) I spent many decades researching the best education possible. And so that's why we raise our children in this way. And guess what? Because we do this, we have no friends in China.
+
+[27:13](https://youtu.be/MX93U4KzA28?t=1633) We have family, but they all think we're crazy. Okay? But we do this because for us, what's most important is to make sure that our children are happy and healthy and that they have a chance to be creative and be successful in life. Because I think that if you do it this way, the child will not be creative, will not be successful.
+
+[27:40](https://youtu.be/MX93U4KzA28?t=1660) But if you do it this way, your child will fit in into China better. Okay? So parenting the goal, the incentive is not for your child to succeed. It's the incentive is for your child to fit into China or the larger social environment that you are in.
+
+[28:07](https://youtu.be/MX93U4KzA28?t=1687) And that's why it's very hard to change the way people behave. And that's why social structures are extremely rigid because the game they're playing is often just to fit into their environment. Okay.
+
+[28:25](https://youtu.be/MX93U4KzA28?t=1705) Does that make sense guys? Okay. Any questions before I move on? Yep.
+
+[28:35](https://youtu.be/MX93U4KzA28?t=1715) >> Thanks. So for poor families, is there any way for the poor kids to be succeed to be the rich parents you describe in the future? Yeah. >> Okay.
+
+[28:48](https://youtu.be/MX93U4KzA28?t=1728) That's a really good question. Okay. So we know that there are certain poor kids who do succeed. For example, I'm a poor kid who succeeded.
+
+[28:57](https://youtu.be/MX93U4KzA28?t=1737) My we imig immigrated to Toronto, Canada when I was like 6 years old and my father was a dishwasher. So we were very poor family. Okay. And but I succeeded because I left Canada for the United States.
+
+[29:14](https://youtu.be/MX93U4KzA28?t=1754) So Canada is a very rigid place where poor people basically move up a bit but not too far but I was able to succeed because I was able to get a scholarship to go study in the United States. Okay. So there are opportunities. The problem though is that it means leaving your community.
+
+[29:38](https://youtu.be/MX93U4KzA28?t=1778) Does that make sense? So one way to succeed is to abandon your community. Okay.
+
+[29:48](https://youtu.be/MX93U4KzA28?t=1788) But that's high risk, right? So you have to be extremely individualistic to take such a risk. So that's why most people don't do it because you think about it, the safest option for you is to stay within your community. That's what's going to guarantee you the most the best outcome.
+
+[30:13](https://youtu.be/MX93U4KzA28?t=1813) But if you choose to abandon your community and just say and just say, you know what, I'm going to go somewhere else and try my try my luck. That's taking a really high risk. Okay. So you to succeed, you have to take high risk.
+
+[30:26](https://youtu.be/MX93U4KzA28?t=1826) So another possibility is war. That traditionally historically has been the best mechanism of social mobility. When you when you go fight a war and you do really well, you'll get promoted in life. Okay.
+
+[30:50](https://youtu.be/MX93U4KzA28?t=1850) But again, war is high risk because chances are you'll get killed. Okay? So, not just war, but also revolution, right? Okay.
+
+[31:01](https://youtu.be/MX93U4KzA28?t=1861) And of course the best way of course is to marry up. Marrying up. Okay. And that's why remember in our very first class we talked about the dating game, right?
+
+[31:15](https://youtu.be/MX93U4KzA28?t=1875) Where women only want five and four. Okay. The reason why is that five and four are high status. And 321 are low status.
+
+[31:33](https://youtu.be/MX93U4KzA28?t=1893) So if you're a woman, you don't want to marry into a low status family because your children will be screwed over. Okay? Your best option is to take a risk, gamble into a high stat and marry. You want you want to try to marry into a high status family.
+
+[31:48](https://youtu.be/MX93U4KzA28?t=1908) So traditionally war and marrying up are the two major mechanisms of social mobility in today's world. Abandoning community can also lead to success. Okay.
+
+[32:07](https://youtu.be/MX93U4KzA28?t=1927) Basically immigrating to a place that offers more social mobility which often means United States. Okay. But another way of saying this is you have to get really lucky guys. Okay, so there's lots of poor people who think that you know I succeeded because I worked hard and I'm really talented.
+
+[32:27](https://youtu.be/MX93U4KzA28?t=1947) Look, I was born poor. I lucked into Yale. Okay, it's luck. You can work out, you can work as hard as you want, but the chances are against you.
+
+[32:40](https://youtu.be/MX93U4KzA28?t=1960) And it takes a certain personality which is you're really individualistic. You're very ambitious and you have high risk tolerance. Most people don't have that.
+
+[32:50](https://youtu.be/MX93U4KzA28?t=1970) So yes, there are certain people who despite their background, they're able to succeed, but that's often the exception to the rule as opposed to the rule itself. Okay. So thank you.
+
+[33:02](https://youtu.be/MX93U4KzA28?t=1982) Is this clear? >> Yeah. >> Okay. Any more questions, guys, before I move on?
+
+[33:07](https://youtu.be/MX93U4KzA28?t=1987) >> Okay. Can be luck counted as a kind of ability or is just coincidence? >> Okay, that's a really good question. Yeah.
+
+[33:24](https://youtu.be/MX93U4KzA28?t=2004) Yep. So, you're absolutely right. Okay.
+
+[33:30](https://youtu.be/MX93U4KzA28?t=2010) So, luck is a form of strategy. Okay. Strategy and all this is saying is that you are trying to position yourself in a place that allows you to get lucky. Okay?
+
+[33:49](https://youtu.be/MX93U4KzA28?t=2029) So I left Canada and I went to United States because I knew that in Canada doesn't matter how hard you work no one cares. But in the United States, if you work really hard, then you might get lucky and you might meet someone who's like, "Wow, you're a really hard worker. I want to promote you." Okay. So, so you're right in that yes, you can strategize and increase your luck, but it's still luck.
+
+[34:15](https://youtu.be/MX93U4KzA28?t=2055) And those who succeed are able to think strategically and far ahead and position themselves in a way that allows them to get lucky. Okay? And they often have the characteristics that we talked about, you know, like so self-control, resilience, and the ability to look inward and better understand what you're good at.
+
+[34:44](https://youtu.be/MX93U4KzA28?t=2084) So it takes a combination of factors. But the point I'm trying to make is that these people are only a minority are a minority. Okay.
+
+[34:51](https://youtu.be/MX93U4KzA28?t=2091) 1% of the population really. Okay. And they still depend on luck. Any more questions before I move on?
+
+[35:07](https://youtu.be/MX93U4KzA28?t=2107) So this leads us to a question which is okay. Well, the way that I frame everything, okay, the way that I frame everything, you have poor and you have rich. And as discussed, they live in their own world worlds and they don't really connect with each other.
+
+[35:25](https://youtu.be/MX93U4KzA28?t=2125) They have different parenting strategies. They have different outlooks. The rich stay with themselves, the poor stay amongst themselves. So, this looks like a very stable system, right?
+
+[35:34](https://youtu.be/MX93U4KzA28?t=2134) Stability or the word we can use is equilibrium. Now the question then is why do societies collapse? Why are there revolutions? Why are there social changes?
+
+[35:52](https://youtu.be/MX93U4KzA28?t=2152) This looks like an like a system of equilibrium where because of parenting people know their place and people know how to best strategize about maintaining their place. So why are they why is there social change? And the reason why is that this system has problems and it's stable. But the main problem is this system.
+
+[36:21](https://youtu.be/MX93U4KzA28?t=2181) It's the rich that's problematic. And the reason why is that the rich are taught from day one to negotiate a better outcome. Okay. So know another know another way of saying this is that the poor is like minimum outcome.
+
+[36:38](https://youtu.be/MX93U4KzA28?t=2198) The rich want the maximum outcome. The poor are like you know what if I'm you know if I'm alive if I have a decent job I'm okay. The [snorts] but the rich are like no I need to be the top dog I need to improve my lot in society otherwise what's the point of my life okay so they have high expectations okay high expectations low expectations okay and this is a problem because power it's a zero- sum Okay, hierarchy is a zero sum game.
+
+[37:24](https://youtu.be/MX93U4KzA28?t=2244) So only a few people can be at the top. So eventually you get a you get into a situation where there are too rich people, too many few too many rich people and not enough powerful positions. And this is what's called elite overp production. Okay.
+
+[37:49](https://youtu.be/MX93U4KzA28?t=2269) And then what happens here is that in order to get power certain factions of the rich will align with certain factions of the poor against the powers that be. Okay. So all revolutions are always between the have a lot versus have some. It's never between rich and poor.
+
+[38:15](https://youtu.be/MX93U4KzA28?t=2295) It's always between half a lot and half some. So the people who led the Chinese revolution, right, people like Mudon, join Lai, Don Ping, they were not poor people. They didn't come from poor families, but they weren't rich enough. Okay, so the Chinese revolution was really between the urban elite versus the rural elite.
+
+[38:38](https://youtu.be/MX93U4KzA28?t=2318) The have a lot versus have some. If you look at every revolution in human history, that's always been the case. Okay? If you go back to Chinese history and you look at all these revolutions that started in China, it was it was always led by the middle class or the aspirational class, usually merchants, right?
+
+[39:04](https://youtu.be/MX93U4KzA28?t=2344) Merchants, because they were discriminated heavily in society, but they had money and they wanted to transform their money into power. And so when times were bad, when people were looking for change, they took the initiative and led people into revolution. Okay. Okay.
+
+[39:27](https://youtu.be/MX93U4KzA28?t=2367) Does it make sense, guys? All right. Any questions? Yeah.
+
+[39:39](https://youtu.be/MX93U4KzA28?t=2379) >> All right. >> [clears throat] >> So you said the revolution was initiate be within those rich people. So how could they lead the poor people to vote to follow them to start the revolution because revolution need a huge amount of people like the public face to like yeah to initiate. >> Okay.
+
+[40:10](https://youtu.be/MX93U4KzA28?t=2410) Great question. Okay, so revolutions are almost the same. So over time because of the structure because of the inequality between rich and poor certain problems arise. Okay.
+
+[40:24](https://youtu.be/MX93U4KzA28?t=2424) So and these problems are extremely common. The first problem okay problems the first problem is indebtedness. Because the rich have a monopoly over wealth. For the poor to survive, they need to borrow money.
+
+[40:47](https://youtu.be/MX93U4KzA28?t=2447) But over time, because of interest rates, the poor find themselves in slavery. Okay? Because if you can't afford to pay back the bank or the rich person then your body is collateral. Okay.
+
+[41:08](https://youtu.be/MX93U4KzA28?t=2468) So you become a slave but not only do you become a slave but your children become slaves as well. So slavery becomes a very common problem. And then the third issue of course is landlessness. Okay.
+
+[41:24](https://youtu.be/MX93U4KzA28?t=2484) So these are the three most common problems that ultimately become the seeds of revolution. The poor get into debt and so they lose their land and their children become slaves. The children their children's children become slaves as well. Okay?
+
+[41:40](https://youtu.be/MX93U4KzA28?t=2500) Because of interest rates it's impossible for you to pay back that debt. Okay? So now you have a majority of people who have absolutely no incentive to live. So what happens now is that a elite okay say to these people follow me into revolution and I will clear your debts.
+
+[42:13](https://youtu.be/MX93U4KzA28?t=2533) I will give you land and I will end slavery and that's it. Okay. Every single revolution has been like this. There have been different names.
+
+[42:24](https://youtu.be/MX93U4KzA28?t=2544) So for example, communists are like we'll create a communist paradise. What's a communist paradise? A communist paradise is where debt is canceled, where people are given land and where no one's a slave.
+
+[42:33](https://youtu.be/MX93U4KzA28?t=2553) Then others like okay we'll create a religious paradise. Islam. Okay.
+
+[42:37](https://youtu.be/MX93U4KzA28?t=2557) So Muhammad the Islamic Revolution was about this initially later on it changed right and Muhammad said to everyone we're going to create the kingdom of heaven what's the kingdom of heaven the kingdom of heaven is where people don't have debt where people have land to feed themselves and where there are no slaves so if you are a Muslim you can never be a slave okay so look at every single revolution it's this pattern where over time because of inequality in society, you have people who fall into too much debt. They become slaves. They have no land. And then because of elite overp production, you have this faction that splinters off and who in order to obtain power, get the people on their side.
+
+[43:27](https://youtu.be/MX93U4KzA28?t=2607) And you look at the Roman civil war, Julius Caesar was saying the same thing, right? Why was he so popular? Because he was saying to the Roman people, if I become king, I will get rid of your debt.
+
+[43:41](https://youtu.be/MX93U4KzA28?t=2621) I will free you of slavery and I will give you land. And that's why they had to kill him. Hey, why is Donald Trump so popular in America right now? Same thing, man.
+
+[43:52](https://youtu.be/MX93U4KzA28?t=2632) Where Americans are in debt to their credit cards, student loans, their houses, and so they believe that Donald Trump were to come to power. If you want to become king, what's the first United King does? What the first United King always does is cancel all debts. Because if you cancel all debts, who loses power?
+
+[44:12](https://youtu.be/MX93U4KzA28?t=2652) It's the rich who lose power. And it's the rich who almost dangerous to a king. Okay. Does that make sense?
+
+[44:25](https://youtu.be/MX93U4KzA28?t=2665) So, so again, this is a very similar pattern in human history. It's all game theory. Okay.
+
+[44:32](https://youtu.be/MX93U4KzA28?t=2672) Any [snorts] more questions guys? Okay, ask one more one more question that then we'll break. Okay, is this clear to you guys? >> Okay, so another way of understanding this is that according to game theory, individuals don't really matter.
+
+[44:53](https://youtu.be/MX93U4KzA28?t=2693) You have to look at large groups. You have to look at large social trends. Okay, you cannot really change the outcome for certain groups of people like poor kids unless you look at the overall structure in which they live. Okay, one more question guys then we'll break for the day.
+
+[45:25](https://youtu.be/MX93U4KzA28?t=2725) Yeah. Alan. So like is that the society or like just the elite that really rule the country who really have the power have the motivations to maintain a society that a certain degree of social mobility is allowed but not all of them. But not a really a big social mobility.
+
+[45:53](https://youtu.be/MX93U4KzA28?t=2753) So that first firstly they can maintain their power but second like they give the lower class people a hope to get into the rich class but not using like revolutions or other things that will like turn this society into collapse. >> Okay. Yeah. Okay.
+
+[46:15](https://youtu.be/MX93U4KzA28?t=2775) Look, you're absolutely right. So social mobility is really the best form of governance, right? >> As long as you enable people with talent and ability and ambition to climb up, they'll be happy and your society will be very stable. But not only will be very stable, it will be very prosperous, very creative.
+
+[46:39](https://youtu.be/MX93U4KzA28?t=2799) It doesn't matter what system you have. Okay? So the example is okay America 1950s was a democracy and there's a lot of social mobility and so people worked really hard and America became very wealthy but guess what in China 1950s China was not democracy it was it was a communist system but in 1950s people worked really hard as well why because China was destroyed after decades of war and there were lots of opportunities for social mobility. If you worked hard, you got promoted very quickly in the system.
+
+[47:16](https://youtu.be/MX93U4KzA28?t=2836) So even though it was a communist system, not a capitalist system, even though it was it was it was a commanding economy rather democracy, people worked really hard because they thought that by working hard they can improve their lives. So social mobility is the best form of governance. You don't need democracy. You don't need any system.
+
+[47:36](https://youtu.be/MX93U4KzA28?t=2856) As long as you have social mobility, people will be happy. The problem though is that over time less than a generation all the positions of power are failed. Okay.
+
+[47:48](https://youtu.be/MX93U4KzA28?t=2868) So the people with talent [snorts] who made the country great who made the country wealthy when they when they get into power they don't want people like them to replace them. They want their children to replace them. Okay. And over time these children are a lot.
+
+[48:14](https://youtu.be/MX93U4KzA28?t=2894) So what happens is at the very top all the positions are filled and there's a waiting list as well. So if you are a poor person who is who works hard, really talented, unfortunately all those positions at the top are filled already and the wait and there's also waiting list. So too bad. Okay.
+
+[48:37](https://youtu.be/MX93U4KzA28?t=2917) And this is and again you just look at Chinese history right? Look at Chinese history where at the beginning of the dynasty you had all these talented people take the civil entrance examination the kju and these are really taught people but then what happens is that they have children and they teach their children how to do on the kju and then eventually they're like you know what we'll just cheat. So they corrupt the kju and then eventually like you know what screw this whoever can pay to pass a kju will pass a kju and then all the positions at the very top are filled there's no more social mobility so what do people do they engage in revolution right so you look at hio tren right he failed the kju or he there was no position at the top for him so he started so he believed He became brother, brother of Jesus, right?
+
+[49:32](https://youtu.be/MX93U4KzA28?t=2972) And he started this revolution that claimed tens of millions of lives in China. Why? Because there was no social mobility for him. 50 years ago prior, he would have been a he would have been a civil servant.
+
+[49:44](https://youtu.be/MX93U4KzA28?t=2984) Same thing for Maong, right? By the time that Maong became a university student, the ku had been eliminated. So there's no way for him to climb the ladder anymore. Therefore, he had to start engaging in new ideas.
+
+[50:05](https://youtu.be/MX93U4KzA28?t=3005) So, you're absolutely right in that social mobility is the best way to maintain social harmony, but people have children and they want the children to succeed and they will arrange a system in a way that only their children can succeed, which screws over every other children, every everyone else. And so they have no choice but to overthrow the system. Okay?
+
+[50:30](https://youtu.be/MX93U4KzA28?t=3030) Or another way of saying this is game reset. Game reset. [snorts] This is what a revolution is. Okay.
+
+[50:42](https://youtu.be/MX93U4KzA28?t=3042) So another way another way of saying this is that 100 people are playing a game, 10 people are winning and they keep on winning and they can only win. So everyone else is like screw this game let's start a new game and the 10 people are like nope we're happy playing this game they can't agree so the United people can only the only thing they can do is a revolution which allows for game reset which now again allows for social mobility and that is the course of human history. Okay. Either you climb up the ladder.
+
+[51:25](https://youtu.be/MX93U4KzA28?t=3085) If they don't allow you to climb up climb up the ladder, then you'll just break the game. Okay. So, but unfortunately, again, [sighs] once you're in power, you want your children to inherit your power. And so, you will rig the game in a way that only your children can succeed.
+
+[51:43](https://youtu.be/MX93U4KzA28?t=3103) And that's why the school that's why the schools are the way they are. Okay, schools for the rich are very different from the very different from schools for the poor, right? Schools for the rich, there's a lot of freedom, there's a lot of creativity, the teachers are very good.
+
+[52:01](https://youtu.be/MX93U4KzA28?t=3121) You go to poor schools and it's the complete opposite. And the reason why is the system is set up to make sure that certain people succeed and everyone else fails. Okay, does that make sense, Alan? >> Okay, great.
+
+[52:16](https://youtu.be/MX93U4KzA28?t=3136) Any more questions, guys? All right, good. I'll see you guys next class.

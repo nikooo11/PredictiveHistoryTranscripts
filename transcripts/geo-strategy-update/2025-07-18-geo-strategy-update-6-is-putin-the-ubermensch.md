@@ -1,0 +1,233 @@
+---
+title: "Geo-Strategy Update #6:  Is Putin the Ubermensch?"
+series: "Geo-Strategy Update"
+episode: 6
+date: "2025-07-18"
+date_kind: "published"
+video_id: "ZgvAHZqaawA"
+url: "https://www.youtube.com/watch?v=ZgvAHZqaawA"
+duration: "45:10"
+words: 5451
+punctuated_captions: true
+duplicate_of: null
+source_edited: "source/lightly edited/transcripts/Geo-Strategy Update/099 — Geo-Strategy Update #6 Is Putin the Ubermensch [ZgvAHZqaawA].md"
+---
+
+# Geo-Strategy Update #6: Is Putin the Ubermensch?
+
+Geo-Strategy Update · Published 2025-07-18 · 45:10 · 5,451 words · [Watch on YouTube](https://www.youtube.com/watch?v=ZgvAHZqaawA)
+
+## YouTube description
+
+> Why did Putin invade Ukraine?  What is his endgame?  How did he come from nowhere to become the most powerful man in Russia?
+>
+> In this talk, Professor Jiang offers a hypothesis and three predictions.  He believes that there is a secret nexus of power within Russia that sees Putin as the Second Coming of Stalin who will unite the Orthodox world and restore the Byzantine empire.  
+>
+> From this hypothesis, we can make three predictions:
+> 1.) Odessa will be a cataclysmic battle between NATO and Russia.
+> 2.) China and Russia will have a falling out.
+> 3.) Russia will defend Iran.
+>
+> References and Further Study:
+> 1.  Read more about Spiridon Putin:
+> https://en.wikipedia.org/wiki/Spirido...
+> 2.  Learn about the Third Rome prophecy here:
+> https://en.wikipedia.org/wiki/Moscow,...
+> 3.  St. Paisios is a Orthodox mystic who purportedly foresees a war between Russia and Turkey:
+> https://en.wikipedia.org/wiki/Paisios...
+> 4.  Essay on how Putin's faith shapes his politics:
+> https://www.theosthinktank.co.uk/comm...
+> 5.  In this video from last year, an Orthodox predicts that the Israelis will attack Iran's nuclear research facilities:
+>    • Prophecy: When Israel Hits Iran’s Nuclear ...  
+> 6.  If you're interested in understanding how Orthodox Christians understand prophecy in geo-politics, this is a great resource:
+>    • Orthodox Prophecies & WW3 with World War N...  
+> 7.  Read why and how the Russian Orthodox Church supports Putin's war in Ukraine:
+> https://reutersinstitute.politics.ox....
+>
+> Please follow me on Twitter/X at:  https://x.com/xueqinjiang
+>
+> If you have the means please support my work at: https://buymeacoffee.com/predictivehi...
+
+## Transcript
+
+[00:00](https://youtu.be/ZgvAHZqaawA?t=0) Good morning YouTube. Professor Jang here coming to you from a beautiful Toronto morning. So two big news to report. The first big news is that there's chatter now that the Israelis will resume air strikes against Iran very shortly.
+
+[00:20](https://youtu.be/ZgvAHZqaawA?t=20) And this comes after Netanyahu's visit to Washington last week where he presumably received permission to do so from the Trump administration. Second big news is that NATO will resume weapon shipments to Ukraine. Trump has given Putin a 50 50-day ultimatum to end this war in Ukraine or else Trump will be really angry at him. I understand that there are many who are disappointed that Trump has not been able to end this war in Ukraine in one day as he promised during the campaign.
+
+[01:10](https://youtu.be/ZgvAHZqaawA?t=70) But if you've been an avid follower of this channel, then you will know that this was entirely expected. We can only expect this war in Ukraine to expand. We can only expect the Middle East conflict to escalate. So today I want to focus on the war in Ukraine.
+
+[01:28](https://youtu.be/ZgvAHZqaawA?t=88) I want to talk about Putin specifically from a game perspective. This war in Ukraine is very strange because American strategy, American policy, American tactics, they've all been self-defeating. I'll give you three examples. The first example is how aggressive America Ukrainian strategy and military doctrine has been.
+
+[01:59](https://youtu.be/ZgvAHZqaawA?t=119) Second is American sanctions against Russia and the third example is the blowing up of the Nordstream pipeline. All three of these policies have been defeling. So to understand why, we're going to use counterfactual. We're going to use game theory counterfactual and compare it to what actually happened.
+
+[02:27](https://youtu.be/ZgvAHZqaawA?t=147) So let's start with Ukrainian military strategy against Russia. The counterfactual is this. The counterfactual is that America chose not to intervene. NATO is not involved and Ukrainians are left to fight the Russians by themselves.
+
+[02:52](https://youtu.be/ZgvAHZqaawA?t=172) Well, in this in this situation, the Russians are very quickly in about 3 to six months, they're able to bowdo their way throughout eastern Ukraine. And in about 6 months time, they're able to encircle Odessa. And if they capture Odessa, then the entire eastern Ukraine region is now under Russian control. The problem though is that the Russians are overextended and what Russians are not very good at is organization and logistics and planning.
+
+[03:28](https://youtu.be/ZgvAHZqaawA?t=208) And so what the Ukrainians are able to do is they're able to launch probing attacks against Russian front lines that are very effective. They're also able to employ hidden run gerilla tactics behind the lines to disrupt the flow of Russian supplies. And after 6 months, the Russian soldiers in Ukraine, they're heavily demoralized because they don't have enough to eat. There's really no strategy moving forward.
+
+[04:02](https://youtu.be/ZgvAHZqaawA?t=242) They're kind of stuck where they are. At first, the Russian people were in favor of this war. There's patriotic zeal but after six months they sour against this war and popular opinion turns against Putin and now it's very hard for Putin to sustain this war there's no strategy moving forward the Russian people don't really see the point in this war the Russian military is heavily overextended in Ukraine and in this instance Ukraine will probably win this war. So that's a counterfactual.
+
+[04:45](https://youtu.be/ZgvAHZqaawA?t=285) If America did not intervene in this war, what happened in reality is that Ukraine chose to fight for every inch of territory. And because it did that, it played to Russia's ultimate strength, which is defensive artillery warfare. It's the best in the world at that. And because the Ukrainians kept on attacking the Russian military, the Russian military was forced to constantly adapt and to be flexible and to be resilient.
+
+[05:26](https://youtu.be/ZgvAHZqaawA?t=326) So quickly it quickly learned how to use drone warfare to its advantage. So, another way of saying this is that by constantly being on the offensive, by fighting for every inch of territory, the Ukrainian military trained the Russian military on how to be a modern military capable of fighting a modern military campaign, spec specifically using drone warfare. And the result of this is that Russia now has battlefield dominance. It basically controls most of eastern Ukraine, the Donbas region.
+
+[06:18](https://youtu.be/ZgvAHZqaawA?t=378) And the Ukrainian military because of its relentless aggression against the Russian military, it's really now short on manpower. And the morale in the military is very low. And what's been amazing about this campaign is the Ukrainians haven't really learned battlefield lessons. They really didn't adapt to how the Russians were adapting.
+
+[06:49](https://youtu.be/ZgvAHZqaawA?t=409) And this sort of suggests that the entire military campaign was being run out of Brussels or Washington DC, but it's certainly not being run by the Ukrainians. And because of this, the Ukrainians have really lost the war. So that's the first example of where American strategy in Ukraine has been self-defeating. Second example are these American sanctions against Russia, specifically targeting Russian business people with close ties to the Putin regime, which is basically every single business person in Russia.
+
+[07:36](https://youtu.be/ZgvAHZqaawA?t=456) The counterfactual is America does not impose sanctions. Well, as this war runs its course, the biggest opposition to Putin is the oligarchal elite, these business people who see their trade their industry suffer because of this war and they start to organize subtle quiet underground resistance against Putin. Basically, they engage in forms of economic sabotage. Putin and the business elite have always had an uneasy relationship.
+
+[08:21](https://youtu.be/ZgvAHZqaawA?t=501) But the fact that the Americans targeted the business elite, 70 of the 200 top business people in Russia were hit with sanctions. Then what that did ultimately was unify the business elite around Putin. They didn't have an option there. If they in a ideal world, they would prefer to maintain close relationships with the western world because that's where they send their wealth and their children and that's where they like to have their second homes.
+
+[08:56](https://youtu.be/ZgvAHZqaawA?t=536) And we know this because of what's happening in China. So there is a trade war between United States and China, but this is a general trade war that's targeting the Chinese economy. It's not targeting specific individuals in China. And as a result of this, what's happened is that the business elite have unified against Ciinping and this has made governance hard for Cing Ping.
+
+[09:30](https://youtu.be/ZgvAHZqaawA?t=570) So the example is an ideal world where Cinping was in control, he would like the military to start invasion plans against Taiwan. But that's not h but that's not what's happening. It seems as though the Chinese regime, it's in sort of governance deadlock. He can't really govern.
+
+[09:53](https://youtu.be/ZgvAHZqaawA?t=593) We haven't heard that much news from China. And there's always these rumors that Senping is on his way out. Now, these rumors are completely false. They're fabricated.
+
+[10:04](https://youtu.be/ZgvAHZqaawA?t=604) But it shows you that he's not as powerful as people like to believe. So when it comes to China, it seems that American policy has been calibrated in a way to achieve long-term American interests. That's not been true in Russia. The sanctions against Putin's regime and the oligarchical interest in Russia has unified the Russian elite.
+
+[10:38](https://youtu.be/ZgvAHZqaawA?t=638) Much more problematic is that the western financial system has frozen about $300 billion dollars in Russian assets. That's essentially just stealing and that basically undermines the credibility of the western financial system and ultimately it undermines the credibility of the US dollar which is a source of American imperial power. And so that's been very self-defeating. The third example I want to look at is the blowing up of the Northstream pipeline.
+
+[11:17](https://youtu.be/ZgvAHZqaawA?t=677) Everybody knows the Americans blew that up. And because it blew it up, it's really caused the German economy, which was dependent on cheap Russian gas, it's caused the economy to crater. So the kind of factual is the Americans didn't do this. The Americans didn't blow up the Northream pipeline.
+
+[11:36](https://youtu.be/ZgvAHZqaawA?t=696) Well, over time as this war in Ukraine continues, the German people would have been very angry at Russia. In response, there would been political pressure to impose sanctions on Russia. And so the Germans would have stopped buying Russian gas naturally and they would start buying American oil naturally. But and the German economy would have created because of this.
+
+[12:10](https://youtu.be/ZgvAHZqaawA?t=730) But at that point, the German people would have blamed Putin for their economic misery. Instead, by blowing up the Nordstream pipeline, the German people now all know that they're suffering the economic misery. It's all because of the Americans. Okay?
+
+[12:28](https://youtu.be/ZgvAHZqaawA?t=748) So, the blame now rests on the Americans. And this is long-term problematic because there's only one force that can possibly defeat the Anglo-American Empire and that's a and that is a alliance between Germany and Russia and that's ultimately what Putin wants. And so by blowing up the Northstream pipeline, America has basically unleashed these structural forces that will culminate in a possible alliance between Germany and Russia and that would ultimately destroy the Anglo-American hijgemoni in the world. So these are three examples of American policies that are self-defeating.
+
+[13:19](https://youtu.be/ZgvAHZqaawA?t=799) And again from a game third perspective, this is this is strange. And again, when it comes when it comes to China, American policy is far more calibrated. It's far more strategic. It's far more able to achieve long-term American interests.
+
+[13:36](https://youtu.be/ZgvAHZqaawA?t=816) So the mystery, the paradox that we're looking at today is why is it that when it comes to Russia, American policy is so self-defeating? It's almost as though Putin has spies implanted within the Western Imperial apparatus. It's very strange. The second question I want to look at today is where exactly did Putin come from?
+
+[14:10](https://youtu.be/ZgvAHZqaawA?t=850) How is it that this nobody this man who came from a lower middle class family in St. Petersburg and he was an unknown entity for the for the first 30 years of his life. How did he suddenly become the most powerful man in Russia? So that's the second big question I want to look at today.
+
+[14:37](https://youtu.be/ZgvAHZqaawA?t=877) The third big question is where is this all going? What does Putin want? Why did he invade Ukraine? Okay, so those are the three big questions we're looking at today.
+
+[14:50](https://youtu.be/ZgvAHZqaawA?t=890) And I'll be very honest with you, these three questions are unanswerable. Okay, I don't know why. I don't know the answers to any of these three questions. And quite honestly, we'll never know because there's not enough information to work with.
+
+[15:09](https://youtu.be/ZgvAHZqaawA?t=909) So, what I'm going to do today is I'm going to present a hypothesis. And there's going to be a lot of problems with this hypothesis. But the good thing is that with any hypothesis, there is embedded in it in a prediction model. So I'm going to explain to you the hypothesis and then from the hypothesis I'm going to conjecture certain predictions that this hypothesis model entails and these predictions will tell us if the hypothesis model is correct or not.
+
+[15:38](https://youtu.be/ZgvAHZqaawA?t=938) So that's what we're going to do today. All right. So let me present to you my hypothesis to the three questions.
+
+[15:49](https://youtu.be/ZgvAHZqaawA?t=949) Why is Putin winning the war Ukraine? Where did he come from? What does he want? Okay, so I'm going to start off with a couple of biographical details about Putin.
+
+[16:02](https://youtu.be/ZgvAHZqaawA?t=962) And remember, what's really important is we're getting these details from the mouth of Putin himself. So, it's possible these details are fabricated. It's possible they're embellished. But let's just look at these two details.
+
+[16:18](https://youtu.be/ZgvAHZqaawA?t=978) The first detail I want to look at is Putin tell told the New York Times in interview that his grandfather Spirrodon Putin was the personal cook to both Vladimir Put sorry Vladimir Lennon as well as Joseph Stalin. Okay, that's the first detail I want to look at. Second detail I want to look at is and again Putin told this to reporters in an interview. His mother was a devout Christian who secretly baptized him and even today he wears the baptismal cross to show his devotion to his mother and to his faith and to his country.
+
+[16:57](https://youtu.be/ZgvAHZqaawA?t=1017) So what do these two details tell us? And again remember what's really important is these two bio bical details could be completely fabricated. Okay. All right.
+
+[17:11](https://youtu.be/ZgvAHZqaawA?t=1031) But let's assume that there is truth to these details. Spiritan Putin, Putin Putin's grandfather was the personal cook to both Lenin and Salin. Well, what this tells us is that he was a very powerful person because he had access to the most powerful people in Russia. And if you're powerful, then you can start to do favors for other people.
+
+[17:43](https://youtu.be/ZgvAHZqaawA?t=1063) You can promote their careers. You can also save their lives. And as a result, a lot of people high up in the Soviet bureaucracy, the nomenclature, they a lot of favors to Putin's grandfather. Okay, that's the first thing.
+
+[18:06](https://youtu.be/ZgvAHZqaawA?t=1086) Second thing is because he was a personal cook to the most powerful people in the Soviet Union, it meant that he was extremely trusted. He was probably part of the KGB, a very high official within the KGB and also the KGB was probably spying on him, his family, and all his friends. And they found nothing wrong with this guy. Spiran Putin died of old age.
+
+[18:33](https://youtu.be/ZgvAHZqaawA?t=1113) He died when was 86 when Putin was 13 years old. And he was never purged. He was never arrested. He was never suspected of anything.
+
+[18:45](https://youtu.be/ZgvAHZqaawA?t=1125) So this man clearly was humble. He had no ambitions and he was selfless. He was dedicated to his leaders, preparing good meals for his leaders.
+
+[18:56](https://youtu.be/ZgvAHZqaawA?t=1136) And that suggests to me that he was religious. And again, it was very common for Russians of his generation, of his background to be Orthodox Christian. And so he was probably religious and he was probably a devout orthodox Christian. Okay, that's second thing that we must know about him.
+
+[19:25](https://youtu.be/ZgvAHZqaawA?t=1165) The third thing that I suspect is that he really loved and admire Lenin and Stalin, especially Stalin because remember in World War II Hitler invaded the Soviet Union. It really seemed the end of days. 27 million Soviet citizens died in this war. And for a Russian to have won this war, you had to believe that it was divine intervention and you had to believe that Stalin really was the Messiah.
+
+[20:04](https://youtu.be/ZgvAHZqaawA?t=1204) And what's important is Stalin was able to win this war because of his reproachment with the Orthodox Church. Starting with Lenin, there was massive persecution of the Orthodox church because Lenin, Trosky, they were all atheist, Marxist intellectuals who believe that it was Orthodox Christianity that kept Russia feudal, primitive, backward. Stalin is different because Stalin was not a Marxist intellectual. He never went to university like Lenin and Trosky.
+
+[20:46](https://youtu.be/ZgvAHZqaawA?t=1246) In fact he was poor. His father was an abusive alcoholic. His mother though was a devout Christian who sent her son to seminary in order to become an Orthodox priest. And so Salin didn't grow up in the Marxist tradition.
+
+[21:05](https://youtu.be/ZgvAHZqaawA?t=1265) He grew up in the Orthodox tradition. And that's probably why he got along much better with the Orthodox Church than he did with these marchers intellectuals whom he ultimately purged and killed. So during World War II, Stalin had to engage the people. He had to excite them.
+
+[21:30](https://youtu.be/ZgvAHZqaawA?t=1290) And so he relied on the Orthodox Church to stir up these ethnic religious sentiments, these nationalistic sentiments in order to unite the people against the Nazis. And for the Orthodox Church, this really was a holy war. This was a war between the third Rome, which is Moscow. In the Orthodox tradition, Moscow is considered the third Rome.
+
+[21:55](https://youtu.be/ZgvAHZqaawA?t=1315) The sec second Rome of course was Consenapole which fell to Ottoman Turks in for 1453. And so this war was really the ultimate struggle between true Christian civilization which is Soviet Union and the antichrist which was Nazi Germany. And the Orthodox church then had to see Stalin as messiah, as the chosen one who would lead them to ultimate victory against the Nazis, who would redeem Russian civilization from the evil communism and who would restore the Bison Empire. But before Stalin could restore the Bison Empire, he died.
+
+[22:44](https://youtu.be/ZgvAHZqaawA?t=1364) Some believe that his colleagues who are afraid of him, they poison him. But in the Orthodox tradition, that just means that he truly is Messiah. Because remember, Jesus had to die before we could be redeemed. And Jesus had to die before the world could truly believe in him.
+
+[23:10](https://youtu.be/ZgvAHZqaawA?t=1390) And because he died, there's now a promise that he would eventually return and save the world, the second coming. So after Salin died, we can imagine that there were many people within the Orthodox Church and also within elite Soviet politics that believed that S would ultimately return to lead the lead Russian civilization into ultimate victory against the antichrist. And he would ultimately restore the Baian Empire which is the destiny of Moscow. So why is this important?
+
+[23:46](https://youtu.be/ZgvAHZqaawA?t=1426) It's important because these ideas spirit Putin would tell his grandson Vladimir Putin. Spiritan Putin would also introduce Putin to this elite nexus of power within the Orthodox church and within the Soviet hierarchy so that Putin was well known to powerful people and ultimately Spiritin Putin would come to believe that his grandson it's possible this very precocious young man. It is possible that he could be the second coming of Stalin. Okay.
+
+[24:32](https://youtu.be/ZgvAHZqaawA?t=1472) And so this helps us helps us understand and answer the second question which is how did Putin come into power? And the reason is that he was well known to a secret faction of the Orthodox Church and the KGB. And he was slowly nurtured over time. And when the time was appropriate at the fall of the Soviet Union, after basically the increasing unpopularity of the Elson regime, they thought now is perfect time to put Putin into power.
+
+[25:15](https://youtu.be/ZgvAHZqaawA?t=1515) This also helps us explain the third question which is what Putin wants and Putin wants to be the second coming of Stalin. He wants to finish the mission that Stalin could not finish, which is the restoration of the Bison Empire. And so how will this be accomplished? Well, within the Orthodox esquetological tradition, there's a prophecy.
+
+[25:44](https://youtu.be/ZgvAHZqaawA?t=1544) And this prophecy is attributed most famously to a Greek Orthodox monk named Pacios of Mount Anthos. There's controversy as to whether or not he actually said this prophecy, but it's most commonly attributed to him. And that's what the Russian narrative is. And the prophecy goes like this.
+
+[26:11](https://youtu.be/ZgvAHZqaawA?t=1571) Russia and Turkey are destined to go to war against each other right now. President Aragon of Turkey, he's a very sly political operator. He's able to balance competing factions within his government, but he's also able to compete to sorry, he's also able to balance competing forces in geopolitics, specifically Russia and NATO. Turkey is a member of NATO, but Turkey remains a close relationship with Russia.
+
+[26:50](https://youtu.be/ZgvAHZqaawA?t=1610) But after he passes from Msine, after he falls in power, then the new government will become very pro-NATO. And at that point, Turkey will start aggressive policies against Russia, like for example, closing off the Bosphorus and allowing NATO warships to enter the Black Sea, which will force Russia to invade Turkey. Russia will destroy Turkey in a matter of days because remember Russia is a nuclear superpower and then Russia will hand Turkey Caranopole back to the Greeks and this will restore the Basian Empire. The Haga Sophia, the main cathedral in Consipole, which was the seat for many centuries, the seat of the Orthodox world that will be restored as an Orthodox church.
+
+[27:50](https://youtu.be/ZgvAHZqaawA?t=1670) It will be cleansed of it, of its Islamic pollution, and this will unify the Orthodox world around Russia and around Putin. Okay? And that's the prophecy. And when I heard about this prophecy online and what I'll do is I'll link YouTube I'll link YouTube videos describing this prophecy in the in the description.
+
+[28:15](https://youtu.be/ZgvAHZqaawA?t=1695) It's very important that you yourself understand this prophecy. When I when I first encountered this prophecy, I thought it was very strange because it didn't really sound like a prophecy. It sounded more like a plan. So, I won't be surprised if the truth is that Russian intelligence implanted this prophecy among Orthodox monks because remember there's always been a close relationship between Russian intelligence and the Orthodox Church and so what's the plan?
+
+[28:53](https://youtu.be/ZgvAHZqaawA?t=1733) The plan is to cause a war between Russia and Turkey which will allow Russia to reclaim Constantinopole and then it would unite the Orthodox world. So that's prophecy. So how would this plan come into being? Well, what's interesting is if you look at the trajectory of the war in Ukraine right now, it seems that this plan, this prophecy will happen naturally because the next phase of this war is the Russian encircumment of Odessa.
+
+[29:30](https://youtu.be/ZgvAHZqaawA?t=1770) If Russians are able to take Odessa, Ukraine is finished because Russia will be able to control the entire coastline which allows them to control trade and logistics in the Black Sea. And once Russia controls Eastern Ukraine, the war is over because Eastern Ukraine is the agricultural and industrial heartland of Ukraine. Russian UK Russ western Ukraine will become a welfare state for the European Union and Putin is very happy to have that happen. This means that NATO will make its last stand in Odessa.
+
+[30:09](https://youtu.be/ZgvAHZqaawA?t=1809) Now a lot of preparations are being made to reinforce Odessa and this is great for Putin because once the Russians are have been able to encircle Odessa, it becomes a death trap for NATO. NATO will send in a lot of soldiers and they're all just going to die there and this is going to cause a lot of popular resentment back in France, in Britain, in Poland and this will probably cause a civil war in these nations. Remember these nations are already on the brink of civil war and what's more important is that eventually Turkey will be brought into this war because it is a NATO ally and as a result this gives Putin the opportunity to confront Turkey. And again what's really important for us to understand is that Russia does not have to defeat Turkey on the battlefield.
+
+[31:16](https://youtu.be/ZgvAHZqaawA?t=1876) It doesn't even have to defeat France or Britain. All Russia has to do is draw this war out. And this war will become increasingly unpopular in Turkey, in Britain, in France, which leads to civil discontent, which leads to political chaos. And eventually these nations will collapse and implode economically and politically.
+
+[31:38](https://youtu.be/ZgvAHZqaawA?t=1898) And when that happens, Russia will be victorious. And so that's Putin's plan moving forward to make Odessa into the final battle between NATO and Russia, which will culminate in the implosion, the blog implosion of Turkey, which will allow for Russia to take over Turkey. In fact, the Turkish people might even invite Putin and the Russians into Turkey, thus fulfilling the prophecy and thus proving that Putin is in fact the Messiah and the second coming of Joseph Stalin. The best evidence for this is again that the biographic detail that Putin revealed to journalists that his mother was a devout Christian who baptized Putin secretly.
+
+[32:35](https://youtu.be/ZgvAHZqaawA?t=1955) This detail is important because it's a it it's a dog whistle to all those orthodox fanatics and extreme Russians out there that in fact Putin and Stalin have a lot of similarities. In fact they're probably the same person because remember son himself his mother was a devout Christian who sent him to seminary school. So that explains the second idea. Okay, that helps us answer second question which is what does Putin want?
+
+[33:12](https://youtu.be/ZgvAHZqaawA?t=1992) Putin wants to restore the bison empire. He wants to unify the Orthodox world and he wants to retake Constantinopole from the Turks and this war in Ukraine is the perfect platform. It's a perfect mechanism for him to achieve the his ambitions. And this leads us to the first question which is how is Putin able to do all this?
+
+[33:43](https://youtu.be/ZgvAHZqaawA?t=2023) How is Putin able to be to be able to control history like this? Frederick Hegel would call Putin the world historical figure and Frederick Nichi would call Putin the ubbermans, the superman, the overman, the man who was able to step outside of history to control history and achieve his book ambitions and by doing so forever change the course of human history. How is he the Uber mates? Okay, so to answer this question and again I don't know the answer.
+
+[34:21](https://youtu.be/ZgvAHZqaawA?t=2061) So here I'm only speculating. To answer this question, what's really important for us to understand is the conflict between the Orthodox Christian world and Western civilization. For Orthodox Christians, they really see Western civilization as a manifestation of the Antichrist. Because Western civilization, the three pillars of Western civilization are capitalism, science, and liberalism.
+
+[34:53](https://youtu.be/ZgvAHZqaawA?t=2093) Liberalism is a cult of the individual, the belief in hiddenism, the belief that the pursuit of individual pleasure is what matters most in life. Science is a rejection of God and the worship of the material world. Capitalism is pure greed, pure selfishness. So for Orthodox Christians, resilization means a rejection of God, of faith, of tradition, which is what the Orthodox tradition represents.
+
+[35:29](https://youtu.be/ZgvAHZqaawA?t=2129) And so for Orthodox Christians, this is a war of civilization, a struggle of civilizations. And only one can survive. Only the western viewpoint can survive or the Orthodox viewpoint can survive. And Orthodox Christians are determined to win this war because if they don't win this war, then the world the world is hopeless.
+
+[35:55](https://youtu.be/ZgvAHZqaawA?t=2155) The world is pointless. And Putin himself has said this in a speech. Okay. So, it seems as though Western civilization is much more powerful than Orthodox civilization, right?
+
+[36:14](https://youtu.be/ZgvAHZqaawA?t=2174) Western civilization, Western Europe, America, it's much more advanced economically, scientifically, technologically. It has a greater population. It has more resources. It has more wealth.
+
+[36:27](https://youtu.be/ZgvAHZqaawA?t=2187) But the orthox Christians believe that God is with them. God communicates with them and God is planning on the destruction of the of the Western civilization and the Orthodox Christians are only the tool of God to achieve this. If you look at current events, then there's a lot of justification for this. But let me explain this in a different way.
+
+[36:55](https://youtu.be/ZgvAHZqaawA?t=2215) So I believe and a lot of people will believe that there is an underlying consciousness to the universe. Hegel calls this the gist. Carl Young call calls this the collective unconscious because we have thoughts, right?
+
+[37:19](https://youtu.be/ZgvAHZqaawA?t=2239) Well, the question then is where do our thoughts come from and where do they go? So let's assume that there is a collective unconscious to the universe and we can call this force God. Well, if that's the case, then we're able to communicate with this collective unconscious. As long as you believe it exists, as long as you make the effort to embrace this collective unconscious, as long as long as you have faith in God.
+
+[37:49](https://youtu.be/ZgvAHZqaawA?t=2269) The problem with western civilization is it denies exist existence of God. It denies the existence of this collective unconscious because of its embrace of materialism. And as a result, it's lost its connection with this collective unconscious. But because the Orthodox tradition, it's much more mystical.
+
+[38:10](https://youtu.be/ZgvAHZqaawA?t=2290) It's focused much more on miracles. It's much more focused on faith. Then there are certain mystics within the Orthodox tradition who are capable of communicating with this collective unconscious. And if you're capable of collective of if you're capable communicating with this collective unconscious, then you're also capable of influencing in a certain way that allows you to achieve outcomes that you desire.
+
+[38:40](https://youtu.be/ZgvAHZqaawA?t=2320) And this helps us understand how Putin is able to control the battlefield in Ukraine, how he's able to man manipulate the Americans into policies that are self-defeating. And it ultimately gives us a sense that Putin will actually ultimately win out in the end because he could be the Uber Muts. Okay, so that's the hypothesis.
+
+[39:05](https://youtu.be/ZgvAHZqaawA?t=2345) The hypothesis is that during the time of Stalin, a secret nexus of power between the Orthodox Church and the KGB came into being and they were determined to achieve the third Rome prophecy and restore the Bian empire. They thought that Stalin could help them achieve this. But after his death, they had to await the second coming of Stalin. And so they were looking for possible candidates.
+
+[39:31](https://youtu.be/ZgvAHZqaawA?t=2371) Finally, they settled on Putin and they elevated him into supreme power. They support him ever since. And now with this war in Ukraine, they see the opportunity to destroy Western civilization and res and create the third world and restore the Bitan Empire. Okay, that's the plan.
+
+[39:48](https://youtu.be/ZgvAHZqaawA?t=2388) That's the hypothesis. Now with this hypothesis, we can make three predictions based on this hypothesis that will tell us if this hypothesis is correct or not. So the first prediction of course is the war in Ukraine will shift to Odessa. That's where the final battle between NATO and Russia will take place.
+
+[40:14](https://youtu.be/ZgvAHZqaawA?t=2414) Turkey will be brought into this war. Once Turkey ended this war, it will become extremely unpopular within Turkey, which will lead to the implosion of the Turkish government and a revolution which would allow Russia to come in easily to control Turkey. Okay, so Odess is the first big prediction. The second big prediction is there'll be a falling out between China and Russia.
+
+[40:39](https://youtu.be/ZgvAHZqaawA?t=2439) Because if this hypothesis is correct and Russia is fighting a war for civilization, for the soul of humanity, it's fighting a war for God, then the true enemy is western civilization, but it's also China because China is even more even more of a godless, valueless, materialistic society than Western civilization. At the very least, United States, Britain, France, they profess to be Christian. But, China, it is decidedly communist, atheist, and it's proudly so. So, Russia has contempt for China and ultimately sees China as an enemy.
+
+[41:26](https://youtu.be/ZgvAHZqaawA?t=2486) Eventually, they'll be falling out. Okay? And we'll see this happen very quickly. And the third prediction is that Russia will defend Iran.
+
+[41:33](https://youtu.be/ZgvAHZqaawA?t=2493) It cannot afford for Iran to fall. Not only for geopolitical reasons, but because in this cosmology, in this war between Russian civilization and Russian civilization, Iran is an important ally for Russian civilization because they're both Russia and Iran are fighting to bring God back to humanity. Okay, so those are the three big predictions. If they of all three predictions happen where the war in Ukraine shifts to this final catismic struggle in Odessa, where Russia and China are falling out and where Russia comes to the aid of Iran, then we will have strong evidence that my hypothesis is correct and in fact Putin does see himself as the second coming of Stalin.
+
+[42:36](https://youtu.be/ZgvAHZqaawA?t=2556) So, that's it. What I will do in my next video is connect all the desperate pieces together and try to predict what will happen around the world next 5 to 10 years. Quick announcement.
+
+[42:56](https://youtu.be/ZgvAHZqaawA?t=2576) I'm taking a break next week. I'm taking my kids camping. It's something that we've been planning for a long time. So, unfortunately, I won't be able to do a video next week, but I will be back the week after.
+
+[43:10](https://youtu.be/ZgvAHZqaawA?t=2590) Also, tomorrow from 8 to 10:00 p.m., East Eastern Standard Time, I'll be doing a Discord live stream. Where I will I can help you elaborate or explain certain issues. That you've been struggling with over the course of these videos. One last announcement is last week I announced that I have a buy me a coffee account and the support has been overwhelming.
+
+[43:47](https://youtu.be/ZgvAHZqaawA?t=2627) So, thank you so much for supporting my work. It's really helpful. But again, don't feel any pressure to support me. If you have the means, please do so.
+
+[43:58](https://youtu.be/ZgvAHZqaawA?t=2638) It's really helpful. I really appreciate it. But don't feel any pressure to do so. I see my mission as trying to educate as many people as possible.
+
+[44:11](https://youtu.be/ZgvAHZqaawA?t=2651) I'm trying to help you understand the world. And I understand that many of you might be confused or they might disagree with what I'm saying. But what's really important is this is a learning process and we're both trying to develop theories and hypotheses and anecdotal models to better understand the world. So, it's a process and there are a lot of things in which I'm going to be wrong.
+
+[44:39](https://youtu.be/ZgvAHZqaawA?t=2679) But what's really important is there are predictions in place and if these predictions happen then that's good reason to think that the analytical model I'm proposing is correct. They don't happen then we'll just go back and change the analyical model. Okay. So this is a process in which we're all trying to learn together.
+
+[44:57](https://youtu.be/ZgvAHZqaawA?t=2697) So that's it. Thank you for listening to this video and I will see everyone next time.

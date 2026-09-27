@@ -1,0 +1,551 @@
+---
+title: "Secret History #16:  The Big Bang of Greek Civilization"
+series: "Secret History"
+episode: 16
+date: "2025-11-06"
+date_kind: "published"
+video_id: "4ehovUNrSrw"
+url: "https://www.youtube.com/watch?v=4ehovUNrSrw"
+duration: "1:07:37"
+words: 10476
+punctuated_captions: true
+duplicate_of: null
+source_edited: "source/lightly edited/transcripts/Secret History/080 — Secret History #16 The Big Bang of Greek Civilization [4ehovUNrSrw].md"
+---
+
+# Secret History #16: The Big Bang of Greek Civilization
+
+Secret History · Published 2025-11-06 · 1:07:37 · 10,476 words · [Watch on YouTube](https://www.youtube.com/watch?v=4ehovUNrSrw)
+
+## YouTube description
+
+> In this Thursday, November 6, 2025 lecture to his Beijing high school students, Professor Jiang explains how Homer gave birth to Greek civilization, humanity's creative peak.  
+>
+> Notes and References:
+> 1.  The Iliad by Homer (translated by Robert Fagles)
+> 2.  Origin of Consciousness in the Breakdown of the Bicameral Mind by Julian Jaynes
+> 3.  The Cosmic Serpent by Jeremy Narby
+> 4.  Anna Karenina by Leo Tolstoy
+> 5.  To the Lighthouse by Virginia Woolf
+
+## Transcript
+
+[00:00](https://youtu.be/4ehovUNrSrw?t=0) Good morning. So today we do Greek civilization. We are focusing on Homer who wrote the Iliad in the Odyssey. A couple years ago I taught the great books.
+
+[00:14](https://youtu.be/4ehovUNrSrw?t=14) So we read the Bible, Dante, Paradise Lost, the Iliad and the Odyssey. And believe it or not, the students favorite book was the Iliad. And this was written maybe 3,000 years ago by this Greek man living in a different time, different culture. Even today, Chinese teenagers think he's wonderful.
+
+[00:43](https://youtu.be/4ehovUNrSrw?t=43) So, Homer is, I believe, the big bang of Greek civilization. All right. So, let us summarize where we are.
+
+[00:54](https://youtu.be/4ehovUNrSrw?t=54) Let's review where we are. Okay. So remember that in the beginning you have this city emerge in a major trade route and it occupies a major river and over time what will happen is that as the city expands it will create colonies along the river and this will create warfare among the city states because they're trying to control trade.
+
+[01:23](https://youtu.be/4ehovUNrSrw?t=83) And this leads to what we call open cooperative competition. And as I keep on saying this is a system that will lead to tremendous innovation. Okay.
+
+[01:40](https://youtu.be/4ehovUNrSrw?t=100) And this is what happened in China, in Mesopotamia and in Egypt. But then over time what will happen is that an empire will emerge and this will create a bureaucracy. Okay. Now bureaucracy has three major characteristics.
+
+[02:01](https://youtu.be/4ehovUNrSrw?t=121) The first is centralization. And because of centralization, you have now have a monopoly and so you have a decrease in competition which means that the society is no longer innovative. Okay. Second is you have censorship meaning that no people are no longer free to express what they want.
+
+[02:33](https://youtu.be/4ehovUNrSrw?t=153) All information is centralized. The third is writing as propaganda. So writing is a system of control as opposed to a system of knowledge creation or self-expression. Okay.
+
+[02:56](https://youtu.be/4ehovUNrSrw?t=176) So these are the three characteristics of an empire and this is true for all empires. This is true for manian Greece. So remember Minanian Greece is the empire that ruled the AGNC during the Bronze Age. What's interesting though is when the branches collapsed, this system allowed for massive innovation which gave us the Greeks.
+
+[03:30](https://youtu.be/4ehovUNrSrw?t=210) So let me explain why. First of all, you now have centralization, but you now have something called the polus. So you basically have a return to the system of open warfare. The polus means citystate in Greek and it gives us the word politics.
+
+[03:52](https://youtu.be/4ehovUNrSrw?t=232) Why? Because these polices were at war with each other always and because every citizen had to risk his life in a war. Every citizen had the right to speak. Okay.
+
+[04:11](https://youtu.be/4ehovUNrSrw?t=251) So before every decision was made, all the citizens could debate. And so as a citizen, you were required to speak in front of others. And as a result, you even though you could be a farmer, you had to educate yourself. You had to gain knowledge.
+
+[04:31](https://youtu.be/4ehovUNrSrw?t=271) You had to learn the art of speaking, what we call rhetoric. And this allowed for massive education and innovation in Greece. The polist because everyone had to learn they had to change the writing system from one of propaganda to one of knowledge seeking. So they changed their writing system.
+
+[04:57](https://youtu.be/4ehovUNrSrw?t=297) So during the mian age the wring system is called linear B. And line B is a hard system to learn. But that's the point. They want the writing system to be hard to learn because then only the elite can learn it.
+
+[05:16](https://youtu.be/4ehovUNrSrw?t=316) And that's what differentiates the elite from the people, right? But now that everyone has to learn, you need you need a more efficient writing system. And so they incorporated they created a new system called the alphabet. Which is the same system we use today because it's so effective.
+
+[05:38](https://youtu.be/4ehovUNrSrw?t=338) So let me explain what the alphabet is. All right, so in the beginning when we first start to write, we had pictograms. Okay, so this is the sun. This is the moon.
+
+[05:51](https://youtu.be/4ehovUNrSrw?t=351) Sun and moon. As you can see, these are just pictures of words. Okay, that's the first step. But then people realize, you know what?
+
+[06:00](https://youtu.be/4ehovUNrSrw?t=360) We actually don't have to write down. We actually don't have to draw down draw out the pictures. We can just use symbols. Okay.
+
+[06:09](https://youtu.be/4ehovUNrSrw?t=369) So now you use symbols like maybe an O and this. Okay. This is now becomes a sun moon. And then people realize you know what there actually a lot of words we cannot draw out.
+
+[06:21](https://youtu.be/4ehovUNrSrw?t=381) But if we make the symbol representing a sound as opposed to an idea, that' be a lot more efficient, right? And so now you can create new words. This is the word now for monsoon because all you're doing is you're adding two sounds together. Okay?
+
+[06:42](https://youtu.be/4ehovUNrSrw?t=402) And this is what I call a syllary. Okay? So linear B was a syllary. And the Chinese system is what I call an idoggram.
+
+[06:58](https://youtu.be/4ehovUNrSrw?t=418) Idiogram. Okay. So it's not representing sounds, it's representing ideas. All right?
+
+[07:02](https://youtu.be/4ehovUNrSrw?t=422) And then people realize, you know what, for it to be most efficient, to be most flexible, to be most versatile, we can just have the symbol represent a part of a sound. Okay? So rather than a complete sound, just a part of a sound. So now this becomes M.
+
+[07:25](https://youtu.be/4ehovUNrSrw?t=445) This becomes S. Okay. And so you now get the word sum. And this is where we get alphabet from.
+
+[07:33](https://youtu.be/4ehovUNrSrw?t=453) What the Greeks did was they added vowels to the system. Okay. And this is the most efficient writing system in the world. It's really easy to learn as you know from English class as opposed to Chinese which is very hard to learn.
+
+[07:44](https://youtu.be/4ehovUNrSrw?t=464) So now you have the alphabet which increases literacy and learning throughout the Greek world for entertainment. What they did was they invited bars, poets to come and give recital to talk about the legends of the past and this gave rise to the most famous poet of that time named Homer and we will discuss Homer today. Okay.
+
+[08:15](https://youtu.be/4ehovUNrSrw?t=495) And so in a in a centralized system, Homer could not have arisen because Homer would have would have been a propagandist. But now in this decentralized system where everyone is looking for entertainment for knowledge Homer can arise and Homer will be the greatest poet of Greek civilization and he's considered to be the father of Greek civilization. Okay so we will discuss Homer today and Homer is famous because he wrote two books the Iliad and the Odyssey actually he didn't write the books he recited the poetry and then his students wrote it down because he himself was illiterate and we also think he was blind. Okay, so the Iliad and the Odyssey are about the Trojan War.
+
+[09:03](https://youtu.be/4ehovUNrSrw?t=543) So let me explain to you what the Trojan War is. Okay, so from last class you know that Troy was the center of the world. It was the heart and center of global trade and that's why pirates kept on raiding Troy. Okay.
+
+[09:21](https://youtu.be/4ehovUNrSrw?t=561) Now, as you also know, facts become stories and stories become exaggerated over time and that's what gave us the legend of the Trojan War. Okay. So, let's go over the basic outline. So, there are the gods of Inman Olympus.
+
+[09:39](https://youtu.be/4ehovUNrSrw?t=579) The king god of course is Zeus. And the three goddesses are Hera, who is the queen god. They are Athena, the goddess of wisdom, and Aphrodite. Who is the goddess of love.
+
+[09:53](https://youtu.be/4ehovUNrSrw?t=593) Hero is the queen, the mother. Athena and Aphrodite are the daughter of Zeus. So, it's one big family.
+
+[10:04](https://youtu.be/4ehovUNrSrw?t=604) One day, they discover a golden apple on Mount Olympus. And the golden apple says to the most beautiful in the world. So, of course, all three believe it must be mine. And so they fight and they fight and they fight.
+
+[10:21](https://youtu.be/4ehovUNrSrw?t=621) And Zeus is going crazy because they won't stop fighting. So Zeus has an idea. He will have a contest. And on this contest, the golden apple will be awarded to one of the three.
+
+[10:38](https://youtu.be/4ehovUNrSrw?t=638) But now he needs to find someone stupid enough to be the judge. And he finds this person named Paris. And Paris is a prince of Troy.
+
+[10:51](https://youtu.be/4ehovUNrSrw?t=651) And so Paris meets the three goddesses and of course each goddess is trying to bribe Paris. So Paris says Paris if you pick me I will give you a kingdom. I will make you a king. And Paris like that's a really attractive offer.
+
+[11:07](https://youtu.be/4ehovUNrSrw?t=667) Then Athena says hey if you pick me I will give you all the wisdom in the world. You will be the wisest man in the world. And Paris like, okay, that sounds cool.
+
+[11:22](https://youtu.be/4ehovUNrSrw?t=682) Sure. And then Aphrodite says, I'm going to give you the hottest girl in the world. And Paris is like, yes, that's what I want, man. Okay.
+
+[11:31](https://youtu.be/4ehovUNrSrw?t=691) So, he marries Helen. This may sound strange to you. Like why would you give up power and wisdom for you know sex and so I was talking to my wife about this cuz I didn't understand Paris's choice right and she said of course you pick Helen because what matters to guys is status face right you're a king but there are lots of other kings you have wisdom but like who knows you have wisdom right but hey if you're walking around the world with like the hottest girl in the you feel good about yourself. Okay, so of course you pick Helen.
+
+[12:11](https://youtu.be/4ehovUNrSrw?t=731) So there you go. My wife knows more than I do. All right, but anyway, so now this is a problem because now Hera and Athena are pissed off and they want revenge. In fact, they're so pissed off they decide they're going to destroy not just Paris, but the entire Trojan people.
+
+[12:34](https://youtu.be/4ehovUNrSrw?t=754) They're going to wipe out Troy from the face of the earth. They want revenge. Another problem is at this time Helen is married to Menalos who is the king of Sparta and his brother is Agammanon who is the king of Argos and Spartan Argos are the two most powerful places in Greece. So Agamman is the king of kings.
+
+[13:00](https://youtu.be/4ehovUNrSrw?t=780) He is the king of mine Greece. And so they organize this huge army to attack Troy to retrieve Helen. Okay. And this will go on for 10 years, this battle in Troy.
+
+[13:16](https://youtu.be/4ehovUNrSrw?t=796) And this will give rise to many legends that Homer will use to entertain the Greek people after the fall of the Minian Empire. Two of the most famous heroes of this time and there are like hundreds, okay, are Achilles and Odysius. Odysius is known for being the wisest of the Greeks, the greatest strategist. Achilles is known for being the bravest warrior.
+
+[13:52](https://youtu.be/4ehovUNrSrw?t=832) Odysius will come up with the idea of the Trojan horse, which is what ends the war. Because, as you know, what will happen is the Greeks will sneak inside a horse, a wooden horse, pretend that it's a gift to the Trojans. The Trojans will take the horse inside the city.
+
+[14:06](https://youtu.be/4ehovUNrSrw?t=846) The Greeks will sneak out at night and kill everyone. Okay. All right. So, that's the story of the Trojan War.
+
+[14:18](https://youtu.be/4ehovUNrSrw?t=858) What Homer will do is he will take this epic, okay, this legend and turn it into a great story. He does not tell the whole story. He only tells a part of the story. He tells a story of the battle between Achilles and Eggman.
+
+[14:34](https://youtu.be/4ehovUNrSrw?t=874) So let's go over the plot of the Iliad. Okay, the Iliad. All right. So the story begins like this.
+
+[14:48](https://youtu.be/4ehovUNrSrw?t=888) Egay Menon has arrived in Troy with his entire army. But Troy is a walled city and these guys are pirates. So they cannot destroy Troy. So what they what they do is well they're pirates.
+
+[15:04](https://youtu.be/4ehovUNrSrw?t=904) So they go and they go and raid other islands that are allies of Troy. And what they do is they capture booty which includes beautiful young girls. Okay? And they have these girls as sex slaves.
+
+[15:18](https://youtu.be/4ehovUNrSrw?t=918) Now the custom of war is that if a girl belongs to a powerful family, that family can choose to ransom her back and you have to give her back. Okay. Now it turns out that Agameanon likes his girl, but she's the daughter of a powerful priest. And the priest says, "Give me back my girl and I'll give you a lot of money." And man says, "No, I like her and I'm lonely, so screw off." So this priest gets angry and prays to Apollo and Apollo unleashes a plague on the Greeks and everyone's dying.
+
+[15:49](https://youtu.be/4ehovUNrSrw?t=949) And so Achilles discovers what's happened and he confronts Agamenon in a war council and he says, "Ega Manon, you have to give the girl back or else we're all going to die here." And says, "Fine, I will give her back, but only in the condition that I take your girl." And of course, Achilles is pissed off. He's like, "That's not fair." And like, "Too bad. I'm king." And so, Achilles says, "Fine, but I will never fight for you ever again.
+
+[16:22](https://youtu.be/4ehovUNrSrw?t=982) I'm going to let the Trojans destroy you here. I'm going to I'm the greatest war in the world. I'm going to sit back and I'm let the Trojans destroy you. Okay.
+
+[16:33](https://youtu.be/4ehovUNrSrw?t=993) So after that meeting, Achilles goes to his mother who's a goddess. Her name is Fetus and she's a river goddess. And Achilles says to Fadius, "Listen, mother, could you help me out? Could you tell Zeus to help the Trojans?" The reason why is I want the Greeks to lose so that they beg me to save them.
+
+[17:00](https://youtu.be/4ehovUNrSrw?t=1020) I came to Troy to be a hero. So let the Trojans win and then I'll come and save the Greeks and I'll be a great hero. So that's what Fetus does. And Hector, who is the prince of Troy, okay, he's brother to Paris.
+
+[17:17](https://youtu.be/4ehovUNrSrw?t=1037) He discovers that Achilles is absent from the battlefield. So he leads the Trojans against the Greeks and they're destroying the Greeks. They're at the point where sorry at the point where they've almost reached the Greek ships and they want to burn down the Greek ships because if they do that the Greeks cannot resupply themselves and they will all die in Troy. And so at this point Odysius and the other Greeks say to Eggmanon, "You know what?
+
+[17:47](https://youtu.be/4ehovUNrSrw?t=1067) We need Achilles. Please get Achilles back into the battlefield." And says, "Fine. Tell him this. Tell him I will give him my daughter in marriage.
+
+[17:58](https://youtu.be/4ehovUNrSrw?t=1078) I will give him all the treasure in the world if he comes and fights for us. So Adysius and the Greeks go to Achilles and says, "Please, please, please help us." And Achilles says, "Nope." Why? Because Agon is not here. Where's Agame, man?
+
+[18:14](https://youtu.be/4ehovUNrSrw?t=1094) I don't need his daughter. I don't need all this money in the world. I'm going to die anyway in battle. So screw off.
+
+[18:20](https://youtu.be/4ehovUNrSrw?t=1100) So now Achilles and Eggman are stuck because Achilles wants Eggman to apologize, but Eggman doesn't want to lose face. So there's a real threat that the Trojans will destroy the entire Greek army. Okay?
+
+[18:40](https://youtu.be/4ehovUNrSrw?t=1120) And they're about to reach the ships and burn down the ships. And Achilles is watching this and he's like, "Why aren't the Greeks coming and begging me again?" Okay? He wants the Greeks to constantly beg him so he can say no. And the Greeks and the Greeks are like, "We know that.
+
+[18:52](https://youtu.be/4ehovUNrSrw?t=1132) So we're not we're not going to come." So then what happens is Achilles, he's so nervous that he sends Petroles, who is his lieutenant, to go talk to the Greeks and say, "Hey man, what's going on? Do you need Achilles help?" And the Greeks say to him, Petroas, we know Achilles, he's got this terrible temper. He's not going to come save us, but maybe you can save us, Petroles. And chocolate says, "Yes, I can be the hero now." So he runs back to Achilles and says, "Achilles, you We're all going to die here.
+
+[19:25](https://youtu.be/4ehovUNrSrw?t=1165) Let me go fight." And Achilles is like, "Fine, you can go fight, but only the condition that you just save the ships and you do not push the Trojans back to Troy." Okay, that's my glory. Do not steal my glory. So, of course, what Procus does is he tries to win all the glory for himself. He forces a duel between himself and Hector and Hector kills Petetrois.
+
+[19:50](https://youtu.be/4ehovUNrSrw?t=1190) Now Achilles is pissed off and Achilles is like screw this. I'm going to go kill Hector. Okay, so now Eggmanon and Achilles are best friends because they both want to kill Hector. Achilles duels Hector, kills him, and he is now the greatest warrior in the world.
+
+[20:08](https://youtu.be/4ehovUNrSrw?t=1208) He's proven himself to be greatest hero in the world. He's saved the Greeks. He's killed Hector. He's adventurous friend Petolis.
+
+[20:16](https://youtu.be/4ehovUNrSrw?t=1216) He should be the happiest man in the world, right? And this is the genius homework. He now falls into a deep depression. He mutilates Hector's body.
+
+[20:26](https://youtu.be/4ehovUNrSrw?t=1226) He ties Hector's body to his chariot and rides around the city of Troy. And all the Trojans are screaming in horror. The gods are like, "This is disgusting, man." The Greeks are like, "No, man. This is a war crime.
+
+[20:43](https://youtu.be/4ehovUNrSrw?t=1243) We don't want to get involved. Okay. Achilles is going crazy. He can't sleep.
+
+[20:46](https://youtu.be/4ehovUNrSrw?t=1246) He can't eat. All he can do is mutilate Hector's body. All right. So now, so now the gods are watching this and saying, "You know what?
+
+[20:58](https://youtu.be/4ehovUNrSrw?t=1258) We shouldn't allow this because this is a war crime and Hector was always a good subject. So let's broker a piece between Achilles and Pry who is the father of Hector. Okay, because in this world it's important to bury the dead because only by burying the dead can they find eternal peace. Okay, so Prime wants a body back.
+
+[21:24](https://youtu.be/4ehovUNrSrw?t=1284) So Prime himself cannot sleep and both Achilles and Prime agree to this deal. The gods send Prime into Achilles tent and Achilles is busy. Okay, Achilles is distracted and Prime is sitting next to him. And at this point, what Prime can do is take a dagger and stab Achilles in the neck and avenge his son, right?
+
+[21:48](https://youtu.be/4ehovUNrSrw?t=1308) What he does instead is he kneels down before Achilles and kisses his hand. He submits himself before Achilles. And Achilles is so aed by this that he recognizes that Pry is the greater hero. That Pry has more courage than he does.
+
+[22:12](https://youtu.be/4ehovUNrSrw?t=1332) And now Achilles submits to Pryam. And the two forgive each other and weep together. And this is how the idiot ends. Okay, this is a story that tells us that the real battlefield is not out there in the shores of Troy.
+
+[22:38](https://youtu.be/4ehovUNrSrw?t=1358) The real battle is inside our human heart. Okay. Why does a Achilles fall into depression? Because he himself knows he's the one guilty for killing of Petetrois.
+
+[22:50](https://youtu.be/4ehovUNrSrw?t=1370) Maybe it was Hector who killed Hecles, but it was Achilles who made it possible. Why? Because number one, Achilles didn't have to get in a stupid fight with a mountain. Okay.
+
+[23:03](https://youtu.be/4ehovUNrSrw?t=1383) Number two is when the Greeks came to beg, Achilles could have could have said yes. Okay. And then number three is Achilles did not have to send Metropolis into battle. So Achilles know in his heart that he was guilty and as such he could not forgive himself and so he fell into depression and so pry by forgiving Achilles allow Achilles to forgive himself.
+
+[23:33](https://youtu.be/4ehovUNrSrw?t=1413) So it's a problem of forgiveness and this is the hardest problem in human society. How do you forgive those who've done wrong to you? And how do you forgive yourself for doing wrong unto others? This is the hardest problem in human society.
+
+[23:46](https://youtu.be/4ehovUNrSrw?t=1426) If you if you can solve this problem, you can now create a great civilization. That's what Homer did. Okay? Homer showed us that this is the greatest problem in the human heart.
+
+[23:58](https://youtu.be/4ehovUNrSrw?t=1438) And when we forgive each other, we make the world a new. We rejuvenate the world. We change the world from one of the destruction into one of vitality. Okay.
+
+[24:11](https://youtu.be/4ehovUNrSrw?t=1451) Pry him by sacrificing himself by having the courage to forgive Achilles. Change the destiny of himself and his son Hector because Achilles gave Hector back and told Pam, "Not only will I give your son back, but I will make sure that you have enough time to ensure a proper funeral for Hector." Achilles himself will ensure the Greeks will not attack Troy during the funeral. Okay. And that's the beauty power of the Iliad.
+
+[24:48](https://youtu.be/4ehovUNrSrw?t=1488) It is the most shocking ending ever. It's the most beautiful, the most poignant, the most tragic ending ever. Even today, we cannot match it. So the question now is how is it that home and the Greeks had such wisdom and today we don't and the answer is their minds were different back then than they are today.
+
+[25:19](https://youtu.be/4ehovUNrSrw?t=1519) So let me explain why. Okay. So you know from psychology that we have two hemispheres in the brain.
+
+[25:31](https://youtu.be/4ehovUNrSrw?t=1531) A right hemisphere and a left hemisphere. The right hemisphere is a creative emotional caring hemisphere. The left is the logical analytical utitarian hemisphere.
+
+[25:43](https://youtu.be/4ehovUNrSrw?t=1543) So, right does art, maybe left does math. Okay? We know this from simple psychology.
+
+[25:50](https://youtu.be/4ehovUNrSrw?t=1550) Now there's an American psychologist named Julian James and he proposes a really interesting theory. His theory is actually what's happening is the right hemisphere is receiving information from the universe vibrations from the universe and the left hemisphere is interpreting this information into reality. Okay. All right.
+
+[26:21](https://youtu.be/4ehovUNrSrw?t=1581) So remember we discussed Kant. What does Emanuel Khan say? Emanuel Kant says that there are two realities. The nomina the world the things in themselves and the phenomena the things to us.
+
+[26:39](https://youtu.be/4ehovUNrSrw?t=1599) So what happens is that our brain interacts with the nomina and then filters it back into the phenomena. Okay. And it uses a filter time and space in order to perceive things.
+
+[26:58](https://youtu.be/4ehovUNrSrw?t=1618) Gu Hegel says that this nomenai is the gist. Okay. The universe.
+
+[27:01](https://youtu.be/4ehovUNrSrw?t=1621) And as we discussed the universe are just vibrations. Okay. Vibrations. And so if you apply all this to this theory, what's happening is our right brain is receiving these vibrations and then our left brain is just is transforming these vibrations into everyday reality.
+
+[27:20](https://youtu.be/4ehovUNrSrw?t=1640) Then the question then is how do we interpret these vibrations? Well, for most of human history, we've interpret them as just gods and spirits. Okay?
+
+[27:34](https://youtu.be/4ehovUNrSrw?t=1654) And even though it's not factual, it is truthful in that it allows us to better understand the universe and it better allows us to understand ourselves. Okay? By embracing this model of the brain, we have access to wisdom. Okay?
+
+[27:55](https://youtu.be/4ehovUNrSrw?t=1675) The wisdom of Homer and the Greeks. And that's why back then the Greeks are much more creative and wise than we are today. Okay, does that make sense? Okay, because what we've done today is we've shut off this part by saying nope, all that matters is science, logic and materialism.
+
+[28:16](https://youtu.be/4ehovUNrSrw?t=1696) So we've shut down the right brain and we only use left brain today. That's why we are less creative. Right? So that's the argument I will make to you today.
+
+[28:35](https://youtu.be/4ehovUNrSrw?t=1715) Let's continue. All right. The great big bang the beginning of Greek civilization.
+
+[28:45](https://youtu.be/4ehovUNrSrw?t=1725) So this is Julian James. Okay. And he wrote a book called the origin of consciousness in the breakdown of the bicchimeal brain.
+
+[28:53](https://youtu.be/4ehovUNrSrw?t=1733) Bicyal mind is just the left and right hemisphere and these two work together. The right is the receiver of the universe. The left is the interpreter of the universe. All right.
+
+[29:07](https://youtu.be/4ehovUNrSrw?t=1747) So he gives an example of this. Okay. Why is it that in ancient times when kings died, we buried them with lots and lots of gifts. We bury them as though they were still alive.
+
+[29:19](https://youtu.be/4ehovUNrSrw?t=1759) And the answer is from our perspective they were still alive. Okay. The burial of the important dead as if they still lived is common to almost all these ancient cultures whose architecture we have just looked at. This practice has no clear explanation except that their voices were still being heard by the living and were perhaps demanding such accommodation.
+
+[29:41](https://youtu.be/4ehovUNrSrw?t=1781) These dead kings propped up on stones whose voices were hallucinated by the living were the first gods. Okay, does that make sense to you? We lived in a world where we're using both our left and right hemispheres and as such we saw spirits, dietes, gods all around us. Okay, we interacted with them and they gave us both inspiration as well as motivation.
+
+[30:08](https://youtu.be/4ehovUNrSrw?t=1808) And so this is a Viking ship burial where a king is being buried with his ship and his horses as though he was still alive. Okay? Because from their perspective, he's still alive. He's still able to give us his wisdom.
+
+[30:25](https://youtu.be/4ehovUNrSrw?t=1825) This is the cult of the skull, which is what we found in most Neolithic cultures, okay? The most the earliest agricultural societies. Why? Because they practice ancestor worship and they believe that these skulls were living and they could help you access the dead in the spirit world and draw wisdom and inspiration from them.
+
+[30:50](https://youtu.be/4ehovUNrSrw?t=1850) This is a book the constant serpent by Jurian Narby. Okay. And he tells us that listen, if you just do some basic research, this understanding of the universe where our right brain receives spirits and left brain interprets it in reality, it makes a lot of sense. Okay?
+
+[31:08](https://youtu.be/4ehovUNrSrw?t=1868) Because all the entire universe is itself consciousness. Okay? It's all mind and matter is just what we perceive. I began my investigation with the ignimma of plant communication.
+
+[31:23](https://youtu.be/4ehovUNrSrw?t=1883) Plants are able to communicate with each other. We know the scientifically. I went to accept the idea that hallucinations could be a source of verifiable information.
+
+[31:31](https://youtu.be/4ehovUNrSrw?t=1891) So, if you feel as though a spirit is talking to you, maybe the spirit really is talking to you. And I end up with a hypothesis suggesting that a human mind can communicate and defocalize consciousness with the global network of DNA based life. All this contradicts principles of western knowledge.
+
+[31:49](https://youtu.be/4ehovUNrSrw?t=1909) So all the entire universe is consciousness. Plants have it, animals have it, we have it. And therefore, if we open our minds, we're able to communicate with the entire universe and draw insight.
+
+[32:05](https://youtu.be/4ehovUNrSrw?t=1925) And he goes on, scientists know this, and our greatest discoveries came from scientists who embraced the consciousness of the universe. Many of science's central ideas seem to come from beyond the limits of rationalism. Renee Deart dreams of an angel who explains the basic principles of materialistic rationalism to him.
+
+[32:25](https://youtu.be/4ehovUNrSrw?t=1945) Albert Einstein daydreams in a tram approaching another and conceives the theory of relativity. James Watson scribbles on a newspaper in a train then rides his bicycle to reach the conviction that DNA has the form of a double helix. Okay, so it's almost as though a spirit is telling the secrets of the universe to the scientists. So, and just ask yourself these questions and you will understand that maybe the universe is consciousness, right?
+
+[32:57](https://youtu.be/4ehovUNrSrw?t=1977) So, these questions are sometimes you think of someone and then boom, that person calls you. Is that strange? Has that ever happened to you? Do you feel as though you're being watched all the time?
+
+[33:07](https://youtu.be/4ehovUNrSrw?t=1987) Do you feel as though you're an actor on a stage? Do you sometimes feel you're compelled to act as though something hasn't control of your body? Okay. Possession.
+
+[33:16](https://youtu.be/4ehovUNrSrw?t=1996) Why do certain ideas pop in your head all of a sudden? Do you sometimes feel as though something planted an idea into you? Why do you have dreams? Where do dreams come from?
+
+[33:24](https://youtu.be/4ehovUNrSrw?t=2004) What do dreams mean? Do you sometimes feel as though you know what someone else is thinking? Okay. Is it possible you're sitting with a friend and you know exactly what your friend is thinking even though you're not talking?
+
+[33:36](https://youtu.be/4ehovUNrSrw?t=2016) Do you think sometimes that you're having a conversation with a friend inside your head? Okay, so your friend is not there but you're having a conversation with your friend. Do you feel as though you have a guardian angel? Okay, I'm sure you know you're too shy to say this, but I'm sure that you feel as though there is a spirit world right?
+
+[33:56](https://youtu.be/4ehovUNrSrw?t=2036) These were not mysteries and questions before because everyone assumed we lived alongside spirits, angels, and demons. Okay, today we ask these questions before they didn't ask these questions because everyone just assume that yeah, of course, we live alongside angels and demons and that's why we are who we are. Okay. So, let's go to the Iliad.
+
+[34:21](https://youtu.be/4ehovUNrSrw?t=2061) And the Iliad, it shows us how the brain worked at that time. A brain that was both materialistic and spiritual. A brain that understood that we lived in different dimensions.
+
+[34:33](https://youtu.be/4ehovUNrSrw?t=2073) And the gods had more control over us. And the gods represented our emotions and the workings of nature. Okay?
+
+[34:44](https://youtu.be/4ehovUNrSrw?t=2084) The Iliad. Now this is translation by Robert Fagels. So let's in the very beginning of the Iliad okay Homer says this rage goddess sing rage of Pilious son Achilles murderers doom that caused Aens countless losses hurling down to the house of death so many sturdy souls great fighter souls but made their bodies carrying feast for the dogs and birds and the will of Zeus was moving toward its end. Begin muse when the two first broke in clash man on lord the man and b achilles okay so the first thing that a homer says is please inspire me muse okay so what he's doing is not creating what he's doing is channeling he's drawing inspiration from the gods okay when he's speaking to people he's saying I am here as a messenger of the gods this information is from the gods themselves All right.
+
+[35:43](https://youtu.be/4ehovUNrSrw?t=2143) So, this is the fatal meeting. Oh, sorry, not the fatal meeting, the clash between Eggman and Achilles. The first meeting that starts off the Iliad. So, Eggman says to Achilles, "Give me your slave girl and get out of here." Okay.
+
+[35:56](https://youtu.be/4ehovUNrSrw?t=2156) And Achilles is screw you. I'm not going to fight for you again. And but now Achilles is pissed off. He wants to kill Eggman.
+
+[36:05](https://youtu.be/4ehovUNrSrw?t=2165) Eggman broke off and anguish gripped Achilles. The heart in his rugged chest was pounding, torn. Should he draw the long sharp sword slung at his hip, thrust through the ranks and kill a man on now or check his rage and beat his fury down?
+
+[36:17](https://youtu.be/4ehovUNrSrw?t=2177) So he can't control himself. Okay, rage has overtaken him. He wants to like step forward and just kill Eggman on as his raging spirit veered back and forth just as he drew his huge blade from his sheath down from the vaulting heaven swept Athena. Athena's here now.
+
+[36:37](https://youtu.be/4ehovUNrSrw?t=2197) Before Achilles, the white armed goddess Hera sped her down. Hera loved both men and cared for both alike. Wearing behind him pelis sees his fury here.
+
+[36:47](https://youtu.be/4ehovUNrSrw?t=2207) Only Achilles saw her. None of the other fighters. Struck with wonder. He spun around.
+
+[36:51](https://youtu.be/4ehovUNrSrw?t=2211) He knew her at once. Okay. So Achilles is a hallucinating Athena. No one else can see her.
+
+[37:00](https://youtu.be/4ehovUNrSrw?t=2220) Pal palace Athena. The terrible blazing of those eyes and his winged words went flying. Why?
+
+[37:05](https://youtu.be/4ehovUNrSrw?t=2225) Why now child of Zeus with a shield of thunder? Why come now to witness the outrage Agam Manonan just comm committed? I tell you this and so help me it's the truth. I he'll soon pay for his arrogance with his life.
+
+[37:15](https://youtu.be/4ehovUNrSrw?t=2235) So he really wants to kill a man. Her gray eyes clear. The goddess Athena answered down from the skies I come to check your rage. If only you will yield.
+
+[37:23](https://youtu.be/4ehovUNrSrw?t=2243) The white armed goddess hero spread me down. She loves you both. She cares for you both alike. Stop this fighting now.
+
+[37:30](https://youtu.be/4ehovUNrSrw?t=2250) Don't lay hand to sword. Lash him with threats of the price that he will face. And I tell you this, I know it. It is the truth.
+
+[37:39](https://youtu.be/4ehovUNrSrw?t=2259) One day, glittering gifts will lie before you three times over to pay for all his outrage. Hold back now. Obey us both. Okay.
+
+[37:47](https://youtu.be/4ehovUNrSrw?t=2267) So, Achilles wants to kill Amanon, but now he's being possessed by Athena. Okay. And Athena says, "Stop." So, he she urged and a swift runner complied at once. I must.
+
+[37:58](https://youtu.be/4ehovUNrSrw?t=2278) When the two of you had down commands, goddess, a man submits, though his heart breaks with fury. Better for him by far. If a man obeys the gods, they're quick to hear his prayers. And with that, Achilles stayed his burly hand on a silver hilt and slid the huge blade back in his sheath.
+
+[38:16](https://youtu.be/4ehovUNrSrw?t=2296) He would not fight the orders of Athena. Okay, so again, this is not factual. Athena doesn't really exist, but it's truthful in that it gives us insight into how the human brain, the human emotions work. Okay.
+
+[38:26](https://youtu.be/4ehovUNrSrw?t=2306) Now, what I'm going to do now is I'm going to write this again in modern pros to show you the difference. Okay. [Music] Okay. So, this is what I wrote myself.
+
+[38:41](https://youtu.be/4ehovUNrSrw?t=2321) It's bad writing. It's modern pros, but you're able to compare and contrast. Okay.
+
+[38:44](https://youtu.be/4ehovUNrSrw?t=2324) I don't need you. Get out of my sight. Roger man on. He spat on the ground.
+
+[38:49](https://youtu.be/4ehovUNrSrw?t=2329) Achilles blood boiled and he reached for the hilt of his sword. He saw all I stare at him and he stayed focused on Eggman. He counted the seconds and the steps it would take for him to sprint forward and strike him down. His feet grew heavy and his legs grew wobbly.
+
+[39:03](https://youtu.be/4ehovUNrSrw?t=2343) He could not move. He felt the thumping of his heart. Achilles snapped around and walked out of the room. He saw all eyes focus on him.
+
+[39:11](https://youtu.be/4ehovUNrSrw?t=2351) So this is factual but it's not truthful. Do you understand? It doesn't give us insight into why this is happening. So the Iliad is truthful but not factual.
+
+[39:22](https://youtu.be/4ehovUNrSrw?t=2362) Modern pros is factual but not truthful. So now as I said Achilles refuses to fight. The Greeks are losing the war and so the Greeks beg Achilles to come fight. Achilles says no.
+
+[39:39](https://youtu.be/4ehovUNrSrw?t=2379) And he sends Petroles to figure out what's going on. And Petroles comes out and says let me fight Achilles. Okay. And at this point, Achilles should just be like, "We'll fight together or don't go if it's too dangerous." Instead, he says this.
+
+[39:56](https://youtu.be/4ehovUNrSrw?t=2396) So he pleaded lost in his own great innocence. Condemned to beg for his own death and brutal doom. Okay, he is Petroas. And move now to his deaths, the famous runner cried, "No, no, my prince Petroles, what are you saying?
+
+[40:11](https://youtu.be/4ehovUNrSrw?t=2411) Prophecies?" None that touch me, none I know of. No doom my noble mother revealed to me from Zeus. Just as terrible pain that wounds me to the quick. When one man attempts to plunder a man his equal to commander a prize exalting so in his own power that's a pain that wounds me suffering such humiliation that girl the sons of Akia picked her as my prize and I sacked the wall city one of my spear but right from my grasp he tears her myon that son of Atrus treated me like some veabond some outcast stripped of all my rights so the Greek army is about to destroy and Achilles is concerned about his own pride okay he's a very selfish person.
+
+[40:46](https://youtu.be/4ehovUNrSrw?t=2446) I man stole his girlfriend and he's pissed. Enough. Let bygones be bygones now. Done is done.
+
+[40:55](https://youtu.be/4ehovUNrSrw?t=2455) How on earth can a man rage on forever? Still by God I said I would not relax my anger. Not till the cries and carnage reach my own ships. So you shot my splendid armor on your back.
+
+[41:06](https://youtu.be/4ehovUNrSrw?t=2466) You lead our butterhungry Meridians into action. And now in fact the black cloud of the Trojans blast down on the ships with full gale force. Our backs to the breaking surf but cling still to a cramped strip of land the archives lost. The whole city of Troy comes trembling down on us, daring, wild.
+
+[41:21](https://youtu.be/4ehovUNrSrw?t=2481) Why? They cannot see the brown my helmet flash before their eyes. Oh, they soon run for their lives and choke the torn beds of the field with all their corpse. If only the mighty Amanon met with me with respect.
+
+[41:33](https://youtu.be/4ehovUNrSrw?t=2493) So the children are attacking them because he's not in the battlefield. But if you if you were on the battlefield, the children would just run away. Okay, now as it is, they're fighting around our camp. No spear rages now in the hand of Damedes.
+
+[41:47](https://youtu.be/4ehovUNrSrw?t=2507) Keen to save the Argos from disaster. I can't even hear the battle cry of Eggman on. Break from his hated skull, but his man killing Hector calling his soldiers on his war cries crashing around me. Savage cries of his children sweeping the whole plane.
+
+[42:01](https://youtu.be/4ehovUNrSrw?t=2521) Victors bring the archive armies to their knees. Even so, Protis fight disaster off the ships. Fling yourself as children's full force before they gut our holes with leaping fire and tear away the beloved day of our return. But take this command to heart.
+
+[42:14](https://youtu.be/4ehovUNrSrw?t=2534) Obey to the end. You can win great honor, great glory for me in the eyes of all the Argive ranks. And they they'll send her back, my live and lovely girl, and top it off with troves of glittering gifts. Once you have whipped the enemy from the fleet, you must come back.
+
+[42:27](https://youtu.be/4ehovUNrSrw?t=2547) Even if Zeus, the funding lord of Hera, let you cease your glory. You must not burn for war against these Trojans. Mad men lusting for battle. Now about me.
+
+[42:35](https://youtu.be/4ehovUNrSrw?t=2555) You will only make my glory that much less. Okay. Me, me, me. All cares about is me.
+
+[42:40](https://youtu.be/4ehovUNrSrw?t=2560) Petolis, you can go a battle, but don't win too much glory. Do not outshine me. Okay. And because he says this, what does Petus do?
+
+[42:51](https://youtu.be/4ehovUNrSrw?t=2571) He tries to win all the glory for himself. He engages in a duel with Hector and he and it cost him his life. Okay? So, it's Achilles fault this is happening and he knows it.
+
+[43:04](https://youtu.be/4ehovUNrSrw?t=2584) So, the psychology here is just so insightful, so deep, so striking. So, let's use an analogy to understand the psychology. Okay, let's pretend John and Jill are boyfriend girlfriend, but they have a fight like boyfriend and girlfriend do and they break up.
+
+[43:20](https://youtu.be/4ehovUNrSrw?t=2600) But they want they long for each other, but they don't want to apologize to each other. Okay, so Jill tells her best friend Jane to talk to John to try to get him to apologize. All right, and then Jane goes talks to John and John says, "You know what? I've had it with Jill.
+
+[43:34](https://youtu.be/4ehovUNrSrw?t=2614) I'd much rather date you because you're more beautiful and you're more, you know, reasonable. And then Jason is really excited because Jill is prettier than she is, right? So she runs back to Jill and says, "Hey, John asked me to go on a date. Maybe I can use this opportunity to convince him to apologize." And then Jill says, "Okay, go date him, but what if you do?
+
+[43:59](https://youtu.be/4ehovUNrSrw?t=2639) Don't kiss him." So what does Jill do? Right? So this is reverse psychology, right? Okay.
+
+[44:06](https://youtu.be/4ehovUNrSrw?t=2646) So Jill knows that if she says this, Jane's going to kiss John. And Achilles knows that if he tells Petus, "Don't win too much glory." But is going to win a lot of glory, right? And so what happens of course is that Proacles dies now Achilles can now enter the battlefield and win all the glory for himself. And that's what happens.
+
+[44:28](https://youtu.be/4ehovUNrSrw?t=2668) He kills Hector. He saves the Greeks. But then he goes crazy.
+
+[44:34](https://youtu.be/4ehovUNrSrw?t=2674) What he does is he ties Hector to his chariot and he starts riding around the walls of Troy. It is a It is a war crime. It's disgusting. It's hideous.
+
+[44:46](https://youtu.be/4ehovUNrSrw?t=2686) The children are going crazy. But the Greeks are like, "We don't want this, man." The gods are like, "What the hell's going on?" Okay, so this is just shocking. It's a mutilation. It's torture.
+
+[45:03](https://youtu.be/4ehovUNrSrw?t=2703) So now we move to the end of the Iliad and at this point Pry the king cannot sleep because his son Hector is being mutilated by Achilles. Achilles can't sleep because he cannot forgive himself for the death of Protalis. And so he takes it out on Hector.
+
+[45:19](https://youtu.be/4ehovUNrSrw?t=2719) And the gods are watching this and they're kind of disgusted. The games are over now. The gathered army scattered.
+
+[45:25](https://youtu.be/4ehovUNrSrw?t=2725) Each meant to his fashion and fighters turned their minds of thoughts of food and the sweet warm grip of sleep. But Achilles kept on grieving for his friend, the memory burning on and all subduing sleep could not take him. But not now he turned and twisted side to side. He lost manhood, his gallant heart.
+
+[45:43](https://youtu.be/4ehovUNrSrw?t=2743) What rough campaigns they fought to an end together. What hardships they had suffered, cleaving their way through wars of men and pounding waves at sea. The memories flooded over him, live tears flowing. And now he lied on his side, now flat on his back, now face down again.
+
+[46:01](https://youtu.be/4ehovUNrSrw?t=2761) At least at last he leapt to his feet, one in anguish, amish along the surf and dawn on dawn. Okay, he cannot sleep. He's depressed. Okay, he is racked with self-guilt.
+
+[46:12](https://youtu.be/4ehovUNrSrw?t=2772) He cannot forgive himself for what has happened. Flaming over the sea and shore would find him pacing. Then he yoke his racing team to the chur harness, lash the corpse of Hector behind the car for dragging and haul him three times round the dead patrica's tomb. And then he rest again in his tents and leave the body sprawled face down in the dust.
+
+[46:29](https://youtu.be/4ehovUNrSrw?t=2789) But a poly pity Hector dead men though he was and warded all corruption off from Hector's corpse and around him head to foot. The great god wrapped the golden shield of storm so his skin would never rip as Achilles dragged him on. And so he kept on raging, shaming noble Hector. But the gods in bliss looked down and pity Prime son.
+
+[46:49](https://youtu.be/4ehovUNrSrw?t=2809) They kept on urging the sharpeyed giant killer Hermes to go and steal the body. A plan that pleased them all. But not Hera, Prooseidon, or the girl with blazing eyes. They clung to their deathless hate of sacred Troy Prime and Prime's people.
+
+[47:06](https://youtu.be/4ehovUNrSrw?t=2826) Just as they had at first when Paris in all his madness launched the war, he offended Athena and Hera, both goddesses. But Zeus who marshes the storm clouds warned his queen. Now Hera, don't fly into such a rage at fellow gods. These two can never attain the same degree of honor.
+
+[47:21](https://youtu.be/4ehovUNrSrw?t=2841) Still the immortals love Prince Hector dearly. Best of all the mortals born in Troy. So I loved him at least. He never sinned with gifts to please my heart.
+
+[47:28](https://youtu.be/4ehovUNrSrw?t=2848) Never once did my altar lack its share of victims. Wine caps tipped and a deep smoky savior. These are the gifts we claim. These are our rights.
+
+[47:35](https://youtu.be/4ehovUNrSrw?t=2855) But as for sealing courageous Hector's body, we must abandon the idea and not a chance in the world behind Achilles back. For fetus is always there, his mother always hovering near him night and day. So would one of you gods call Thetus to my presence so I can declare to her my solemn sound decree. Achilles must receive a ransom from King Pyam.
+
+[47:54](https://youtu.be/4ehovUNrSrw?t=2874) Achilles must give Hector's body back. Okay, does that make sense? So the gods are fighting over what to do. And then Zeus says, "You know what?
+
+[48:00](https://youtu.be/4ehovUNrSrw?t=2880) Let's just poke over a piece between Achilles and Pry." Okay, so Prime agrees to ransom back Hector's body. And Achilles agrees. Okay. So again, we can write this in modern pros and we can eliminate the gods.
+
+[48:17](https://youtu.be/4ehovUNrSrw?t=2897) But what you'll see is that it's not as powerful. It's not as intriguing, not as truthful. Prime cannot sleep and toss in his bed. His wife and his children come one by one to console the weeping king, but to no avail.
+
+[48:31](https://youtu.be/4ehovUNrSrw?t=2911) His servants try different sleeping potions and one by one they fail. In the middle of the night, he screams at the moon and tears at his graying hair. Prime aches for Hector and feels guilt and remorse for failing his son. Children spies watch Achilles drag Hector's body day and night.
+
+[48:45](https://youtu.be/4ehovUNrSrw?t=2925) They take turns spying and they know that Achilles cannot sleep. They report this news to Prime and this gives him hope. He sends an emissary to the Greek camp and Agameanon agrees that is Prime's right to ransom back his son as is a custom of war. Even after the rage of Achilles, Egameon sends a servant to talk of Achilles.
+
+[49:05](https://youtu.be/4ehovUNrSrw?t=2945) Achilles does not hear Prime's offer, but he nods his head anyway. Okay. So, it's less powerful. It's less truthful.
+
+[49:12](https://youtu.be/4ehovUNrSrw?t=2952) It's less interesting. Okay. All right. Now comes the most powerful part of the iliac.
+
+[49:21](https://youtu.be/4ehovUNrSrw?t=2961) This is actually when pry and achilles meet for the first time. And so what happens is that prime is snuck into the tent by Hermes and the majestic king of Troy slip past the rest and kneeling down beside Achilles claps his knees and kiss his hands those terrible menkilling hands that has slaughtered prime's many sons in battle. So the king has opportunity to kill Achilles but chooses instead to kiss his hand and submit before Achilles.
+
+[49:54](https://youtu.be/4ehovUNrSrw?t=2994) And this submission destroys the pride of Achilles. Okay, it's a emotional battle duel between Prime and Achilles. And the Prime has won. Awesome.
+
+[50:08](https://youtu.be/4ehovUNrSrw?t=3008) As when the group of madness seizes one who murders a man in his own fatherland and flees abroad to foreign shores to a wealthy noble host and a sense of marvel runs through all who see him. Soles Marvel beholding majestic Pry. Okay, that's what Prime has done. Prime is like a fugitive who's wanted for murder.
+
+[50:27](https://youtu.be/4ehovUNrSrw?t=3027) He escapes and he should be a slave but somehow he's become wealthy. Okay. So by submitting himself before Achilles, Prime has changed the destiny of the world. His men marveled too, training startled glances, but Prime prayed his heart out to Achilles.
+
+[50:44](https://youtu.be/4ehovUNrSrw?t=3044) Remember your own father, great God like Achilles, as old as I am, pass a threshold of deadly old age. Now doubt the countrymen round about him plague him now with no one there to defend him beat away disaster. No one but at least he hears you're still alive and his old heart rejoices hopes rising day by day to see his beloved son come selling home from Troy. Those words stir within Achilles a deep desire to grieve for his own father.
+
+[51:12](https://youtu.be/4ehovUNrSrw?t=3072) Taking the old man's hand, he gently moved him back and overpowered by memory. Both men gave way to grief. Prime wept freely for man killing Hector probably encroaching before Achilles feet as Achilles wept for himself. This is the first time Achilles can now cry.
+
+[51:26](https://youtu.be/4ehovUNrSrw?t=3086) He cannot cry before. Now for his father, now for Petraus once again and they're sobbing roles and fell through out the house. They forgiven each other. Why?
+
+[51:35](https://youtu.be/4ehovUNrSrw?t=3095) Because they love their people. Okay, so Prime saw Hector in the face of Achilles. Achilles saw his father in the face of pry and because of their love for others they found love for each other. So love is the unifying force of the universe.
+
+[51:56](https://youtu.be/4ehovUNrSrw?t=3116) Love is what allows us to forgive ourselves and forgive others. Okay. And this is the tremendous insight of the Iliad. Okay.
+
+[52:04](https://youtu.be/4ehovUNrSrw?t=3124) And to demonstrate to you how powerful this insight is, let's run a scenario. Okay. Let's do a thought experiment. Let's just say you're driving a car with your wife and your child home from restaurant, okay?
+
+[52:18](https://youtu.be/4ehovUNrSrw?t=3138) And you've had too much of drink and then you hit a car and your wife and your child died. Okay, that's the first scenario. Second scenario is you're driving home and then a drunk driver hits you, killing your wife and your child. It's not your fault, it's drunk driver's fault.
+
+[52:32](https://youtu.be/4ehovUNrSrw?t=3152) The third scenario, you're arguing with your wife and you're not really watching the road. Okay, then that drunk driver hits you and kills your wife and your child. Okay, these are three different scenarios, right? Let me ask you a question.
+
+[52:44](https://youtu.be/4ehovUNrSrw?t=3164) In which scenario are you less likely to forgive the drunk driver? One, two, or three? One, it's your fault. Two is it's his fault.
+
+[52:53](https://youtu.be/4ehovUNrSrw?t=3173) Three is it's his fault, but it's also your fault. Which one? It's number three, guys. Okay?
+
+[53:01](https://youtu.be/4ehovUNrSrw?t=3181) Why? Because you cannot forgive yourself first. All right? If you cannot forgive yourself, you can't forgive others.
+
+[53:06](https://youtu.be/4ehovUNrSrw?t=3186) And guess what, guys? In real life, it's always number three. It's almost never number one or number two. So, forgiveness is something that we encounter every day.
+
+[53:17](https://youtu.be/4ehovUNrSrw?t=3197) Every day we make mistakes and because we can't forgive oursel, we can make even more and more mistakes. Okay? That's a problem of forgiveness.
+
+[53:29](https://youtu.be/4ehovUNrSrw?t=3209) And this is the deepest problem in human society. And so, what the tells us is that the real struggle is not for power. The real struggle is within our heart. The real struggle is between ourselves.
+
+[53:45](https://youtu.be/4ehovUNrSrw?t=3225) If we forgive ourselves, we can change the world. Right? If we forgive others, we make the world a better place because prime forgave Achilles. Achilles able to forgive himself and they made the world a better place.
+
+[54:01](https://youtu.be/4ehovUNrSrw?t=3241) That's the power of the human heart. And this is what gives rise to Greek civilization. Okay, the Greeks engaged in an oral tradition. And in the oral tradition, they were constantly trying to figure out the mysteries of the human heart.
+
+[54:21](https://youtu.be/4ehovUNrSrw?t=3261) So this is this is Pericles giving his famous funeral oration. So every day people are speaking because that's what a person does speaks before others. All right.
+
+[54:34](https://youtu.be/4ehovUNrSrw?t=3274) The Greeks were known for their theater. This is the amphitheater in Athens. You can see it seats about 10,000 people and this is what they do for fun. They stage theater and everyone watches it and the theater plays byes is sopic or about the human heart the mysteries of the human heart.
+
+[54:54](https://youtu.be/4ehovUNrSrw?t=3294) So every day people are thinking about what it means to be human and that's and that's why they have the greatest civilization in the world. This is the agara the marketplace where people come together and just debate they talk. So Sakanish was famous for being in the agara the marketplace and just finding people to debate. [Music] This is the symposia.
+
+[55:15](https://youtu.be/4ehovUNrSrw?t=3315) The symposia is a gathering of wealthy people. What they do is they drink wine and they talk about philosophy, love, death, what's meaning of life. Okay. Now, the wine is interesting because they'll water down the wine so it's not as strong, okay?
+
+[55:33](https://youtu.be/4ehovUNrSrw?t=3333) And they'll do this like for like the entire night. This is Socrates engaging in a symposium on love. That's what they do for fun, guys. This is a trial, Socrates.
+
+[55:43](https://youtu.be/4ehovUNrSrw?t=3343) So if there's if you're charged with a crime, you face a trial and there's 500 people and you have to convince those 500 jurors why you're guilty or why you're not guilty. Okay? All right. So, this is an oral culture where every day people are talking with each other and that's the source of their creativity.
+
+[56:06](https://youtu.be/4ehovUNrSrw?t=3366) And what they're talking about is the Ilia, the Odyssey. They're trying to figure out what Homer meant, what Homer was trying to tell the world in his poetry. This is Heroditus. So even if you write, the first thing you do is when you write, you will recite your writings to everyone.
+
+[56:28](https://youtu.be/4ehovUNrSrw?t=3388) So you understand what the reaction is. Okay? Writing comes from community. It comes from understanding the feelings of others.
+
+[56:37](https://youtu.be/4ehovUNrSrw?t=3397) Today we just write by ourselves and that's why our writing is crap. All right. So, this is Anakarina Nina considered the greatest novel of the modern period.
+
+[56:53](https://youtu.be/4ehovUNrSrw?t=3413) It's written by Leo Toy Stoy and it it's a really fun novel. I highly recommend it. It's a great book. Okay.
+
+[57:02](https://youtu.be/4ehovUNrSrw?t=3422) And it starts off by saying happy families are all alike. Every unhappy family is unhappy in its own way. Everything was in confusion. In the Oblunksky's house, the wife had discovered that the husband was carrying on an intrigue with a French girl.
+
+[57:17](https://youtu.be/4ehovUNrSrw?t=3437) So, it starts over an affair. What happened is that the husband's sister Anarina will come from St. Petersburg to try to resolve the issue, but then she'll fall in love with another man.
+
+[57:36](https://youtu.be/4ehovUNrSrw?t=3456) Count Ronsky who and they have an affair together. Okay. And this affair destroys their families and it ends with Anna Karina's suicide. Okay.
+
+[57:49](https://youtu.be/4ehovUNrSrw?t=3469) Because what's happening is that she's demanding more and more Krosky and he can't keep up. He's exhausted by the demands of Anakarina. So this is what she says before she kills herself. My love keeps growing more passionate and egoistic while his is waning and waning and that's why we're drifting apart.
+
+[58:10](https://youtu.be/4ehovUNrSrw?t=3490) She went on musing and there's no hope for it. He has everything for me and I want him more and more to give himself up to me entirely. He wants more and more to get away from me. We walk to meet each other up to the time of our love and then we have been irresistibly drifting in different directions.
+
+[58:26](https://youtu.be/4ehovUNrSrw?t=3506) There's no altering that. He tells me I'm insanely jealous and I've told myself that I am insanely jealous but it's not true. I'm not jealous, but I am unsatisfied. I don't have any meaning in my life, and I want this love to give me meaning.
+
+[58:40](https://youtu.be/4ehovUNrSrw?t=3520) So, it's almost like she's looking for God. We've killed God, and now she's looking for God in affairs, in sex, in lust, and that's why she can't find it. Okay.
+
+[58:53](https://youtu.be/4ehovUNrSrw?t=3533) So, what I'm going to do is I'm going to take this and translate it into heroic pros. Okay. Let's see how Homer wrote this.
+
+[59:01](https://youtu.be/4ehovUNrSrw?t=3541) I'm not Homer, okay? But like this is how he might have written it. Okay. And Aarina went to the train station and sat on the bench waiting for the train to come.
+
+[59:08](https://youtu.be/4ehovUNrSrw?t=3548) Her thoughts are empty and her head low. Where do you plan to go? Someone asked from the corner. That snapped Anna from her trance and to her horror she saw herself.
+
+[59:17](https://youtu.be/4ehovUNrSrw?t=3557) But it was not herself. She was older with graying hair and drooping eyes. And Anna looked as though she had seen a ghost. Okay, so she's hallucinating herself 20 years from now.
+
+[59:28](https://youtu.be/4ehovUNrSrw?t=3568) Who are you? You Anna shouted in horror. "What do you want?" "Where will you go?" the older Anna asked.
+
+[59:34](https://youtu.be/4ehovUNrSrw?t=3574) "Where's Watsky?" Anna shouted. She looked around. The train station was empty. "Okay, "You know where he is?" the older Anna said with a look of pity on her winkle face.
+
+[59:46](https://youtu.be/4ehovUNrSrw?t=3586) Anna got up and walked away. She was being followed. So, she knows that in time she'll just all be alone. Okay?
+
+[59:54](https://youtu.be/4ehovUNrSrw?t=3594) She sees her own future. "Anna, where are you going?" the older Anna asked. Stop following me, Anna shouted back, picking up the pace. I am going to a place where you can't find me.
+
+[1:00:02](https://youtu.be/4ehovUNrSrw?t=3602) Don't do anything rash, the older Anna said, chasing after her. Leave me alone, Anna shouted, and she ran and ran, screaming and screaming. She tripped and fell into the tracks right in front of the train. So, and then she died.
+
+[1:00:16](https://youtu.be/4ehovUNrSrw?t=3616) So if you do it this way, it gives you more insight into the human mind, the human psyche, right? And that's what we've forgotten. So what happens when we stop believing in the spiritual? What happens when we disconnect from the right hemisphere of brain?
+
+[1:00:32](https://youtu.be/4ehovUNrSrw?t=3632) We clutter our brains with insignificant concerns, pursuits and details in search of significance. When we kill God, anything can be God. Okay. So as I said, Anakarina with her fear, she's looking for God.
+
+[1:00:41](https://youtu.be/4ehovUNrSrw?t=3641) She's looking for meaning. And before when we hallucinated, when we talk with the gods, we had meaning. We had wisdom. We had significance.
+
+[1:00:52](https://youtu.be/4ehovUNrSrw?t=3652) And now we've lost it. And the result is what we call modern literature which is complete utter crap by the way. Okay. And we know because this is Virginia Wolf to the Lighthouse.
+
+[1:01:06](https://youtu.be/4ehovUNrSrw?t=3666) It's considered the greatest one of the greatest novels of the 20th century. It's not very good. All right.
+
+[1:01:15](https://youtu.be/4ehovUNrSrw?t=3675) So this is a woman talking to herself. It's what we call stream of consciousness. There were the eternal problems suffering death. The poor.
+
+[1:01:25](https://youtu.be/4ehovUNrSrw?t=3685) There was always a woman dying of cancer even here. And yet she had said to all these children, "You shall go through it." To eight people, she had said relentlessly that. And the bill for the greenhouse would be 50. For that reason, knowing what was before then, love and ambition, and being wed alone in Jerry places, she had often the feeling, why must they go up and lose it all?
+
+[1:01:42](https://youtu.be/4ehovUNrSrw?t=3702) So her mind is wondering, wonder and wondering, and she's concerned about the grocery bills. She's concerned about the future. She's concerned about of the past. There's no discipline.
+
+[1:01:48](https://youtu.be/4ehovUNrSrw?t=3708) There's no focus to any of her ideas. Okay? And this is what we call stream of consciousness. And it's the way we think today.
+
+[1:01:56](https://youtu.be/4ehovUNrSrw?t=3716) The reality is that we live in a world in which God is dead. In which we're not allowed to imagine a spiritual world. And in a world in which we're only focused on the here and now.
+
+[1:02:09](https://youtu.be/4ehovUNrSrw?t=3729) And as such we live meaningless, insufficient lives. And as such, our brains are just focused on things that don't matter. Okay? And our brains become schizophrenic.
+
+[1:02:23](https://youtu.be/4ehovUNrSrw?t=3743) Does that make sense, guys? Hey.
+
+[1:02:26](https://youtu.be/4ehovUNrSrw?t=3746) Yeah. Any questions? All right. Yeah.
+
+[1:02:29](https://youtu.be/4ehovUNrSrw?t=3749) Hi. >> I have a question about the concept about forgiveness that you just mentioned that if you can't forgive yourself, you can forgive others. I think the example of this is China and Japan because China hates Japan because of the Japan invasion war. And after hearing this quote, I think China hates Japan so much even until now.
+
+[1:02:53](https://youtu.be/4ehovUNrSrw?t=3773) It is because that China cannot forgive himself because he's too weak. And also just like the third situation that you just showed, Japan base and China is too weak to fight back. So China cannot forgive his weakness. So he cannot forgive Japan.
+
+[1:03:13](https://youtu.be/4ehovUNrSrw?t=3793) >> Yeah. Yeah, that's that that's a great analogy. I can I completely agree. Yeah.
+
+[1:03:17](https://youtu.be/4ehovUNrSrw?t=3797) Because if you're really strong and confident, you just focus on improving yourself. You don't think about other people. Yeah. Okay.
+
+[1:03:22](https://youtu.be/4ehovUNrSrw?t=3802) Any more questions guys? But thank you for the comment. Okay. All right.
+
+[1:03:28](https://youtu.be/4ehovUNrSrw?t=3808) So, last thing I'm going to do is I'm going to read some YouTube comments. So, I don't have time to read YouTube comments, but my wife loves reading YouTube comments and she sends me YouTube comments and it's basically my homework. Okay? So, if my wife sends it to me, I respond, right?
+
+[1:03:44](https://youtu.be/4ehovUNrSrw?t=3824) So, let's look at some YouTube comments from the last video. Wes andQatara says, "Hey man, what about Africa? What about Egypt and African civilization?" And you know, I'm sure that Africa, Egypt, Sudan are really, really interesting. I don't know enough about it to comment on it.
+
+[1:04:05](https://youtu.be/4ehovUNrSrw?t=3845) So, what I want to do is later on I want to focus more on Africa. Okay. Okay, I want to go to Africa and I want to learn more about continent so I can comment more about Africa.
+
+[1:04:14](https://youtu.be/4ehovUNrSrw?t=3854) Like for me teaching is a learning journey. Okay, I teach to learn. Okay. So this YouTuber says bad Bentham says I underrepresent livestock in the economic system and this is absolutely true.
+
+[1:04:32](https://youtu.be/4ehovUNrSrw?t=3872) If you look at the steps the currency is actually livestock. Cattle, sheep are the main currency of the step people and it's what allows the step people to fight great wars because when they go off in wars they can bring the livestock with them and therefore they don't have any logistical issues. Okay. So this comment is absolutely right.
+
+[1:04:57](https://youtu.be/4ehovUNrSrw?t=3897) Question. So capital changes ultra signic nature to utarian when hard work and motivation get saturated. Why are we only going in one direction that's getting saturated? Yeah, so this is interesting.
+
+[1:05:10](https://youtu.be/4ehovUNrSrw?t=3910) So we have two natures, an altruistic and utitarian nature. And what we've discovered is that if you break the balance and you become too utilitarian, it's almost impossible to move it back. Okay? And that's why societies collapse.
+
+[1:05:31](https://youtu.be/4ehovUNrSrw?t=3931) How similar is this series to civilization series? Okay. So the comment is that I'm using a lot of content that I used before in civilization and yeah that is that is a fair criticism and the reason why is that what I'm trying to do is I'm trying to better understand history. So what I'm doing is I'm trying to analyze history from different angles.
+
+[1:05:53](https://youtu.be/4ehovUNrSrw?t=3953) So last year when I taught civilization, I was trying to just figure out how civilization work. And this year what I'm trying to do is trying to apply the idea of secret societies to the better understanding of civilization. So I know some of the content is repeating itself, but the angle, the slant, the over thesis has changed. Okay?
+
+[1:06:12](https://youtu.be/4ehovUNrSrw?t=3972) And I'm and I'm going over a lot of this information in order to build a case of why we have secret societies. All right? How do we manage to produce during these horrible times? Same question I asked myself yesterday.
+
+[1:06:28](https://youtu.be/4ehovUNrSrw?t=3988) So, so the question is what if children when things are getting worse and worse and the answer is because children is what gives us hope. Children is what gives us purpose. When you see that the world has collapsed or when you see the world is in chaos, you have children because children give you the energy, the motivation, inspiration to fight for a better world.
+
+[1:06:52](https://youtu.be/4ehovUNrSrw?t=4012) So I am probably the most pessimistic person on planet earth. Okay? I think the entire world is going to hell.
+
+[1:07:01](https://youtu.be/4ehovUNrSrw?t=4021) I have three kids. I have three young kids. And the reason why is well, first of all, I love my kids. I love having children.
+
+[1:07:07](https://youtu.be/4ehovUNrSrw?t=4027) But also my children fill me with hope and energy and power to fight for a better world. I'm only doing this I'm only teaching this class. I'm only putting this on YouTube to build a legacy for my children. If it were not for my children, I would honestly not be doing this.
+
+[1:07:24](https://youtu.be/4ehovUNrSrw?t=4044) It's really hard work. Okay. All right. So, that is it for today.
+
+[1:07:27](https://youtu.be/4ehovUNrSrw?t=4047) Thank you guys. We'll continue next week. Okay.

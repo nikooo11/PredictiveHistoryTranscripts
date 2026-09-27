@@ -1,0 +1,282 @@
+---
+title: "Game Theory #4:  The Immigration Trap"
+series: "Game Theory"
+episode: 4
+date: "2026-01-14"
+date_kind: "published"
+video_id: "35HRPLVyF0g"
+url: "https://www.youtube.com/watch?v=35HRPLVyF0g"
+duration: "46:18"
+words: 5690
+punctuated_captions: true
+duplicate_of: null
+source_edited: "source/lightly edited/transcripts/Game Theory/062 — Game Theory #4 The Immigration Trap [35HRPLVyF0g].md"
+---
+
+# Game Theory #4: The Immigration Trap
+
+Game Theory · Published 2026-01-14 · 46:18 · 5,690 words · [Watch on YouTube](https://www.youtube.com/watch?v=35HRPLVyF0g)
+
+## YouTube description
+
+> In this Thursday, January 15, 2026 lecture to his Beijing high school students, Professor Jiang uses the example of immigration to illustrate how games are rigged.  
+>
+> Notes and References:
+> "What Makes You Click:  Mate Preferences and Matching Outcomes in Online Dating" (MIT Sloan Working Paper February 2006)
+> Download the paper here:  https://papers.ssrn.com/sol3/papers.c...
+
+## Transcript
+
+[00:01](https://youtu.be/35HRPLVyF0g?t=1) Today we will look at immigration. Who wins the game of immigration and who loses? Why do they win? Why do they lose?
+
+[00:01](https://youtu.be/35HRPLVyF0g?t=1) So let's look at the United States, which is where most immigrants go. And as you can see from this chart, there are certain ethnic groups that do better than other ethnic groups. So the Indian people make the most money in America. And this makes sense because India has a very competitive college system where only the best and brightest get into their technical institutes and then after college they go United States to do graduate work.
+
+[00:49](https://youtu.be/35HRPLVyF0g?t=49) Then they go on to Silicon Valley to become engineers, some become doctors. But Indians as a demographic are very successful. Then you have the other Asian groups. So, Japanese, Korean, Filipino, Chinese also do very well.
+
+[00:49](https://youtu.be/35HRPLVyF0g?t=49) East Asians do very well in school and East Asians are known for being very hard workers. The white people are the majority and they are the average, okay? And they make about 70,000 US a year. This is just average income.
+
+[01:29](https://youtu.be/35HRPLVyF0g?t=89) But then what's troubling is that as you go lower, you find that there are certain ethnic groups that don't do well economically. They include, of course, Mexicans, Latinos, as well as black Americans who traditionally have been slaves in America. So the question for us today is that why is it that there are certain ethnic groups specifically East Asian groups that do well economically and then you have other ethnic groups specifically Latinos and blacks who do not do well economically. Okay.
+
+[02:09](https://youtu.be/35HRPLVyF0g?t=129) So the traditional explanation is that it's just that certain cultures prize education more than other cultures. In fact, some extremists will go on to say that genetically East Asians are just smarter than everyone else. Okay, so this is the PISA rankings. This is from 2018.
+
+[02:09](https://youtu.be/35HRPLVyF0g?t=129) The pieces is the program for international student assessment. So every three years the OECD which is which is international organization around the world they organize tests for 14 year olds in three subjects math science and reading and based on these results the OCD which is primarily concerned with economic development forecast a nation's ability to do well economically in the next 10 20 30 years. As you can see from this map, there are certain countries that do outstanding on the pizza. The nations in green do really well.
+
+[02:52](https://youtu.be/35HRPLVyF0g?t=172) The nations in yellow are average and then there are these red nations that are below average, meaning that they will suffer economically. Now, as you can see, the nations that do really well are actually based primarily in East Asia and they are Japan, South Korea, Vietnam, China. That's why a lot of people believe that in the future, East Asia will come to dominate the world economically. In fact, there are many who believe that already East Asia dominates the world economically, especially China.
+
+[03:32](https://youtu.be/35HRPLVyF0g?t=212) Then you have these other nations in red that will suffer economically. You have Latin and South America who traditionally have not have not done very well on the pizza. You also have Africa and the Middle East that suffers on a pizza and then you have Indonesia, Malaysia, these countries that don't do well on the pizza. The nations in are gray by the way are nations that are that have don't have the development in order to actually have students take tests.
+
+[04:44](https://youtu.be/35HRPLVyF0g?t=284) They don't have the infrastructure, the logistics to actually have students take tests. And so what you can see about the nations in red is first of all they're primarily based in a region okay Latin and South America but also you can actually group them also by religion okay Islam okay Muslims don't do well on the pizza and that's why there's great fear that Islamic countries will fall behind economically also So another concern is immigration. So what's been happening is that immigrants from Latin South America have been moving to United States and Islamic nations the people have been moving to Europe.
+
+[05:27](https://youtu.be/35HRPLVyF0g?t=327) Now a lot of this immigration is driven by war. So nations like Libya, Syria, Afghanistan, Iraq have seen them have seen the themselves destroyed because America's war on terror forcing millions of refugees to seek better opportunities in Europe. Okay.
+
+[05:27](https://youtu.be/35HRPLVyF0g?t=327) And so this is causing a lot of conflict because on one hand these immigrants don't do well economically. On the other hand, they're moving to these very wealthy nations and that's causing a lot of conflict. So, what's driving this conflict? Okay, so again, from the pizza rankings, it seems as though East Asians will come to dominate the world.
+
+[06:08](https://youtu.be/35HRPLVyF0g?t=368) The problem is that when you actually look at American society and you look at who succeeds, it turns out East Asians don't do as well as you think they do. Well, if East Asians are the best students in school and they go on to the most prestigious colleges and they are the smartest with the highest IQ, you would think they would come to dominate American society. But that's not true actually. So this is a chart of new CEOs and what this means is that from about 2000 Americans corporations they tried their best to bring in more diversity into the corporate boardroom.
+
+[06:46](https://youtu.be/35HRPLVyF0g?t=406) Traditionally CEOs American corporations have been white middle-aged and men. So they're trying to diversify the leadership of American corporations. And it turns out that white women, okay, have done the best, white women have been the most successful in climbing the corporate ladder in America.
+
+[07:21](https://youtu.be/35HRPLVyF0g?t=441) What's interesting now then is that Latino and African-American men, okay, they do okay. Not great, but they do okay. And who is underperforming are East Asian men. Okay, you can see this from this map where the growth in East Asian man it's pretty steady.
+
+[07:21](https://youtu.be/35HRPLVyF0g?t=441) Now there are different reasons for this. Okay, one reason is just that there's something called DEI in America diversity, equity, inclusion. And the idea of DEI is to redress historical wrongs. And one historical wrong is the fact that women minorities have been discriminated against in American society and therefore they should be given better opportunities more opportunities to succeed.
+
+[08:01](https://youtu.be/35HRPLVyF0g?t=481) So you can argue that because of DEI East Asian men have been discriminated against because historically people believe that East Asian men have not been discriminated against even though that's not that's not correct. Okay. So you can argue it's really DEI but another way of understanding this is figure out who succeeds in corporate America.
+
+[08:40](https://youtu.be/35HRPLVyF0g?t=520) And the answer is if you look at the qualities of successful CEOs well first of all they tend to be aggressive okay or assertive okay another saying this is that they have high risk tolerance or they take chances. Also to navigate corporations you need high EQ okay emotional intelligence, empathy or collaboration skills. Okay. So these are the skills you need in order to do well in American corporations.
+
+[09:13](https://youtu.be/35HRPLVyF0g?t=553) And unfortunately these certain skills the stereotype is that East Asian men don't actually have these skills. As Asian men are tend to be much more individualistic. They're they tend to be more cautious and they tend not to speak a lot. Okay.
+
+[10:09](https://youtu.be/35HRPLVyF0g?t=609) So East Asian men are not known for being articulate, which is something that you need in order to do well in a corporate boardroom where there's a lot of debate, where there's a lot of argumentation, where you have to present your view, your opinion very coherently. Okay. So, what's interesting is that the skills that you need to do well in the corporate boardroom, East Asian men don't have. And you can also argue that it's because East Asian men don't have these skills.
+
+[10:47](https://youtu.be/35HRPLVyF0g?t=647) They have other skills that allows them to do well in school. For example, East Asian men are more focused. They're more unitarian. They're grave obsessed.
+
+[10:47](https://youtu.be/35HRPLVyF0g?t=647) They are more compliant, more obedient. Okay? They like listening to authority and that's why they do well in school. But what this means ultimately is a situation in which even though East Asian men do well economically and they do well academically, their status, okay, status in America is not as great as their income would suggest.
+
+[11:30](https://youtu.be/35HRPLVyF0g?t=690) In fact, you could make the argument that East Asian men are among the groups that have the lowest status in America, which makes no sense. But again, unfortunately, the evidence bears us out, especially okay, the dating market. Okay. So again, remember what is it that men want to do?
+
+[11:30](https://youtu.be/35HRPLVyF0g?t=690) Well, they want to obtain status so that they can find the most attractive mate. Okay. So, we're going to now look at statistics from dating websites. Okay.
+
+[12:20](https://youtu.be/35HRPLVyF0g?t=740) Online dating websites. This is from Okay Cupid. Okay. Okay.
+
+[12:20](https://youtu.be/35HRPLVyF0g?t=740) Which is one of the more popular dating websites in the United States. And so we have a lot of statistics about how people behave online. So look at this guys, okay? If you are an Asian female and a Asian man gets in touch with you, about 22% of these Asian female will respond to an inquiry, a first message if the person is an Asian man.
+
+[12:20](https://youtu.be/35HRPLVyF0g?t=740) But what's interesting is that if it's more white guy, then there's more interest. 29%. That's a pretty significant difference. Okay.
+
+[13:04](https://youtu.be/35HRPLVyF0g?t=784) So, this is just a first reply. Now, what's interesting is that if you're an Asian male, okay, what's interesting is that people are less likely to respond to you. Okay. So, this is another map that shows us stat statistics from the dating website.
+
+[13:04](https://youtu.be/35HRPLVyF0g?t=784) So, this is white woman. Okay. Let's look at white woman and there and how interested they are in other ethnicities.
+
+[13:04](https://youtu.be/35HRPLVyF0g?t=784) If you are white, okay, Caucasian, they're very interested. In fact, they're the most interested. If you're black, they're not as interested. Okay?
+
+[13:50](https://youtu.be/35HRPLVyF0g?t=830) If you're Hispanic, they're not interested. But look at this. If you're Asian, they are least interested. Okay?
+
+[13:50](https://youtu.be/35HRPLVyF0g?t=830) That's interesting. But look at this. If you are an Asian woman, okay, you're pretty interested in white guys. You're most interested in Asian guys, okay?
+
+[13:50](https://youtu.be/35HRPLVyF0g?t=830) And you're similarly interested in black and Hispanic guys. So, it seems that in the dating market, one group that is most discriminated against are ease Asian men. Okay. Another group that's also discriminated against heavily are black women.
+
+[14:27](https://youtu.be/35HRPLVyF0g?t=867) So if you if you look at marriage patterns, there's also discriminate discrimination against East Asian men.
+
+[14:27](https://youtu.be/35HRPLVyF0g?t=867) So 20% of East Asian women will marry white guys. Okay? So, if you are an East Asian woman, you are attracted to white guys and you're attracted to East Asian guys primarily.
+
+[15:20](https://youtu.be/35HRPLVyF0g?t=920) But if you are an East Asian men, okay? All right. Here, you're not that attractive to white women. Okay?
+
+[15:20](https://youtu.be/35HRPLVyF0g?t=920) So 20% of East Asian women will marry a white person, but only 9% or 10% of Asian men will marry a white woman. So this leads to a disparity in the marriage market. And what this means is that for East Asian men under 25 years old, 75% are single, meaning they cannot find a date or a partner. Okay.
+
+[15:20](https://youtu.be/35HRPLVyF0g?t=920) So, this leads to a very stark conclusion for East Asian men. The reality is that if you're an East Asian man in America, people don't find you that attractive. Okay?
+
+[16:17](https://youtu.be/35HRPLVyF0g?t=977) So, they did a lot of studies about the East about the dating market in America. And the radical conclusion that they have is that is this. Okay. A white woman okay is more attracted to a white man than an Asian man.
+
+[16:17](https://youtu.be/35HRPLVyF0g?t=977) And how do we know this statistically? A if a white man makes $62,000 a year, for the Asian man to be as attractive to her, the man, the Asian man needs to make $300,000 a year. That's a huge, huge difference. In other words, a white woman will be attracted to the average white guy and she will only be interested in the highest earning Asian guys.
+
+[17:08](https://youtu.be/35HRPLVyF0g?t=1028) But not only are they making a lot, but these Asian guys are actually at the top of their fields because $200,000 in America is actually a lot of money. Okay? So, you have to be a surgeon.
+
+[17:08](https://youtu.be/35HRPLVyF0g?t=1028) You have to be a top lawyer. You have to be an entrepreneur in order to be attractive to just the average white woman, not even the most attractive white woman. So, this is actually a pretty stark situation for Asian men. And so, you have a really strange situation where Asian men, East Asian men, did everything right.
+
+[17:49](https://youtu.be/35HRPLVyF0g?t=1069) They did exactly what they were supposed to do. They went to school, worked hard in school, got the best grades, then worked hard at their jobs and got and did very well in their jobs. But now two things have happened because they follow the rules because they living right. They didn't commit any crime.
+
+[18:24](https://youtu.be/35HRPLVyF0g?t=1104) They're not on welfare. They pay taxes. They're they can contribute to community. But because of this, two things have happened.
+
+[18:24](https://youtu.be/35HRPLVyF0g?t=1104) One is that they're not able to climb into status positions in America. They're not CEOs. The other thing is that they have problems finding a very good mate. Okay.
+
+[18:24](https://youtu.be/35HRPLVyF0g?t=1104) It's easy for them to find someone off their status or below, but it's very hard for East Asian man to actually marry up and improve their status and social economic standing in America. All right. All right. So, this leads us to a very stark disparity, right?
+
+[19:00](https://youtu.be/35HRPLVyF0g?t=1140) So, let's look at this guys. You have East Asian men and here's how they play the game of immigration. They do well in school. Okay.
+
+[19:00](https://youtu.be/35HRPLVyF0g?t=1140) They have good jobs, employment. Yes, they have they're not on welfare. Okay, they don't go to jail. Okay, and then you look at other minorities.
+
+[19:00](https://youtu.be/35HRPLVyF0g?t=1140) Specifically Hispanic, black, and Muslim. Okay. Well, they don't do as well in school. Okay.
+
+[19:55](https://youtu.be/35HRPLVyF0g?t=1195) They don't do they don't make as much as ease Asian man. They're more likely to be on welfare and they're more likely to go in jail. Okay. All right.
+
+[19:55](https://youtu.be/35HRPLVyF0g?t=1195) So, you would think that East Asian men will ultimately triumph in the end. But what is really disconcerting is that according to game theory, East Asian men are playing the game wrong. Whereas these other groups, these Hispanics, these blacks, these Muslim groups, they are much more likely to win the game. Okay.
+
+[20:38](https://youtu.be/35HRPLVyF0g?t=1238) So, how can we explain this? And the explanation is actually pretty straightforward, but it's actually very disconcerting or very disturbing. The answer is if someone invites you to play his game, don't agree to play by the rules because the game is out so that you will lose. Otherwise, why would he invite you?
+
+[20:38](https://youtu.be/35HRPLVyF0g?t=1238) Think of a casino, right? A casino is like please come in and play our game. Do you think a casino is fair? If the casino was were fair, the casino will go bankrupt, right?
+
+[21:23](https://youtu.be/35HRPLVyF0g?t=1283) The casino is set up so that you have to lose otherwise they go out of business. The same thing with immigration. If a nation like United States is inviting you into their nation and you play by their rules, you will always lose. Okay?
+
+[21:23](https://youtu.be/35HRPLVyF0g?t=1283) And this is what's happening to East Asian men where they go to the United States, they play by the rules and they'll never climb into sus positions and their woman will be married off to white men. The most attractive of all Asian women will be married off to white guys, whereas East Asian guys will make their money and then stay at home and play video games all the time. Okay, the game is rigged. So the only logical strategy according to game theory to this situation is to break the game, cheat.
+
+[21:56](https://youtu.be/35HRPLVyF0g?t=1316) And that's what the other minorities are doing. And how do you do that? Well, you don't play the game.
+
+[21:56](https://youtu.be/35HRPLVyF0g?t=1316) You don't go to you don't go to school and obey the teacher. Okay. What how to win is by sticking together and having lots of babies. And over time that will enable you to win the game because of demographics.
+
+[22:32](https://youtu.be/35HRPLVyF0g?t=1352) Does that make sense? You're much better off not going to school, being poor, but staying together, being cohesive, and having lots of babies rather than going to school, getting a good job, doing everything you've been told to do. Because ultimately, your energy will be stolen from you because of the rules of the game.
+
+[22:32](https://youtu.be/35HRPLVyF0g?t=1352) Does that make sense, guys? All right. All right.
+
+[23:09](https://youtu.be/35HRPLVyF0g?t=1389) So okay. So again immigration is very important because all in the world poor people are going to rich countries to seek better opportunities right so it's really North America primarily United States Canada the United States then you have Australia New Zealand and Europe. Okay. And countries that are going to these place places are China, East Asia basically, and you have the Latinos, the Africans, Middle East.
+
+[24:04](https://youtu.be/35HRPLVyF0g?t=1444) And again, you have situation where East Asians are much more likely to go and conform, but then you have other groups that go and refuse to conform. And as I mentioned, from a game theory perspective, it is better in the long term for you as a person not to conform, not to play the rules of the game than to actually play by the rules of the game.
+
+[24:04](https://youtu.be/35HRPLVyF0g?t=1444) I know it sounds weird, okay? But according to game theory, that's the best outcome for you. All right. So, an example is in Europe.
+
+[24:44](https://youtu.be/35HRPLVyF0g?t=1484) In Europe, they have a huge Muslim problem. These Muslims are less likely to integrate. They don't do very well in school, but they will claim welfare.
+
+[24:44](https://youtu.be/35HRPLVyF0g?t=1484) They will have lots and lots of babies which is a drain on the economy of these nations and what this means is that in the year 2050 okay in the year 2050 this is what's going to happen in Sweden of the population will be Muslim in the UK 17% in France 17% in Germany 11% the in Italy it'll be 12%. Okay, so it seems as though there's a population replacement going on. But not only that, but because Muslims are much more likely to have more children than Europeans, the populations that are Muslim will be younger, more energetic, whereas the Europeans will be much more old. They'll likely be retired.
+
+[25:33](https://youtu.be/35HRPLVyF0g?t=1533) So if this trend continues then Europe will eventually be taken over by the Muslim minority. Okay? And so the Muslims they don't do well in school and they don't make that much money but look at their advantages. Okay.
+
+[26:18](https://youtu.be/35HRPLVyF0g?t=1578) First of all they are cohesive. Okay. Because of their religion. Okay.
+
+[26:18](https://youtu.be/35HRPLVyF0g?t=1578) They are energetic because you're young. Okay? And they're united because quite honestly the Europeans don't really like them. They're they are an outcast.
+
+[26:18](https://youtu.be/35HRPLVyF0g?t=1578) They're considered an enemy by the Europeans. So if trends continue then it is most likely that Muslims will control Europe in 25 years time. Okay? Does it make sense?
+
+[26:18](https://youtu.be/35HRPLVyF0g?t=1578) But not only that, but you look at America. Okay? Let's look at America. You have a similar situation going on.
+
+[27:03](https://youtu.be/35HRPLVyF0g?t=1623) Sorry. Okay. Look at 2050. What's happening?
+
+[27:19](https://youtu.be/35HRPLVyF0g?t=1639) So, the white population is declining. Okay.
+
+[27:19](https://youtu.be/35HRPLVyF0g?t=1639) Now, it's a majority, but by 2050 it will no longer be the majority. Asians are increasing by a bit, but not that much. Okay. But the real growth is in Hispanics.
+
+[27:19](https://youtu.be/35HRPLVyF0g?t=1639) In Hispanics. Okay. And not only are they going in absolute numbers, but again they're are much more young, much more energetic group who are more likely to have children. Okay?
+
+[27:19](https://youtu.be/35HRPLVyF0g?t=1639) And they are united because they are Catholics. So they have a common religion, they have a common language, they have a they have very similar common cultural traits. So that's it. According to game theory, if you're an immigrant, your best strategy is not to do well in school, make a lot of money.
+
+[27:57](https://youtu.be/35HRPLVyF0g?t=1677) That will get you nowhere. You're just playing by the rules of the game. Your best strategy is to stick together with your ethnic group, have lots of babies, maintain your religion, and over time, your children, your grandchildren will come to dominate the nation. Okay?
+
+[28:28](https://youtu.be/35HRPLVyF0g?t=1708) Does that make sense, guys? Any questions before I move on? Okay. The problem with this is that there is no way that the majority, the white people will just sit back and let this happen.
+
+[28:28](https://youtu.be/35HRPLVyF0g?t=1708) You're going to have a lot of violence, a lot of conflict because from the white perspective, this is population replacement. Okay? If we just let demographic trends continue, if these outsiders just have a lot of kids and we don't have the kids, then eventually our culture will be destroyed.
+
+[29:11](https://youtu.be/35HRPLVyF0g?t=1751) And they're right. Okay, historically they're right. And how do we know? Because let's talk about some history.
+
+[29:11](https://youtu.be/35HRPLVyF0g?t=1751) So last semester we talked about the protoindo-uropeans, right? Okay. So this is Europe. This is Asia.
+
+[29:11](https://youtu.be/35HRPLVyF0g?t=1751) Anatolia. Okay. So remember that after the ice age, hunter gatherers spread around. Okay.
+
+[29:42](https://youtu.be/35HRPLVyF0g?t=1782) You have hund gatherers around. But then because as the earth was warming this allowed for agriculture and so a new group came into being that focused on agriculture. Okay, these are the farmers.
+
+[29:42](https://youtu.be/35HRPLVyF0g?t=1782) These are farmers and they arrived primarily in Anatolia and the Leavant and Mesopotamia because that was the warmest part of the globe that was most amendable to agriculture. But then if you remember there's always climate change and because of climate change they're not forced to migrate okay and a lot migrated to Europe and when they went to Europe they forced out the hunter gatherer okay it was not violent because hunter gatherers have very few people and they allow and they can move about okay but eventually what happened is that the farmers were able to displace place the hunter gatherers. Okay, now they're established in Europe. You also had farmers who went into the steps, but remember from last semester we discussed the steps and how because it's grassland, you can't actually farm there or it's very hard to farm there.
+
+[30:59](https://youtu.be/35HRPLVyF0g?t=1859) So they develop a new economy called nomadic pasturalism which is to say that they raised sheep, goat and cows and they migrated from one area of the grassland to the next. Okay. And as a result they became very strong very aggressive people and again because of overpopulation because of climate change these people are now forced to migrate to Europe. Okay they migrate to Europe and what happened now?
+
+[31:17](https://youtu.be/35HRPLVyF0g?t=1877) Well, now there's a war that lasts 100 years, 20 years in which the pneumatic pastoralists, the Annayia or the Puerto Indo-Uropeans, they displaced or they eliminated the farmers. Okay? And so what happened, we know this from genetic studies, is that the men, the European farmers were killed and the woman were taken as basically bride brides, okay? Slaves basically.
+
+[31:53](https://youtu.be/35HRPLVyF0g?t=1913) So this is a population replacement and this historically is what happens. Okay, one group comes in and replaces the other. And throughout most of human history, this is a constant cycle because the steps were extremely violent and chaotic. And this forces groups to constantly migrate to other places in search of safety.
+
+[32:36](https://youtu.be/35HRPLVyF0g?t=1956) And in each time there is population replacement. Okay. Primarily in the elite. Okay.
+
+[32:36](https://youtu.be/35HRPLVyF0g?t=1956) So we so there are very few instances of situ where groups come together and they are peaceful. No because you only have one elite and one elite must replace the other elite. Okay? Does doesn't make sense guys?
+
+[32:36](https://youtu.be/35HRPLVyF0g?t=1956) So if this is historically the situation, how did we get into a situation where immigration has become the norm in today's world? Okay, before historically we believe that you have to stay together as part of your group otherwise you'll be eliminated. And now we believe that hey if you don't like where you are it's okay just get up and move somewhere else and maybe it'll be better economic opportunities for you.
+
+[33:25](https://youtu.be/35HRPLVyF0g?t=2005) This is a shift in mentality a shift in mindset. Okay. This came about because of the British Empire. All right.
+
+[34:02](https://youtu.be/35HRPLVyF0g?t=2042) So this is Europe. This is South America. USA Canada, Australia New Zealand.
+
+[34:08](https://youtu.be/35HRPLVyF0g?t=2048) So you have Spain and Spain because of the Ottoman Empire, Spain could not access the East Indies trade. Okay.
+
+[34:08](https://youtu.be/35HRPLVyF0g?t=2048) So it had to figure out new ways to access East Asia, China. China India because that was where a lot of spices were. Okay. And there's huge demand for spices.
+
+[34:08](https://youtu.be/35HRPLVyF0g?t=2048) So they started to chart new areas. Okay. Spain and Portugal primarily. And what they discovered was there's all this new territory in South America.
+
+[35:07](https://youtu.be/35HRPLVyF0g?t=2107) Now South America is interesting because in South America you had a huge population and there was a lot of mineral wealth, silver and gold. And so what they could do was they go could go over there and enslave the population. Okay. So, slavery and then you convert them to Catholic religion.
+
+[35:07](https://youtu.be/35HRPLVyF0g?t=2107) So, basically the easiest areas to colonize Spain and Portugal took right away. But then afterwards Britain, England start to play this game as well. Okay.
+
+[35:44](https://youtu.be/35HRPLVyF0g?t=2144) And they also sent colonists. But the problem was that there was no large population to enslave also there were a lot especially United States there were a lot of aggressive Indians. Okay. Natives.
+
+[35:44](https://youtu.be/35HRPLVyF0g?t=2144) And so the solution was the United States after one independence from Britain, it welcomed immigrants from Europe specifically Ireland, Germany, Poland, these places. The reason why is they needed to displace the natives. Okay? And then immigrants were then encouraged to go to Canada and Australia to build their economies as well.
+
+[36:32](https://youtu.be/35HRPLVyF0g?t=2192) So in other words, immigration today it is a historical accident. The Americans were responding to the specific needs of that time. Okay? They were a small population against a hostile people, the natives in a very large area.
+
+[36:32](https://youtu.be/35HRPLVyF0g?t=2192) And so they needed people to come and farm and industrialize the area. And that's why America welcome immigrants. And this is new in human history where you could go to a new place and become a citizen. Okay?
+
+[37:14](https://youtu.be/35HRPLVyF0g?t=2234) Usually if you went to a new place, you went because you were a slave. You were conquered in war and you went as cheap labor. Okay? So in so America they welcome you as citizens if you're willing to contribute and they allow you to get rich if you worked hard.
+
+[37:14](https://youtu.be/35HRPLVyF0g?t=2234) Now fast forward and America becomes an empire because it's allowing all this energy to concentrate in America. You have World War II. Okay?
+
+[37:14](https://youtu.be/35HRPLVyF0g?t=2234) You have World War II and America triumphs in World War II. And now America can set the entire rules of the game for most of the world for Western Europe. And at this time America said to Europe, you guys fought wars. You guys had fascism because you are a closed society.
+
+[37:52](https://youtu.be/35HRPLVyF0g?t=2272) Close society means you don't want immigrants. You're all very nationalistic and therefore you are violent. America won the war because America is an open society which welcomes immigrants which is a multicultural society that encourages people to get rich and be happy.
+
+[38:33](https://youtu.be/35HRPLVyF0g?t=2313) And so Europe, if you want to be like us, if we want to prevent World War II, then you have to become an open society as well and welcome immigrants just like we do. Okay? And that's why we have the situation that where we have where now Muslims are going to Europe and others are going to America. Okay.
+
+[38:33](https://youtu.be/35HRPLVyF0g?t=2313) And what we need to recognize is that immigration it's a new game developed because of certain historical circumstances but it's not sustainable in the long term. And so the idea that you can just work hard in school, then go to America and become wealthy, that can't be true anymore. In the future, according to game theory, what's going to happen are these violent conflicts between demographic groups because each group is trying to set the rules of the game. Because whoever sets the rules of the game will always win the game.
+
+[39:12](https://youtu.be/35HRPLVyF0g?t=2352) Meaning they have access to the best jobs. They have the high status and they have access to the best looking woman which is ultimately what every man is looking for. Okay. Status, attractive woman power money.
+
+[39:46](https://youtu.be/35HRPLVyF0g?t=2386) Does that make sense, guys? All right. Any questions?
+
+[40:07](https://youtu.be/35HRPLVyF0g?t=2407) Ask one question, then we'll finish class. Okay. Can we really do something about the current immigration or we don't have any ability to change it?
+
+[40:20](https://youtu.be/35HRPLVyF0g?t=2420) >> Okay. That's a great question and I'm sure everyone's feeling with this question which is like what can we do about this situation? Well, I mean the problem is, and I hate to say this, but immigration is not natural. Okay?
+
+[40:20](https://youtu.be/35HRPLVyF0g?t=2420) And what I mean by that is that if you're born into a community, what is natural is for you to want to help this community grow and develop. You want to contribute to this community. What is not natural is for you to say, you know what, this community sucks. I'm going to go find a new community because if everyone did that then no communities could ever exist.
+
+[41:00](https://youtu.be/35HRPLVyF0g?t=2460) So 99% of people what their natural inclination to do is to want to work hard and make the community a better place. And that's what everyone should be doing. You always going to have minority people maybe 1% 2% who are sort of strange and that they have different ideas and they're not going they're not going to be able to conform to the community.
+
+[41:33](https://youtu.be/35HRPLVyF0g?t=2493) And historically these people have been killed by the communities and so it's natural for them to get up and leave. Okay. So but that's only a small group of people.
+
+[41:33](https://youtu.be/35HRPLVyF0g?t=2493) So what's what is natural is for people to want to just stay where they are because they love their neighbors because they love their family and they want to help the community get stronger and stronger. And unfortunately because of globalization because of mass media because of the internet for another reason young people believe that what's important is their own individual happiness their own economic opportunity. So I'm going to go wherever there's more economic opportunity. So for example, Chinese students, the very best are like, you know what, I'm probably going to make more money United States, so I'm going to work hard, then immigrate to United States, and then start my own company, get rich and all that.
+
+[42:36](https://youtu.be/35HRPLVyF0g?t=2556) And you know, some people have success of doing that. But if you think about it, this is not good for China, right? As a nation, why would you encourage your best and brightest to take their skills, move somewhere else, and contri contribute to that economy rather than to your own economy? And so, we're in a very strange situation.
+
+[42:36](https://youtu.be/35HRPLVyF0g?t=2556) And we are in this situation because for the longest time, America was a global hedgeimon and could write the rules of the game. And I keep on telling you guys this, whatever writes the rules of the game will always win. Okay? So globalization was system so that America could extract from the world resources.
+
+[43:05](https://youtu.be/35HRPLVyF0g?t=2585) And these resources include talent. Okay. So we have a situation where the best and brightest go to America because that's where they're most likely to thrive. But now the world is changing.
+
+[43:05](https://youtu.be/35HRPLVyF0g?t=2585) America is now becoming is no longer the global hedgeimon. Russia, China, these countries are rising as well. And so nations now are much more interested in being able to maintain their best and brightest, their talent, their human capital. And this is the way it should be.
+
+[43:38](https://youtu.be/35HRPLVyF0g?t=2618) If you're born in China, then your priority ought to be like how to make China a better place. It shouldn't be like I'm work really hard in school so that I can get a visa to go study United States. That makes no sense. Okay?
+
+[43:38](https://youtu.be/35HRPLVyF0g?t=2618) So, and look, the reality is that, if you states, you can make a lot of money, but you're still going to be low status. Okay? Okay. And that's the situation I found myself in North America where, you know, I worked really hard in school.
+
+[44:12](https://youtu.be/35HRPLVyF0g?t=2652) I went to Yale and I could have made a lot of money as a lawyer or as a doctor, but I recognized that, you know what, if I just stay where I am, I'm not going to ever achieve my potential. I'm not going to achieve status in America. I may be wealthy, but I'm never going to have achieved high status. You know, that's why I chose to come to China because I thought there were more opportunities to obtain higher status in China than in United States where I'm not white.
+
+[44:42](https://youtu.be/35HRPLVyF0g?t=2682) I'm East Asian and there's going to be a lot of stereotypes and prejudice against me because I'm East Asian. Okay. And quite honestly, I was right in my assessment. All right.
+
+[44:42](https://youtu.be/35HRPLVyF0g?t=2682) So I So yeah, you're saying what can East Asians America do about this? Right. And unfortunately, according to game theory, they're stuck where they are. Okay, that's why, you know, I chose to leave.
+
+[45:12](https://youtu.be/35HRPLVyF0g?t=2712) But if you're East Asian in America, I'm not saying for everyone, okay? I'm sure there are like thousands of very happy East Asians who married very well and they have very good lives. Okay? But for the majority, you can have decent lives, but you're always going to be low status.
+
+[45:12](https://youtu.be/35HRPLVyF0g?t=2712) And quite honestly, a lot of East Asians are happy with that situation. A lot of East Asians are just happy, you know, getting by, making good money, and they really don't worry about status. Okay? But the problem is that their children and grandchildren are kind of screwed over because it's going be very hard for them to marry.
+
+[45:41](https://youtu.be/35HRPLVyF0g?t=2741) And again, there's a lot of East Asian men who are single and they have very and they have problems on the dating market. Okay. All right.
+
+[45:41](https://youtu.be/35HRPLVyF0g?t=2741) Any more questions, guys? Is that clear? >> Great. Okay.
+
+[45:41](https://youtu.be/35HRPLVyF0g?t=2741) So, we will continue this next week.

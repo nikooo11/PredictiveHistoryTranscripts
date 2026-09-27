@@ -1,0 +1,405 @@
+---
+title: "Secret History #3:  Death by Gerontocracy"
+series: "Secret History"
+episode: 3
+date: "2025-08-28"
+date_kind: "published"
+video_id: "0g3yo1DjiLM"
+url: "https://www.youtube.com/watch?v=0g3yo1DjiLM"
+duration: "49:20"
+words: 7123
+punctuated_captions: true
+duplicate_of: null
+source_edited: "source/lightly edited/transcripts/Secret History/093 — Secret History #3 Death by Gerontocracy [0g3yo1DjiLM].md"
+---
+
+# Secret History #3: Death by Gerontocracy
+
+Secret History · Published 2025-08-28 · 49:20 · 7,123 words · [Watch on YouTube](https://www.youtube.com/watch?v=0g3yo1DjiLM)
+
+## YouTube description
+
+> The Western world is in decline.  Immigration is tearing apart the social contract, and causing ethnic tensions.  Young people cannot find work, and can no longer afford a house.  Debt is crippling governments and households.
+>
+> In his Tuesday, August 26, 2025 class to his Beijing high school students, Professor Jiang explains that these trends are caused by the aging crisis, in which rich pensioners are dictating policy to the detriment of everyone else.  
+>
+> He predicts that the gerontocracy will lead to the rise of militaristic and authoritarian governments.  
+>
+> Please Support:  
+>
+> If you'd like to delve deeper into this topic, please subscribe to Professor Jiang's Substack:  
+> https://predictivehistory.substack.co...
+>
+> In his most recent post, Professor Jiang offers a theory as to why Canada has so many Indian immigrants.
+>
+> In order to discuss sensitive topics freely and openly, Professor Jiang does not monetize his YouTube videos.  If you have the means, please consider making a small donation:  https://buymeacoffee.com/predictivehi...
+
+## Transcript
+
+[00:01](https://youtu.be/0g3yo1DjiLM?t=1) So good afternoon class. Today we do death by gerontocracy. Gerontocracy just means rule by old people. Last class we discussed the decline of western society and civilization and why it's happening.
+
+[00:01](https://youtu.be/0g3yo1DjiLM?t=1) We discussed the theories. Today we will look at what the reality on the ground is. What the actual trends are. What are the current examples of decline in the western world.
+
+[00:01](https://youtu.be/0g3yo1DjiLM?t=1) So let me start with this young man. His name is Axel Ruda Kubana and he was 17 years old when last year he took a knife and he walks into a dance studio in Southport Britain and then he proceeds to stab the little girls inside the dance studio and they are five, six, seven. He kills three of them.
+
+[00:38](https://youtu.be/0g3yo1DjiLM?t=38) He is quickly arrested by the police. And as you can see, he is a very disturbed young man. He clearly has a mental illness. Otherwise, why would he go kill children?
+
+[00:38](https://youtu.be/0g3yo1DjiLM?t=38) And he was sentenced to 52 years behind bars. So, he's going to spend the rest of his life in prison. So, justice was done. What happens next is that all throughout Britain there are riots and protests.
+
+[01:14](https://youtu.be/0g3yo1DjiLM?t=74) What happened was that rumors start to spread online about the attack. They claim that the young man was a asylum seeker, an immigrant and because there are too many immigrants coming to England, everyone's safety is at stake. So, as you can see, these protests were extremely heated. They were extremists.
+
+[01:54](https://youtu.be/0g3yo1DjiLM?t=114) They were anti-immigrant and ultimately it led to violence between the police and the protesters. And this is happening all throughout Britain. Last summer, the country of England burned basically, literally burned. Okay, so these protesters were setting cars on fire and they were targeting immigrants in Britain.
+
+[01:54](https://youtu.be/0g3yo1DjiLM?t=114) Remember that this 17-year-old boy, he's actually not an immigrant. He was born in Wales to parents who are from Rwanda. Okay. So, he is a British citizen.
+
+[02:36](https://youtu.be/0g3yo1DjiLM?t=156) As you can see, the men who participated in the protest they're not sad about what they're doing. They feel virtuous. They feel righteous. They feel proud for protecting their people against immigrants.
+
+[02:36](https://youtu.be/0g3yo1DjiLM?t=156) So the question for us today is why is this happening? Why are the all these civil conflicts caused by immigration throughout the western world? So this is happening in Britain. But as you know immigration United States led to the victory of Donald Trump in last year's elections in the United States.
+
+[03:22](https://youtu.be/0g3yo1DjiLM?t=202) A lot of the conflict comes from the fact that immigration is happening too fast in the western world. So after co you see this large spike in immigrants. The other issue is that most of these immigrants are coming from countries in the Middle East, in Africa, in East Asia. So it's clear that these people are different from you.
+
+[03:22](https://youtu.be/0g3yo1DjiLM?t=202) So before there might have been a lot of EU, European immigrants, but now it's just mainly countries outside of Europe. So the British people feel as though they're being invaded by foreigners. The changes, demographic changes to British society are stark.
+
+[04:16](https://youtu.be/0g3yo1DjiLM?t=256) So the I'm not sure if you can see this clearly. Okay. But like the dark brown are places where in the past 5 10 years the immigrant population has tripled has tripled three times. Okay.
+
+[04:16](https://youtu.be/0g3yo1DjiLM?t=256) And as you can see there are quite a few pockets where immigr immigration is sort of overwhelming the local population. So if you go to Britain, there are some places where you feel this is like Morocco or this or this is like Rhonda or maybe even Egypt. Okay. So the British people feel they're under siege and this happening throughout the western world.
+
+[04:55](https://youtu.be/0g3yo1DjiLM?t=295) So this is Australia. Okay. So Australia after co huge spike in immigration and most of them are coming from non-European countries. So the greatest spike is in India but then you also have China and the Philippines as well.
+
+[05:16](https://youtu.be/0g3yo1DjiLM?t=316) These are the three major sources of immigrants to Australia. Okay. The same is happening in France where you're seeing a huge spike in immigration and again most of the immigrants are coming from African or Middle Eastern countries and so the French feel as though their culture is being diluted. It's being attacked and invaded.
+
+[05:50](https://youtu.be/0g3yo1DjiLM?t=350) This happening all throughout Western Europe. The UK, France, Italy and Germany are seeing a huge spike in immigrants and refugees and so their culture feels threatened. What these what's also happening is a huge spike in inflation. Okay, so this is something called the CPI, the consumer price index, which is just measuring the price of basic goods like food and shelter.
+
+[06:07](https://youtu.be/0g3yo1DjiLM?t=367) And as you can see, there's a huge spike in prices. So, as these immigrants are coming into your country, you also feel as though your quality of life is getting worse and worse. It's getting harder for you to afford basic goods like rent and food.
+
+[06:41](https://youtu.be/0g3yo1DjiLM?t=401) It's getting harder for you to support your family. The major increase is in housing prices. Okay, so Canada these past 5 years has seen a huge influx of immigrants and this has caused housing prices to skyrocket. The United States, which has a much larger economy than Canada, the housing prices are pretty stable.
+
+[06:41](https://youtu.be/0g3yo1DjiLM?t=401) You can still afford to buy a house if you're a young person in United States, not in Canada. Okay, you see this huge spike in Canada. The house housing prices are now unaffordable. This is a chart that shows you economic growth as compared to housing prices.
+
+[07:16](https://youtu.be/0g3yo1DjiLM?t=436) So, as you can see, United States housing prices there's a correlation between income and housing prices. Okay, this is pretty reasonable. In Canada, it is not reasonable. Okay, so GDP is GDP, housing prices is growing like this, but housing prices is just skyrocketing and that's why Canadians feel as though the Canadian dream of one day having their own house, it's basically dead.
+
+[07:56](https://youtu.be/0g3yo1DjiLM?t=476) So, one strange thing is that as Canada lets in more immigrants, and as property houses go up, you would think that they would build more and more houses, but as you can see, housing supply, okay, housing supply, it's pretty flat, even though immigration is going up. Does anyone know why this would be the case? Why is it that you have a policy of letting in more immigrants, but you don't have a policy of building more housing for them? That's kind of strange, right?
+
+[08:23](https://youtu.be/0g3yo1DjiLM?t=503) Does anyone can anyone guess why that would be the case? Yeah. >> Sorry. Can you can you speak in the microphone?
+
+[08:23](https://youtu.be/0g3yo1DjiLM?t=503) Thank you. >> Okay. Maybe they want to make sure that the housing's not affordable maybe because they want to make more money cuz now there's like more competition for housing. Definitely.
+
+[08:23](https://youtu.be/0g3yo1DjiLM?t=503) As you said the prices of housing was like going like skyrocketing and people would make more money like people who provide the housings would naturally real estate's people make more money I guess. >> Yeah that's exact exactly correct. Okay. So policy is not being controlled by what's best for the nation and the people.
+
+[08:55](https://youtu.be/0g3yo1DjiLM?t=535) It's controlled by vested interests that will make money off the process. Right. So as you say real estate developers can make money off this process. But the people who benefit the most actually property owners right.
+
+[08:55](https://youtu.be/0g3yo1DjiLM?t=535) So you if you have a if you already have a house if the supply is constant but the demand goes up then you know by from economic class that the value of a house increases artificially. So it's making homeowners very happy. Okay. And that's why you have this crisis in Canada.
+
+[09:39](https://youtu.be/0g3yo1DjiLM?t=579) The other issue that's really problematic in the western world is that as immigrate as the number of immigrants goes up, native people, the native population, they're not having children. Okay, so this is this is Canada where the birth rate, okay, the blue is the birth rate, okay, it's steadily going down whereas immigrants are going up. So it's the immigrants who provide most of the new people in Canada. In fact, right now, 25% a quarter of all Canadians are first generation immigrants.
+
+[10:13](https://youtu.be/0g3yo1DjiLM?t=613) Sorry, first generation Canadians, meaning that they they're immigrants to the country. And if you just look at this trend, in 40 years time, 50 years time, there'll be very few white Canadians in Canada. And this is causing a lot of lot of conflict and tension in the country. So you have these huge issues.
+
+[10:13](https://youtu.be/0g3yo1DjiLM?t=613) Housing is unaffordable, inflation is going up, ethnic tensions are increasing, but the Canadian government still insists on increasing the number of immigrants in the country. Okay? There's no there's no policy roll back where like you know what, let's have a moratorum. Clearly our policy is too rapid and we need to slow things down.
+
+[10:50](https://youtu.be/0g3yo1DjiLM?t=650) In fact, as you can see, they're actually going to ramp up the process. The goal for Canada right now, Canop population is about 35 to 40 million people. They want 100 million people 100 million people in Canada by the year 2100. And guess what?
+
+[11:20](https://youtu.be/0g3yo1DjiLM?t=680) The majority of these people are going to come from India and probably China. Okay? And as we discussed the percentage of immigrants as part of the total population is just rapidly increasing. So in Australia it's almost a third now.
+
+[11:20](https://youtu.be/0g3yo1DjiLM?t=680) In Canada it's a quarter. In Germany it's a fifth. And these percentage will go up and up and up leading to more and greater ethnic tension and immigrant protests within these countries. As you can see, the number of immigrants coming from India far surpasses that of other countries.
+
+[11:57](https://youtu.be/0g3yo1DjiLM?t=717) And these are just legal immigrants. We're not counting in students. So, there are millions and millions of Indian students right now in Canada on student visas and they're looking for a path to permanent residency, to citizenship.
+
+[11:57](https://youtu.be/0g3yo1DjiLM?t=717) And that's what leads to situations like this. Okay? These viral videos online where you have thousands and thousands of Indian students lining up for hours and hours because they're applying for a minimum wage job at a restaurant or at a store. Life for these Indian students is just terrible.
+
+[12:28](https://youtu.be/0g3yo1DjiLM?t=748) A lot of them live eight to a room. Okay, this one room that was meant for one person. There are now eight students living in that room. At the same time, what's really interesting is that the Indians are now a extremely powerful political force in Canada.
+
+[12:28](https://youtu.be/0g3yo1DjiLM?t=748) This was the former prime minister Justin Trudeau meeting with representatives of the Indian community because he depends on them for his votes. In last year's federal election, 22 Indian people of Indian descent were elected to parliament. Okay. So in parliament there's 343 seats.
+
+[13:19](https://youtu.be/0g3yo1DjiLM?t=799) 22 of them now are Indian. How many Chinese? How many MPs of Chinese origin? There are less than 10.
+
+[13:19](https://youtu.be/0g3yo1DjiLM?t=799) So even though the Chinese have been there longer and even though they're actually the more numerous Chinese than Indians, the Indians are extremely powerful political force. Now a lot of it is because Indians come from democracy. So they're very good at debate. They're very good at organizing.
+
+[13:56](https://youtu.be/0g3yo1DjiLM?t=836) They're very good at collective action. And that's what let leads them to excel in the Canadian political system. At the same time, we can imagine that if current trends continue, if the immigrant population from India increases and if the Indians continue to amass more political power, there could be a situation where the Indians take over the Canadian government in like 20 or 40 years time. So there's a real risk that in Canada that their native population gets replaced by the Indians.
+
+[14:26](https://youtu.be/0g3yo1DjiLM?t=866) And this is happening elsewhere as well. Yes. A question. >> like the all the imi Indian immigrants that you have mentioned like it's took a part of the Canadian population.
+
+[14:26](https://youtu.be/0g3yo1DjiLM?t=866) How about the like having the risk of aliens took over Canadian but how about the people that is local in Canadian like how are they doing right now because we are all focusing on immigrants >> right okay that's a great question okay so immigrants are suffering but actually the local population is suffering even more because as we discussed the last class the economy is declining and it's pretty rapid decline. So, it's harder for young people to find jobs, especially with immigrants coming into the country, right? Prices are very expensive nowadays. So, it's very hard for young people to live and work in big cities.
+
+[15:10](https://youtu.be/0g3yo1DjiLM?t=910) So, as these immigrants are coming into the country, they're putting tremendous pressure on the local population. That's why there's so much ethnic tension throughout the Western world right now. Okay. So this leads us to a paradox.
+
+[15:40](https://youtu.be/0g3yo1DjiLM?t=940) If immigrants are making life worse for everyone, especially young people, who's the future of these nations, why is this happening? Okay, so I want you guys to keep this in the back of your mind. You probably know the answer already because you know how property prices work, right? Okay, so let's move on to another topic.
+
+[16:08](https://youtu.be/0g3yo1DjiLM?t=968) So Canada like 10 years ago introduced a new policy called maid called medical assistance in dying euthanasia and the idea here is that if you feel life is meaningless if you're depressed if you feel that you cannot cure your disease the government will help you kill yourself. The government will let you die. Now the big question then is yeah but 25 years ago this was illegal in the world right you suicide was you was illegal if you helped someone kill himself you'll be put in prison this would be basically murder. So what's the difference between suicide and the government helping you kill yourself?
+
+[16:43](https://youtu.be/0g3yo1DjiLM?t=1003) Well there really isn't. Okay but the government says there is a difference. Okay. So this a brochure from the government from the Can government explaining you why suicide is bad.
+
+[16:43](https://youtu.be/0g3yo1DjiLM?t=1003) Suicide is bad but suicide by government is good. Okay. And it's really stupid.
+
+[17:14](https://youtu.be/0g3yo1DjiLM?t=1034) It's disgusting. Stupid. It's disgustingly stupid. Okay.
+
+[17:14](https://youtu.be/0g3yo1DjiLM?t=1034) What they say is that if you if you do suicide well you do it alone and you shock your friends and family. But if you do maid, then everyone knows you're killing yourself and so they won't be so sad when you die, right? If you kill yourself, you might screw it up, but if the government does it for you, you won't screw it up because it's being facilitated by professionals who know what they're doing. All right?
+
+[17:52](https://youtu.be/0g3yo1DjiLM?t=1072) If you think this is stupid, there's more stupidity to come. Right? And what this tells us is we discussed this last class is one major sign of decline in society is the over bureaucratization of society with the government interferes in everything. Okay.
+
+[17:52](https://youtu.be/0g3yo1DjiLM?t=1072) This is the number actually number of deaths from euthanasia in Canada. As you can see in 2016, it started at about a thousand. By 2021, it's at 10,000. Okay?
+
+[17:52](https://youtu.be/0g3yo1DjiLM?t=1072) So, the numbers are going up really rapidly. Why? Well, because if you want to kill yourself, they won't stop you. This is the number of days required to be approved for suicide.
+
+[18:29](https://youtu.be/0g3yo1DjiLM?t=1109) As you can see in the Netherlands, sorry, this is Oregon, actually. This is Oregon, United States. Okay. The number of days have been going down, but it's still like at most a month.
+
+[18:29](https://youtu.be/0g3yo1DjiLM?t=1109) In Canada, they'll do it in like 10 days for you. They won't even think about it. They're like, "You want to kill yourself?
+
+[18:29](https://youtu.be/0g3yo1DjiLM?t=1109) Do it, man. Good for you. Good choice." Doctors have been trained to not do any harm, right? Well, and death ought to be the last resort.
+
+[18:58](https://youtu.be/0g3yo1DjiLM?t=1138) But in Canada, death is now the first resort. If you go to a doctor and say, "I want to die." The doctor's like, "Sure, let's do it, man." That's pretty disgusting. All right. Why are people killing?
+
+[18:58](https://youtu.be/0g3yo1DjiLM?t=1138) So, like, if you see the number of approval rates have been going way up. It seems that it seems as though they have a quarter of the field. This is 2019. Only 7 75% were approved.
+
+[19:38](https://youtu.be/0g3yo1DjiLM?t=1178) Now, it's 81%. It's almost like they have a quota. They're trying to kill as many people as possible right? As you can see, this number is the percentage of people who die because of euthanasia.
+
+[19:38](https://youtu.be/0g3yo1DjiLM?t=1178) This is the Netherlands, which for the longest time had a very open policy when it comes to euthanasia. And yeah, it's going up, but this huge spike is Canada. Okay. It seems as though Canada can is in a rush to kill as many people as possible.
+
+[19:38](https://youtu.be/0g3yo1DjiLM?t=1178) So who's dying? >> Yeah. Do you have do you have a question? >> So the suicide of Canada is not insunia.
+
+[20:17](https://youtu.be/0g3yo1DjiLM?t=1217) Is that also a type of in insunasia? >> No. No. No.
+
+[20:17](https://youtu.be/0g3yo1DjiLM?t=1217) So suicide is when you kill yourself. Euphanasia is when a doctor helps you kill yourself.
+
+[20:17](https://youtu.be/0g3yo1DjiLM?t=1217) Euphania means good death. It means like you will die painlessly. Okay. >> No, no, no.
+
+[20:50](https://youtu.be/0g3yo1DjiLM?t=1250) Euphania is suicide by government. Okay. All right.
+
+[20:50](https://youtu.be/0g3yo1DjiLM?t=1250) So, why are people dying? Well, a lot as you can see most is actually from cancer. Now, what's interesting about cancer is that it's the most expensive disease to treat, right? Well, that's interesting.
+
+[20:50](https://youtu.be/0g3yo1DjiLM?t=1250) And a lot of cancer, it's not it's not it's pretty painful, but it's not terminal. You can still live with cancer, right? So, it seems as though people with cancer are being encouraged to die because they're a burden on the system. Which means who's dying?
+
+[21:24](https://youtu.be/0g3yo1DjiLM?t=1284) Who's dying here? It's poor people who are dying, right? That's this is pretty obvious. And this is even more interesting.
+
+[21:24](https://youtu.be/0g3yo1DjiLM?t=1284) This is the most disgusting part. If the government were to prove your death, you would think that there would be a rigorous process, right? It would be the last option. But let's understand why people are killing themselves.
+
+[21:24](https://youtu.be/0g3yo1DjiLM?t=1284) And the two main reasons. The first major reason is loss of ability to engage in meaningful activities. It's because you're not happy. This is a lame reason to kill yourself.
+
+[21:54](https://youtu.be/0g3yo1DjiLM?t=1314) Also, loss of ability to perform activities of daily living. It's harder for you to go buy groceries. It's harder for you to walk around.
+
+[21:54](https://youtu.be/0g3yo1DjiLM?t=1314) So, again, what's happening is that poor people are dying and poor people are encouraged to kill themselves because the poor are being a burden on the medical system. And that's the entire basis of euthanasia. So let me ask you this question.
+
+[22:31](https://youtu.be/0g3yo1DjiLM?t=1351) Why is it that 25 years ago we discouraged euthanasia? In fact we legal to conduct euthanasia even if the person was suffering from brain cancer and the person was just basically in hell every day. The government would not allow euthanasia. Why not?
+
+[23:06](https://youtu.be/0g3yo1DjiLM?t=1386) >> Yeah. >> Maybe because it was like harder to regulate like the procedures to take for youth in Asia and because it was like such a new thing, you have no control over what the companies who like provide the service do. Yeah. >> Or like what they do to their patients.
+
+[23:06](https://youtu.be/0g3yo1DjiLM?t=1386) I wouldn't even say patients but like people who purchase their services and also all because again it's such a novel thing the procedures involved the medical companies involved maybe what maybe to me loopholes and it was if I was the government I'd consider that as a potential danger something that may be dis like disturbing to this current system. >> Okay. All right. Yeah that's a very interesting answer.
+
+[23:39](https://youtu.be/0g3yo1DjiLM?t=1419) What it tells me is that the society you live in is very different from the society I grew up in. Okay? Because 25 years ago when I was younger, we were taught that every life matters.
+
+[23:39](https://youtu.be/0g3yo1DjiLM?t=1419) Every life is a gift from God. And as society, we have to protect everyone, especially the poor, the vulnerable, and the marginalized because that's how we come together as a society. If we just let anyone die, then how do you know that you'll be protected? Right?
+
+[24:09](https://youtu.be/0g3yo1DjiLM?t=1449) So what mattered back then was about social cohesion, social capital, social trust. And now what matters is just numbers. How much does this cost me? How much revenue will this generate?
+
+[24:09](https://youtu.be/0g3yo1DjiLM?t=1449) So that's the difference in the world today. Before we cared about social cohesion, we care about morality. Nowadays it's all just money, money, money. And this is interesting for us.
+
+[24:39](https://youtu.be/0g3yo1DjiLM?t=1479) Another sign of decline is growing financialization. We talked about this last class, right? Well, guess what's happening in the stock markets throughout the world? It's booming.
+
+[24:39](https://youtu.be/0g3yo1DjiLM?t=1479) It's booming. If you're a rich person, you're just getting richer and richer. 10% of the population owns 9% of the stocks in America. Okay, so this is an indicator of how wealthy the rich have become in the past 20 years.
+
+[25:13](https://youtu.be/0g3yo1DjiLM?t=1513) In the year 2008, if you bought Amazon, you would buy for $7. Now it's like $300. Okay? So that just shows you how wealthy the rich have become due to government policies.
+
+[25:13](https://youtu.be/0g3yo1DjiLM?t=1513) At the same time, we talked about this last class, productivity, real economy, the amount of work you do, it's going way down. So we have we have this absurd situation where the fake economy, the financial economy is going way up, but the real economy of jobs, of people doing work, of being productive, it's going way down. Okay? Meaning that we live in a fake world.
+
+[25:46](https://youtu.be/0g3yo1DjiLM?t=1546) And the government responds by lying to people. Okay? People know their lives suck. People know that basically the economy is in a recession.
+
+[25:46](https://youtu.be/0g3yo1DjiLM?t=1546) That's what the facts say. But the government But and what does the government do? Well, the government says that oh, it's not really recession. What it really is a state of trans transition.
+
+[26:22](https://youtu.be/0g3yo1DjiLM?t=1582) This is what we call gaslighting. This is blending gaslighting. Rather than just say, you know what, the economy is in trouble and we feel your pain and we're going to work hard to solve the problem. They're telling you, "No, no, no.
+
+[26:22](https://youtu.be/0g3yo1DjiLM?t=1582) It's not black. It's white, guys. You You're lying. Your eyes, they're lying to you.
+
+[26:22](https://youtu.be/0g3yo1DjiLM?t=1582) Don't you see? You're not seeing clearly. Get new glasses and you your life will be a lot better." That's like literally what they're telling you. Debt, right?
+
+[26:52](https://youtu.be/0g3yo1DjiLM?t=1612) We talked about this last class as well. This is US debt. You can see how the debt is booming. Okay?
+
+[26:52](https://youtu.be/0g3yo1DjiLM?t=1612) So, up in the year until the year 1980 for 200 years, America's existence, there was very little debt. Now look at this. Okay, America right now is $37 trillion in debt. That's a government.
+
+[26:52](https://youtu.be/0g3yo1DjiLM?t=1612) The people with their credit card debt, with their mortgages, they owe $17 trillion. They'll never pay that off. So basically, the middle class in America, it's finished. Okay, the government has no more resources.
+
+[27:27](https://youtu.be/0g3yo1DjiLM?t=1647) This is what decline looks like. No one's having children anymore. Okay, so the world sucks and young people are like, "Screw this. I'm not having kids." Okay, this is happening throughout the world.
+
+[27:27](https://youtu.be/0g3yo1DjiLM?t=1647) Canada is selling its resources to outside investors. Okay, so oil is a big Canadian resource. As you can see, a lot of the big players in Canada are actually American or overseas. When it says Canada, it's you it usually means British people.
+
+[28:04](https://youtu.be/0g3yo1DjiLM?t=1684) So Canadians don't even own their own resources anymore. So let's summarize what we've learned today. Okay, let's look at the signs of Western decline. You got higher property prices.
+
+[28:04](https://youtu.be/0g3yo1DjiLM?t=1684) This happened throughout the Western world. Inflation and lower quality of life, higher stock market valuations, which means greater inequality. Less real economic growth, less and less people are doing real jobs. Euthan Asia for the poor just killing off the poor people.
+
+[28:36](https://youtu.be/0g3yo1DjiLM?t=1716) Mass immigration, population replacement, lower birth rate, greater public and private debt, bureaucratic gaslighting where the government no longer acknowledges problems. It just lies to you directly and privatization, asset stripping. Okay, so all this is happening in the Western world. The question now is why would this happen?
+
+[28:36](https://youtu.be/0g3yo1DjiLM?t=1716) And there are different theories. Okay? And we'll go over some of the major theories. There's lots and lots of theories.
+
+[29:05](https://youtu.be/0g3yo1DjiLM?t=1745) We'll go over the major ones. And there's going to be overlap between these theories. And some of these theories make a lot of sense. Okay.
+
+[29:05](https://youtu.be/0g3yo1DjiLM?t=1745) So one major theory is idea of neoliberalism. The idea of neoliberalism is the belief that all that matters in society, all that matters in life is economic growth. If you if your society can generate more economic growth, all problems will be solved. Okay.
+
+[29:05](https://youtu.be/0g3yo1DjiLM?t=1745) So, so if your economy runs really fast then everyone will be happy. That's the idea of neoliberalism. Then you have technofudalism which is the idea that some big corporations usually these tech companies they want to control the world and so they want to turn everyone into slaves and if you don't have a house if you don't have your own property then you can you can be controlled by these companies. Okay.
+
+[29:30](https://youtu.be/0g3yo1DjiLM?t=1770) Technofudalism world government where the United Nations has a has this conspiracy to control the entire world to distort national sovereignty and create a world unified government. Okay. Population replacement theory and the idea here is that the problem for governments in the western world is that white people are opinionated. They believe in democracy.
+
+[29:57](https://youtu.be/0g3yo1DjiLM?t=1797) They believe in freedom and they're hard to control. So, let's replace the white people with Chinese and Indians and Filipinos because Asian people are more obedient, right? That's the idea. And again, these are just theories.
+
+[30:29](https://youtu.be/0g3yo1DjiLM?t=1829) I'm not saying they're right or wrong. Okay? And we'll go into these theories later on semester. Now, the last reason is bureaucratic incompetence.
+
+[30:29](https://youtu.be/0g3yo1DjiLM?t=1829) Just the government is just stupid. Okay? Now there is overlap among these theories and there's some validity to all these theories but what I want to show you is that there's actually a much better way to analyze this. Whenever you have a problem, you always ask yourself who benefits, who is benefiting from this, right?
+
+[30:57](https://youtu.be/0g3yo1DjiLM?t=1857) So, when we're talking about housing prices, well, clearly property owners are benefiting from this, right? So, if we took all the groups, okay, and there's like millions and millions of different groups in society. We just analyze who benefits from all these trends that we discussed, the answer you would get is rich pensioners. These are the people who benefit the most from these trends and therefore we can suspect that they're the ones behind these trends.
+
+[31:29](https://youtu.be/0g3yo1DjiLM?t=1889) So let's go over them. Property prices make sense, right? Because they're old. They have houses.
+
+[31:29](https://youtu.be/0g3yo1DjiLM?t=1889) They probably have two or three houses. So they want to see the property prices go up. Higher start market valuations makes sense because they own the most stocks. Youthation for the poor makes sense because they want good medical care.
+
+[31:29](https://youtu.be/0g3yo1DjiLM?t=1889) If poor people are standing in line, that's a problem for them, right? So just kill the poor people and they'll have better access to healthare, right? If that frees up the healthare system. Mass immigration means cheap labor.
+
+[31:52](https://youtu.be/0g3yo1DjiLM?t=1912) If they're old, they're 70 or 80 years old. They need gardeners. They need cooks. They need nurses, right?
+
+[31:52](https://youtu.be/0g3yo1DjiLM?t=1912) Immigrants. Are you guys going do you guys want to be gardeners and cooks and laborers? You don't want to be. So we have to be in immigrants and everything else.
+
+[31:52](https://youtu.be/0g3yo1DjiLM?t=1912) Inflation, em growth, lower birth rate, gaslighting, it doesn't really affect them. Does that make sense? So all these trends, some of them are really good for these pensioners and the rest doesn't really affect the pensioners and that's why we can assume for analysis that's the rich pensioners who are most responsible for what's going on.
+
+[32:24](https://youtu.be/0g3yo1DjiLM?t=1944) Does it make sense to you guys? All right. So, how can we understand this? Well, the problem that we're facing is never in human history have we had so many old rich people before.
+
+[32:58](https://youtu.be/0g3yo1DjiLM?t=1978) And you can see these trends where in the year 1900, people who are 75 and older were just a small fraction of society. But you can see how fast they're growing. Okay?
+
+[32:58](https://youtu.be/0g3yo1DjiLM?t=1978) 60 over 60 years old, really growing really fast. There's a problem because if they keep on if they keep on living they accumulate more and more resources which creates a lot more inequality. Now I'm not saying that all old people are rich. In fact that's not the case.
+
+[33:32](https://youtu.be/0g3yo1DjiLM?t=2012) If you just look at statistics you will find that wealth is pretty much evenly disputed distributed among demographics. Okay? So there are young people with a lot of money but there are more old people with money. Okay?
+
+[33:32](https://youtu.be/0g3yo1DjiLM?t=2012) So there and there are lots and lots of old people. The purple or old people who are poor. I'm not saying that old people are the problem. I'm saying that old rich people are the problem.
+
+[33:32](https://youtu.be/0g3yo1DjiLM?t=2012) They're problem because they want their pensions. The pension systems in all societies made assumptions about old people. The major assumption that they made is that old people would die. Right?
+
+[34:04](https://youtu.be/0g3yo1DjiLM?t=2044) So, for example, in Canada, when they first create the pension system, the retirement age was 65 and they expected people to die when they were 72. So, you have five to seven years of a good pension. Okay? Guess what, guys?
+
+[34:04](https://youtu.be/0g3yo1DjiLM?t=2044) They're not dying, right? And that creates a huge problem with your pension plan. And you can see how these liabilities are going up over time. These are teachers and as you can see the liabilities are going way up.
+
+[34:35](https://youtu.be/0g3yo1DjiLM?t=2075) Why is this happening? It's happening because of something called assumption changes. Okay, so two assumptions are being made. First is that OP will die.
+
+[34:35](https://youtu.be/0g3yo1DjiLM?t=2075) Well, they're not dying. The other assumption is that if you put money in the stock market, it will o it will yearbyear improve, right? The problem is that there's volatility in the stock market. It goes up and goes down.
+
+[35:05](https://youtu.be/0g3yo1DjiLM?t=2105) And the smart people make money off dumb people. Guess what guys? Okay, I'm going to ask you a question. In finance, where do the dumbest people work?
+
+[35:05](https://youtu.be/0g3yo1DjiLM?t=2105) You guys know in finance, the dumbest people work where they work in pension funds. Why? Because it's a boring job. You just sit there and do nothing all day.
+
+[35:05](https://youtu.be/0g3yo1DjiLM?t=2105) So these pension funds are constantly getting ripped off from investment banks where the smart people are. Okay. So if you look at all investment vehicles, pension funds have lost the most money and this has created huge issues within government pension funds throughout the world. Okay.
+
+[35:51](https://youtu.be/0g3yo1DjiLM?t=2151) So as you can see there's volatility in returns in the pension fund. Okay. When you put the money in, the returns will differ year by year, and that screws up your model. If you're a young person, do not put money in the pension fund.
+
+[35:51](https://youtu.be/0g3yo1DjiLM?t=2151) Why? Because the value of the pension fund is going drastically down. When you grow up, when you mature, and you retire, guess what, guys? There's no money in the pension fund for you because all that money is gone.
+
+[35:51](https://youtu.be/0g3yo1DjiLM?t=2151) Why? Because there are too many retirees and not enough workers. All right. So back in the year 2001, you had a problem.
+
+[36:22](https://youtu.be/0g3yo1DjiLM?t=2182) You had 7.6 retirees for every 12.7 workers. This is you basically the ideal is 1 to three. So one pensioner, three workers. That's a healthy pension system.
+
+[36:22](https://youtu.be/0g3yo1DjiLM?t=2182) Now you have more pensioners, okay, than you have workers. This is a huge problem. These pensions will all go bankrupt in 5 to 10 years time. At the same time, as I said, old people are not dying.
+
+[36:22](https://youtu.be/0g3yo1DjiLM?t=2182) In fact, old people are coming to dominate society. This is America. You can see how people are who are 85 and older. Whoa.
+
+[36:57](https://youtu.be/0g3yo1DjiLM?t=2217) Look at this. Look at this. The aging crisis in America is huge. But this is it's not just America.
+
+[36:57](https://youtu.be/0g3yo1DjiLM?t=2217) It's everywhere. Right? So by the year 20 240 you have 65 million people in America who are over 65. You have 15 million Americans who are 85.
+
+[36:57](https://youtu.be/0g3yo1DjiLM?t=2217) And guess what? These 15 Americans most of them are the ones who control America. So they dictate policy and again this is happening throughout the world. Okay.
+
+[37:37](https://youtu.be/0g3yo1DjiLM?t=2257) It's particularly stark in Japan and Germany but this is happening throughout the world. And this leads us to the idea of gerontocracy. Okay, this is Joe Biden, president of the United States, and this is Mitch McConnell who was head of the Senate. They're both retired now.
+
+[37:37](https://youtu.be/0g3yo1DjiLM?t=2257) But they're both in their 80s and they were the two most powerful men in America. He can't walk straight. Okay, whenever he walks, he trips. This guy is even worse because look at this.
+
+[38:05](https://youtu.be/0g3yo1DjiLM?t=2285) The guy's brain dead. The guy is literally brain dead in public. Okay, he be like and like no matter what you do, he's like this is brain dead. Okay, the guy's this is a brain freeze.
+
+[38:05](https://youtu.be/0g3yo1DjiLM?t=2285) The guy should not be one of the most powerful men in America, but he is. That's the world we live in because he will not give up power. This is Dian Feinstein. She died in office.
+
+[38:05](https://youtu.be/0g3yo1DjiLM?t=2285) She was 90 years old. She was 90 years old and she was still working and she died in her office and she was a senator in the United States. These people are literally fighting for life. Okay?
+
+[38:46](https://youtu.be/0g3yo1DjiLM?t=2326) They refuse to give up power. You they only give up power if they die. This is the US Senate. Again, the most powerful political institution in America.
+
+[38:46](https://youtu.be/0g3yo1DjiLM?t=2326) These are people who are above the standard retirement age which is 662. Okay, this guy's 90 years old and he's still working. 90 years old and he's still working in the Senate and he doesn't want to retire. Chuck Grassley.
+
+[39:19](https://youtu.be/0g3yo1DjiLM?t=2359) What does it mean to have a world run by old people? Now maybe in school, maybe you've been t maybe at home you've been taught that old people are wise. They're tolerant. They're generous.
+
+[39:19](https://youtu.be/0g3yo1DjiLM?t=2359) They're benevolent. No, no, no, guys. No. The difference between these three generations, young, mature, and elderly, are pretty stark.
+
+[39:19](https://youtu.be/0g3yo1DjiLM?t=2359) If you're young, you're rebellous. You want to change the system. If you're mature, you want things to move slowly. Okay?
+
+[39:19](https://youtu.be/0g3yo1DjiLM?t=2359) But if you're elderly, you're reactionary, means meaning you don't want anything to change. Okay? If you change anything, they get upset and slap you. That's reactionary.
+
+[39:50](https://youtu.be/0g3yo1DjiLM?t=2390) Young people are creative. Mature people want growth. But elder people care first and foremost about safety. Young people are open-minded.
+
+[39:50](https://youtu.be/0g3yo1DjiLM?t=2390) Mature people want consensus mean they want everyone to get along. But other people are stubborn. They want things their way. So we are now living in a joury which is ruled by elderly people.
+
+[40:21](https://youtu.be/0g3yo1DjiLM?t=2421) So we're going to live in a reactionary stubborn system only concerned about the safety of these people. And so what does that mean? Well, it means that the world will go into lockdown.
+
+[40:21](https://youtu.be/0g3yo1DjiLM?t=2421) When there's a virus, guess what? We're all we're going to have to shut down because old people are afraid of catching germs. It will also lead to a police state. Okay?
+
+[40:21](https://youtu.be/0g3yo1DjiLM?t=2421) Now, police state does not mean that there'll be terrible police coming to beat us up. In fact, you know, if in real life, most police that you meet are really, really nice people. But you'll have no individual freedom. Okay.
+
+[40:50](https://youtu.be/0g3yo1DjiLM?t=2450) So let me give you an example of this. So in Canada a Chinese moved to Canada and she bought a house and her son is very naughty and her son was so naughty that she wants to slap him. But she knows that in Canada you can't really slap children even in private, right? So she goes on online and asks everyone, "Can I slap my child?" And everyone's like, "You can't do that because if you do that, your neighbor should report you to the police." But what you can do is report your child to the police.
+
+[41:27](https://youtu.be/0g3yo1DjiLM?t=2487) Tell the police your child is naughty and they'll come and help you discipline your child. In fact, you can get you can come get the police to come every single week. They like that. This is what we call a police state.
+
+[41:27](https://youtu.be/0g3yo1DjiLM?t=2487) Intrusive government interference into your personal lives. Oh, and lots of lots of surveillance. Okay.
+
+[41:52](https://youtu.be/0g3yo1DjiLM?t=2512) Wherever you move, you'll be tracked. Whatever call you make, you'll be tracked. In 2003, Britain passed something called the online safety act. And the idea is if you say anything bad online, you can get arrested.
+
+[41:52](https://youtu.be/0g3yo1DjiLM?t=2512) So, the freedom of expression is being limited. This passed in 2022 23 in Britain, but I assume it will pass everywhere in the western world. Digital currency.
+
+[41:52](https://youtu.be/0g3yo1DjiLM?t=2512) The idea of digital currency is the idea of financial repression. So they're trying to eliminate cash because with cash is freedom. You can do what whatever you want with cash. You can buy whatever you want for how much you want with cash.
+
+[42:29](https://youtu.be/0g3yo1DjiLM?t=2549) But with digital currency, all your transactions will be limited and monitored. Okay? So in the future you will not be able to buy video games because that's bad for you. Oh microchip implants guys right?
+
+[42:29](https://youtu.be/0g3yo1DjiLM?t=2549) Isn't that great? You before you had cell phones then you had facial recognition and in the future you have implants microchip implants. Immigrants lots and lots of immigrants because poor people sorry rich pensioners need help. They need nurses.
+
+[42:56](https://youtu.be/0g3yo1DjiLM?t=2576) They need laborers. They need gardeners. They need people to mow their lawn. So you have massive immigration coming into the country.
+
+[42:56](https://youtu.be/0g3yo1DjiLM?t=2576) Oh, but good news, okay? It'll be easier for you to study in America from now on, right? Today, Trump announced he wants 600,000 Chinese students to go to the United States. Right?
+
+[43:33](https://youtu.be/0g3yo1DjiLM?t=2613) Before you guys were worried about not getting your visas and getting denied at the border, don't worry, guys. They want you to go to the United States because you guys are the best labor. Okay? You're cheap, you're obedient, and you're studious, and you're young.
+
+[43:33](https://youtu.be/0g3yo1DjiLM?t=2613) So, this is the plan to let in more Chinese students into America so you guys can take care of elderly people. Isn't that great? Good news, right?
+
+[44:05](https://youtu.be/0g3yo1DjiLM?t=2645) Oh, lots and lots of prisons, guys. Okay? Because elder people are afraid of criminals. And also prisoners are free labor.
+
+[44:05](https://youtu.be/0g3yo1DjiLM?t=2645) Isn't that great? Oh, and one more thing. War after war after war. All right.
+
+[44:05](https://youtu.be/0g3yo1DjiLM?t=2645) This is what it means by death by gerontocracy. This is what it means to live in a world governed by elderly people. Elderly people are perfectly happy to send young people to die for their glory. All right.
+
+[44:05](https://youtu.be/0g3yo1DjiLM?t=2645) Pretty depressing, but don't worry, things will get even more depressing as we go along. All right. All right.
+
+[44:44](https://youtu.be/0g3yo1DjiLM?t=2684) Good. Any questions? Are you guys clear? Any questions?
+
+[44:44](https://youtu.be/0g3yo1DjiLM?t=2684) Yeah. Like for like the above that you said that elders controls the society and wants like they exploit young people but is there a way that young people could like overthrown or having method to solve this? >> Yeah, that's actually a great question. So what can young people do about this?
+
+[44:44](https://youtu.be/0g3yo1DjiLM?t=2684) And the answer is nothing. Okay. And the reason why and this is really important is that young people are biologically ingrained to respect the elders, right? This is true throughout nature.
+
+[45:19](https://youtu.be/0g3yo1DjiLM?t=2719) Even young animals will respect their elders. So, do you want to go kill your grandparents? Probably not. Okay.
+
+[45:19](https://youtu.be/0g3yo1DjiLM?t=2719) So, there's nothing anyone can do about this. This is just the unfortunate state of affairs. Okay. Old people are people we are biologically trained or wired to respect and obey.
+
+[45:54](https://youtu.be/0g3yo1DjiLM?t=2754) That's why they can send us to wars and we'll go fight wars. Okay. Does that make sense? All right.
+
+[45:54](https://youtu.be/0g3yo1DjiLM?t=2754) Yeah. >> So, what happened after the rich pension elders dead? Like what about their money? >> Okay.
+
+[45:54](https://youtu.be/0g3yo1DjiLM?t=2754) That's a good question. Okay. So, as you can see from these charts, eventually there'll be a pension crisis where there are too many pensioners, enough money.
+
+[45:54](https://youtu.be/0g3yo1DjiLM?t=2754) Well, guess what? The old people are the major political force in society. They dictate policy. So what will happen is that money will be diverted from elsewhere into pensions where schooling, right?
+
+[46:30](https://youtu.be/0g3yo1DjiLM?t=2790) Public schooling, health care, everywhere basically. Okay. But that but the pensioners will want that money. And pensioners first of all, they're powerful, but they also have a lot of free time on their hands to make trouble for everyone.
+
+[46:30](https://youtu.be/0g3yo1DjiLM?t=2790) And also because we respect our el the elderly, right? Okay. Do you want to deny health care and pension to your grandparents? So everyone will be for this.
+
+[47:06](https://youtu.be/0g3yo1DjiLM?t=2826) There's nothing we can do about it, right? Good question. But like people humans life have a limit like what will happen after like they all died because they are just although they are elders and those reach pensions they are still generations of human. That's a really great point.
+
+[47:06](https://youtu.be/0g3yo1DjiLM?t=2826) So the idea is that what happens when they die off? Well they're not dying off. Okay.
+
+[47:06](https://youtu.be/0g3yo1DjiLM?t=2826) They were supposed to die at 72. Now they're living to like a 100. Modern medicine is incredible. I have I have a friend who's like 90 years old.
+
+[47:41](https://youtu.be/0g3yo1DjiLM?t=2861) She's like literally brain dead. Okay, she's like literally brain dead. She's 90 years old, but she's filthy rich and she has access to the best health care. So, I asked my friend who's a doctor like if you're filthy rich and you want to keep on living, how long could modern medicine keep you keep you going on even though you're vegetable?
+
+[47:41](https://youtu.be/0g3yo1DjiLM?t=2861) And they and he said to me, 20 years. 20 years. 20 years of being a vegetable but she has money so and she wants to keep on living then she can do that. Okay.
+
+[48:08](https://youtu.be/0g3yo1DjiLM?t=2888) And that was not available before because of scarcity right because of lack of technology. But nowadays because of abundance because of technology opio can live as long as they want to. And also this what this chart tells us that when the green goes away the red becomes the green right? So you'll always have a society where the elderly are in control.
+
+[48:08](https://youtu.be/0g3yo1DjiLM?t=2888) Does that make sense? Unless of course there were maybe I don't know a catastrophe, a nuclear holocaust, who knows? Okay.
+
+[48:44](https://youtu.be/0g3yo1DjiLM?t=2924) But yeah, but given the way things are, the trend is that old people can control society for a long time because if there's a war, it's not old people who die, it's young people who die. Okay. But good question. Okay.
+
+[48:44](https://youtu.be/0g3yo1DjiLM?t=2924) Any more questions? Okay, great. So, we'll continue this next class. Okay, thank you.

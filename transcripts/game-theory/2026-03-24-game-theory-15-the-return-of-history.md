@@ -1,0 +1,300 @@
+---
+title: "Game Theory #15:  The Return of History"
+series: "Game Theory"
+episode: 15
+date: "2026-03-24"
+date_kind: "published"
+video_id: "zAer-Mqe7tQ"
+url: "https://www.youtube.com/watch?v=zAer-Mqe7tQ"
+duration: "49:35"
+words: 6441
+punctuated_captions: true
+duplicate_of: null
+source_edited: "source/lightly edited/transcripts/Game Theory/046 — Game Theory #15 The Return of History [zAer-Mqe7tQ].md"
+---
+
+# Game Theory #15: The Return of History
+
+Game Theory · Published 2026-03-24 · 49:35 · 6,441 words · [Watch on YouTube](https://www.youtube.com/watch?v=zAer-Mqe7tQ)
+
+## YouTube description
+
+> In this Tuesday, March 24, 2026 lecture to his Beijing high school students, Professor Jiang argues that the US-Iran war marks the end of Pax Americana and globalization.
+
+## Transcript
+
+[00:00](https://youtu.be/zAer-Mqe7tQ?t=0) When the Berlin wall fell, there was an American State Department official named Francis Fukayama and he wrote a very influential essay called the end of history. And for decades, capitalism was in a struggle with communism. And in his essay, Fukuyama argued that with the triumph of capitalism, we've come to the end of history. Meaning, we now know what humanity most strives for, which is a liberal consumer democracy where people feel empowered to have the freedom to buy whatever they want.
+
+[00:49](https://youtu.be/zAer-Mqe7tQ?t=49) And this for him was the apex of human civilization. And this creates what is called the unipolar moment where America is the global hedgeimon. And it creates a world that is heavily glo globalized, capitalistic and very individualistic. And this is a very unique moment in human history.
+
+[01:19](https://youtu.be/zAer-Mqe7tQ?t=79) And we've come with this one I ran to the end of this moment. All right. So let me first explain the three major characteristics of this unipolar moment. The first is what I call PAX Americana where American power American military might guarantee peace in the entire world.
+
+[01:43](https://youtu.be/zAer-Mqe7tQ?t=103) And this is unique in human history where for the first time there was a power that was able to dominate the entire globe and America was able to do so through three mechanisms. Okay. The first is of course its military power but specifically aerial supremacy. Okay, which is backed up by special forces and the CIA.
+
+[02:12](https://youtu.be/zAer-Mqe7tQ?t=132) So the CIA was able to infiltrate every single government in the world and identify who would be loyal to the American Empire and then promote this person. If there are individuals that challenged the American Empire, these people were demoted or eliminated. Nations that prove problematic for example maybe Syria or Libya spe special forces went in to sabotage the economy and then aerero power went in destroy the government and so this past Americana now what's good about this is that it did bring peace to very problematic regions for example in East Asia Japan South Korea North Korea China Vietnam to not compete against each other. They just participate in global economy which brought tremendous wealth and prosperity to the East Asia region.
+
+[03:08](https://youtu.be/zAer-Mqe7tQ?t=188) This is true also in Europe and South America as well. Okay. So a supremacy then you have something called surveillance and basically what I mean by that is the internet. So believe it or not, but the internet was created not to actually help you communicate and to watch pornography.
+
+[03:32](https://youtu.be/zAer-Mqe7tQ?t=212) Was actually to have a mass surveillance system over the entire human population so that the Pentagon the military knew exactly the vibe or the culture the attitudes the emotions of each region and through social media through mechanisms such as Facebook and Twitter they were able to manipulate certain emotions. Okay. So the second mechanism is mass surveillance through the publicization of the internet. And the third is something called a rulesbased international order.
+
+[04:15](https://youtu.be/zAer-Mqe7tQ?t=255) And what this means is American power hid behind multilateral organizations such as the United Nations such as the World Bank, such as the World Trade Organization. And so people didn't notice that the American mil empire was dominating everything. They believed that the world was fair and just and through logic and reason and debate they could present their case.
+
+[04:45](https://youtu.be/zAer-Mqe7tQ?t=285) So for the longest time, Miss Pasameana provided peace and stability to the world which brought tremendous prosperity. All right. So that's number one.
+
+[04:56](https://youtu.be/zAer-Mqe7tQ?t=296) Number two is the supremacy of science. So for most of human history people were religious they believed in gods but with the rise of past americanana science became the dominant religion of the whole world. All right so the last example is co was raging across the world and then they introduce vaccines. Now I teach crude thinking skills.
+
+[05:32](https://youtu.be/zAer-Mqe7tQ?t=332) So when I first heard about vaccines I was a bit skeptical. I said to my friends who are Chinese and American I said you know vaccines used to take about 10 years to develop and that's when the virus is stable and have been around for centuries but this co is constantly mutating and they haven't have done enough trial research. So, is it really safe to take this these vaccines? And whether they were Chinese or American, their response was the same, which is, "How dare you question science?
+
+[06:08](https://youtu.be/zAer-Mqe7tQ?t=368) You are a peasant. Have you gone to school? Have you know culture? Can you not think?" Okay.
+
+[06:19](https://youtu.be/zAer-Mqe7tQ?t=379) And this shows you the how science has become the new religion of the world. And if you think about it, these scientists that run the world, they're actually transnational priests. Okay? And science is an international brotherhood.
+
+[06:35](https://youtu.be/zAer-Mqe7tQ?t=395) Where if you're a scientist in China, you're not you're not actually loyal to China. You're actually loyal to the international order of science because that's how you get promoted, right? You get published in nature or science. If you win an award like no Nobel prize, that's how you get rewarded.
+
+[06:52](https://youtu.be/zAer-Mqe7tQ?t=412) So, you're better off being loyal to the brotherhood of science rather than your own nation state. And of course, it is the American Empire that controls science. And the third unique aspect of the Europole moment is of course the universality of the US dollar.
+
+[07:14](https://youtu.be/zAer-Mqe7tQ?t=434) And it's incredible thing. Think about where just a piece of paper you think it's gold. You think there's value in it and not just you but everyone around you. So that if you take your US dollars, you know anyone in the world and buy yourself a villa or enjoy a nice vacation or fly around.
+
+[07:31](https://youtu.be/zAer-Mqe7tQ?t=451) But not only that, but you aspire your life to accumulate as much US dollars as possible, right? Is there really a difference between $100 million and $100 billion? There's actually no difference. You can't spend it.
+
+[07:48](https://youtu.be/zAer-Mqe7tQ?t=468) But you want to achieve as much as possible and as a result you focus your entire life on accumulating as much as possible. Okay. So these are the three main pillars of the unipolar movement. And again in the beginning which was maybe the early 90s this led to tremendous peace and prosperity throughout the world.
+
+[08:10](https://youtu.be/zAer-Mqe7tQ?t=490) The problem though is that over time these three pillars started to decay. Right? So past Americana started to itself ignore the rules national order which itself created. Right?
+
+[08:30](https://youtu.be/zAer-Mqe7tQ?t=510) So America started to bomb countries such as Libya and Syria without in actual approval. Most recently it went to attack Iran without even asking for the opinion of the world without even caring what the what the world thought. Okay. So this leads to the idea of hubris.
+
+[08:53](https://youtu.be/zAer-Mqe7tQ?t=533) Maybe the first generation appreciates the importance of collaboration of consensus but the second generation the children are arrogant they have hubris they want to enjoy their power okay so that's problem number one supremacy of science religion basically it becomes a religion in itself orthodoxy so that science does not become the main engine of innovation in the world it becomes the main engine of orthodoxy or suppression. That's why for the past 20 30 years we've seen very little in terms of technological innovation. Don't tell me Silicon Valley is a center of innovation in the world. Okay?
+
+[09:40](https://youtu.be/zAer-Mqe7tQ?t=580) All they do is make food delivery apps. It's been a long time since we've seen massive innovation in the world. What we've seen these past 20 30 years is the scaling out the popularization of innovation right where American technology is spread throughout the world especially in China but we have not seen actually major innovation in science itself right and the third thing the university of the US dollar leads to printing dollars okay or just basically corruption where because America is able to print as much US dollars as it wants to fund its corruption. It does so.
+
+[10:25](https://youtu.be/zAer-Mqe7tQ?t=625) So, the US dollar has lessened in value. And what this means is basically it's made inequality worse. It's made corruption worse.
+
+[10:34](https://youtu.be/zAer-Mqe7tQ?t=634) It's made people very lazy. Because if you're a young person, you're like, you know what? No matter how hard I work, I'm still screwed in the end because the boomers, the older generation, have so much more money than I do. I can never catch up.
+
+[10:49](https://youtu.be/zAer-Mqe7tQ?t=649) So I refuse to play this game. Either I refuse to play this game, so I quite quit, you know, comp life flat or I gamble. I pray that if I put a million dollars in Bitcoin, it'll go up to $10 million or the stock market or sports betting. Okay, that's why in America, gambling has become so popular.
+
+[11:13](https://youtu.be/zAer-Mqe7tQ?t=673) So this has led to today basically. All right. So it's we shouldn't see this war against Iran as just a decision of one person Donald Trump or the massations of a country Israel.
+
+[11:30](https://youtu.be/zAer-Mqe7tQ?t=690) Really this war in Iran is happening because we come to the end of the unipolar moment because the American empire has become corrupt, self-indulgent lazy arrogant. All right. So with the end of the American empire, with the end of Paxana, we are shifting towards a new world. And this new world, some will survive, most will not.
+
+[11:59](https://youtu.be/zAer-Mqe7tQ?t=719) Because and this is true throughout history where when empire declines and the world order is shifting where there's a paradigm shift people are forced to make a hard choice of either adapt or die. All right. So let me show you what how the world needs to change if it is to survive.
+
+[12:17](https://youtu.be/zAer-Mqe7tQ?t=737) Basically what has happened is we have to move from an emphasis on efficiency to resilience. Okay, that is the main goal in the future. Today it's really about how to make things as cheap as possible and get it to as many people as quickly as possible to make as much money as possible. Okay.
+
+[12:48](https://youtu.be/zAer-Mqe7tQ?t=768) The idea of efficiency, generating as much profit as possible, the idea of resilience is to appreciate that there will be a series of crises and what you need to do is focus on adapting and surviving these crises. Okay. So, for a nation, for a community to survive in the future, there has to be three major changes. And if you're able to make these three major changes, you will survive.
+
+[13:16](https://youtu.be/zAer-Mqe7tQ?t=796) If you do not make these changes, you will be eliminated. Okay? It will be survival of fittest. All right?
+
+[13:25](https://youtu.be/zAer-Mqe7tQ?t=805) So the first thing you need to do is move from materialism to spirituality. Right now the entire world these nation states have convinced the population what matters is your material well-being. If you are driving a car, if you have a house, if you have enough food to eat, then you should shut up and obey because we're doing your job. Okay?
+
+[13:57](https://youtu.be/zAer-Mqe7tQ?t=837) But in the future, governments can't do that because there's not enough resources to go around. They feel differently has to make you believe that what matters is your happiness, your well-being, your spirituality and that usually means a renewed focus on religion. Okay, that's the first thing. Second thing is to move from a system of individuality to community and family.
+
+[14:34](https://youtu.be/zAer-Mqe7tQ?t=874) And what this means is today what you're taught in school, what you're taught society is what matters is you me. Okay. The ego if it's doing well for me, it's good.
+
+[14:45](https://youtu.be/zAer-Mqe7tQ?t=885) I don't actually care about other people. In the future, you have to focus on building a community on helping others. Okay. And the last major shift is from the old to the young.
+
+[15:04](https://youtu.be/zAer-Mqe7tQ?t=904) And this is very simple and this is actually the hardest thing to do which is like today most countries especially the wealthy western industrial nations are controlled by the baby boomers, the elderly, the gerontocracy. They have all the money, they have all the power. But for starting to thrive in the future, this power need to shift to a younger generation.
+
+[15:28](https://youtu.be/zAer-Mqe7tQ?t=928) Ideally, maybe in the 30s. Okay? The younger the better. And you think this is easy to do.
+
+[15:33](https://youtu.be/zAer-Mqe7tQ?t=933) It's not because first of all, these baby boomers have access to the best healthcare in the world. They have a lot of money and they really enjoy living and they're also really selfish. Okay, so this is actually the hardest problem to solve for most western societies. How do you transfer power from the old to the young?
+
+[15:57](https://youtu.be/zAer-Mqe7tQ?t=957) And quite honestly, historically, we've never ever faced this problem before. Never. Because the old simply don't live that long. Okay?
+
+[16:11](https://youtu.be/zAer-Mqe7tQ?t=971) Now, babys are living to at least 100 years old. So, they stay another 20 years ahead of them in power. Meanwhile, the young cannot develop the experience and expertise in order to lead the nation. So, whichever nation actually figures out this problem first, how do you the old and give power to the young then will most likely thrive in the new world that's coming?
+
+[16:35](https://youtu.be/zAer-Mqe7tQ?t=995) And if you were if you were to ask me which nation would most likely achieve this first, I would say Japan. And the reason is very simple. Because Japan in Japan this problem is the most present. They are the eldest population they have the oldest population in the world and so they need to resolve this issue really quickly okay in maybe in the five next 5 10 years and I think that Japan will actually resolve this issue but >> it may be the only nation that's able to resolve this issue because it's so difficult.
+
+[17:12](https://youtu.be/zAer-Mqe7tQ?t=1032) >> You love your grandparents. Do you want to see your grandparents die? Of course not. Okay.
+
+[17:17](https://youtu.be/zAer-Mqe7tQ?t=1037) You're going against human biological nature. All right. Okay. All right.
+
+[17:21](https://youtu.be/zAer-Mqe7tQ?t=1041) So, that's the main argument I want to make you to today. Okay. So, what we're going to do now is we're going to look at how the world is going to transform because of what's happening in the circle moves because of this war in Iran. Okay.
+
+[17:35](https://youtu.be/zAer-Mqe7tQ?t=1055) So basically, we're in a new world because our world today is built entirely on access to cheap petroleum products, cheap energy, right? Why are why are you allowed to be in school learning from me rather than the fields farming? Because of energy, right?
+
+[18:00](https://youtu.be/zAer-Mqe7tQ?t=1080) Because of oil from the Middle East. Your computer is based on what? >> Petroleum. This camera filming is based on what?
+
+[18:09](https://youtu.be/zAer-Mqe7tQ?t=1089) Petroleum. This pad petroleum. This clothing petroleum. The medicine you eat petroleum.
+
+[18:16](https://youtu.be/zAer-Mqe7tQ?t=1096) The food that you eat comes from fertilizers which is based also on petroleum. So basically everything in this room everything in the world is based on cheap petroleum. The entire global economy the main foundation is cheap petroleum. So what happens in a world where petroleum is cheap?
+
+[18:33](https://youtu.be/zAer-Mqe7tQ?t=1113) Well, now you have a you need a massive rebalancing in the world. Okay. The other thing about the world is this is the GCC countries. Okay.
+
+[18:44](https://youtu.be/zAer-Mqe7tQ?t=1124) The Middle East countries. And as you can see, this is really important to see is around the year 2005, they started to have massive account surplus, meaning they were selling so much oil they couldn't really spend all their money. Do you guys know why? What?
+
+[19:13](https://youtu.be/zAer-Mqe7tQ?t=1153) Why was this happening? What happened in 2005, 2004 that made these countries extremely wealthy? All right, China. Okay, think about it.
+
+[19:25](https://youtu.be/zAer-Mqe7tQ?t=1165) What's China doing? Well, China in the 80s and '90s was putting factories, right? But then China setting up this account surplus. So now China wants to develop its industrial base, right?
+
+[19:36](https://youtu.be/zAer-Mqe7tQ?t=1176) And how do you do that? By importing oil from the GCC, right? And that's why we have these skyscrapers, these malls, these roads, okay? Because China was able to import all this cheap oil from the GCC.
+
+[19:53](https://youtu.be/zAer-Mqe7tQ?t=1193) And then the GCC would take this money, okay, and then invest it back into the American stock market. But not just that, but they would invest it in Africa. They would in invest in infrastructure. So for the longest time the Chinese economy and the GCC are the two main pillars of the entire global economy.
+
+[20:18](https://youtu.be/zAer-Mqe7tQ?t=1218) And what this means is that if the GCC no longer is able to export oil, this have a major impact on China and together the two are going to have a major impact on the globe economy. Okay. Basically the glob economy is dead.
+
+[20:36](https://youtu.be/zAer-Mqe7tQ?t=1236) Another thing that you may not be aware of is today flying around the world. It's very simple to do.
+
+[20:46](https://youtu.be/zAer-Mqe7tQ?t=1246) You get like if you want it, what we can do now is get our mobiles out. Go to a website and look at where we're going to fly to and then book that flight for tonight. Pay using a credit card, take a taxi to the airport, get on a flight, and we're there the next morning. That's really impressive.
+
+[21:05](https://youtu.be/zAer-Mqe7tQ?t=1265) Guess what guys? You couldn't do this 20 years ago. Okay, the technology was around but it was not widely available. Now look at this where the entire world is interconnected.
+
+[21:18](https://youtu.be/zAer-Mqe7tQ?t=1278) This is a pretty stark chart where in 1950 it was considered an a tremendous luxury to fly. You had to be a millionaire basically to want to fly for vacation. Okay.
+
+[21:32](https://youtu.be/zAer-Mqe7tQ?t=1292) Everyone else just drove the car. Now it's like anyone can drive and again this happened just in the past basically 30 40 years and this of course is because of past Americana where pass Americana will guarantee there's no problem in the world and therefore planes can just fly around otherwise be shot down. Okay. All right.
+
+[21:56](https://youtu.be/zAer-Mqe7tQ?t=1316) Well, this world is coming to an end. In the future, flights will be very expensive and vacations will be unaffordable. Okay? All right.
+
+[22:13](https://youtu.be/zAer-Mqe7tQ?t=1333) This is the internet, guys. Yeah. You don't know this. You think that the internet is just that you go on the computer and then boom, the internet is there.
+
+[22:19](https://youtu.be/zAer-Mqe7tQ?t=1339) No, actually, the internet is underseas cables that connect the entire world. And unfortunately, there's a war going on right here, guys. And unfortunately, it's really easy for Iran to cut off the underseas cables, which would lead to internet disruption for maybe 20 30% of the world. Okay?
+
+[22:44](https://youtu.be/zAer-Mqe7tQ?t=1364) African Africa, India, the Middle East, maybe parts of Europe would lose internet access. You think, okay, well, that's fine. They just won't watch Nick Netflix anymore. No guys.
+
+[22:53](https://youtu.be/zAer-Mqe7tQ?t=1373) The entire economy is based off the cloud. So if you want to bank, if you want basically fi finance, okay, this had a huge impact in the world and this could happen any time where for whatever reason there's a war going on in a certain moves, some cables get cut off and suddenly you've lost internet access and this would basically cause major disruptions throughout the world. All right.
+
+[23:29](https://youtu.be/zAer-Mqe7tQ?t=1409) So, one thing that you notice about this world is the sheer amount of population growth where after World War II because of Pax Americana, you see a massive boom in population. And unfortunately, this is not sustainable. It is not possible for the planet to sustain 8 billion people, many of whom want to fly around the world every twice a year, who want to drive an SUV, who want to have food any who want to avocados every single day, they want to have like cherries every single day.
+
+[24:16](https://youtu.be/zAer-Mqe7tQ?t=1456) So, this population growth is not sustainable and basically what happens is this when you are too offbalance when there's a correction the correction is pretty extreme. Okay. So this truck by itself the fact that we have so many people means like if there's a crisis the population will see a massive shrinkage.
+
+[24:42](https://youtu.be/zAer-Mqe7tQ?t=1482) You're like, "Okay, how?" And the answer is food scarcity. Food is not is today pretty common. But food is based on global trade.
+
+[24:53](https://youtu.be/zAer-Mqe7tQ?t=1493) So, let me show you what I mean by this. All right. So, this the yellow, okay, are places that need fertilizer to grow food, meaning their land is not good for farming.
+
+[25:12](https://youtu.be/zAer-Mqe7tQ?t=1512) So needed fertilizer to grow food. They also have a large population. As you can see, a lot of this is based in Africa and maybe Central Asia and parts of South America. Ammonia is here produced from oil to petroleum that is fundamental for fertilizers.
+
+[25:34](https://youtu.be/zAer-Mqe7tQ?t=1534) And as you can see, this is mainly in the north of the world. What allows for a young people is the fact that the north is able to export fertilizer to the south and that's it guys you understand if this were to stop for the reason people in the south would be in a lot of trouble right so as you can see this trade in fertilizer is what sustains a global population of 8 billion people. Again, if there's a disruption to this trade, the people in the south are in a lot of trouble. All right?
+
+[26:22](https://youtu.be/zAer-Mqe7tQ?t=1582) So, if you're in the green, you're okay. Okay? But if you are in the red, you are in a lot of trouble. Okay?
+
+[26:33](https://youtu.be/zAer-Mqe7tQ?t=1593) You are in a lot of trouble if you are if you are in the red. But honestly, if you are not in the green, you could still be in a lot of trouble because again, what we're looking for is resilience. The idea of efficiency is let's imagine the best case scenario and try to make as much money out of it as possible. Okay.
+
+[27:00](https://youtu.be/zAer-Mqe7tQ?t=1620) The idea of resilience is let's imagine the worst case scenario and see if you can survive it. Basically, if you are if you have food security issues, you are facing a massive problem. Okay? Because again, we're imagine the worst case scenario.
+
+[27:18](https://youtu.be/zAer-Mqe7tQ?t=1638) And again, I hate to say this, but if you're not in the green, you should be worrying right now. Okay? And where's China? Not in the green, guys.
+
+[27:30](https://youtu.be/zAer-Mqe7tQ?t=1650) It's something that national leaders in the world have us talking about right now. Food scarcity. All right.
+
+[27:39](https://youtu.be/zAer-Mqe7tQ?t=1659) Water. Again, the countries that suffer from food scarcity, some of them also suffer from food scarcity. Okay. From water scarcity.
+
+[27:57](https://youtu.be/zAer-Mqe7tQ?t=1677) Forget this. All right.
+
+[28:00](https://youtu.be/zAer-Mqe7tQ?t=1680) So, basically this area is a lot of trouble. I would say that water is far more problematic than food. And again, I hate to say this, but if you are any country here, what is going on here?
+
+[28:21](https://youtu.be/zAer-Mqe7tQ?t=1701) If you're any country in this area, okay, you should be worried. Freedom is a very important issue because freedom is actually important for resilience issues. Okay. And what this means is that when there's a crisis, leaders and the population need to collectively make sacrifices.
+
+[28:49](https://youtu.be/zAer-Mqe7tQ?t=1729) But when there's very little freedom, meaning there's very little transparency and accountability, where the public don't have access to the leadership, then the leadership could possibly make selfish, self-defeating decisions and it and the public is not involved and therefore the public refuses to make the sacrifices necessary in order to make the nation survive. Okay? And so this leads to conflict around the world. And again, countries that suffer the most from food issues and water issues also are most likely to come into conflict with other people.
+
+[29:35](https://youtu.be/zAer-Mqe7tQ?t=1775) So this is a map of nations at war. The red means that they are at war. Okay.
+
+[29:42](https://youtu.be/zAer-Mqe7tQ?t=1782) And you can see Africa in the Middle East is especially under a lot of conflict and a lot of stress while at the same time they're suffering from food scarcity and water issues. Right? So what you will see sorry another issue I want to u bring up is the idea of mega cities and the idea mega cities is any cities that have over 10 million people and you think wow like spaces are amazing cuz you have like shopping malls and you have like skyscrapers that's great no guys mega cities are really bad okay mega cities should not exist. They exist because of globalization.
+
+[30:32](https://youtu.be/zAer-Mqe7tQ?t=1832) Because what many cities do is they're able to bring in a lot of people, have them specialize in a particular area, make it industrial, and then export it to the rest of the world. Okay? And where are most mega cities located? Well, they're located in India and in China.
+
+[30:51](https://youtu.be/zAer-Mqe7tQ?t=1851) That's a problem because India and China both suffer from food and water issues. If you are to be resilient, you actually want most your population not in cities but in the countryside growing food because first of all they are self-sufficient. Second of all, you will have a food supply. Unfortunately, right now China imports a quarter of its food.
+
+[31:15](https://youtu.be/zAer-Mqe7tQ?t=1875) And also remember food also requires energy to grow right so China imports 75% of its oil. This brings up the question of how resilient is China. Okay but not just China but also any big country with a mega city or too many mega cities India specifically will face problems in the future. Again, if you're a national leader, you should be worried right now.
+
+[31:53](https://youtu.be/zAer-Mqe7tQ?t=1913) So, with this war and disruptions to global trade, we should expect massive in instability in nations that are not very resilient, okay? That have very little freedom, that have food issues, and which have water issues, okay?
+
+[32:11](https://youtu.be/zAer-Mqe7tQ?t=1931) And so you would see revolutions, you would see wars, you would see famines which leads to what? Which leads to massive migration. Okay? And so these are trends.
+
+[32:21](https://youtu.be/zAer-Mqe7tQ?t=1941) These are migration trends that we're already seeing where people from Africa, Middle East are moving to Europe and people from South America and Latin America are moving to the United States. Okay? And we should expect these trends to not only continue but to accelerate by maybe a 100 times. Okay?
+
+[32:47](https://youtu.be/zAer-Mqe7tQ?t=1967) And you think to yourself, okay, well, what Europe and North America can do is just build walls, right? They should right now build a wall because you're going to see a massive influx of refugees due to food and water issues. And unfortunately Europe and America have a huge problem. And the problem of course is aging.
+
+[33:12](https://youtu.be/zAer-Mqe7tQ?t=1992) So in 2020 the countries in purple are countries that have a significant elderly population. And this is 2050 where the entire northern hemisphere will have an significant elderly population. So the north the industrial economies are aging very rapidly which means their only option is to bring in cheap desperate workers from the south who are fleeing conflict zones in order to run their economies.
+
+[33:54](https://youtu.be/zAer-Mqe7tQ?t=2034) The problem is this of this of course is that this will lead to cultural conflict where the local populations, native populations will feel they're being replaced by these refugees and these immigrants and this will probably lead to civil conflict within North America and within Europe. Okay. And unfortunately, there's really no way around this issue because the elderly are in control and they want people to mow their lawns.
+
+[34:34](https://youtu.be/zAer-Mqe7tQ?t=2074) They want people to nourish them. They want people to deliver food to them. And unfortunately, young people don't have to do that because their parents have money. Okay?
+
+[34:47](https://youtu.be/zAer-Mqe7tQ?t=2087) So one way around this issue is by importing cheap immigrant labor, right? Okay. With the end of Pax Americana, what you will see emerge is regional trading blocks. Bas basically the idea of mercantileism.
+
+[35:15](https://youtu.be/zAer-Mqe7tQ?t=2115) Mercantalism. And for most of human history, this was what we did where there was no one power that controlled the entire world. What happened was that maybe you had a local hedgeimon which guaranteed trade among its allies.
+
+[35:32](https://youtu.be/zAer-Mqe7tQ?t=2132) And you didn't trade with other people. You only traded within your regional trading block. And that's the world we're heading back towards.
+
+[35:41](https://youtu.be/zAer-Mqe7tQ?t=2141) So this is a map of the 17 16th century 17th century where you know you have these mercury empires like the British, the Portuguese, the French the Spanish and they had their own trade networks and they refused to work with each other but the system worked fine. Okay, it's more expensive. It was not so convenient but it still works.
+
+[36:06](https://youtu.be/zAer-Mqe7tQ?t=2166) So this does not mean the end of global trade. It just means much more limited global trade, right? Another thing that you will notice about the Asian economies is slaves. Slaves were a very important part of the trade.
+
+[36:28](https://youtu.be/zAer-Mqe7tQ?t=2188) And the reason why is this. You need energy to run society. Today we use oil. Back then they use human beings, right?
+
+[36:37](https://youtu.be/zAer-Mqe7tQ?t=2197) You can no longer have access to cheap oil. What you do is you enslave people and that's the way historically we've done things. All right? Okay.
+
+[36:52](https://youtu.be/zAer-Mqe7tQ?t=2212) So the last thing I want to talk about is religion because remember the idea of resilience is you need people to focus more on spirituality and less on materialism because if they focus on materialism their lives are getting worse and worse. Okay? So you need to cause a national spiritual rejuvenation in your country. And if you are in the gray you might have issues.
+
+[37:18](https://youtu.be/zAer-Mqe7tQ?t=2238) Why? Because your people are not religious and too materialistic. And unfortunately, East Asia, okay, Japan, China Korea Vietnam are especially non-religious.
+
+[37:42](https://youtu.be/zAer-Mqe7tQ?t=2262) That's been a problem for them in the future. Okay. All right. So, let's just summarize what we've learned so far.
+
+[37:49](https://youtu.be/zAer-Mqe7tQ?t=2269) What are some major trends that we should expect over the next 10 10 20 years? Again, I just say this. All right. If you really believe that next week Donald Trump and Iran are going to come to peace agreement, if you believe that maybe in five 6 months both Iran and the United States will exhaust themselves, the global economy will suffer too much and then they'll just stop the war and things will go back to normal.
+
+[38:18](https://youtu.be/zAer-Mqe7tQ?t=2298) I don't know. I don't know what to tell you. Okay, you're living in a fantasy world. You have to wake up and recognize that this is the end of the unipolar moment.
+
+[38:25](https://youtu.be/zAer-Mqe7tQ?t=2305) We're moving towards a new world. And you have to choose to adapt to this new world or you will die. It's that simple. All right.
+
+[38:33](https://youtu.be/zAer-Mqe7tQ?t=2313) So massive trend is de-industrialization and dearization where people in the cities will have to move back to the countryside especially young people. Okay? Okay, they have to learn like real skills. No more cryptocurrency trading for you guys, okay?
+
+[38:52](https://youtu.be/zAer-Mqe7tQ?t=2332) Learn how to milk a cow or kill a chicken or go, whatever, okay? But just do something useful for your life. Nationalism and rematurization is very important where you have to get young people who willing to fight and defend your land. Okay?
+
+[39:12](https://youtu.be/zAer-Mqe7tQ?t=2352) And that means getting them to believe that your nation deserves to be strong. So whichever nations are most ready and most able to excite their younger population in fighting wars will be the ones who will be most resilient. Systems basically independent training blocks resource wars is a very big thing. Okay.
+
+[39:37](https://youtu.be/zAer-Mqe7tQ?t=2377) Famines, genocides, slavery. Okay. So remember from most of human history, humans were the cheap entity. If you don't have access to cheap oil, well then you're going to enslave human beings.
+
+[39:50](https://youtu.be/zAer-Mqe7tQ?t=2390) This is not a pretty future, but it is a future that could happen and you have to mentally prepare yourself for this possibility. Okay. Mass migration where people in the south are most likely to suffer from resource wars over water and food and people.
+
+[40:11](https://youtu.be/zAer-Mqe7tQ?t=2411) So they escape and escape to Europe and North America. Okay. Revolution, civil wars, and political instability in America and in Europe because the baby boomers refuse to retire from the scene. And these are aging populations, massive inequality, massive corruption, massive sagy.
+
+[40:32](https://youtu.be/zAer-Mqe7tQ?t=2432) And so this will lead to chaos in the streets. Okay. Religion is a big thing. If you are not religious, I actually recommend looking into the possibility of becoming a religion.
+
+[40:49](https://youtu.be/zAer-Mqe7tQ?t=2449) It's going to be very useful for what's going to happen later on. This these are things I will talk about more in the future. Okay.
+
+[40:57](https://youtu.be/zAer-Mqe7tQ?t=2457) But I will bring them up now like how I see the world in 10 20 years time. All right. So I will say this I think that there will be eventually an alliance between Russia and Germany in Europe. Maybe for the next 5 10 years Germany and Russia will go to war against each other.
+
+[41:21](https://youtu.be/zAer-Mqe7tQ?t=2481) But eventually what the two will figure out is they both are actually working together and fighting against each other. Okay. You have P Judeica. Remember the entire point of this war in Iran from Israel's perspective is to knock out America from the Middle East and establish up as the local hegemon and then becomes past Judeaica.
+
+[41:46](https://youtu.be/zAer-Mqe7tQ?t=2506) So I think Israel will come to dominate the Middle East. But then you're like, "What about Iran?" Okay. And like I know this is hard to understand, but if the United States were to leave the scene and Israel and Iran had to go to war against each other, what would happen is they would say "Why?" Because Israel is like, "I don't want Persia." And then Iran is like, "I don't want Israel." And Israel has nuclear weapons.
+
+[42:16](https://youtu.be/zAer-Mqe7tQ?t=2536) So they would agree to split the Middle East out where Iran controls Humus and Israel controls the Levant. Right? Historically actually the Israelis, the Jewish people, they hated the Greeks, they hate the Romans, but they actually had the Persians. So there's this history going back where Persians and Jews actually get along very well.
+
+[42:40](https://youtu.be/zAer-Mqe7tQ?t=2560) And in fact, in the Middle East, the place outside Israel with the largest Jewish population is Iran. And they're very well treated there. Okay? So, I don't see why if America were to leave the scene, why couldn't Israel and Iran come to a mutually satisfactory agreement benefits both nations, right?
+
+[43:03](https://youtu.be/zAer-Mqe7tQ?t=2583) Japan again I think the major problem facing all western industrial nations is the aging crisis. What do you do with these people who are 90 years old? They can't get out of the house. Their brains aren't really functioning properly, but they still control all the money, all the power, and they're extremely influential.
+
+[43:30](https://youtu.be/zAer-Mqe7tQ?t=2610) What do you do? Well, in most countries, you can't do anything about it. But Japan is a very special country where the elderly have a more obligation to the nation, to the people. So, it could be u a situation where Japan is in a lot of trouble and the elderly voluntarily choose to exit power and give it to the young.
+
+[43:57](https://youtu.be/zAer-Mqe7tQ?t=2637) But I think Japan's the only nation that would do this voluntarily. Every other nation basically there has to be wars in order for the young to arise to power. All right.
+
+[44:11](https://youtu.be/zAer-Mqe7tQ?t=2651) The American Holy Empire. The nation that is most capable of surviving the next few decades of tribulation of crisis is America. Why? America is so incredibly wealthy.
+
+[44:31](https://youtu.be/zAer-Mqe7tQ?t=2671) It's protected by two oceans. It really controls Canada and Mexico. So think of America as not just the continent of America but really has entire North American and Latin American. Okay, that entire sphere is basically America.
+
+[44:46](https://youtu.be/zAer-Mqe7tQ?t=2686) So it has unlimited resources. It has unlimited population and also America and the Americans are the most creative, the most entrepreneurial, the most the most energetic people in the world. So I would bet against America. All right.
+
+[45:02](https://youtu.be/zAer-Mqe7tQ?t=2702) But what I think will happen is that America will need a new identity in order to survive the age of tribulation. They will go from past Judea sorry past Americana which is a secular global idea to one that is much more nationalistic that is more focused on community and nation that means embracing Christianity. Okay. And I think that Christianity is will be the force that rebuilds America after the many crisis America will face over next few years.
+
+[45:41](https://youtu.be/zAer-Mqe7tQ?t=2741) The last thing that will happen is techno Marxarism. Okay. Where nations that have the resources want to institute an AI surveillance state to better marshall the limited resources to basically to better control its people. Okay.
+
+[46:02](https://youtu.be/zAer-Mqe7tQ?t=2762) And this something we'll talk about later on. Okay. But basically you will have this sharp division of people into different classes where at the very top you have freedom but people at the very bottom become slaves or surfs. Right?
+
+[46:23](https://youtu.be/zAer-Mqe7tQ?t=2783) So that is it for trends I see in the future. Again, I hate to say this, but you have to give the illusion that this war will end soon and that once this war ends, then we'll go back to the things before this the before this war. Okay?
+
+[46:43](https://youtu.be/zAer-Mqe7tQ?t=2803) No, the world has completely changed. We're not going back to the old world. We're going to a new world. And what this new world will look like is something that we can choose to control.
+
+[46:59](https://youtu.be/zAer-Mqe7tQ?t=2819) Any questions? All right.
+
+[47:09](https://youtu.be/zAer-Mqe7tQ?t=2829) So about the new world, so the relationships between countries will all be changed such as China and Japan and you know those five big countries will the waters be changed? >> Okay. All right. So the best way to understand the geopolitical situation is that is it's constantly in flux.
+
+[47:34](https://youtu.be/zAer-Mqe7tQ?t=2854) It's constantly dynamic. Okay? Meaning you cannot easily divide nation states into enemies anymore. Their alliances will constantly shift over time and the nation state system will also break apart into much more resilient communities.
+
+[47:54](https://youtu.be/zAer-Mqe7tQ?t=2874) That's it's possible that nation states become a series of city states. Okay. So basically think about the world the world in maybe the 1930s or maybe even China during the war and states period. Okay.
+
+[48:11](https://youtu.be/zAer-Mqe7tQ?t=2891) Basically I can't tell you that we'll go to a new world and then this is what it will look like. No it will constantly change over time. Okay? Alliance will constantly shift over time.
+
+[48:25](https://youtu.be/zAer-Mqe7tQ?t=2905) It's possible that in the beginning in East Asia maybe Vietnam, Japan, South Korea, United States, Russia combined to contain China because they see China as the hedgeimog. But then they're like, "Wait a wait a minute here. Japan's rising in power, so let's combine against Japan." Okay, it's a dynamic situation. But basically what you have to understand is that everything that you've been taught in school, everything that you understand about the world, everything you believe about to be true about the world will change.
+
+[49:00](https://youtu.be/zAer-Mqe7tQ?t=2940) And so you have to open your mind and be ready for constant political flux. Okay? Does that make sense? All right.
+
+[49:13](https://youtu.be/zAer-Mqe7tQ?t=2953) Any more questions, guys? All right. So now that we've looked at the world ahead for the next 10, 20, 50 years, who knows who knows how long, what I want to do next, class, is examine how this war between United States and Iran will eventually end.

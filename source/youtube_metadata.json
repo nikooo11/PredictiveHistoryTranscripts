@@ -1,0 +1,961 @@
+{
+ "source": "YouTube watch-page data (youtubei/v1/next), fetched 2026-09-27 by tools/fetch_youtube_metadata.py",
+ "note": "date_text is YouTube's displayed date (US Pacific time). Livestreams from Beijing can show the previous calendar day.",
+ "videos": {
+  "hcuT_mpeTxo": {
+   "title": "Global Meet-Up #5 (Toronto):  Canada's Corporate Re-Structuring",
+   "date_text": "Sep 15, 2026",
+   "description": "On Saturday, September 5, 2026, Professor Jiang was in Toronto, Ontario to lecture on the US-Canada Trade War.\n\nThanks to Cathy Tie for organizing, and Tim Gabor for filming and editing."
+  },
+  "5gyyAzfmWk4": {
+   "title": "Global Meet-Up #4 (Austin, Texas):  American Prophecy",
+   "date_text": "Aug 31, 2026",
+   "description": "On Sunday, August 23rd, Professor Jiang discusses Trump's 3rd Term in Austin, Texas.  \n\nThanks to Jintae Cho for organizing the meet-up, and David Rhoads for filming the event.\n\nPlease follow David's work at:\n   / @postculthouse   \nand Substack: https://substack.com/@postcult"
+  },
+  "N2GFDDZtGQY": {
+   "title": "Global Meet-Up #2 (Los Angeles):  The \"End of the World\" US Tour",
+   "date_text": "Aug 18, 2026",
+   "description": "On Saturday, August 8, 2026, Professor Jiang spoke at the Kinn (https://thekinn.co/) in Venice, California.  Many thanks to Ally Fekaiki for organizing and moderating the event.  Because of his generosity, participation was free.     \n\nYou can learn more about Ally's work by subscribing to his YouTube channel:     / @prettygreatpod  "
+  },
+  "5rDMq-5_xkM": {
+   "title": "Global Meet-Up #3 (New York City):  The Eschatology of Capitalism",
+   "date_text": "Aug 16, 2026",
+   "description": "On Saturday, August 15, 2026, Professor Jiang visited New York City to deliver a lecture on why the Iran started, and where it is going.  He explains the origins of transnational capitalism, and how secret societies rule the world."
+  },
+  "Z1G6WI1Q0M8": {
+   "title": "Emergency Discussion #2:  The Blackmailing of Spain",
+   "date_text": "Jul 31, 2026",
+   "description": "In this Saturday, August 1 Zoom discussion, we examine and discuss why and how 50,000 migrants flooded the Spanish enclave of Ceuta."
+  },
+  "A9Sr-4c-3Tg": {
+   "title": "Emergency Discussion #1:  Spain Wins World Cup, US Plans Ground Invasion of Iran",
+   "date_text": "Jul 19, 2026",
+   "description": "In this July 20, 2026 Zoom discussion, Professor Jiang discusses current events, and answers questions from Substack subscribers."
+  },
+  "E7QKiRnw0M8": {
+   "title": "Live with Predictive History #2:  US-Iran War, World Cup",
+   "date_text": "Jul 17, 2026",
+   "description": "A recording from Predictive History's live video\n\nhttps://predictivehistory.substack.co..."
+  },
+  "zbjLl85FLUc": {
+   "title": "Global Meet-Up #1 (Tokyo):  Japan's Geo-Political Outlook",
+   "date_text": "Jul 16, 2026",
+   "description": "On Tuesday, July 14, 2026, Professor Jiang visited Tokyo, and discussed Japan's geo-political outlook.  What follows are highlights from the 3-hour event.  \n\nMuch appreciation to Keito Ochi for organizing the event at Lakeland University."
+  },
+  "qRCSZoGC2Dg": {
+   "title": "Substack Founding Members Livestream #2",
+   "date_text": "Jul 11, 2026",
+   "description": "A Zoom discussion covering the war in Iran, the fate of Europe, education reform, and more."
+  },
+  "Sa5kffYLvBE": {
+   "title": "Dante #12 (Final): Purgatory Cantos 26-33",
+   "date_text": "Jun 28, 2026",
+   "description": ""
+  },
+  "oR3EOW52WCc": {
+   "title": "Dante #11: Purgatory Cantos 15-25",
+   "date_text": "Jun 26, 2026",
+   "description": ""
+  },
+  "MDOK9qaaA7Q": {
+   "title": "Dante #10: Purgatory Cantos 5-14",
+   "date_text": "Jun 25, 2026",
+   "description": ""
+  },
+  "SSmJKnUOsAc": {
+   "title": "Dante #9: Hell Cantos 32-34, Purgatory Cantos 1-4",
+   "date_text": "Jun 24, 2026",
+   "description": ""
+  },
+  "oFK53cYz_h0": {
+   "title": "Dante #8: Hell Cantos 20-32",
+   "date_text": "Jun 23, 2026",
+   "description": ""
+  },
+  "P82v6UAc9ss": {
+   "title": "Dante #7: Hell Cantos 10-19",
+   "date_text": "Jun 23, 2026",
+   "description": ""
+  },
+  "e_9fndobOnI": {
+   "title": "Dante #6: Hell Cantos 3-9",
+   "date_text": "Jun 21, 2026",
+   "description": ""
+  },
+  "xPxEi5Zm0G4": {
+   "title": "Dante #5: Paradise Cantos 30-33, Hell Cantos 1-2",
+   "date_text": "Jun 20, 2026",
+   "description": ""
+  },
+  "brRNCLD7to0": {
+   "title": "Dante #4: Paradise Cantos 24-29",
+   "date_text": "Jun 18, 2026",
+   "description": ""
+  },
+  "6tzAyCZ4Omk": {
+   "title": "Dante #3: Paradise Cantos 11, 12, 17, 24",
+   "date_text": "Jun 18, 2026",
+   "description": ""
+  },
+  "eF5B3CWpKxg": {
+   "title": "Dante #2: Paradise Cantos 5-7",
+   "date_text": "Jun 17, 2026",
+   "description": ""
+  },
+  "7AG3EMDvKT0": {
+   "title": "Dante #1:  Paradise Cantos 1-5",
+   "date_text": "Jun 16, 2026",
+   "description": "In this Monday, June 15, 2026 livestream, Professor Jiang explains the Divine Comedy Paradise Cantos 1-5."
+  },
+  "f03GAKlvZRs": {
+   "title": "Substack Live #1:  Welcome to Boomer Hell",
+   "date_text": "Jun 13, 2026",
+   "description": "A recording from Predictive History's live video\n\nhttps://predictivehistory.substack.co..."
+  },
+  "kFH4AujWqtI": {
+   "title": "Predictive History Founding Members #1",
+   "date_text": "Jun 6, 2026",
+   "description": "A recording from Predictive History's live video\n\nhttps://predictivehistory.substack.co..."
+  },
+  "VWmPHHnZuiw": {
+   "title": "Great Books #13:  Gay Talese's Sparks of Light",
+   "date_text": "May 29, 2026",
+   "description": "In this Friday, May 29, 2026 lecture to his Beijing high school students, Professor Jiang explains the genius of Gay Talese.  \n\nNotes and References:\n1.  \"Thy Neighbor's Wife\" by Gay Talese"
+  },
+  "RE2UribEFIo": {
+   "title": "Game Theory #29:  Final Examination",
+   "date_text": "May 28, 2026",
+   "description": "In this Thursday, May 28, 2026 lecture Professor Jiang answers your questions."
+  },
+  "FspDllFoiDE": {
+   "title": "Great Books #12:  Dante in Paradise",
+   "date_text": "May 26, 2026",
+   "description": "In this Wednesday, May 27, 2026 lecture to his Beijing high school students, Professor Jiang explains how Dante re-animated the human imagination.\n\nNotes and References:\n1.  Dante's Divine Comedy, translated by Alan Mandelbaum\nhttps://digitaldante.columbia.edu/dan..."
+  },
+  "dja6dkCfngE": {
+   "title": "Game Theory #28:  Predictive History",
+   "date_text": "May 26, 2026",
+   "description": "In this talk to his Beijing high school students, Professor Jiang reviews all the important ideas from this semester."
+  },
+  "otyUpKhpTYM": {
+   "title": "Great Books #11:  Dante's Revolution",
+   "date_text": "May 22, 2026",
+   "description": "In this Friday, May 22, 2026 lecture to his Beijing high school students, Professor Jiang explains Dante's war with Virgil.  \n\nNotes and References:\n1.  Dante's Divine Comedy, translated by Alan Mandelbaum\nhttps://digitaldante.columbia.edu/dan..."
+  },
+  "x83HcLWvHI8": {
+   "title": "Game Theory #27:  Putin Enters the Chat",
+   "date_text": "May 21, 2026",
+   "description": "In this Thursday, May 21, 2026 lecture to his Beijing high school students Professor Jiang explains how Putin plans to defeat the American empire."
+  },
+  "RG1clZlrfOo": {
+   "title": "Game Theory #26:  The Holy Empire of AI",
+   "date_text": "May 19, 2026",
+   "description": "In this Tuesday, May 19, 2026 lecture to his Beijing high school students, Professor Jiang explains the connections between the Freemasons and the AI surveillance state.  \n\nNotes and References:\n1.  \"Morals and Dogma\" by Albert Pike\n2.  \"Zero to One\" by Peter Thiel \n3.  \"What's the Difference between God and Larry Ellison?\" by Mike Wilson\n4.  \"Between Two Ages\" by Zbigniew Brzezinski\n5.  \"Empire of AI\" by Karen Hao"
+  },
+  "BIl5vJn6ohI": {
+   "title": "Game Theory #25:  Trump Visits China",
+   "date_text": "May 14, 2026",
+   "description": "In this Thursday, May 14, 2026 lecture to his Beijing high school students, Professor Jiang explains why the United States and China will negotiate a grand bargain."
+  },
+  "8nsxuB3Vsts": {
+   "title": "Game Theory #24:  The AI Apocalypse",
+   "date_text": "May 12, 2026",
+   "description": "In this Tuesday, May 12, 2026 lecture to his Beijing high school students, Professor Jiang explains why AI will end humanity.  \n\nNotes and References:\n1.  Empire of AI by Karen Hao\n\nPlease consider making a small donation here:\nhttps://buymeacoffee.com/predictivehi...\n\nPlease subscribe to the Predictive History Substack here:\nhttps://predictivehistory.substack.co..."
+  },
+  "6aNh6sBpqvQ": {
+   "title": "Game Theory #23:  The WWIII Chessboard",
+   "date_text": "May 6, 2026",
+   "description": "In this Thursday, May 7, 2026 lecture to his Beijing high school students, Professor Jiang explains the worldview and strategy of the four major participants of World War III.  \n\nNotes and References:\n1.  Paradise Lost by John Milton\n2.  Anna Karenina by Leo Tolstoy"
+  },
+  "wGpdMYa2bME": {
+   "title": "Great Books #10:  Dante's Hierarchy of Hell",
+   "date_text": "Apr 28, 2026",
+   "description": "In this Wednesday, April 29, 2026 lecture to his Beijing high school students, Professor Jiang explains how Dante constructed the Inferno.  \n\nNotes and References:\n1.  Dante's Inferno\nhttps://digitaldante.columbia.edu/dan..."
+  },
+  "txgPfnXgzcE": {
+   "title": "Game Theory #22:  Twilight of the Nation-State",
+   "date_text": "Apr 28, 2026",
+   "description": "In this Tuesday, April 28, 2026 lecture to his Beijing high school students, Professor Jiang explains that 21st century warfare is about turning the civilian population against the state.\n\nNotes and References:\n1.  \"The Social Contract\" by Jean-Jacques Rousseau"
+  },
+  "Ts-AA6LQf6I": {
+   "title": "Game Theory #21:  World War Trump",
+   "date_text": "Apr 21, 2026",
+   "description": "In this Tuesday, April 21, 2026 lecture to his Beijing high school students, Professor Jiang explains America's national security strategy, and why this war in Iran cannot end.\n\nNotes and References:\n1.  America's National Security Strategy\nhttps://media.defense.gov/2026/Jan/23..."
+  },
+  "ue8y5e3HnHE": {
+   "title": "Game Theory #20:  Mid-Term Examination",
+   "date_text": "Apr 9, 2026",
+   "description": "Professor Jiang answers your questions!"
+  },
+  "4EZUrGPgAos": {
+   "title": "Great Books #9:  Dante (Re-Upload with Audio Fixed)",
+   "date_text": "Apr 8, 2026",
+   "description": "In this Wednesday, April 8, 2026 lecture to his Beijing high school students, Professor Jiang introduces Dante's Divine Comedy.  \n\nNotes and References:\n1.  Dante:  https://digitaldante.columbia.edu/dan..."
+  },
+  "6M1Z_V3WgOk": {
+   "title": "Great Books #9:  Dante's La Commedia",
+   "date_text": "Apr 7, 2026",
+   "description": "In this Wednesday, April 8, 2026 lecture to his Beijing high school students, Professor Jiang introduces the Divine Comedy, humanity's greatest literary work.  \n\nNotes and References:\n1.  Dante's \"Divine Comedy\" translated by Alan Mandelbaum:\nhttps://digitaldante.columbia.edu/dan..."
+  },
+  "0HYET47Cc-E": {
+   "title": "Game Theory #19:  The Hollywood-Pentagon Complex",
+   "date_text": "Apr 7, 2026",
+   "description": "In this Tuesday, April 7, 2026 lecture to his Beijing high school students, Professor Jiang explains why the Americans invest so much into the myth of \"no man left behind.\"  \n\nNotes and References:\n1.  \"The Militarization of Movies and Television,\" a paper by Tanner Mirrlees:\nhttps://costsofwar.watson.brown.edu/s..."
+  },
+  "xrmERlHUqBk": {
+   "title": "Game Theory #18:  Trump World Order",
+   "date_text": "Apr 1, 2026",
+   "description": "In this Thursday, April 2, 2026 lecture to his Beijing high school students, Professor Jiang explains Donald Trump's grand plan.  \n\nNotes and References:\n1.  \"Foundations of Geo-Politics\" by Aleksandr Dugin"
+  },
+  "VbowBTJWKBo": {
+   "title": "Game Theory #17:  The Great Reset",
+   "date_text": "Mar 31, 2026",
+   "description": "In this Tuesday, March 31, 2026 lecture to his Beijing high school students, Professor Jiang explains how an elite control the global financial system, and engineer financial collapses.\n\nNotes and References:\n1.  \"1929\" by Andrew Ross Sorkin\n2.  \"Tower of Basel\" by Adam Lebor"
+  },
+  "mk4vcHtawSo": {
+   "title": "Game Theory #16:  Pax Judaica Rising (Re-Upload)",
+   "date_text": "Mar 26, 2026",
+   "description": "In this Thursday, March 26, 2026 lecture to his Beijing high school students, Professor Jiang explains that Israel has the most to benefit from the war between the United States and Iran."
+  },
+  "0aASxQrJYuo": {
+   "title": "Game Theory #16:  Pax Judaica Rising",
+   "date_text": "Mar 26, 2026",
+   "description": "In this Thursday, March 26, 2026 lecture to his Beijing high school students, Professor Jiang explains that Israel has the most to benefit from the war between the United States and Iran."
+  },
+  "YXTRlvFIRt8": {
+   "title": "Great Books #8:  The Poetry of Empire",
+   "date_text": "Mar 25, 2026",
+   "description": "In this Wednesday, March 25, 2026 lecture to his Beijing high school students, Professor Jiang explains how Vergil's \"The Aeneid\" became the Bible of the Roman Empire.  \n\nNotes and References:\n1.  Vergil's \"The Aeneid\" by Robert Fagles"
+  },
+  "zAer-Mqe7tQ": {
+   "title": "Game Theory #15:  The Return of History",
+   "date_text": "Mar 24, 2026",
+   "description": "In this Tuesday, March 24, 2026 lecture to his Beijing high school students, Professor Jiang argues that the US-Iran war marks the end of Pax Americana and globalization."
+  },
+  "nOQqGy4boBY": {
+   "title": "Game Theory #14:  The Law of Proximity",
+   "date_text": "Mar 18, 2026",
+   "description": "In this Thursday, March 19, 2026 lecture to his Beijing high school students, Professor Jiang explains how internal conflicts determine foreign wars."
+  },
+  "EBWTRvjZ1dw": {
+   "title": "Great Books #7:  The Anti-Homer",
+   "date_text": "Mar 17, 2026",
+   "description": "In this Wednesday, March 18, 2026 lecture to his Beijing high school students, Professor Jiang explains how Vergil inverts Homer.\n\nNotes and References:\n1.  Vergil's Aeneid, translated by Robert Fagles"
+  },
+  "aQSDSqdlFxk": {
+   "title": "Game Theory #13:  Epstein's World",
+   "date_text": "Mar 17, 2026",
+   "description": "In this Tuesday, March 17, 2026 lecture to his Beijing high school students, Professor Jiang explains how the world really works, and why there can be no peace between the United States and Iran."
+  },
+  "spg58Glfz68": {
+   "title": "Game Theory #12:  The Law of Eschatological Convergence",
+   "date_text": "Mar 11, 2026",
+   "description": "In this Thursday, March 12, 2026 lecture to his Beijing high school students, Professor Jiang explains how extreme eschatologies drive geo-politics.\n\nNotes and Reference:\n\"Rebbe:  The Life and Teachings of Menachem Schneerson\" by Joseph Telushkin"
+  },
+  "aS-NfPSPMu8": {
+   "title": "Great Books #6:  The Intimacy of Love",
+   "date_text": "Mar 10, 2026",
+   "description": "In this Wednesday, March 11, 2026 lecture to his Beijing high school students, Professor Jiang explains the power of love.\n\nReference:\n1.  Homer's Odyssey (translated by Robert Fagles)"
+  },
+  "fz-Dan7NRss": {
+   "title": "Game Theory #11:  The Law of Escalation",
+   "date_text": "Mar 10, 2026",
+   "description": "In this Tuesday, March 10, 2026 lecture to his Beijing high school students, Professor Jiang explains why escalation control is more important than escalation dominance in the US-Iran War."
+  },
+  "t5oisJiorsU": {
+   "title": "Game Theory #10:  The Law of Asymmetry",
+   "date_text": "Mar 4, 2026",
+   "description": "In this Thursday, March 5, 2026 lecture to his Beijing high school students, Professor Jiang explains that for Iran to triumph asymmetrically the people to become energetic, open, and cohesive."
+  },
+  "gXlcR7uHHdA": {
+   "title": "Great Books #5:  The Odyssey",
+   "date_text": "Mar 3, 2026",
+   "description": "In this Wednesday, March 4, 2026 lecture to his Beijing high school students, Professor Jiang explains the central conflict of the Odyssey."
+  },
+  "jIS2eB-rGv0": {
+   "title": "Game Theory #9:  The US-Iran War",
+   "date_text": "Mar 3, 2026",
+   "description": "In this Tuesday, March 3, 2026 lecture, Professor Jiang analyzes the US-Iran War."
+  },
+  "axqDLhWs93Q": {
+   "title": "Game Theory #8:  Communist Specter",
+   "date_text": "Jan 28, 2026",
+   "description": "In this Thursday, January 29, 2026 lecture to his Beijing high school students, Professor Jiang explains the origins of Communism.\n\nNotes and References:\n1.  \"Communist Manifesto\" by Marx and Engels\n2.  \"Wall Street and the Russian Revolution\" by Richard B. Spence"
+  },
+  "dkzr5A8IlLA": {
+   "title": "Great Books #4:  The Conscious Universe",
+   "date_text": "Jan 27, 2026",
+   "description": "In this Wednesday, January 28, 2026 lecture to his Beijing high school students, Professor Jiang explains the nature of consciousness as depicted in Homer's Iliad."
+  },
+  "ijnkCt1QK6k": {
+   "title": "Game Theory #7:  America's Game",
+   "date_text": "Jan 27, 2026",
+   "description": "In this Tuesday, January 27, 2026 lecture to his Beijing high school students, Professor Jiang explains why America is more of a nation-game than it is a nation-state."
+  },
+  "CbamEcNuDXo": {
+   "title": "Game Theory #6:  The World's Bank",
+   "date_text": "Jan 21, 2026",
+   "description": "In this Thursday, January 22, 2026 lecture to his Beijing high school students, Professor Jiang explains how the British empire evolved into an offshore financial system."
+  },
+  "XRP407WsA0w": {
+   "title": "Great Books #3:  Poets and Prophets",
+   "date_text": "Jan 20, 2026",
+   "description": "In this Wednesday, January 21, 2026 lecture to his Beijing high school students, Professor Jiang explains how Homer created Greek civilization.\n\nReference:\n1.  \"Defense of Poetry\" by Percy Shelley"
+  },
+  "ybufqRY77PQ": {
+   "title": "Game Theory #5:  The World Game",
+   "date_text": "Jan 20, 2026",
+   "description": "In this Tuesday, January 20, 2026 lecture to his Beijing high school students, Professor Jiang uses game theory to explain how states rise and fall."
+  },
+  "35HRPLVyF0g": {
+   "title": "Game Theory #4:  The Immigration Trap",
+   "date_text": "Jan 14, 2026",
+   "description": "In this Thursday, January 15, 2026 lecture to his Beijing high school students, Professor Jiang uses the example of immigration to illustrate how games are rigged.  \n\nNotes and References:\n\"What Makes You Click:  Mate Preferences and Matching Outcomes in Online Dating\" (MIT Sloan Working Paper February 2006)\nDownload the paper here:  https://papers.ssrn.com/sol3/papers.c..."
+  },
+  "Ft2CuowGuYc": {
+   "title": "Great Books #2:  Homer and the Invention of the Human",
+   "date_text": "Jan 14, 2026",
+   "description": "In this Wednesday, January 14, 2026 talk to his Beijing high school students, Professor Jiang explains that to be human is to \"hear yourself speak.\""
+  },
+  "MX93U4KzA28": {
+   "title": "Game Theory #3:  Rich Dad, Poor Dad",
+   "date_text": "Jan 13, 2026",
+   "description": "In this Tuesday, January 13, 2026 lecture to his Beijing high school students, Professor Jiang explains who succeeds, and why.\n\nNotes and References:\n1.  The Marshmallow Test by Walter Mischel\n2.  Mindset by Carol Dweck\n3.  Peak by K. Anders Ericsson"
+  },
+  "kS-muAuq62E": {
+   "title": "Game Theory #2:  Why Schools Suck",
+   "date_text": "Jan 7, 2026",
+   "description": "In this Thursday, January 8, 2026 lecture to his Beijing high school students, Professor Jiang uses game theory to explore the limitations of schools."
+  },
+  "TsD-8FGA84A": {
+   "title": "Great Books #1:  Secrets of the Universe",
+   "date_text": "Jan 7, 2026",
+   "description": "What are the Great Books?  In this introductory lecture, Professor Jiang explains that the Great Books are meant to help us achieve our true human potential by revealing the secrets of the universe.  \n\nThis semester, Professor Jiang will discuss five Great Books:\n1.  The Iliad by Homer \n2.  The Odyssey by Homer\n3.  The Republic by Plato\n4.  The Aeneid by Vergil\n5.  The Divine Comedy by Dante"
+  },
+  "hE4l9WyLF3U": {
+   "title": "Game Theory #1:  The Dating Game",
+   "date_text": "Jan 6, 2026",
+   "description": "In this Tuesday, January 6, 2026 lecture to his Beijing high school students, Professor Jiang introduces the concept of game theory, and how it applies to the dating game."
+  },
+  "WFWizN3QoPg": {
+   "title": "Secret History #END:  Pax Judaica",
+   "date_text": "Dec 17, 2025",
+   "description": "In this Thursday, December 18, 2025 lecture to his Beijing high school students, Professor Jiang explains how and why Pax Judaica will come to rule the world.  \n\nNotes and References:\n1.  Book of Ezekiel, Hebrew Bible\n2.  Observations Upon the Prophecies of Daniel by Isaac Newton\n3.  Structure of Scientific Revolutions by Thomas Kuhn\n4.  The Thirteenth Tribe by Arthur Koestler\n5.  Kill King 33 by James Downard and Michael Hoffman\n6.  Words of the Lord (Jacob Frank)"
+  },
+  "ZPrecJHUOUs": {
+   "title": "Secret History #27:  Empire of Evil",
+   "date_text": "Dec 16, 2025",
+   "description": "In this Tuesday, December 16, 2025 lecture to his Beijing high school students, Professor Jiang explains how the alliance between the British Empire and the Sabbatean Frankists created modernity.  \n\nNotes and References:\n1.  Coningsby by Benjamin Disraeli\n2.  Assault on Truth by Jeffrey Masson\n3.  The Interpretation of Dreams by Sigmund Freud\n4.  Aetiology of Hysteria by Sigmund Freud\n5.  Fragments of an Analysis of Hysteria by Sigmund Freud \n6.  Wall Street and the Russian Revolution by Richard Spence\n7.  Letters of Karl Marx\n8.  Letters of Mikhail Bakunin\n9.  Rihland video on the Donmeh:     • Dönme-The Ottoman crypto-jews  "
+  },
+  "kULUM_eB8KI": {
+   "title": "Secret History #26:  Faith of Evil",
+   "date_text": "Dec 10, 2025",
+   "description": "In this Thursday, December 11, 2025 lecture to his Beijing high school students, Professor Jiang explains the religious outlook of Jacob Frank. \n\nNotes and References:\n1.  The Collection of the Words of the Lord (Jacob Frank), translated by Harris Lenowitz) \n2.  \"Crazy Jane Talks with the Bishop\" by William Butler Yeats\n3.  Faust by Goethe"
+  },
+  "B5FtHagng8c": {
+   "title": "Secret History #25:  Capital of Evil",
+   "date_text": "Dec 9, 2025",
+   "description": "In this Tuesday, December 9, 2025 lecture to his Beijing high school students, Professor Jiang explains how transnational capital came to dominate the world."
+  },
+  "TEdVhyE8pO0": {
+   "title": "Secret History #24:  Empire of Church",
+   "date_text": "Dec 4, 2025",
+   "description": "In this Thursday, December 4, 2025 lecture to his Beijing high school students, Professor Jiang explains how the Catholic Church became the ultimate empire.\n\nNotes and References:\n1.  Albigensian Crusade:  https://en.wikipedia.org/wiki/Albigen...\n2.  Sasanian Conquest of Jerusalem:  https://en.wikipedia.org/wiki/Sasania...\n3.  The Quran"
+  },
+  "6XGAc_OqCbU": {
+   "title": "Secret History #23:  The Organization of Evil",
+   "date_text": "Dec 2, 2025",
+   "description": "In this Tuesday, December 2, 2025 lecture to his Beijing high school students, Professor Jiang explains how Paul created Christianity.\n\nNotes and References:\n1.  Gospel of John, New Testament\n2.  Acts of the Apostles, New Testament\n3.  Letter to Romans, New Testament\n4.  Letter to Corinthians, New Testament\n5.  City of God by Augustine"
+  },
+  "pp0E1gb80WQ": {
+   "title": "Secret History #22:  The Divine Spark of Jesus",
+   "date_text": "Nov 27, 2025",
+   "description": "In this Thursday, November 27, 2025 lecture to his Beijing high school students, Professor Jiang explains the true teachings of Jesus.\n\nNotes and References:\n1.  Gospel of Thomas\n2.  Gospel of Matthew\n3.  Divine Comedy by Dante\n4.  Brothers Karamazov by Fyodor Dostoyevsky"
+  },
+  "Y-gXVzwbFMU": {
+   "title": "Secret History #21:  Roman Anti-Civilization",
+   "date_text": "Nov 25, 2025",
+   "description": "In this Tuesday, November 25, 2025 lecture to his Beijing high school students, Professor Jiang explains how Rome came to dominate the Mediterranean.  \n\nNotes and References:\n1.  History of Rome by Livy\n2.  The Aeneid by Virgil\n3.  The Iliad by Homer"
+  },
+  "z0AwFin83lo": {
+   "title": "Secret History #20:  The Hellenistic World",
+   "date_text": "Nov 19, 2025",
+   "description": "In this Thursday, November 20, 2025 lecture to his Beijing high school students, Professor Jiang explains how and why Alexander the Great birthed the Hellenistic world.\n\nNotes and References:\n1.  Histories by Herodotus\n2.  The Peloponnesian World by Thucydides"
+  },
+  "3t0MeVBD24I": {
+   "title": "Secret History #19:  Dawn of the Jews",
+   "date_text": "Nov 18, 2025",
+   "description": "In this Tuesday, November 18, 2025 lecture to his Beijing high school students, Professor Jiang explains that the Persians constructed the Jewish identity in order to divide and rule the Levant.\n\nNotes and References:\n1.  Book of Ezra, Hebrew Bible (Standard Revised edition)\n2.  Book of Nehemiah, Hebrew Bible (Standard Revised edition)\n\nPlease Support Professor Jiang:\n1.  Donate:  https://buymeacoffee.com/predictivehi...\n2.  Subscribe:  https://predictivehistory.substack.com/\n3.  Follow:  https://x.com/xueqinjiang"
+  },
+  "dELEdxh0ceg": {
+   "title": "Secret History #18:  Thus Spoke Zarathustra",
+   "date_text": "Nov 14, 2025",
+   "description": "In this Friday, November 14, 2025 lecture to his Beijing high school students, Professor Jiang explains how Zarathustra create monotheism.  \n\nNotes and References:\n1.  Gathas of Zarathustra \n2.  Poetry of Rumi\n3.  Thus Spoke Zarathustra by Friedrich Nietzsche\n4.  Pablo Vasquez Lecture on Gathas:     • The Gathas, Zoroastrianism, and the Ancien...  \n5.  Zoroaster and the First Enlightenment:     • Zoroaster and the First Enlightenment | Ra...  \n\nPlease Support Professor Jiang:\n1.  Donate:  https://buymeacoffee.com/PredictiveHi...\n2.  Subscribe:  https://predictivehistory.substack.com/\n3.  Follow:  https://x.com/xueqinjiang"
+  },
+  "PlMNq44tBG0": {
+   "title": "Secret History #17:  Literary Genesis",
+   "date_text": "Nov 11, 2025",
+   "description": "In this Wednesday, November 12th lecture to his Beijing high school students, Professor Jiang explains how the Yahwehist gave birth to the Bible as well as the nation of Israel.\n\nNotes and References:\n1.  Book of Genesis, Hebrew Bible\n2.  Book of Kings, Hebrew Bible\n3.  Book of J by Harold Bloom\n\nPlease Support Professor Jiang:\n1.  Donate:  https://buymeacoffee.com/PredictiveHi...\n2.  Subscribe:  https://predictivehistory.substack.co...\n3.  Follow:  https://x.com/xueqinjiang"
+  },
+  "4ehovUNrSrw": {
+   "title": "Secret History #16:  The Big Bang of Greek Civilization",
+   "date_text": "Nov 6, 2025",
+   "description": "In this Thursday, November 6, 2025 lecture to his Beijing high school students, Professor Jiang explains how Homer gave birth to Greek civilization, humanity's creative peak.  \n\nNotes and References:\n1.  The Iliad by Homer (translated by Robert Fagles)\n2.  Origin of Consciousness in the Breakdown of the Bicameral Mind by Julian Jaynes\n3.  The Cosmic Serpent by Jeremy Narby\n4.  Anna Karenina by Leo Tolstoy\n5.  To the Lighthouse by Virginia Woolf"
+  },
+  "rkt0HQOogHE": {
+   "title": "Secret History #15:  Capital and the Bronze Age Collapse",
+   "date_text": "Nov 4, 2025",
+   "description": "In this Tuesday, November 4, 2025 lecture to his Beijing high school students, Professor Jiang explains how the Bronze Age global trade network was a proto-capitalistic system, and therefore bound to collapse hard and fast.\n\nNotes and References:\n1.  Debt by David Graeber\n2.  1177 BC by Eric H. Cline\n3.  Predictably Irrational by Dan Ariely\n4.  \"Power Causes Brain Damage\" in the Atlantic Monthly:  \nhttps://www.theatlantic.com/magazine/...\n\nPlease Support Professor Jiang:\n1.  Donate:  https://buymeacoffee.com/predictivehi...\n2.  Subscribe:  https://predictivehistory.substack.com/\n3.  Follow:  https://x.com/xueqinjiang"
+  },
+  "JpTI2gFYWrU": {
+   "title": "Secret History #14:  Legacy of the Steppes",
+   "date_text": "Oct 31, 2025",
+   "description": "In this Friday, October 31, 2025 lecture to his Beijing high school students, Professor Jiang explains that the people of the steppes were history's greatest conquerors because they were the most open, energetic, cohesive.  \n\nNotes and References:\n1.  The Language of the Goddess by Marija Gimbutas\n2.  The Civilization of the Goddess by Marija Gimbutas\n3.  Sex at Dawn by Christopher Ryan and Cacilda Jetha\n4.  The Horse the Wheel and Language by David Anthony\n\nPlease Support Professor Jiang:\n1.  Donate:  https://buymeacoffee.com/PredictiveHi...\n2.  Subscribe:  https://predictivehistory.substack.com/\n3.  Follow:  https://x.com/xueqinjiang"
+  },
+  "FJF8oD_5c_w": {
+   "title": "Secret History #13:  Mandate of Heaven",
+   "date_text": "Oct 29, 2025",
+   "description": "In his Wednesday, October 29, 2025 lecture to his Beijing high school students, Professor Jiang proposes a new theory on the birth of civilizations.  \n\nNotes and References:\n1.  Theogony by Hesiod\n2.  Epic of Gilgamesh \n3.  Enuma Elish\n4.  Debate between Sheep and Grain\n\nPlease support Professor Jiang:\n1.  Donate:  https://buymeacoffee.com/predictivehi...  \n2.  Subscribe:  https://predictivehistory.substack.co...\n3.  Follow:  https://x.com/xueqinjiang"
+  },
+  "VtnRA-GNKM8": {
+   "title": "Secret History #12:  Heaven on Earth",
+   "date_text": "Oct 24, 2025",
+   "description": "In this lecture to his Beijing high school students, Professor Jiang explains how the religious imagination inspired humans to Heavenly  achievements.  \n\nNotes and References:\n1.  The Wayfinders by Wade Davis\n2.  The Dawn of Everything by David Graeber and David Wengrow\n3.  The Forest People by Colin Turnbull\n\nPlease support the work of Professor Jiang:\n1.  Donate:  https://buymeacoffee.com/PredictiveHi...  \n2.  Subscribe:  https://predictivehistory.substack.com/\n3.  Follow:  https://x.com/xueqinjiang"
+  },
+  "LvHsg5qtDs8": {
+   "title": "Secret History #11:  Dawn of the Human Imagination",
+   "date_text": "Oct 21, 2025",
+   "description": "In his Tuesday October 21, 2025 class Professor Jiang argues against Charles Darwin's Theory of Evolution.  He believes that humans from the beginning were spiritual, compassionate, and artistic.  \n\nReference:\n1.  The Dawn of Everything by David Graeber and David Wengrow\n2.  Origin of Species by Charles Darwin   \n\nPlease support Professor Jiang:\n1.  Donate to him:  https://buymeacoffee.com/predictivehi...\n2.  Subscribe to his Substack:  https://predictivehistory.substack.com/\n3.  Follow him on X/Twitter:  https://x.com/xueqinjiang"
+  },
+  "ihh1fdW4-cA": {
+   "title": "Secret History #10:  The Conspiracy of Evil",
+   "date_text": "Oct 17, 2025",
+   "description": "In this Friday, October 17, 2025 lecture to his Beijing high school students Professor Jiang examines three major American events.  He shows that the official explanations for the JFK assassination, the 1969 moon landing, and 9/11 are problematic. \n\nBecause Professor Jiang wants to pursue the truth without fear and hesitation he cannot monetize his YouTube channel.  Please consider supporting his work.\n1.  Donate to him:  https://buymeacoffee.com/PredictiveHi...\n2.  Subscribe to his Substack:  https://predictivehistory.substack.com/\n3.  Follow him on X/Twitter:  https://x.com/xueqinjiang"
+  },
+  "9MURGjjG4aA": {
+   "title": "Secret History #9:   The Theory of Everything",
+   "date_text": "Oct 15, 2025",
+   "description": "Where did we come from?  Why are we here?  Where are we going?\n\nScientists tell us they have all the solutions.  The Big Bang Theory, Evolution, and Neuroscience reveal a random, material, and emergent universe.  But there are fundamental problems with all three theories.  What is dark energy?  How did we make the evolutionary leap from ape to human?  Where does consciousness come from?  \n\nIn this Wednesday, October 15 lecture to his Beijing high school students, Professor Jiang proposes a theory of everything that places mind before matter.\n\nNotes and References:\n1.  The Holographic Universe by Michael Talbot\n2.  The Cosmic Serpent by Jeremy Nagy\n3.  The Divine Comedy by Dante\n4.  Essentia Foundation conversation on Quantum Fields and Consciousness:     • Quantum Information Panpsychism Explained ...  \n\nPlease support Professor Jiang's work:\n1.  Donate to him:  https://buymeacoffee.com/PredictiveHi...\n2.  Subscribe to his Substack:  https://predictivehistory.substack.co...\n3.  Follow him on X/Twitter:  https://x.com/xueqinjiang"
+  },
+  "hk_yhi3-prw": {
+   "title": "Secret History #8:  Death by Bureaucracy",
+   "date_text": "Oct 10, 2025",
+   "description": "Notes and References:\n\n1.  The Origins of Totalitarianism by Hannah Arendt\n2.  The Trial by Franz Kafka\n3.  Seeing Like a State by James C. Scott\n4.  For this talk, I relied heavily on the work of Michael Zanini.  His Substack is here:  https://revitalize.substack.com/p/why...\n5.  The article on the ballooning bureaucracy of Swedish higher education can be found here:  https://link.springer.com/article/10....\n6.  The CNN article on how USC punished the professor is here:  https://edition.cnn.com/2020/09/10/us...\n7.  The article on the Stratford bankruptcy can be found here:  https://www.insidenova.com/headlines/...\n\nAuthorized social media links:\nTwitter:  https://x.com/Pred_History\nSubstack:  https://predictivehistory.substack.co...\n\nDear community:  Please note that I refuse to monetize my YouTube channel in any way.  I do not accept sponsorships or ad revenue, and I would never ask for monthly subscription fees.  There are many YouTube fan channels that are using my content.  Please remember that I am not in any way affiliated or associated with any of them.  Some have asked for monthly subscription fees, and I strongly disagree with this practice.  Please exercise caution, and please be aware.  \n\nPlease do not give money on YouTube as doing so can only encourage bad faith actors.  Please spread this message far and wide.  I know you want to contribute to my work, but I would hate to think that any of you would be taken advantage of."
+  },
+  "JU_8fJjtGxA": {
+   "title": "Secret History #7:  Death by Meritocracy",
+   "date_text": "Sep 12, 2025",
+   "description": "We like to believe that a meritocracy is the best way to pick society's winners and losers.  In this Friday, September 12, 2005 lecture to his Beijing high school students Professor Jiang argues that the meritocracy is destroying America.  \n\nHe argues that Harvard created the meritocracy for its own benefit.  Harvard's endowment has skyrocketed at the expense of American democracy, social mobility, and political unity.  \n\nNotes and References:\n1.  Read this Nature article on how the Ivy League controls elite production:  \nhttps://www.nature.com/articles/s4159...\n2.  In his book \"The Chosen:  The Hidden History of Admission and Exclusion at Harvard, Yale, and Princeton,\" Jerome Karabel presents a compelling case that America's elite institutions are only concerned with consolidating and expanding their power as gate-keepers:  https://www.amazon.com/Chosen-History...\n3.  In his book \"Excellent Sheep:  The Miseducation of the American Elite and the Way to a Meaningful Life,\" William Deresiewicz explains how deeply anti-intellectual the Ivy League has become:  https://www.amazon.com/Excellent-Shee...\n4.  In this Atlantic Monthly article \"The Organization Kid,\" David Brooks argues that elite institutions prepare students for a successful life devoid of purpose and meaning:  https://www.theatlantic.com/magazine/..."
+  },
+  "6PdfD44DkqA": {
+   "title": "Secret History #6:  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)",
+   "date_text": "Sep 10, 2025",
+   "description": "What is mind control,  and how does it work?  \n\nIn his Wednesday, September 10, 2025 lecture to Beijing high school students, Professor Jiang explains how mind control techniques originated in ancient Egypt.  Priests developed these techniques to control the Pharaoh, and they became embedded into Egyptian mythology.\n\nToday, these ancient mind control techniques are still used.  \n\nPlease Support Professor Jiang:\n\nIn order to openly and freely discuss controversial topics, Professor Jiang does not monetize his YouTube videos.  If you have the means, please donate here:  https://buymeacoffee.com/predictivehi...\n\nIf you'd like to delve deeper into the topic of mind control, please read Professor Jiang's most recent post on Substack, in which he discusses Manchurian Candidates:\nhttps://predictivehistory.substack.co...\n\nNotes and References:\n1.  The Dark Side by Jane Mayer.  You can read the book at any library, or purchase the book here:  https://www.amazon.com/Dark-Side-Insi...\n2. Read about the Abu Ghraib prisoner abuse scandal here:  https://en.wikipedia.org/wiki/Abu_Ghr...\n3. Learn about the concept of Learned Helplessness here:  https://en.wikipedia.org/wiki/Learned...\n4. Learn how the CIA was working with psychologists to torture prisoners here:  https://www.theguardian.com/us-news/2...\n5. There is ample evidence that shows that prisoner abuse is more likely to turn them into terrorists:  https://humanrightsfirst.org/library/...\n6. Read about MKUltra here:  https://nsarchive.gwu.edu/sites/defau...\n7. Read about the case of Abu Zubaydah here:  https://www.therenditionproject.org.u...\n8. This article explains that psychologists have their own issues:  https://www.psychologytoday.com/us/ar..."
+  },
+  "EgGfQdv_rPc": {
+   "title": "Secret History #5:  The Birth of Evil",
+   "date_text": "Sep 5, 2025",
+   "description": "Where do secret societies come from?  What do they teach?  \n\nOn Friday, September 5, 2025, Professor Jiang lectured on the development of the religious tradition in the West.  \n\nReferences:\n1.  The Book of Enoch\n2.  The Gospel of Thomas\n3.  Paradise Lost by John Milton\n4.  The Book of Genesis\n5.  \"The Secret History of the World\" by Mark Booth\n\nPlease Support Professor Jiang's Work:  \n\n1.  If you'd like to delve deeper, please subscribe to Professor Jiang's Substack:  https://predictivehistory.substack.com\n\n2.  In order to discuss sensitive topics freely and openly, Professor Jiang does not monetize his YouTube videos.  If you have the means, please consider making a small donation:  https://buymeacoffee.com/predictivehi..."
+  },
+  "BtlWoqWLm9Q": {
+   "title": "Secret History #4:  How Evil Triumphs",
+   "date_text": "Aug 29, 2025",
+   "description": "Why is there evil in the world?  \n\nIn his Thursday, August 28, 2025 lecture to his Beijing high school students, Professor Jiang explains how secret societies operate, and why they're the true centers of power in the world.  \n\nPlease Support Professor Jiang's Work:  \n\n1.  If you'd like to delve deeper into this topic, please subscribe to Professor Jiang's Substack:  \nhttps://predictivehistory.substack.co...\n\nIn his most recent post, Professor Jiang analyzes why America's rich and powerful would fly to Epstein Island.  \n\n2.  In order to discuss sensitive topics freely and openly, Professor Jiang does not monetize his YouTube videos.  If you have the means, please consider making a small donation:  https://buymeacoffee.com/predictivehi..."
+  },
+  "0g3yo1DjiLM": {
+   "title": "Secret History #3:  Death by Gerontocracy",
+   "date_text": "Aug 28, 2025",
+   "description": "The Western world is in decline.  Immigration is tearing apart the social contract, and causing ethnic tensions.  Young people cannot find work, and can no longer afford a house.  Debt is crippling governments and households.\n\nIn his Tuesday, August 26, 2025 class to his Beijing high school students, Professor Jiang explains that these trends are caused by the aging crisis, in which rich pensioners are dictating policy to the detriment of everyone else.  \n\nHe predicts that the gerontocracy will lead to the rise of militaristic and authoritarian governments.  \n\nPlease Support:  \n\nIf you'd like to delve deeper into this topic, please subscribe to Professor Jiang's Substack:  \nhttps://predictivehistory.substack.co...\n\nIn his most recent post, Professor Jiang offers a theory as to why Canada has so many Indian immigrants.\n\nIn order to discuss sensitive topics freely and openly, Professor Jiang does not monetize his YouTube videos.  If you have the means, please consider making a small donation:  https://buymeacoffee.com/predictivehi..."
+  },
+  "K-_l9jBGo74": {
+   "title": "Secret History #2:  How Societies Collapse",
+   "date_text": "Aug 22, 2025",
+   "description": "In this lecture, Professor Jiang explains the three theories as to why and how societies rise and fall:  the financialization of society, elite over-production, and the civilization life cycle.  \n\nRecommended Readings: \n1. Please do yourself a favor, and read Thomas Piketty’s “Capital in the 21st Century.”  It’s surprisingly clear and simple, and his evidence is striking and overwhelming. \n2. It’s essential to read Peter Turchin.  Start off with one of his earlier works:  “War and Peace and War:  The Rise and Fall of Empires.”   \n3. C. Wright Mills’ “The Power Elite” is a classic sociological survey on the structure of power in society.  You can read it for free here:  https://archive.org/details/dli.ernet... \n\nIf you'd like to read more about this topic, please read Professor Jiang's Substack post here:  \nhttps://predictivehistory.substack.co...\n\nPlease support Professor Jiang's work at https://buymeacoffee.com/predictivehi..."
+  },
+  "lt8XLz78ZvY": {
+   "title": "Secret History #1:  How Power Works (4K Re-Upload with Audio Fixed)",
+   "date_text": "Aug 22, 2025",
+   "description": "In this lecture, Professor Jiang proposes that by studying geo-politics we can develop analytical frameworks that permit us to predict the future.  If our predictions turn out to be accurate, we can use these validated frameworks to reveal the secret history of humanity.  \n\nHow does power work?  Professor Jiang proposes that power is alchemy, and allows those in power to transform lead into gold.  We are taught in science class that alchemy is a pseudo-science.  But in fact we have achieved alchemy with the concept of money.  \n\nFurther Reading:  \nIf you enjoy this lecture and would like to delve deeper, please read Professor Jiang's Substack:  https://predictivehistory.substack.co...\n\nPlease support Professor Jiang's work:  https://buymeacoffee.com/predictivehi..."
+  },
+  "ajFXykT9Joo": {
+   "title": "Secret History #1:  How Power Works",
+   "date_text": "Aug 20, 2025",
+   "description": "In this lecture, Professor Jiang proposes that by studying geo-politics we can develop analytical frameworks that permit us to predict the future.  If our predictions turn out to be accurate, we can use these validated frameworks to reveal the secret history of humanity.  \n\nHow does power work?  Professor Jiang proposes that power is alchemy, and allows those in power to transform lead into gold.  We are taught in science class that alchemy is a pseudo-science.  But in fact we have achieved alchemy with the concept of money.  \n\nFurther Reading:  \nIf you enjoy this lecture and would like to delve deeper, please read Professor Jiang's Substack:  https://predictivehistory.substack.co...\n\nPlease support Professor Jiang's work:  https://buymeacoffee.com/predictivehi..."
+  },
+  "E83dpuyvpiM": {
+   "title": "Geo-Strategy Update #8:  Why the West is Doomed",
+   "date_text": "Aug 8, 2025",
+   "description": "The Western world is facing unprecedented levels of immigration, inflation, and economic malaise.\n\nProfessor Jiang argues that these are symptoms.  The real disease is the selfishness and hubris of the Baby Boomers, who are the most powerful demographic in the West.  They want to maintain their pension, their free healthcare, and their property values -- even if that means burning the world down.  \n\nReferences:\n1.  Rat Utopia experiments:  https://en.wikipedia.org/wiki/Behavio...\n2.  Elite Overproduction:  https://en.wikipedia.org/wiki/Elite_o...\n3.  The Bacchae:  https://en.wikipedia.org/wiki/The_Bac...\n\nGet Involved:  \nPlease support my work:  https://buymeacoffee.com/predictivehi...\nSubscribe to my Substack:  https://predictivehistory.substack.com/"
+  },
+  "YQ-xg1nIbMs": {
+   "title": "Geo-Strategy Update #7:  When Eschatologies Converge",
+   "date_text": "Aug 1, 2025",
+   "description": "In this talk, Professor Jiang offers his geo-political predictions for the next twenty years. \n\nHe first analyzes the major eschatological traditions (Zoroastrian, Judaic, Christian Zionist, Islamic, Orthodox, and Catholic) to estimate their convergence points.  This allows him to imagine a framework for predicting geo-politics. \n\nHis major predictions:\n1. The United States will lose a ground war against Iran.\n2. NATO’s defense of Odessa will trigger political revolutions and upheaval throughout Europe.\n3. Israel will destroy the Dome of the Rock, triggering political revolutions throughout the Muslim world.\n\nReferences and Recommended Readings:\n\n1. Russia’s Alexander Dugin is the most influential geo-political strategist today.  Understand his eschatology here (   • Russian Geopolitics : An eschatological pe...  ) and read his book here (https://www.maieutiek.nl/wp-content/u...)\n2. I am very thankful to all those who’ve reached out to teach me about the different eschatological traditions.  If you want to understand Islamic eschatology, this is a great Twitter thread:  https://x.com/bunacapital/status/1806...\n3. Here’s an introduction to the Holy Alliance between the CIA and the Vatican:  https://spyscape.com/article/gods-spi...\n4. The Orthodox concept of Katechon is similar to the Islamic idea of Dhul Qarnan.  Learn more here:   \nKatechon:  https://en.wikipedia.org/wiki/Katechon\nDhul Qarnan:  https://en.wikipedia.org/wiki/Dhu_al-\n\nSupport my work at: https://buymeacoffee.com/predictivehi..."
+  },
+  "ZgvAHZqaawA": {
+   "title": "Geo-Strategy Update #6:  Is Putin the Ubermensch?",
+   "date_text": "Jul 18, 2025",
+   "description": "Why did Putin invade Ukraine?  What is his endgame?  How did he come from nowhere to become the most powerful man in Russia?\n\nIn this talk, Professor Jiang offers a hypothesis and three predictions.  He believes that there is a secret nexus of power within Russia that sees Putin as the Second Coming of Stalin who will unite the Orthodox world and restore the Byzantine empire.  \n\nFrom this hypothesis, we can make three predictions:\n1.) Odessa will be a cataclysmic battle between NATO and Russia.\n2.) China and Russia will have a falling out.\n3.) Russia will defend Iran.\n\nReferences and Further Study:\n1.  Read more about Spiridon Putin:\nhttps://en.wikipedia.org/wiki/Spirido...\n2.  Learn about the Third Rome prophecy here:\nhttps://en.wikipedia.org/wiki/Moscow,...\n3.  St. Paisios is a Orthodox mystic who purportedly foresees a war between Russia and Turkey:\nhttps://en.wikipedia.org/wiki/Paisios...\n4.  Essay on how Putin's faith shapes his politics:\nhttps://www.theosthinktank.co.uk/comm...\n5.  In this video from last year, an Orthodox predicts that the Israelis will attack Iran's nuclear research facilities:\n   • Prophecy: When Israel Hits Iran’s Nuclear ...  \n6.  If you're interested in understanding how Orthodox Christians understand prophecy in geo-politics, this is a great resource:\n   • Orthodox Prophecies & WW3 with World War N...  \n7.  Read why and how the Russian Orthodox Church supports Putin's war in Ukraine:\nhttps://reutersinstitute.politics.ox....\n\nPlease follow me on Twitter/X at:  https://x.com/xueqinjiang\n\nIf you have the means please support my work at: https://buymeacoffee.com/predictivehi..."
+  },
+  "5I2VPYPJJ68": {
+   "title": "Geo-Strategy Update #5:   The Universal Law of Game Theory",
+   "date_text": "Jul 11, 2025",
+   "description": "In this talk, Professor Jiang explains how and why Christian Zionism dominates American Middle East policy.  He introduces the universal law of game theory, which helps reveal how the world works.  He also discusses how Mohammad became the Jewish Messiah.   \n\nPlease support Professor Jiang's work by buying him a cup of coffee:\nhttps://buymeacoffee.com/PredictiveHi...\n\nReferences:\n1.  This is a MUST READ paper if you want to understand how and why Mohammad became the Jewish Messiah: \n“The Persian Conquest of Jerusalem in 614 CE Compared with Islamic Conquest of 638 BC” by Ben Abrahamson and Joseph Katz:  https://www.scribd.com/document/37192...\n2. First Jewish-Roman War (66-73 CE):    \nhttps://en.wikipedia.org/wiki/First_J...\n3. Bar Kokhba Revolt (132-136 CE):\nhttps://en.wikipedia.org/wiki/Bar_Kok...\n4. Heraclius\nhttps://en.wikipedia.org/wiki/Heraclius\n5. Constitution of Medina\nhttps://en.wikipedia.org/wiki/Constit...\n6. Jewish Revolt Against Heraclius\nhttps://en.wikipedia.org/wiki/Jewish_..."
+  },
+  "Kw-TiN6dEcM": {
+   "title": "Geo-Strategy Update #4:  Newton's Divine Plan",
+   "date_text": "Jun 28, 2025",
+   "description": "In this talk, Professor Jiang explains how and why Isaac Newton founded Christian Zionism, which is driving the conflict in the Middle East today.\n\nIf you want to better understand this topic, here are some suggestions for further reading:\n1.  Observations Upon the Prophecies of Daniel and the Apocalypse of St. John by Isaac Newton:  https://www.gutenberg.org/ebooks/16878\n2.  The Scofield Bible:  https://www.bethelbaptistlondon.com/S...  \n3.  Christian Zionism wiki:  https://en.wikipedia.org/wiki/Christi...\n4.  Dispensationalism wiki:  https://en.wikipedia.org/wiki/Dispens...\n5.  Isaac Newton wiki:  https://en.wikipedia.org/wiki/Isaac_N..."
+  },
+  "bc9adtiIN_k": {
+   "title": "Geo-Strategy Update #3:  The Messianic Calling",
+   "date_text": "Jun 25, 2025",
+   "description": "What motivates Trump, Netanyahu, and Khamenei?  In this talk, Professor Jiang explains that all three have a messianic calling."
+  },
+  "N4cs-8mrP_s": {
+   "title": "Geo-Strategy Update #2:  WWIII Begins, Let's Game Theory",
+   "date_text": "Jun 22, 2025",
+   "description": "Last night, the Americans bombed three Iranian nuclear facilities.  The US-Iran War has begun.  How will this war play out?\n\nIn this video, Professor Jiang uses game theory to examine the motivations, interests, and strategies of the three main players:  Iran, Israel, and the United States.  \n\nHe argues that according to game theory the United States will commit to a ground invasion of Iran."
+  },
+  "8XdL-7tAqnU": {
+   "title": "Geo-Strategy Update:  US-Iran War Incoming",
+   "date_text": "Jun 18, 2025",
+   "description": "In this video, Professor Jiang offers his perspective on the imminent US-Iran War.  He points out Iran has many advantages, but there are three unknowns that would alter the trajectory of the war.  Will the US and Israel be able to assassinate Iran's supreme leader?  What will Putin do?  How will China respond?"
+  },
+  "voQEteh6Hko": {
+   "title": "Civilization BONUS:  Meet Professor Jiang",
+   "date_text": "Jun 12, 2025",
+   "description": "In this video, Professor Jiang introduces himself, and answers the following three questions:\n\n1.  How did this \"Civilization\" course get started, and where is it going?\n2.  What is the Predictive History project?\n3.  What are Professor Jiang's long-term professional ambitions?\n\nViewers are invited to ask questions in the comments section.  Professor Jiang will answer to the best of his ability."
+  },
+  "_gH4PvIni5E": {
+   "title": "Civilization #END:  The Decline and Fall of the American Empire",
+   "date_text": "Jun 11, 2025",
+   "description": "In this final talk of the \"Civilization\" course, Jiang Xueqin explains the rise and fall of the American empire. \n\nAt the 1944 Bretton Woods conference, America proposed that the dollar should be the world's reserve currency.  In return for this \"exorbitant privilege,\" America pledged that its currency could be exchanged for gold.  But with America spending exorbitantly to fund the Vietnam War, the Space Race, and the Great Society, countries started to doubt this promise.  \n\nAfter France withdrew all its gold from America, President Nixon announced that the dollar could no longer be converted to gold.  To create new demand for the dollar, Nixon visited China, and brought it into the Pax Americana.\n\nAfter the fall of the Soviet Union, America financialized its economy, which led to the 2008 Great Financial Crisis.  With Putin's invasion of Ukraine, the supremacy of the USD is more threatened than ever.  \n\nIn response, America may invade Iran, which would start World War III.  \n\nReferences:\n1.  Farewell Address of Dwight Eisenhower (Military Industrial Complex)\n2.  The Peloponnesian War by Thucydides\n3.  Tragedy and Hope by Carroll Quigley \n4.  The Open Society by Karl Popper\n\nFurther Watching:\n1.  The System of Money:     • The System of Money | Documentary Money Cr...  \n2.  Who Controls All of Our Money?:     • Who Controls All of Our Money?  "
+  },
+  "QtqfIjK1GAc": {
+   "title": "Civilization #59:  The Man of Steel",
+   "date_text": "Jun 10, 2025",
+   "description": "How did a poor Georgian high school drop-out help lead a fringe and fanatical political party (the Bolsheviks) into absolute power in Russia?  How was Stalin able to eliminate his competitors?  How did he defeat Hitler in World War II?  \n\nIn this talk to his Beijing high school students, Jiang Xueqin explains that Stalin was the \"ubermensch,\" the man of steel who willed a new reality into being.  \n\nLenin could not have maintained the Bolsheviks without financing from Stalin's criminal activities.  After the October Revolution and the Russian Civil War, Lenin was intent on stopping Stalin's rise to power.  But Stalin outmaneuvered his adversaries, including Leon Trotsky, the heir to Lenin's legacy. \n\nAfter the Great Purge, Stalin created a cult of personality, and bent the entire state apparatus to his will.  This proved pivotal in World War II when Stalin transformed the Soviet Union from a poor feudal nation into a global industrial power.  \n\nReferences:\n1.  State and Revolution by Vladimir Lenin\n2.  Darkness at Noon by Arthur Koestler\n3.  Joseph Stalin's wiki bio:  https://en.wikipedia.org/wiki/Joseph_...\n4.  Vladimir Lenin's wiki bio:  https://en.wikipedia.org/wiki/Vladimi...\n\nRecommended Watching:\nI watched many YouTube videos to prepare for this lecture.  Here are some recommendations.\n1.  The Rest of History podcast on Operation Barbarossa:  \n    • 182. Operation Barbarossa  \n2.  Noj Rants on \"Lenin's Non-Marxist Origins\":\n   • The Non-Marxist Origins of Lenin (History ...  \n3.  Zoomer Historian on \"Operation Barbarossa Myth\":  \n   • Video  \n4.  Russian History Museum on the Friendship between Lincoln and Czar Alexander II:\n   • The Tsar and the President: Alexander II a...  "
+  },
+  "tquo1UsC5Nw": {
+   "title": "Civilization #58:  Birth of the Nation-State",
+   "date_text": "Jun 5, 2025",
+   "description": "Nationalism is the main cause of World War One.  How and why did it originate?\n\nIn this talk to his Beijing high school students, Jiang Xueqin explains that nationalism was a response to religious, economic, and cultural challenges in Europe in the 18th and 19th centuries.\n\nThe Protestant Reformation produced a crisis of faith in people, and many made the nation-state into their new religion.  \n\nThe Industrial Revolution made the bourgeoisie the new dominant elite, and they demanded property rights that only the nation-state could guarantee.  \n\nRapid industrialization and urbanization caused alienation and disorientation, which led people to embrace the nation-state for community and direction.      \n\nReferences:\n1.  Seeing Like a State by James Scott\n2.  Imagined Communities by Benedict Anderson\n3.  The Social Contract by Jean-Jacques Rousseau\n4.  The Origins of Totalitarianism by Hannah Arendt\n5.  The Open Society by Karl Popper"
+  },
+  "cylkQPsfFRY": {
+   "title": "Civilization #57： How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)",
+   "date_text": "Jun 4, 2025",
+   "description": "(This is a re-upload, which fixed the audio.  Much thanks to Gabriel Bessa for volunteering to fix the issue -- I can't thank him enough.)\n\nFreud proposed the theory of the Oedipal Complex.  Where did he get the idea?  Why did it become so popular?\n\nIn this talk to his Beijing high school students, Jiang Xueqin explains that Freud developed his psychological theories in order to protect the interests of the powerful.  \n\nHis protege Carl Jung would take Freud's theory of the unconscious, and turn it into a systemic model of human psychology.  Because of modernist literature and art, this \"cult of the self\" has permeated throughout the entire culture, becoming the air we breathe.  \n\nThis has led to devastating social consequences, especially among the young.\n\nReferences:\n1.  Aetiology of Hysteria by Sigmund Freud\n2.  Interpretation of Dreams by Sigmund Freud\n3.  Civilization and Its Discontents by Sigmund Freud\n4.  The Assault on Truth by Jeffrey Masson\n5.  Ulysses by James Joyce\n6.  To the Lighthouse by Virginia Woolf"
+  },
+  "ra2v9HkaHz8": {
+   "title": "Civilization #57:  How Modernism Ruined Everything",
+   "date_text": "Jun 3, 2025",
+   "description": "Freud proposed the theory of the Oedipal Complex.  Where did he get the idea?  Why did it become so popular?\n\nIn this talk to his Beijing high school students, Jiang Xueqin explains that Freud developed his psychological theories in order to protect the interests of the powerful.  \n\nHis protege Carl Jung would take Freud's theory of the unconscious, and turn it into a systemic model of human psychology.  Because of modernist literature and art, this \"cult of the self\" has permeated throughout the entire culture, becoming the air we breathe.  \n\nThis has led to devastating social consequences, especially among the young.\n\nReferences:\n1.  Aetiology of Hysteria by Sigmund Freud\n2.  Interpretation of Dreams by Sigmund Freud\n3.  Civilization and Its Discontents by Sigmund Freud\n4.  The Assault on Truth by Jeffrey Masson\n5.  Ulysses by James Joyce\n6.  To the Lighthouse by Virginia Woolf"
+  },
+  "m24LnQ-Ksjk": {
+   "title": "Civilization #56:  What Marx Got Wrong",
+   "date_text": "May 29, 2025",
+   "description": "Why was Karl Marx -- who believed that industrial capitalism would evolve into a worker's paradise -- wrong? \n\nIn this talk to his Beijing high school students, Jiang Xueqin explains that while Marx understood the ills of capitalism he failed to appreciate the psychology of people.  \n\nPeople strive for religious community, not economic equality.  We want to connect with God, and we seek status.  \n\nThat's why those countries that did succeed in their communist revolutions devolved into theocracies dominated by cults of personalities.  \n\nReferences:\n1.  The Communist Manifesto by Karl Marx and Friedrich Engels\n2.  Letters of Karl Marx\n3.  Three Lectures to Swiss Members by Mikhail Bakunin"
+  },
+  "_3c3FjS57x4": {
+   "title": "Civilization #55:  Kant, Hegel, and the Theory of Everything",
+   "date_text": "May 26, 2025",
+   "description": "What is the legacy of Immanuel Kant, considered our greatest philosopher?\n\nIn this talk to his Beijing high school students, Jiang Xueqin explains that Kant's insights had a tremendous impact on the development of neuroscience, artificial intelligence, and quantum mechanics.  \n\nKant's philosophical revolution was equivalent to that of the Copernican revolution in astronomy.  With his precise logic, Kant showed us that we were active participants in the making of reality, rather than just passive observers.  \n\nBut Kant's epistemology had three major limitations:\n1. He argued we could never know true reality (the \"things-in-themselves\"), thus creating an ontological dilemma.\n2.  He did not show us the source for our capacity to interpret the world.   \n3.  He failed to show us why interpretations would be uniform across history and cultures.  \n\nThese problems led Hegel to develop his theory of the dialectic of the \"geist,\" which will come to influence the development of both Marxism and the nation-state.    \n\nReferences:\n1.  The Critique of Pure Reason by Immanuel Kant\n2.  The Critique of Practical Reason by Immanuel Kant\n3.  The Phenomenology of the Spirit by Friedrich Hegel"
+  },
+  "o2Nq--qU9Kc": {
+   "title": "Civilization #54:  The German Will to Power",
+   "date_text": "May 21, 2025",
+   "description": "What explains the rise of Adolf Hitler?\n\nIn this talk to his Beijing high school students, Jiang Xueqin explains that Hitler was a manifestation of the German obsession with the unity of will.  \n\nAfter the humiliating defeat of World War I and amidst the economic turmoil of the Weimar Republic, Germans sought salvation and redemption in their civilization, especially the music of Richard Wagner and the philosophy of Frederick Nietzsche.   They longed for an \"ubermensch\" to emerge, and Hitler rose to the occasion.   \n\nReferences:\n1.  The World as Will and Representation by Arthur Schopenhauer\n2.  The Ring Cycle by Richard Wagner \n3.  The Genealogy of Morals by Frederick Nietzsche \n4.  Tragedy and Hope by Carroll Quigley\n5.  The Speeches of Adolf Hitler"
+  },
+  "0rALqcPWuH0": {
+   "title": "Civilization #53:  Dostoevsky and the Soul of Russia",
+   "date_text": "May 19, 2025",
+   "description": "Why did Putin invade Ukraine?\n\nIn this lecture to his Beijing high school students, Jiang Xueqin explains that the war in Ukraine is a clash of civilizations.  \n\nIn his novels \"Crime and Punishment\" and \"Brothers Karamazov\" Fyodor Dostoevsky captures and expresses the Russian soul.  As a Christian Orthodox people, the Russians believe the meaning of life is to accept the mystery, miracle, and authority of the human heart. \n\nThis contrasts with Anglo-American civilization, which proposes a utilitarian and materialistic conception of the universe.  \n\nReferences:\n1.  \"Anna Karenina\" by Leo Tolstoy\n2.  \"Crime and Punishment\" by Fyodor Dostoevsky\n3.  \"Brothers Karamazov\" by Fyodor Dostoevsky"
+  },
+  "ea20aMYfT5I": {
+   "title": "Civilization #52:  Empire of Democracy",
+   "date_text": "May 15, 2025",
+   "description": "Oscar Wilde once quipped:  \"America is the only country that went from barbarism to decadence without civilisation in between.\"\n\nWhat did he mean by this?\n\nIn this talk to his Beijing high school students, Jiang Xueqin argues that America in its attempt to become an \"enlightened\" civilization ultimately became an anti-civilization.  \n\nCivilizations have history, culture, and values, and therefore they have prejudices.  These prejudices often lead to conformity, stagnation, and close-mindedness.  America was a diverse open society that was determined to embrace its diversity and openness.  It would welcome immigrants from all corners of the world in order to achieve its Manifest Destiny.\n\nAs such, the Founding Fathers focused on turning America into a \"game\" rather than a civilization.  The Constitution became the basis for a fair, transparent, and competitive game that permitted all to achieve the American Dream.  \n \nReferences:\n1.)  Autobiography of Benjamin Franklin\n2.)  Declaration of Independence by Thomas Jefferson\n3.)  Federalist Papers by Alexander Hamilton, James Madison, and John Jay\n4.)  Gettysburg Address by Abraham Lincoln\n5.)  Democracy in America by Alexis de Tocqueville"
+  },
+  "Qms7trnKwqQ": {
+   "title": "Civilization #51:  Shakespeare's Language of Empire",
+   "date_text": "May 14, 2025",
+   "description": "How did Shakespeare father the British empire?\n\nIn this talk to his Beijing high school students, Jiang Xueqin explains that it was Shakespeare's innovations in syntax and diction that transformed English into the linguistic Internet.  Cultures, ideologies, and peoples could now meet on this Internet, and have their ideas and values pollinate and cross-breed within the framework of British civilization.  \n\nReferences:\n1.)  Hamlet by William Shakespeare\n2.)  Julius Caesar by William Shakespeare\n3.)  \"To Autumn\" by John Keats"
+  },
+  "laGSxfvlOfk": {
+   "title": "Civilization #50:  Rule, Britannia!",
+   "date_text": "May 8, 2025",
+   "description": "How did England -- a poor and divided island -- become the world's greatest empire?\n\nIn this talk to his Chinese high school students, Jiang Xueqin explains that England succeeded because it was a poor and divided island.\n\nThroughout most of its history, the different peoples of Britain were engaged in open co-operative competition.  Their division meant that foreign invaders could come and conquer them, which led to creative destruction.  The conflict and poverty within the island forced many to migrate, which led to colonial expansion.\n\nThese structural forces would permit England to adopt the three major innovations that would allow it to dominate the globe.  Its royal navy opened markets for British goods, and protected global trade.  The Bank of England allowed for the financing of wars.  The English language allowed England to project soft power."
+  },
+  "JZ8P-FZHWnQ": {
+   "title": "Civilization #49:  The Dutch Golden Age and the Rise of the Middle Class",
+   "date_text": "May 5, 2025",
+   "description": "In this talk to his Chinese high school students, Jiang Xueqin explains how the Dutch Golden Age gave birth to the Middle Class.   \n\nWith the transition from feudalism to market economics and from Catholicism to Calvinism, people changed their focus from accumulating status to accumulating wealth.  This created the concept of \"class.\"   \n\nThis concept brought with it certain pathologies (fears of disorder, failure, and germs) that expressed themselves in the Middle Class obsessions with money, art, and materialism.\n\nWith his paintings, Johannes Vermeer captured the hypocrisies of Middle Class life during the Dutch Golden Age."
+  },
+  "enEET_0j_Y8": {
+   "title": "Civilization #48:  Napoleon's Empire of Myth",
+   "date_text": "Apr 28, 2025",
+   "description": "How did a young Corsican become Emperor of France in 1804?\n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that it was Napoleon's myth-making genius that seduced the French people, and killed the fledging French Republic.\n\nIn this way, Napoleon was like Caesar and Hitler.  Will Trump take America down the same path?"
+  },
+  "ef-Ch2LGDDI": {
+   "title": "Civilization #47:  The Passion of Robespierre",
+   "date_text": "Apr 23, 2025",
+   "description": "The French Revolution allowed for the meteoric rise of an idealistic provincial lawyer.  During the Reign of Terror, Robespierre could have been king, but ultimately fell to the guillotine, like thousands of his victims.  What explains his spectacular rise and fall?\n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that Robespierre saw himself as the Prophet of the French Revolution, and was determined to achieve the Revolution no matter what.     \n\nFor the weak and oppressed, Robespierre became Jesus, and as such he would come to share the same fate."
+  },
+  "5HwZx5kQm9o": {
+   "title": "Civilization #46:  The Revolution of Reason",
+   "date_text": "Apr 21, 2025",
+   "description": "This video begins a three-part series on the French Revolution. \n\nThe over-arching thesis is that the French Revolution was a religious crusade, and it was made successful by the contributions of three geniuses.  \n\nJean-Jacques Rousseau was the Poet of the Revolution who dreamed of a better world based on Reason.\n\nMaximilien De Robespierre was the Prophet who had the courage and conviction to lead his people into this new world.  \n\nNapoleon Bonaparte was the Prince who had the skill and resolve to conquer this new world, and make the world bend to his vision.\n\nIn this first talk, we examine the major thinkers of the Enlightenment (mainly Descartes, Kant, and Rousseau), and how their ideas and arguments would underpin and drive the French Revolution.\n\nReferences:\n\n1.  Meditations on First Philosophy by Descartes\n2.  Faust by Goethe\n3.  \"What is Enlightenment?\" by Kant\n4.  Emile by Rousseau\n5.  Discourse on the Origins of Inequality by Rousseau\n6.  The Social Contract by Rousseau"
+  },
+  "DiRJyy-8V54": {
+   "title": "Civilization #45:  The Gunpowder Revolution",
+   "date_text": "Apr 9, 2025",
+   "description": "The Ottomans, Safavids, Mughals, and Chinese were the first four gunpowder empires.  So how did Europe come to conquer the world?\n\nIn this talk to his Chinese high school students, Jiang Xueqin explains that it's because Europe adopted a whole society approach to warfare.  Because of open co-operative competition within Europe, nations were forced to transition from feudalism to the nation-state, from agriculture to industry, and from religion to science.  \n\nThough these transitions would turn Europe into the dominant military power in the world, they would also unleash social, economic, and political forces that would challenge the status quo, leading to the American and French Revolutions."
+  },
+  "-DnfGcvZrfA": {
+   "title": "Civilization #44:  The Spanish Conquest of the New World",
+   "date_text": "Apr 7, 2025",
+   "description": "How did a few thousand Spanish Conquistadors subdue and conquer millions of Aztecs, Incas, and Mayans.\n\nMost scholars believe it's a combination of superior Spanish military technology, spreading of deadly infectious diseases, and internal tribal conflict that led to the demise of once powerful empires.  \n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that it was the religious practices and beliefs of the native peoples of Central and South America that made them vulnerable to invasion and conquest.\n\nThe natives had a strict religious hierarchy that established priest-kings as divine beings.  When the Spanish executed their priest-kings, they broke the ultimate taboo.  This left many Aztecs and Incas helpless and hopeless. \n\nReference:\nThe Mayans' Popol Vuh (\"Book of the Community\") can be read for free here:\nhttps://www.mesoweb.com/publications/..."
+  },
+  "CjtUnKcU1IA": {
+   "title": "Civilization #43:  The Structure of Scientific Revolutions",
+   "date_text": "Mar 31, 2025",
+   "description": "What is the Scientific Revolution, and how did it happen?  Why did it happen in Europe, and not anywhere else?  \n\nIn this talk to his Chinese high school students, Jiang Xueqin explains that the Scientific Revolution happened because of a change in focus from asking \"What is Truth?\" to asking \"How can we know Truth?\".  \n\nTo resolve the geocentric vs. heliocentric debate, Europeans pioneered the Scientific Method, a system of processes and protocols to test and refine hypotheses.  This led to an explosion of technological innovation.  \n\nJiang Xueqin concludes by arguing that the Scientific Method has ossified into an imperial bureaucracy.  Today, geniuses like Galileo, Newton, and Einstein would be shunned for their eccentricities.  \n\nHave we come to the end of the Scientific Revolution?       \n\nReferences:\n1.  The Structure of Scientific Revolutions by Thomas Kuhn\n2.  The New Atlantis by Francis Bacon\n3.  The Cosmic Serpent by Jeremy Narby"
+  },
+  "TcxlOiJz8V0": {
+   "title": "Civilization #42:  The Protestant Reformation and the Birth of Capitalism",
+   "date_text": "Mar 27, 2025",
+   "description": "In this talk to his Chinese high school students, Jiang Xueqin explains how the Protestant Reformation birthed capitalism.  \n\nMartin Luther and John Calvin saw the Catholic Church as inherently and irredeemably corrupt.  Martin Luther proposed \"justification by faith,\" which argued that Christians can only be redeemed by their unwavering faith in God (regardless of how much money they donated to the Church).  John Calvin proposed the concept of \"double pre-destination,\" which argued that God at the beginning of time had decided the fate of all (and thus buying \"indulgences\" from the Catholic Church was pointless).\n\nIn accepting these two doctrines and rejecting Papal authority, Protestants now had to prove to themselves that they were among the faithful elect.  In their anxiety, they focused on the accumulation of money.  \n\nReferences:\n\n1.  Max Weber's \"The Protestant Ethic and the Spirit of Capitalism\" (You can download this classic for free at https://gpde.direito.ufmg.br/wp-conte...)\n2.  Emile Durkheim's \"On Suicide\"\n3.  Georg Simmel's \"The Philosophy of Money\""
+  },
+  "v6CDqJnrvLk": {
+   "title": "Civilization #41:  Dante's Quiet Revolution",
+   "date_text": "Mar 24, 2025",
+   "description": "The Renaissance was a re-imagining of Classical Greece in a Christian European context, a spirit that would birth modernity.\n\nHow did it start?\n\nScholars argued that the Renaissance came about due to a perfect storm of structural factors.  The build-up of commercial trade, the re-discovery of Greco-Roman thinkers, and the development of intellectual centers (such as universities and monasteries) were among the most important.   \n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that it was Dante's Divine Comedy that would spark the confident self-expression and triumphant self-expression of the Renaissance."
+  },
+  "3751ZjwmrBw": {
+   "title": "Civilization #40:  Church and Empire",
+   "date_text": "Mar 19, 2025",
+   "description": "What were the Crusades?  Why did they start?  Why did they end?\n\nIn this talk to his Chinese high school students, Jiang Xueqin explores the history of Europe's late middle ages.  He shows that while the Roman Catholic Church was dominant, there were still challenges to its authority.  Muslims controlled the Holy Land, Muslim Iberia was more wealthy and innovative, and the Orthodox Church claimed sovereignty.  As well, Catholic clerics were considered corrupt, which led to widespread dissent.\n\nIn 1095, Pople Urban II hoped to channel his flock's religious energy, and direct it to warfare against Muslims and heretics in order to cement the authority of the Church.  Crusaders captured Jerusalem, conquered the Iberian peninsula, and crushed the Cathars.  \n\nThe Crusades ended when a series of crises engulfed Europe in the fourteenth century.  Biblical rains, famine, war, and the Black Death halved Europe's population.  \n\nIn his conclusion, Jiang explains that Europe's Crusading fever never died out.  In the Age of Exploration, Europe's new Crusaders would cross the Atlantic."
+  },
+  "mPQzAPnjYkM": {
+   "title": "Civilization #39:  Genghis Khan, World Shatterer",
+   "date_text": "Mar 17, 2025",
+   "description": "Genghis Khan is considered the world's greatest conquerer.  Why was he so successful?\n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that Genghis Khan had the same characteristics as other great conquerors, such as Sargon of Akkad, Philip of Macedon, and Julius Caesar.\n\nGenghis Khan believed that he had a divine mission to re-make the world.  In overcoming hardship and defeat, Genghis Khan came to recognize his mission, and committed himself to completing it.  He united the warring Mongol tribes into a professional, meritocratic, and innovative army that would go on to conquer most of the Asian continent."
+  },
+  "A2LMJerHcKM": {
+   "title": "Civilization #38:  Twilight of the Middle Kingdom",
+   "date_text": "Mar 13, 2025",
+   "description": "Why did China stop being creative after the Song dynasty (960-1279 CE)?  \n\nIn this talk to his Chinese high school students, Jiang Xueqin explains that it's because the Ming and Qing dynasties achieved a level of national unity that was not possible in the past.  While this national unity ensured the longevity of the emperor and his imperial bureaucracy, it made the nation insular and stagnant.     \n\nThe imperial bureaucracy used three mechanisms to monopolize status, literacy, and culture.  The \"keju\" (civil service examination) focused the energies and ambitions of local gentry.  The \"keju\" tested for \"wenyan\" (classical literary Chinese), a language that was so difficult that students had to spend decades mastering it.  Confucianism restricted openness and innovation.    \n\nThis lecture relies heavily on the scholarship of Professor Yuhua Wang, who is a Chinese historian at Harvard.  You can watch his Youtube talk here:     • The Rise and Fall of Imperial China | Yuhu...   \n\nHis book \"The Rise and Fall of Imperial China\" can be found here:\nhttps://press.princeton.edu/books/har..."
+  },
+  "2OdO8LoKuo8": {
+   "title": "Civilization #37:  The Golden Age of Islam",
+   "date_text": "Mar 11, 2025",
+   "description": "The Abbasid Caliphate was considered the Golden Age of Islam.  Before the Mongolian conquest, the House of Wisdom in Baghdad was the global center of learning and literacy.  Muslim scientists and mathematicians were respected and influential even in Europe.  \n\nWhy did the Islamic world enter its Golden Age, while Europe was stuck in its Dark Ages?  Why did this Golden Age come to an end?  Why did Christianity eventually overtake the Islamic world?  \n\nIn this lecture to his Chinese high school students, Jiang Xueqin explains that Islam was an intellectual revolution that combined the intimate inter-connectedness of paganism with the absolute clarity of monotheism.  This revolution would initiate a new era of human creativity."
+  },
+  "tYMNsa83NHY": {
+   "title": "Civilization #36:  Memory of the Norse",
+   "date_text": "Mar 5, 2025",
+   "description": "What was the Viking worldview?  What was their value system?  Why did they venture out into the world?  \n\nUnfortunately, the Vikings maintained an oral tradition, most of which was lost after they converted to Christianity.  What we do know about the Vikings comes from archaeology and the Norse mythology that was written down in the Poetic and Prose Edda.\n\nIn this talk to his Chinese high school students, Jiang Xueqin attempts to re-constitute the Viking worldview, and argues that their core values were courage, loyalty, and resourcefulness.  He explains the power and beauty of Norse mythology, and how such power and beauty could only be developed in the oral tradition.     \n\nHe refers to Professor Neil Price's lecture on the Viking worldview (\"The Shape of the Soul\"), which can be found here on Youtube:     • The Shape of the Soul: The Viking Mind and...  "
+  },
+  "7k5XoLzwmls": {
+   "title": "Civilization #35:  The Viking Legacy",
+   "date_text": "Mar 4, 2025",
+   "description": "We have understood Western civilization to be composed of four major traditions -- that of the Greeks, Romans, Jews, and Christians.\n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that the Viking legacy is just as important for the development of Western civilization.  \n\nDuring the Viking Age (793 - 1066 CE), the Vikings would interact with and influence the regions from which would emerge the nation-states of Great Britain, France, Germany, and Russia.  These four became world empires.  They were also for the past four hundred years the greatest cultures of the Western world.  \n\nJiang Xueqin argues that this was not just a coincidence -- the brilliance of the Viking oral tradition had a tremendous impact on these future empires."
+  },
+  "1dwvgtc7XzY": {
+   "title": "Civilization #34:  The Useful Fiction of the Holy Roman Empire",
+   "date_text": "Feb 26, 2025",
+   "description": "Voltaire once wrote:  \"The Holy Roman Empire was in no way holy, nor Roman, nor an empire.”\n\nHistorians often see this as a witticism.  In this lecture to his Chinese high school students, Jiang Xueqin argues that Voltaire was right, and the Holy Roman Empire was a useful fiction created to legitimize the rule of Charlemagne and his successors."
+  },
+  "abs6z7VPEMc": {
+   "title": "Civilization #33:  The Rise and Fall of the Byzantine Empire",
+   "date_text": "Feb 25, 2025",
+   "description": "The Byzantine empire saw itself as the continuation of the Roman empire.\n\nIn this lecture to his Chinese high school students, Jiang Xueqin argues that Constantinople and Rome had opposing cultural systems.  Rome was a pagan Latin republic, and Constantinople was a Christian multicultural empire."
+  },
+  "_Io7-_RS8uE": {
+   "title": "Civilization #32:  Rome's Rise, Fall, and Legacy",
+   "date_text": "Feb 19, 2025",
+   "description": "How was Rome able to defeat all its powerful enemies in the Mediterranean world?  Why did Rome decline and fall?  What is Rome's influence on the world today?  What lessons can we learn from it?  \n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that it was Rome's distinct cultural system (which focused on liberty, public virtue, and piety) which permitted it to triumph over its rivals.  But after Rome became an empire, this cultural system made it difficult for it to govern.  \n\nBecause America intentionally modeled itself after Rome, we can make certain predictions about America based on our reading of Roman history."
+  },
+  "HIoYQBbBllk": {
+   "title": "Civilization #31:  The Oceanic Currents of History",
+   "date_text": "Feb 18, 2025",
+   "description": "Traditionally, we have understood historical movement as either a line or a circle.  We are either progressing towards the truth, or trapped in an endless loop.  In this talk to his Chinese high school students, Jiang Xueqin proposes a new theory, which he calls \"the oceanic currents of history.\"\n\nWhen we examine the fall and decline of global empires, a pattern emerges.  As the empire expands, it draws once isolated regions into its orbit.  The empire allows these regions to become more prosperous and sophisticated through trade and conflict.  Prosperity increases the population in these borderlands, which forces them to expand and come into direct conflict with the empire.  Sometimes, these people of the borderlands will overwhelm the empire, and become a new empire."
+  },
+  "asbKjezwIJM": {
+   "title": "Civilization #30:  Dante as the Second Coming of Homer",
+   "date_text": "Jan 13, 2025",
+   "description": "In this final talk of the semester to his Chinese high school students, Jiang Xueqin explains the enduring influence of Dante.\n\nDante recognized that if he is to succeed in birthing a new European mind he must displace Vergil's Aeneid.  To do this, Dante makes Vergil into his guide, and Vergil reveals that he is an unreliable narrator.   \n\nAt the beginning of their epic journey, Vergil insists to Dante that only the baptized can enter Heaven.  Those who were virtuous and but were not baptized -- such as Vergil -- must remain in limbo.  Once in Purgatory, the two meet Cato, who was never baptized.  They also meet Statius, a Roman epic poet, who after five hundreds of self-reflection and penance in Purgatory, is finally about to ascend into Heaven.  \n\nEventually, Vergil and Dante arrive at the top of Purgatory, and await the arrival of Beatrice.  When she does descend, Dante thinks that Vergil can now be redeemed.  \n\nBut Vergil has run away, rather than admit he was wrong.  Though Dante cries for his friend, Beatrice tells him they need to move on -- Heaven is only open to those who want to enter it."
+  },
+  "GfqJi0qevok": {
+   "title": "Civilization #29:  Dante's Divine Comedy and the Liberation of the Human Imagination",
+   "date_text": "Jan 6, 2025",
+   "description": "In this talk to his Chinese high school students, Jiang Xueqin explains that Dante's Divine Comedy was the intellectual blueprint for the Renaissance, the Protestant Reformation, and the Scientific Revolution.\n\nIn a previous lecture, we explored how Augustine's writings would pave the way for Europe's Dark Ages.  In his treatise \"City of God,\" Augustine argued that we were born in sin, and we can commit only more sin.  Though God is perfect, we were \"created out of nothing,\" and cannot redeem ourselves.  \n\nDante believed that God created us to do what He could not -- love and imagine.  Love is something that can happen only between humans, and is the Godforce within us that unites the universe.  Because God is omnipresent and omniscient, he lacks an imagination (by definition).  Our flaws, weaknesses, and limitations are what empowers our imagination.  By constantly striving to be better, we continue God's legacy and imagine a better world.  \n\nThe link for Divine Comedy's Paradiso Canto 33 (Mandelbaum translation) is here:   https://digitaldante.columbia.edu/dan..."
+  },
+  "C9rzPGJ0wm4": {
+   "title": "Civilization #28:  Muhammad's Revolution of God",
+   "date_text": "Jan 1, 2025",
+   "description": "Who was the historical Muhammad?  How did Islam triumph over both the Byzantine and Sasanian empires? \n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that Islam was the first global revolution.\n\nWhile the Byzantine and Sasanian empires appeared to be superpowers, they were weak and fragile due to decades of plague, war, and succession struggles. \n\nThe Arabian peninsula seemed like a primitive and backward desert, but it was actually a hotbed of innovation.  As traders, the Arabs were open-minded, sophisticated, and cosmopolitan.  Constant tribal warfare made the Arabs into brave and honorable warriors.  Religious wars and imperial persecution drove \"heretics\" into Arabia in order to openly practice their faith.   \n\nWith his charisma and brilliance, Muhammad united the warring factions to reclaim the promised land that God had promised to their common ancestor Abraham.  He promised his followers a Kingdom of God that emphasized religious tolerance and justice, inspiring them to victory even after his death."
+  },
+  "GdbZBVUIVDE": {
+   "title": "Civilization #27:  Augustine's Empire of God",
+   "date_text": "Dec 30, 2024",
+   "description": "In this talk to his Chinese high school students, Jiang Xueqin explains why Europe experienced the Dark Ages.\n\nAfter Rome was sacked in 410 CE, Europe experienced a crisis of faith.  Were the Pagan Gods taking vengeance?  Did Christianity preach a religion of meekness?  \n\nIn response, the Catholic theologian Augustine wrote \"The City of God,\" in which he proposed to take the Catholic Church \"out of history.\"  From now on, kings would fight for control of Rome, but the Catholic Church would always reside in Jerusalem, offering eternal salvation to those who obeyed it.\n\nAugustine argued that we were born in sin, and so our actions could only lead to evil.   Passivity was the best path to salvation."
+  },
+  "za30rbC3tTg": {
+   "title": "Civilization #26:  Constantine's Monotheistic Revolution",
+   "date_text": "Dec 27, 2024",
+   "description": "In this lecture to his Chinese high school students, Jiang Xueqin argues that the idea of monotheism launched modernity.\n\nAt the Council of Nicaea in 325 CE, the bishops of the Roman Empire had to decide on the relationship between God and Jesus.  They established the Godhead as orthodoxy, and rejected Arianism as heresy.  \n\nThe Holy Trinity marked a radical intellectual revolution that would eventually give birth to capitalism, science, and the nation-state."
+  },
+  "kuMhSFXnr5I": {
+   "title": "Civilization #25:  Paul of Tarsus, Messiah of Rome",
+   "date_text": "Dec 18, 2024",
+   "description": "Why are the teachings of Jesus and his apostle Paul so different?  Jesus preached compassion and mercy towards all, while Paul preached that Jesus was the son of God who atoned for our sins with his sacrifice.  \n\nIn this talk to his Chinese high school students, Jiang Xueqin presents a unique perspective on Paul’s motivations.  He argues that Paul was an agent of the Roman empire who wanted to use Jesus to combat messianic Judaism.  \n\nThe Roman empire and the Jews would fight three costly wars, and the fanaticism of the Jews would awe and scare the Romans.  \n\nThe most fanatical Jews believed that a Messiah would arise to lead them to victory against the Romans.  Paul taught that Jesus was the promised Messiah, and he had come to redeem us from our own failings, not to wage war against the Romans."
+  },
+  "_bXHBT5NTfc": {
+   "title": "Civilization #24:  Resurrecting the Gnostic Jesus",
+   "date_text": "Dec 16, 2024",
+   "description": "Who was the historical Jesus, and what did he believe?  \n\nIn this talk to his Chinese high school students, Jiang Xueqin argues that Jesus was a unique religious genius who synthesized the major global religions of his day to create a new religion, which we today refer to as Gnosticism.  \n\nLike other great religious leaders, Jesus had a three-tier gospel.  To the public, he taught that true faith demanded compassion.  To his disciples, he taught that true faith demanded self-sacrifice.  \n\nThen there were the secret teachings that he shared with his proteges.  Jesus believed that we lived in a false reality, and it was only by seeking truth that we could escape from the darkness into the light.  \n\nHow did the New Testament diverge so sharply from Jesus’ true teachings?  This is a topic that will be examined next class."
+  },
+  "HvVTNTPzq7E": {
+   "title": "Civilization #23:  Cyrus the Great as Messiah",
+   "date_text": "Dec 11, 2024",
+   "description": "In this talk to his Chinese high school students, Jiang Xueqin explains the influence of Zoroastrianism on the development of the Hebrew Bible.  \n\nAfter Cyrus the Great conquered Babylon, he enabled the Jews to return to Jerusalem to build the Second Temple.  Ezra oversaw major religious reforms, including the creation and redaction of what we know today as the Hebrew Bible.  Because of the influence of Zoroastrianism, the Bible began to emphasize eschatology, which in turn will pave the way for Christianity."
+  },
+  "GhLd_h1QsL4": {
+   "title": "Civilization #22:  The Literary Genesis of the Yahwist",
+   "date_text": "Dec 10, 2024",
+   "description": "In this lecture to his Chinese high school students, Jiang Xueqin explains the power and beauty of the Book of Genesis.\n\nThe chronology of the Pentateuch is confusing and contradictory.  Archaeologists and historians have failed to discover any concrete evidence that Noah or Abraham or Moses ever existed.  \n\nJiang Xueqin argues that the Bible is not a chronology, but a cosmology designed to accomplish three major objectives:\n1.  To legitimize King David of Israel.  The poet-God Yahweh favored him because he was the first poet-king.  \n2.  To create a new national identity.  The Bronze Age collapse allowed the formation of new multi-cultural political entities in the Levant, including Israel.  The Torah brought these disparate groups into a national narrative.\n3.  To differentiate the Israelites from their powerful neighbors.  The Bible focused on how the Israelites formed their new nation out of their religious and cultural struggle against the Egyptians and Canaanites.       \n\nThe writing of such a cosmology was common practice back then.  What distinguished the Bible and turned it into the world's most powerful book was the literary genius of the Yahwist.  With her stories of Adam and Eve and the Patriarchs, the Yahwist wrote domestic comedies that highlighted the universal and eternal human themes of love, childbirth, and family."
+  },
+  "RkpGrRUgjnk": {
+   "title": "Civilization #21:  The Apology of King David of Israel",
+   "date_text": "Dec 4, 2024",
+   "description": "Who wrote the Bible, and why?\n\nIn this lecture to Chinese high school students, Jiang Xueqin argues that the Bible was originally written as an apology for King David of Israel to establish his legitimacy and authority.  \n\nThe Bronze Age Collapse altered the geo-political landscape of the Levant, and with the retreat of the Egyptians and Hittites new political entities emerged.  Threatened by the Philistines, the Israelites elected Saul to be their king.  With the death of Saul, a violent civil war erupted between the House of Saul and the House of David.  Even with his triumph, David continued to engage in acts of immorality and violence, most famously in the Bathsheba episode.  \n\nAlthough designed as political spin, David's story is crafted with such care and beauty that it continues to captivate the imagination of audiences today."
+  },
+  "cvI8rukoda8": {
+   "title": "Civilization #20:  The Proto-Buddhists of the Indus Valley (Harappan) Civilization",
+   "date_text": "Dec 3, 2024",
+   "description": "Egypt, Mesopotamia, and the Indus Valley were the three great civilizations of the Bronze Age.  What made the Indus Valley Civilization distinct?  Why did they decline?  What is their legacy?\n\nIn this lecture to his Chinese high school students, Jiang Xueqin explains that the Indus Valley Civilization (also known as the Harappan Civilization) was mainly a peaceful and egalitarian society, which prospered because of its global trade networks.  This civilization had standardized weights and measurements, sophisticated urban planning, as well as private indoor latrines.  \n\nThe dramatic climate change of the 4.2 kiloyear event caused Egypt’s Old Kingdom, Mesopotamia’s Akkadian empire, and the Indus Valley Civilization to decline.  The Egyptians left us the Pyramids, the Mesopotamians left us the Epic of Gilgamesh, and the Harappans left us spiritual wealth.  From the interaction with the Proto-Indo-Iranians, the Harappan civilization would eventually give birth to Hinduism, Buddhism, Jainism, and Sikhism, which continue to give hope and meaning to billions of people today."
+  },
+  "e92jyBMmAyM": {
+   "title": "Civilization #19:  Gilgamesh and Mesopotamia's Quest for Immortality",
+   "date_text": "Nov 27, 2024",
+   "description": "In this lecture to his Chinese high school students, Jiang Xueqin explains why Mesopotamia became the cradle of civilization.  \n\nHe explains that geography determined the destinies and mythologies of Egypt and Mesopotamia.  Protected by natural boundaries and nurtured by the bountiful Nile, Egypt believed in benevolent Gods.  Mesopotamia had no natural boundaries and its two rivers -- the Euphrates and Tigris -- were mercurial and chaotic, which led people to believe that the Gods demanded their servitude and struggle.  This belief is expressed in the two major mythologies of Mesopotamia -- \"Enuma Elish\" as well as \"The Epic of Gilgamesh.\"  \n\nThis belief, as well as the fact that Mesopotamia was the center of the Bronze Age world, led the Sumerians to create the innovations that would form the basis of civilization."
+  },
+  "KSSSCznYrGo": {
+   "title": "Civilization #18:  The Great Pyramid as Ancient Egypt's Manhattan Project",
+   "date_text": "Nov 26, 2024",
+   "description": "For thousands of years, the Great Pyramid of Giza has captivated and captured the imagination of the world.  Why was it built?\n\nIn this lecture to Chinese high school students, Jiang Xueqin argues against the mainstream theory that the Great Pyramid was built as a grand tomb for the Pharaoh.  He argues that the Great Pyramid was Ancient Egypt’s Manhattan Project, an attempt to unravel the secrets of the universe and channel the power of God to create eternal peace on Earth."
+  },
+  "myTurqU7NxU": {
+   "title": "Civilization #17:  Homer, Vergil, and the War for the Soul of Rome",
+   "date_text": "Nov 20, 2024",
+   "description": "In this talk to Chinese high school students Jiang Xueqin explains why Vergil's \"The Aeneid\" is such brilliant propaganda.\n\nIn 27 BCE, the Roman Senate declared Octavian \"Augustus,\" making him effectively the first emperor.  But Augustus Caesar still had three problems.\n\nFirst, he needed to establish his legitimacy and authority.  To do so, he promoted the myth that his Julii family were descendants of Aeneas, and thus Rome's very first family.\n\nSecond, he needed to establish a new Roman cultural identity that emphasized \"piety\" over \"liberty.\"  He promoted Aeneas as the epitome of piety. \n\nThird, he was worried about the corrupting influence of Greek culture.  Although the Romans had conquered Greece militarily, it seemed that the Greeks had conquered Rome culturally.\n\nTo solve all three challenges, Augustus Caesar sponsored the writing of \"The Aeneid.\"  Vergil's epic imitated and appropriated the Homeric epics to engineer a new Roman soul."
+  },
+  "Dc54IquR7ik": {
+   "title": "Civilization #16:  Julius Caesar's Will and Octavian's Birth of Empire",
+   "date_text": "Nov 19, 2024",
+   "description": "In 44 BCE, an eighteen-year old Octavian arrived in Rome without an army and without political alliances, and seventeen years later he became Rome’s first emperor.  How did he do it?\n\nIn this lecture to his Chinese students Jiang Xueqin explores and explains the birth of the Roman Empire.  Julius Caesar saw himself as a man of destiny who would save the Roman Republic, a myth that was met with much skepticism in Rome.  After he was assassinated, the Roman people felt regret and guilt for having doubted Caesar, and supported his adopted son Octavian’s quest for vengeance.  In the ensuing civil war, as his opponents self-destructed, Octavius slowly and inevitably climbed the pinnacle of power."
+  },
+  "F8qQgsEFGgc": {
+   "title": "Civilization #15:  The Myth-Making Genius of Julius Caesar",
+   "date_text": "Nov 12, 2024",
+   "description": "In this talk to his Chinese high school students Jiang Xueqin examines the life and times of Julius Caesar.  What motivated him?  What made him so successful?  Why was he assassinated?  \n\nIn 100 BCE, Julius Caesar was born into the \"Imperial Republic\" of Rome, a contradiction that led to inequality, corruption, and division.  He came to believe he was a man of destiny who would restore the unity, stability, and prosperity of the Roman Republic.  To do so, he became a myth-maker, and cast himself as the hero of the epic journey that he was spinning for the enraptured Roman audience.  His enemies considered him a libertine and a demagogue, and were determined to destroy him.\n\nAfter winning the civil war against Pompey and the Optimates, Julius Caesar enacted a series of legislative reforms that were necessary but which challenged the traditional Roman worldview.  In response, some of Julius Caesar's closest friends and associates assassinated him."
+  },
+  "TdcE7XGDayo": {
+   "title": "Civilization #14:  Hannibal Barca, Lucius Brutus, and the Triumph of Rome",
+   "date_text": "Nov 6, 2024",
+   "description": "In 216 BCE, Hannibal Barca of Carthage defeated Rome at the Battle of Cannae.  After three devastating defeats to Hannibal, Rome had lost twenty percent of its adult male population, and one-third of its Senate.  The Roman Republic chose to continue fighting, and eventually it triumphed in the Second Punic War.\n\nIn his lecture to Chinese students Jiang Xueqin explains that it was the three distinguishing characteristics of Roman culture and society -- piety, liberty, and \"res publica\" -- that would allow Rome to triumph over the Etruscans, the Greeks, and the Carthaginians."
+  },
+  "WoTOxE4DTFA": {
+   "title": "Civilization #13:  Aristotle and the Greek Legacy",
+   "date_text": "Nov 5, 2024",
+   "description": "Plato and Aristotle are considered the two most influential philosophers of Western antiquity.  But there are three central paradoxes surrounding the life and work of Aristotle.  He is considered a brilliant thinker, but we do not have any of his original writings.  Over two hundred works are attributed to him, and the range of his works is extra-ordinary and super-human – he’s written about metaphysics, rhetoric, theater, politics, ethics, physics, and biology.  Finally, while he studied under Plato for twenty years, his empirical approach to epistemology contradicts Plato’s rationalist approach.  How can we explain these paradoxes?\n\nIn this lecture to Chinese students Jiang Xueqin explains that to understand Aristotle’s work and beliefs it’s important to understand his background and associations.  His life parallels that of Philip II of Macedon.  Aristotle and Philip were born about the same time, and because Aristotle’s father was personal physician to the King of Macedon, the two grew up together.  In their youths, Philip was sent to study military innovation at Thebes, and Aristotle was sent to study at Plato’s Academy, where he would spend the next twenty years.  Legend has it that Aristotle became the tutor to Philip’s son Alexander the Great, and Philip rewarded Aristotle lavishly for his service.\n\nPhilip’s military conquests were driven in part by the Pan-Hellenic Project, which aimed to unite the Greek diaspora scattered across the Aegean and Mediterranean.  Because Greeks identified with their own city-state, Philip needed to create a “Greek culture,” a common identity that shared the best knowledge of the Greek world.  Rather than an original thinker, Aristotle was a “systemizer,” who supervised his students in the collection and distillation of the entirety of Greek knowledge into textbooks for popular education and dissemination.  \n\nAristotle’s work would forever change human history.  By systemizing Greek knowledge, Aristotle would help humans “see and be” in a new way.  By simplifying and popularizing Greek knowledge, he would make it accessible, and it would spread as far as Alexander the Great’s conquests.  And the interaction of Greek knowledge with foreign cultural eco-systems would birth new philosophies and religions, including Christianity."
+  },
+  "iTuRB48Of9Y": {
+   "title": "Civilization #12:  The Tyranny of Alexander the Great",
+   "date_text": "Oct 29, 2024",
+   "description": "We celebrate Alexander the Great as one of the greatest conquerors of history.  What motivated him?  Was he truly a strategic genius?  What is his ultimate legacy?\n\nIn this talk to his Chinese high school students Jiang Xueqin presents a revisionist understanding of Alexander the Great.  He argues that Alexander was first and foremost motivated to prove he was better than his father.  With his boundless ambition, he could not find peace until he had conquered the whole world."
+  },
+  "l6AroD58jkE": {
+   "title": "Civilization #11:  The Greatness of Philip II of Macedon",
+   "date_text": "Oct 23, 2024",
+   "description": "In this talk Jiang Xueqin examines how Philip II of Macedon turned his kingdom from a poor and weak nation into the military hegemony that would conquer Persia.  \n\nIn his youth, Philip was a hostage at Thebes, where he studied the military innovations that made Thebes into the dominant military power in Greece at that time.  He learned that with enough training and discipline, an army could achieve the mobility, co-ordination, and flexibility necessary to dominate others.  He inspired loyalty among his men with his bravery, fair-mindedness, and oration.   \n\nSlowly and methodically, with a mix of diplomacy and aggression, Philip II would unite classical Greece, and pave the way for his son Alexander the Great to conquer Persia."
+  },
+  "LWlTtdNww_k": {
+   "title": "Civilization #10:  The Trial of Socrates and Plato's Allegory of the Cave",
+   "date_text": "Oct 22, 2024",
+   "description": "In 399 BCE the Athenian people condemned Socrates to drink hemlock.  In this lecture to Chinese high school students, Jiang Xueqin examines the significance and legacy of the trial of Socrates.   \n\nDuring his lifetime, Socrates enjoyed exposing Athens' leading intellectuals.  He became so notorious that the satirist Aristophanes ridiculed him in a play.  Socrates had many admirers though.  A group of young aristocrats -- including Plato and Alcibiades -- became his devoted pupils.\n\nIn 404 BCE the Thirty Tyrants (some of whom were Socrates' students) came into power, and the Athenian people revolted against their reign of terror and restored their democracy.  In 399 BCE, the Athenian people charged Socrates with \"impiety\" and \"corrupting the youth of Athens.\" \n\nPlato would spend the rest of his life promoting the memory of his beloved mentor as a martyr for the truth.  In so doing, he would create the most powerful metaphor of Western thought -- the allegory of the cave.  \n\nThis allegory would have three major impacts:\n\n1.)  It created the belief that Socrates was the world's greatest philosopher.\n2.)  It helped Christians understand the life and death of Jesus.\n3.)  It became the intellectual basis of Christianity."
+  },
+  "96hzWlozdHw": {
+   "title": "Civilization #9:  Aeschylus, Sophocles, and Euripides as Prophets of Democracy",
+   "date_text": "Oct 16, 2024",
+   "description": "What made Athenian democracy so strong and vibrant?  Jiang Xueqin explains that theater taught Athenians how to be democratic citizens. \n\nThe three major dramatists were Aeschylus, Sophocles, and Euripides.  \n\nAeschylus' Oresteia offered a mythology of democracy, showing that democracy was a gift from Athena herself, and that by practicing it well Athenians could make the  whole world more just, fair, and righteous.   \n\nSophocles' Oedipus Rex trilogy revealed the dangers and tragedy of a monarchy.  In his \"hubris,\" Oedipus of Thebes believed he could defy the Fates.  His successor Creon thought he could defy the \"unwritten, immutable, divine\" laws of the universe, and condemned Antigone to death.  \n\nEuripides' Bacchae was a critique of the Athenian democracy and empire, especially Pericles' Funeral Oration.  Euripides believed that for a democracy to maintain its strength and vibrancy the citizenry had to confront the hard truths, especially the evils that they commit upon others."
+  },
+  "NpNCQ_gNqdE": {
+   "title": "Civilization #8:  Rat Utopia and the Peloponnesian War",
+   "date_text": "Oct 15, 2024",
+   "description": "In his book The Peloponnesian War, Thucydides explains that the war started because Sparta saw Athens as a threat to its hegemony.  In this talk Jiang Xueqin argues that the American scientist James Calhoun’s “rat utopia” experiments offer a better explanation.  \n\nIn the 1950s and 1960s James Calhoun conducted experiments in which colonies of rats were put into worlds of plenty and abundance.  All these experiments ended in disaster.  Rather than enjoying paradise, the rats violently fought amongst themselves, and their social order collapsed.  Why did this happen?  In a wealthy world, high-status rats could live longer, which meant younger rats had no opportunities to achieve status.   Consumed by anxiety and anger, this younger generation became violent and destructive.   \n\nFifth-century Athens was a “rat utopia.”  After Persia was defeated in 479 BCE, Athens established the Delian League, and it became a de facto empire.  The upper nobility was happy with the status quo, but the lower nobility clamored for opportunities to achieve fame and fortune.  Athens became expansionist and imperial to ease its internal contradictions, and this ultimately led to the outbreak of the Peloponnesian War."
+  },
+  "677rmlRgvLQ": {
+   "title": "Civilization #7:  Homer's Iliad and the Birth of Greek Civilization",
+   "date_text": "Oct 9, 2024",
+   "description": "The Greeks were humanity's most creative civilization.  Homer's Iliad and Odyssey are timeless classics, Plato's The Republic continues to inspire, and Thucydides are still read by military officers in search of strategic insights.\n\nWhy were the Greeks so creative?\n\nJiang Xueqin explains to his Chinese high school students there are three main factors:\n1.) the polis\n2.) the alphabet\n3.) Homer\n\nAfter the destruction of Mycenaean Greece at the end of the Bronze Age, Greece became divided into thousands of diverse city-states that competed against each other.  The alphabet marked a revolution in human cognitive abilities, combining the advantages of an oral culture (imagination, memory, and emotions) with that of a literary culture (logic, discipline, and reflection).  \n\nFinally, Homer's Iliad marked an intellectual revolution.  Homer taught the Greeks empathy and imagination, and thus a new way of being human."
+  },
+  "QwfB-vXXKWU": {
+   "title": "Civilization #6:  Elite Overproduction and the Bronze Age Collapse",
+   "date_text": "Oct 8, 2024",
+   "description": "In this lecture Jiang Xueqin explores with his Chinese students why the Bronze Age collapsed.\n\nIn the year 1200 BCE the world was globalized and prosperous.  Nations shared people, ideas, and goods.  A few decades later, the Bronze Age collapsed.  Mycenaean Greece and Hittite Anatolia were destroyed, and the Sea Peoples ravaged Egypt.  \n\nScholars disagree on what caused this collapse.  Some argued it was a northern invasion, while others believed there was a cataclysmic natural disaster.  The scholarly consensus now is this systems collapse was brought on by a perfect storm of earthquakes, climate change, and internal revolts.   \n\nJiang Xueqin argues that Peter Turchin’s theory of “elite overproduction” is a more convincing theory.  Once vibrant empires had devolved into rentier economies, and had become less resilient against external and internal shocks.  Rather than being an outlier, the Bronze Age collapse would find itself repeated throughout human history."
+  },
+  "J4HTFJWl5D8": {
+   "title": "Civilization #5:  The Yamnaya Conquest of Europe",
+   "date_text": "Sep 11, 2024",
+   "description": "Homo sapiens originated in Africa 300,000 years ago, and for the vast majority of our history we were egalitarian, peaceful, and artistic.  So where did concepts of patriarchy, war, and private property come from?\n\nThe Yamnaya people are nomadic pastoralists who originated in the Eurasian Steppes.  They worshipped the Sky Father, and excelled at waging war.  Slowly, their culture spread throughout the Steppes before conquering Europe, Iran, and India."
+  },
+  "RaT_ZUDjHrM": {
+   "title": "Civilization #4:  The Paradise Lost of Marija Gimbutas",
+   "date_text": "Sep 10, 2024",
+   "description": "For centuries, linguists have believed that most European languages have so many similarities that they must have originated from a mother language, which is referred to as \"Proto-Indo-European.\"  Decades of work in linguistics have confirmed the existence of this language.  But how did this language spread?  \n\nThe Lithuanian anthropologist Marija Gimbutas proposed her Kurgan Hypothesis, and argued that Old Europe was an egalitarian, peaceful, and artistic civilization that was conquered by a patriarchal, hierarchal, and warlike culture."
+  },
+  "VanPH0GFTsA": {
+   "title": "Civilization #3:  The Religious Imagination",
+   "date_text": "Sep 5, 2024",
+   "description": "Jiang Xueqin examines two case studies that highlight the power of religion.\n\nIn his book \"The Wayfinders,\" the Canadian anthropologist Wade Davis looks at the animistic cosmology and the shamanistic rituals of the Barasana people of the Amazon.  In his book \"The Forest People,\" the British anthropologist Colin Turnbull observes the religion permeates every aspect of the life of the Pygmies. \n\nFor religious people, their collective faith is more real than reality itself, and is the source of all that is good in the world.  \n\nJiang Xueqin argues that throughout most of human history religion is the fundamental basis of who we are.  This idea is illustrated in Paleolithic cave paintings as well as the pillars of Gobekli Tepe."
+  },
+  "x1E5rRmCiT4": {
+   "title": "Civilization #2:  Religion and the Dawn of Society",
+   "date_text": "Sep 3, 2024",
+   "description": "The great French sociologist Emile Durkheim once wrote:  “Religion is above all a system of ideas by which men imagine the society of which they are members and the obscure yet intimate relations they have with it.” \n\nIn this talk, Jiang Xueqin explores the origin and purpose of Paleolithic cave paintings.  He argues that these paintings expressed pre-historic religious beliefs and practices, and they demonstrate that humans have a religious imperative that is just as important as the economic and biological imperatives."
+  },
+  "Jjqf9T59uY0": {
+   "title": "Civilization #1:  Explaining Humanity's Transition to Agriculture",
+   "date_text": "Aug 28, 2024",
+   "description": "In this first lecture, Jiang Xueqin explains to his Chinese high school students  why humans adopted agriculture.\n\nWe now know that there were many consequences due to the transition to agriculture.  Hunter-gatherers had an easier, more healthier, and less disease-prone life.  So why did humans make this sacrifice?  \n\nThough there are many explanations, most scholars believe that it was the religious impulse that drove humans to choose a sedentary life, as evidenced by the archaeological sites of Gobekli Tepe, Jericho, and Catal Hoyuk."
+  },
+  "s_k6esWheqA": {
+   "title": "Geo-Strategy END:  Psychohistory (The Science of Imagining the Future)",
+   "date_text": "Jun 13, 2024",
+   "description": "In his June 13, 2024 class, Jiang Xueqin concludes his Geo-Strategy course by discussing how to use AI to chart a better future for humanity:\n\nIn his Foundation series, Isaac Asimov introduces the science of psychohistory.  Is it really possible to predict the future by mathematically modeling historical development?\n\nBy mathematically modeling history, \"Cliodynamics\" has revealed interesting patterns.  For example, Peter Turchin has discovered that it's the \"over-production of elites\" that drives social upheaval.  \n\nThe advent of AI presents new possibilities for the mathematical modeling of history, and can even help us achieve psychohistory. \n\nBut to do so would require decades of painstaking research and analysis.  It would also mean overturning the entire field of history, and looking at all of the past with a more critical and nuanced eye.  \n\nFinally, much of this research and development can only happen in a time of global collapse, when all of humanity is united in creating an open, progressive, and democratic future.  \n\nIn his final message to his students, Jiang Xueqin stresses that the future is not something that happens -- it is something that has to be imagined and fought for."
+  },
+  "Go1bMQKnJBQ": {
+   "title": "Geo-Strategy #11:  The Second American Civil War",
+   "date_text": "Jun 6, 2024",
+   "description": "In his June 7, 2024 class, Jiang Xueqin explores how and why America would fight a second Civil War:\n\nRight now, America is suffering three trends that make civil war more and more likely:\na.)  Increasing political polarization driven by the culture wars and inequality.\nb.)  Breakdown of the narratives that bind America, especially the American Dream and liberalism. \nc.)  Growing distrust of America's national institutions, including the government, media, science, military, universities, and justice system.\n\nIf Trump wins in November, we can expect riots and civil unrest.  If Trump refuses to step down in 2028, we can expect a civil war to blow up."
+  },
+  "B_al2wgk49Y": {
+   "title": "Geo-Strategy #10:  Putin's Strategic Imagination",
+   "date_text": "Jun 5, 2024",
+   "description": "In his June 5, 2024 class Jiang Xueqin explains Putin's strategic genius:\n\nIn February 2022 Putin invaded Ukraine.  At first, the war did not go well, and the United States had a three-point plan to defeat Putin:\n1.)  Equip Ukraine to defeat the Russian army.\n2.)  Sanction Russia, and cause it to economically implode.\n3.)  Isolate Russia, and turn it into a pariah state.\n\nToday, we recognize that this strategy has failed, and Putin is triumphant:\n1.)  The Russian army is dominant in Ukraine.\n2.)  The Russian economy is stronger than ever.\n3.)  Putin enjoys more international influence than ever.\n\nPutin's ultimate strategic aim is to destroy the American empire.  He will succeed if:\n1.)  America continues to over-extend itself militarily.  \n2.)  America remains addicted to debt. \n3.)  America becomes increasingly politically polarized."
+  },
+  "AEPSUC-UQ5k": {
+   "title": "Geo-Strategy #9:  Putin's War for the Soul of Russia",
+   "date_text": "May 30, 2024",
+   "description": "In his May 31, 2024 class, Jiang Xueqin explains why Putin is preparing to mobilize Russian society for total war:\n\nPutin's favorite philosopher Aleksandr Dugin believes that Russia and the West are fighting Samuel Huntington's War of Civilizations in Ukraine.  What does he mean by this?  \n\nIn the late eighties, Francis Fukuyama published his \"End of History?\" essay, which argued that liberal democracy and consumerism are humanity's best conception of itself, and therefore history has ceased to be a dialectical argument.  \n\nBoth Dugin and Putin believe that Western consumerism is a poison pill that has corrupted Russian society.  It has manipulated Russians into betraying their own civilization, and this betrayal has led to political corruption, rampant alcoholism, and a declining population.  \n\nIn the war against Ukraine, Putin has discovered that continuous war can rejuvenate the Russian soul.  He is intent on channeling Russia's \"warrior\" culture to fight against consumerism."
+  },
+  "7y_hbz6loEo": {
+   "title": "Geo-Strategy #8:  The Iran Trap",
+   "date_text": "May 28, 2024",
+   "description": "In his May 29, 2024 class, Jiang Xueqin explains that an American invasion of Iran would be a catastrophic mistake:\n\nIf Trump were to win a second term, he would likely contemplate invading Iran.  While an initial invasion would seem successful, American forces would quickly become bogged down in Iran's mountainous terrain.  \n\nThe American invasion would be similar to Athens' invasion of Sicily in 415 BCE, as described in Thucydides' The Peloponnesian War.  Despite its initial successes, the Athenians couldn't re-supply themselves, and their entire expedition was wiped out.\n\nThis disastrous defeat turned the war in Sparta's favor, and spelled the downfall of the Athenian empire.  \n\nCould the American empire in Iran suffer the same fate as the Athenian empire in Sicily?"
+  },
+  "LsRGvKxfLts": {
+   "title": "Geo-Strategy #7:  Who Killed Iranian President Ebrahim Raisi?",
+   "date_text": "May 24, 2024",
+   "description": "In his May 24, 2024 class Jiang Xueqin examines if Iran President Ebrahim Raisi's death was an accident or an assassination:  \n\nOn May 19, Iran President Raisi's helicopter crashed into the mountains, killing all nine on board.  Most experts believe it was a weather-related accident.  \n\nThere are skeptics who believed that powerful forces within Iran stood to gain from Raisi's death.  Raisi was expected to become the next Iranian supreme leader, and now Mojtaba Khamenei (the current Ayatollah's second son) is the favorite.  \n\nUnder the current Ayatollah, the 250,000-strong Islamic Revolutionary Guard Corps (IRGC) have dominated Iran's economy, politics, and foreign policy.  Their critics believe they have inflamed tensions in the Middle East, while causing stagnation and corruption at home.  \n\nIf Raisi were to have become Ayatollah, he would have to attempt to curb the power and influence of the IRGC in order to establish his own authority.  Because Mojtaba Khamenei would be inexperienced and unpopular, he would have to rely on the support of the IRGC.\n\nThis would allow the IRGC to pursue its most ambitious foreign policy goals, which would ultimately force a confrontation between the United States and Iran."
+  },
+  "JieFC4Yww4o": {
+   "title": "Geo-Strategy #6:  America's Imperial Hubris",
+   "date_text": "May 21, 2024",
+   "description": "In his Wednesday, May 22 class, Jiang Xueqin explains to his Chinese high school students the strengths and weaknesses of the American military doctrine \"Shock and Awe\":\n\nIn 2003, the American military used a revolutionary military doctrine called \"Shock and Awe\" in its Operation Iraqi Freedom.  \"Shock and Awe\" combined American air supremacy, technological omniscience, and special forces into a deadly package that won the war in three weeks, with less than 200 American casualties.  \n\nThis new doctrine is ultimately a response to the failures of the Vietnam War, in which 58,000 Americans died over eight years.  \"Shock and Awe\" permits America to fights wars quickly, cheaply, and decisively, which avoids public outrage, media scrutiny, and political flip-flopping.  As such, \"Shock and Awe\" is not just a theory of war -- it's ultimately a theory of empire.  America can now covertly defend its empire everywhere and anywhere. \n\nBut \"Shock and Awe\" also means that America is over-committed, is lacking in strategic discipline, and is overcome with hubris.  This may lead America to head into a disaster of its own making."
+  },
+  "exRK-85630k": {
+   "title": "Geo-Strategy #5:  Why Trump Will Win (And Pick Nikki Haley as VP)",
+   "date_text": "May 16, 2024",
+   "description": "In his Friday, May 17, 2024 class, Jiang Xueqin explores who will win the US Presidential election in November:  \n\nJoe Biden's 2020 coalition of college-educated professionals, minority voters, twenty-somethings, and suburbanites may not hold in 2024.  Voters are upset about inflation, illegal immigration, and foreign policy direction.\n\nIf Trump picks Nikki Haley to be his running mate, he has a very good chance of winning the suburbs, and thus the Presidency.\n\nBecause of her ties to anti-Iranian organizations, Nikki Haley may become the fiercest advocate for escalation with Iran in the Trump White House."
+  },
+  "LctUcVqhhns": {
+   "title": "Geo-Strategy #4:   Saudi Arabia's Trump Card Against Iran",
+   "date_text": "May 15, 2024",
+   "description": "In his May 15, 2024 class Jiang Xueqin explains to his Chinese high school students the rivalry between Iran and Saudi Arabia:\n\nAt the beginning of 1979 Saudi Arabia and Iran were friendly with each other.  Both were America-aligned oil-exporting monarchies.  Iran’s Islamic Revolution was a political earthquake that promised to topple the entire Middle East political order.  \n\nEver since Saudi Arabia and Iran have been bitter religious, economic, and geo-political rivals.  After America’s 2003 invasion of Iraq Iran seemed dominant.  In 2015 Riyadh was shaken to its core when Obama reached a nuclear deal with Tehran.  \n\nThen Saudi Arabia’s crown prince Muhammad bin Salman won over the Trump White House.  Trump made Saudi Arabia his first foreign visit, and scuttled Obama’s nuclear deal.  In January 2020 Trump ordered the assassination of Qasem Soleimani, which brought Iran and America to the brink of war.\n\nIf Trump wins in November, tensions in the Middle East can only promise to escalate."
+  },
+  "_blj8zKdKgA": {
+   "title": "Geo-Strategy #3:  How Empire is Destroying America",
+   "date_text": "May 10, 2024",
+   "description": "In his May 5, 2024 class, Jiang Xueqin explains to his Chinese high school students how empire is eroding the stability and vitality of the American Republic:  \n\nFrom 1950-1980, America's manufacturing sector accounted for 40 percent of GDP, employed 30 percent of its workforce, and enjoyed 40 percent of total profits.  Today, it's only 10 percent of GDP, and the financial services sector is ascendant.  Financial services account for 22 percent of GDP, enjoy 40 percent of profits, and employs 5 percent of America's workforce.  \n\nThis trend has led to income inequality, divisive politics, and economic volatility.  Young people feel they are being left behind, the best and brightest are flocking to Wall Street, and corporations are focused more on financial engineering than on innovation.   \n\nWhat's driving this trend?  America's empire, which is causing foreign money to flood its economy.  \n\nAnd as the empire becomes addicted to easy money it may have to fight a war to defend the petrodollar."
+  },
+  "lkKrZq4YdqY": {
+   "title": "Geo-Strategy#2:  Christian Zionism and the Middle East Conflict",
+   "date_text": "May 7, 2024",
+   "description": "In his April 30, 2024 class, Jiang explains the origins and thinking of Christian Zionism, and how it is driving conflict in the Middle East.\n\nHe argues that while most Christians consider Christian Zionism to heretical,  it has the most potential to capture people's imagination due to the instability, uncertainty, and extremity of the times we live in today."
+  },
+  "xEEpOxqdU5E": {
+   "title": "Geo-Strategy #1:  Iran's Strategy Matrix",
+   "date_text": "Apr 24, 2024",
+   "description": "On April 24, 2024, Jiang Xueqin explains to his Chinese high school students Iran's geo-political strategy.  Because the United States has military dominance, Iran must conduct asymmetrical warfare, and ask four questions with all its actions:\n\na.) Does this action make my population more confident and united?\nb.) Does this action help me consolidate trust and solidarity with my allies?\nc.) Does this action help me win global opinion?\nd.) Does this action weaken the resolve and solidarity of my enemies?  \n\nJiang Xueqin argues that Iran's \"Operation True Promise\" achieved Iran's strategic objectives, and Iran's strategy matrix will determine all its responses moving forward."
+  },
+  "Gp9Hv1PXx0o": {
+   "title": "Jiang Xueqin Teaching Gay Talese Research Method (Introduction)",
+   "date_text": "Jun 21, 2023",
+   "description": "Gay Talese is the greatest journalist of all time.  On May 16, 2023 in Beijing, Jiang Xueqin teaches his Chinese students how Gay Talese became so.  He explains the Gay Talese Research Method of EXPLORATION (the pursuit of curiosity) and REFLECTION (the pursuit of perfection).  He argues that literary journalism is a process of \"imagining the truth\" by \"deeply engaging in reality.\"  He believes that every student in every school should learn to research like Gay Talese in order to be their creative best."
+  },
+  "TZHsSDiNoJ0": {
+   "title": "Dante Livestream #12 Final (Saturday, June 27 10AM)",
+   "date_text": "Streamed live on Jun 26, 2026",
+   "description": ""
+  },
+  "ynMurcuyLoY": {
+   "title": "Dante Livestream #11 (Friday, June 26 10AM)",
+   "date_text": "Streamed live on Jun 25, 2026",
+   "description": ""
+  },
+  "O2f-XTdVeIo": {
+   "title": "Dante Livestream #10 (Thursday, June 25 9AM)",
+   "date_text": "Streamed live on Jun 24, 2026",
+   "description": ""
+  },
+  "VIo-EBsYVUo": {
+   "title": "Dante Livestream #9 (Wednesday, June 24 10AM)",
+   "date_text": "Streamed live on Jun 23, 2026",
+   "description": ""
+  },
+  "esoTLV4-ibM": {
+   "title": "Dante Livestream #8 (Tuesday, June 23 10AM)",
+   "date_text": "Streamed live on Jun 22, 2026",
+   "description": ""
+  },
+  "Qod_GuAmObc": {
+   "title": "Dante Livestream #7 (Monday, June 22 10AM)",
+   "date_text": "Streamed live on Jun 21, 2026",
+   "description": ""
+  },
+  "0y_GezhRJr0": {
+   "title": "Dante Livestream #6 (Sunday, June 21 10AM)",
+   "date_text": "Streamed live on Jun 20, 2026",
+   "description": ""
+  },
+  "R526_WuG3mE": {
+   "title": "Dante Livestream #5 (Saturday, June 20 10AM)",
+   "date_text": "Streamed live on Jun 19, 2026",
+   "description": ""
+  },
+  "dsFMYuE7DKk": {
+   "title": "Dante Livestream #4 (Thursday, June 18 10AM)",
+   "date_text": "Streamed live on Jun 17, 2026",
+   "description": ""
+  },
+  "04ngQzYqgPw": {
+   "title": "Dante Livestream #3 (Wednesday, June 17 10AM)",
+   "date_text": "Streamed live on Jun 16, 2026",
+   "description": ""
+  },
+  "PscXuHPRWQ8": {
+   "title": "Dante Livestream #2 (Tuesday, June 16 10AM)",
+   "date_text": "Streamed live on Jun 15, 2026",
+   "description": ""
+  },
+  "xUG-nSlD8H4": {
+   "title": "Dante Livestream #1  (Monday, June 15 morning)",
+   "date_text": "Streamed live on Jun 14, 2026",
+   "description": ""
+  }
+ }
+}

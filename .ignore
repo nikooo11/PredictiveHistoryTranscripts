@@ -1,0 +1,2 @@
+# Keep the untouched archive out of default ripgrep/Grep searches; search it by passing source/ explicitly.
+source/

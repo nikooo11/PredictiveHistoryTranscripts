@@ -1,0 +1,338 @@
+---
+title: "Game Theory #14:  The Law of Proximity"
+series: "Game Theory"
+episode: 14
+date: "2026-03-18"
+date_kind: "published"
+video_id: "nOQqGy4boBY"
+url: "https://www.youtube.com/watch?v=nOQqGy4boBY"
+duration: "49:52"
+words: 6599
+punctuated_captions: true
+duplicate_of: null
+source_edited: "source/lightly edited/transcripts/Game Theory/047 — Game Theory #14 The Law of Proximity [nOQqGy4boBY].md"
+---
+
+# Game Theory #14: The Law of Proximity
+
+Game Theory · Published 2026-03-18 · 49:52 · 6,599 words · [Watch on YouTube](https://www.youtube.com/watch?v=nOQqGy4boBY)
+
+## YouTube description
+
+> In this Thursday, March 19, 2026 lecture to his Beijing high school students, Professor Jiang explains how internal conflicts determine foreign wars.
+
+## Transcript
+
+[00:00](https://youtu.be/nOQqGy4boBY?t=0) Last night there was a major escalation in this war. So the Israelis have bombed the Iranian oil fields and in response the Iranians now are attacking the energy infrastructure of the GCC. Okay. So let's have a look at what this attack looks like.
+
+[00:23](https://youtu.be/nOQqGy4boBY?t=23) >> Hello you guys. >> This is Qatar. Oh my god. Oh >> Okay, so Qatar provides 20% of the world's LNG.
+
+[00:52](https://youtu.be/nOQqGy4boBY?t=52) And this is a major escalation. And again as I pointed out last class the entire strategy of Iran is to destroy the global economy. Okay. And this is how it would do so.
+
+[01:06](https://youtu.be/nOQqGy4boBY?t=66) It also attacked Tel Aviv in response for the assassination of their de facto leader Ali Lejani. Okay. So this is what the attack looks like. As you can see from this picture, this is a cluster warhead and it is impossible for air defense to stop this.
+
+[01:30](https://youtu.be/nOQqGy4boBY?t=90) So, Tel Aviv is getting pummeled. We don't have footage because it's being censored right now. And you would think that the Israelis would want this war to end as soon as possible because Tel Aviv and other cities are getting destroyed in this war. And again, there's really no way for the Israelis to defend themselves against Iranian ballistic missiles.
+
+[02:01](https://youtu.be/nOQqGy4boBY?t=121) But unfortunately there are many Israelis who are very happy about all this destruction. All right. And so this is one of the more influential rabbis in Jerusalem. He's talking in Hebrew.
+
+[02:25](https://youtu.be/nOQqGy4boBY?t=145) What he's saying is that this war of destruction it will bring about the return of the sorry not the return the coming of the Messiah and it will happen on Thursday which is today. Okay. So they are not at all saddened by what is happening. In fact they are quite animated.
+
+[02:48](https://youtu.be/nOQqGy4boBY?t=168) They're very excited about what's happening. So again you cannot look at this war from a geopolitical lens. You have to look at it from an esqueological perspective. All right.
+
+[03:00](https://youtu.be/nOQqGy4boBY?t=180) So let us look at where we are in the war so far. And as you can see it is a regional war and both sides are seeking maximalist objectives. And what this means is the United States and Israel wants to destroy Israel especially its capacity to be a nation state. And so right now the Americans and Israelis are attacking their leadership, decapitating their leadership as well as targeting their economy.
+
+[03:31](https://youtu.be/nOQqGy4boBY?t=211) And later on as this war progresses and escalates, they will start to target in civilian critical infrastructure including water. Okay? And it's already happening. They also want to have a divide and rule strategy where they want to provoke ethnic conflict in Iran and divide Iran up into ethnic enclaves and this is what we call bulcanization.
+
+[04:00](https://youtu.be/nOQqGy4boBY?t=240) The Iranians on the other hand want to destroy the entire global economy. You do that by attacking the energy infrastructure of the GCC because again the entire basis of the global economy is cheap energy. Okay. So as this war progresses you will notice certain things.
+
+[04:18](https://youtu.be/nOQqGy4boBY?t=258) So eventually the Americans will have no choice but to launch a ground invasion. And one possible attack vector is here which is Car Island. This is where Iran stores about 9% of its oil for export.
+
+[04:39](https://youtu.be/nOQqGy4boBY?t=279) And so the idea is that if you take Car Island, you will destroy the Iranian economy and thus its capacity to sustain this war. The problem with Clark Island is that it's easy to take, but it's hard to defend because of the coastline, right? Which case you have to also take the coastline, but then you deal with the Zagos mountains and so you have to expand outwards. Okay?
+
+[05:04](https://youtu.be/nOQqGy4boBY?t=304) So this is what we call mission creep where you cannot justify the war. So what you do is you put in some soldiers and then the mission creep becomes just justification for the war. Okay. So that's one thing to spot as you read the news.
+
+[05:24](https://youtu.be/nOQqGy4boBY?t=324) Car island will be a flash point. Another flash point will be Saudi Arabia because right now the Iranians are attacking Saudi Arabia. Now what Saudi Arabia can do is declare war on Iran. This is important because Saudi Arabia has a mutual defense path with Pakistan so that if any are attacked the other is obligated to come to each other's defense.
+
+[05:51](https://youtu.be/nOQqGy4boBY?t=351) This is important because as you can see Pakistan opens up the eastern front. Okay, so it's possible the Americans can attack from the east. The other the other thing that's important is that Pakistan has nuclear weapons and it is possible nuclear weapons are used. I again I strongly believe tact tactical nuclear weapons will not be used.
+
+[06:16](https://youtu.be/nOQqGy4boBY?t=376) But once Pakistan is in the war, nuclear warheads are now at play. Okay. Another thing to watch is how this war expands elsewhere.
+
+[06:26](https://youtu.be/nOQqGy4boBY?t=386) Because when the time is appropriate, what will happen is that the Iranians will activate their proxies the Houthies and they will close off another critical choke point. Okay. So now what hap what's going to happen is that there'll be two critical maritime choke points that are closed off thus isolating the GCC and thus cutting off the world's access to cheap energy.
+
+[06:56](https://youtu.be/nOQqGy4boBY?t=416) And when they do that, we can expect global retaliation and other forces will have to come in to secure cheap energy. Okay. It is possible the South Koreans, the Japanese are forced into this war because they are so dependent on GCC energy. All right.
+
+[07:15](https://youtu.be/nOQqGy4boBY?t=435) So these are things that we will look for in next few weeks. Something else that is creating attention on online is people are speculating that Benjamin Netanyahu is dead. And the reason why is that he's not been seen in a public setting for many days.
+
+[07:40](https://youtu.be/nOQqGy4boBY?t=460) There have been cabinet meetings and Netanyahu usually cheers them and he's not there. Okay. The other thing is that there are fake AI videos of him giving speeches and it's pretty blatant. These are fake.
+
+[07:55](https://youtu.be/nOQqGy4boBY?t=475) So people are speculating that he is dead and they're trying to cover it up. U this is a picture of him visiting a cafe in Jerusalem to prove he's not dead. The problem is that this cafe is in a mountain and it will take him about like 50 minutes to drive there. So why does he go there?
+
+[08:17](https://youtu.be/nOQqGy4boBY?t=497) Why doesn't he just have a cabinet meeting or get on the phone with Donald Trump to prove he's still alive? All right. So, but I personally don't believe he is dead. He could be hiding somewhere or he could be injured.
+
+[08:32](https://youtu.be/nOQqGy4boBY?t=512) What we do know is that the Iranians are killing a lot of senior Israeli officials, including the head of Mossad, the spy agency, and Na Yahoo's residence was also targeted in Tel Aviv. So that's so that's a really interesting question. How the Iranians able to target so many so many of the top leadership of the Israelis. Okay.
+
+[08:52](https://youtu.be/nOQqGy4boBY?t=532) But not only that, but u this is Ali Larajani and he is the head the de facto head of the Iran war effort and he was assassinated yesterday or two days ago and the Iranians have confirmed this. Okay. So he is confirmed to be dead and people analysts are extremely worried about this because he is a very pramatic person and so you can negotiate with him right so once this war reaches a certain point where both sides are exhausted then it is possible to approach him and say you know what let's just negotiate a ceasefire and he'd be willing to because he's very experienced He's also very influential. So he's able to bring together the different factions of the Iranian government and negotiate a ceasefire.
+
+[09:47](https://youtu.be/nOQqGy4boBY?t=587) With him dead, it is now almost impossible to foresee a ceasefire. Okay. So let's discuss why you really don't want to do this sort of stuff. You don't really want to kill other nations leaders.
+
+[10:06](https://youtu.be/nOQqGy4boBY?t=606) And so you let's just use a analogy. Let's imagine in the streets there are two gangs at war with each other. Okay?
+
+[10:16](https://youtu.be/nOQqGy4boBY?t=616) Gang A and gang B. Okay? Gang A, gang B. And if you look at gangs, they are structured as hierarchies.
+
+[10:26](https://youtu.be/nOQqGy4boBY?t=626) But there's a lot of autonomy among the different sections. Okay? And what holds the gangs together of course is the leader.
+
+[10:38](https://youtu.be/nOQqGy4boBY?t=638) So when these two gangs go to war, what they try to avoid is killing each other's leader. Why? Because a war is often used to achieve certain political objectives, right? And so the point isn't to kill everyone.
+
+[10:54](https://youtu.be/nOQqGy4boBY?t=654) The point is to negotiate a treaty that is most beneficial to you and you do that by negotiating wi with each other's leaders. Okay? Because they have the authority to implement the treaty. That's the first reason.
+
+[11:07](https://youtu.be/nOQqGy4boBY?t=667) The second reason is if you kill the leader then more people there'll be a competition to replace the leader. Right? And during a gang war, the person who is most violent, the most extreme will often become the new leader. Okay?
+
+[11:31](https://youtu.be/nOQqGy4boBY?t=691) So by killing this leader, not only do you cause conflict among the gang, but you also cause a massive escalation and a conflict between these two gangs. And there's really no way out. That is why historically you do not target other nations leaders because then there's no off-ramp. Okay.
+
+[11:55](https://youtu.be/nOQqGy4boBY?t=715) So by targeting larjani the Israelis and the Americans have ensured that there will be no offramp. Now this war we fought to the bitter end and unfortunately as we discussed previously that is the objective here. The Israelis and the Americans are interested in maximalist aims to destroy Iran permanently. Okay?
+
+[12:19](https://youtu.be/nOQqGy4boBY?t=739) And the Iranians are also maximist and that they want to destroy the global economy permanently in order to restructure reality itself. All right. Okay. So this leaves us with three major questions that I want to look at today.
+
+[12:34](https://youtu.be/nOQqGy4boBY?t=754) The first big question is how are these leaders dying? It's not that easy to kill a leader, right? Because he's protected by security.
+
+[12:50](https://youtu.be/nOQqGy4boBY?t=770) And usually we there are two ways to figure out where the leader is. Okay? There's human intelligence called humanit. And there's signal intelligence called signant.
+
+[13:04](https://youtu.be/nOQqGy4boBY?t=784) Human intelligence, signal intelligence. Signal intelligence just means electronic easedropping where I listen in on your telephone calls where I track your IP address. Okay.
+
+[13:12](https://youtu.be/nOQqGy4boBY?t=792) And the Israelis Americans are obviously very sophisticated in that. And the Americans in the Israelis are saying we are using electronic surveillance in order to track these people down. I don't think that's convincing. I think the most import the most important source the most reliable source of information is human intelligence.
+
+[13:34](https://youtu.be/nOQqGy4boBY?t=814) Having spies embedded in local networks to spot for you where they are. Okay, that's the most that's the best way to figure out where they are. So then this raises the question, how are the Israelis and Americans getting this human intelligence? Okay.
+
+[13:53](https://youtu.be/nOQqGy4boBY?t=833) That's the first question we want to look at. How are these leaders dying? Second question is like why are they dying?
+
+[14:03](https://youtu.be/nOQqGy4boBY?t=843) Like what's the point of killing them, right? Because once they die, they can just be replaced and they're often replaced by a more extreme individual. Okay, so that's the second question we want to look at. And the third question we want to look at is what does this mean for the war and the world?
+
+[14:32](https://youtu.be/nOQqGy4boBY?t=872) What do these decapitation strikes ultimately mean for how this war will progress and how this will affect the world the world in general? Okay. All right.
+
+[14:44](https://youtu.be/nOQqGy4boBY?t=884) So those are the three big questions I want to look at. So to answer these three questions, I want to introduce a new idea to you. Okay. It's called the law of proximity.
+
+[14:58](https://youtu.be/nOQqGy4boBY?t=898) The law of proximity. The idea is this. Whenever you play a game, you're not just playing one game. You're playing many, many different games.
+
+[15:06](https://youtu.be/nOQqGy4boBY?t=906) And the game that you choose to play is the one that is most proximate to you, the one that is close, most close to you. And that impacts your decision-m the most. Okay, so that's a lot of proximity. So let me explain to you what this means using an analogy.
+
+[15:26](https://youtu.be/nOQqGy4boBY?t=926) Let's just use your life. You are play actually multiple games every single day. All right. So let's examine this.
+
+[15:33](https://youtu.be/nOQqGy4boBY?t=933) The first game you play of course is the family game, right? So you might have parents and you have siblings. Okay? And the game you're playing of course is to win attention from your parents.
+
+[15:46](https://youtu.be/nOQqGy4boBY?t=946) And to do so, depending on who your siblings are, you might use different strategies, including doing well in school or being a pain in the ass. Unfortunately, my kids choose to be a pain in the ass. Okay. Yes, the parents are playing another game, which is social prestige, right?
+
+[16:14](https://youtu.be/nOQqGy4boBY?t=974) So, they're competing against other parents to have the best family possible. All right. So, and then not only do you play a game at home, but you also play games at school, right? Right.
+
+[16:28](https://youtu.be/nOQqGy4boBY?t=988) So, when you go to school, you're competing at your classmates for attention and popularity, but you're also playing a game in the school to get the best grades so that you can get into a good college, right? Then you go to work where you're competing in order to win the favor of your boss and to be popular among your colleagues. Then you play a city game where you live in Beijing and you want Beijing to be better than maybe Shanghai or Shenzhen. Okay?
+
+[17:02](https://youtu.be/nOQqGy4boBY?t=1022) And then you play a game of maybe a nation where you want China to be stronger than Japan. Okay? So as you can see every single day you're playing multiple games even though even though you may not recognize it and again what's important is the game that is most important to you is the game which you are most close to right the one that you can see in front of you. Okay does that make sense?
+
+[17:29](https://youtu.be/nOQqGy4boBY?t=1049) But this is also true for nations as well where we think that the game is between nations but really the game is within nations and the conflict within nations is the one conflict that determines how nations behave against each other. All right. So we so today what we will do is we will look at three examples of this.
+
+[18:04](https://youtu.be/nOQqGy4boBY?t=1084) We will look at the civil conflicts in America, in Israel and in Iran to figure out why they behave the way they do and then figure out how this war will progress. Okay. So clearly there is a civil conflict right now in America.
+
+[18:21](https://youtu.be/nOQqGy4boBY?t=1101) You have the Democrats and you have the Republicans. Now, what's odd is that even though these two different political parties are at war with each other, they both support the war because their calculus is different. Okay.
+
+[18:37](https://youtu.be/nOQqGy4boBY?t=1117) So, why do the Democrats support this war? Well, it's because they believe that this war will be extremely unpopular in America, which will allow the Democrats to dominate in the midterms in November and then win the president presidential election in 20 28. And they believe that this will be so unpopular, it will destroy Donald Trump and allow Democrats to rule forever. It will basically destroy the Republican party.
+
+[19:11](https://youtu.be/nOQqGy4boBY?t=1151) And so that is your strategy. And if you think about it, it actually makes a lot of sense. The Republicans have a different strategy, which is this war may be unpopular and this war may make America lose, but it's okay.
+
+[19:33](https://youtu.be/nOQqGy4boBY?t=1173) Why? Because in a time of war, the president has something called the emergency powers act. Okay? Emergency powers.
+
+[19:48](https://youtu.be/nOQqGy4boBY?t=1188) Emergency powers allows the president to essentially suspend the constitution and to suspend or delay elections. Also, the Republicans want to call pass something called Safe America Act. Okay. The Save America Act which means that if you are a voter you must present ID in order to vote and you think that this is well reasonable.
+
+[20:23](https://youtu.be/nOQqGy4boBY?t=1223) But historically the idea of checking ID is a way to discriminate against minorities, right? To have police officers there to scare minorities and that's traditionally how racism was enforced in America. Okay. So in other words, the Republicans have many different strategies of either cheating or manipulating the elections.
+
+[20:50](https://youtu.be/nOQqGy4boBY?t=1250) They can also I have to say this but if the war is going really badly what they will do is call a national draft and cancel the elections. Okay. All right. So these are two different strategies going on.
+
+[21:02](https://youtu.be/nOQqGy4boBY?t=1262) But as you can see this is not really about America defeating Iran. This is really about the Democrats or Republicans trying to obtain power and keep it. Okay. All right.
+
+[21:17](https://youtu.be/nOQqGy4boBY?t=1277) But what's important for us to understand is that it's not just about the Democrats and Republicans at war with each other. There's actually a much deeper divide in America. Okay? And this divide is a conflict between the elite and the counter elite.
+
+[21:39](https://youtu.be/nOQqGy4boBY?t=1299) Remember how we introduced the idea of elite over production, right? This is a Peter Turin idea. And he argues that what leads to civil war is that you have too much too many elite who want to be the ones in power. Power is a zero sum game.
+
+[21:59](https://youtu.be/nOQqGy4boBY?t=1319) And therefore when you have elite over production, they have to go to war against each other in order to have the power. Okay. And so what's going on? Who are the elite and who's the counter lead?
+
+[22:13](https://youtu.be/nOQqGy4boBY?t=1333) Well, I mean to put it very simply, the Democrats represent the elite and the Republicans represent the counter elite. Okay? So, the basically the elite is the empire and counter elite is MAGA which is America first. And so they have two different ideals for America.
+
+[22:33](https://youtu.be/nOQqGy4boBY?t=1353) The empire is to maintain a current global order, right? And MAGA is to retreat back into Western Hemisphere and focus on Americans core national interests, right? They're also divided into finance and AI. Okay?
+
+[22:57](https://youtu.be/nOQqGy4boBY?t=1377) So, in other words, Wall Street are the main backers of the current elite and then Silicon Valley are the main backers of the counter elite. Okay. So this these people are interested in maintaining a the status quo. They are interested in a revolution, right?
+
+[23:22](https://youtu.be/nOQqGy4boBY?t=1402) And so this is the main divide in America that will eventually lead to a civil war like an actual civil war. Okay? But right now they're fighting over foreign policy. So I will discuss this more in the future.
+
+[23:36](https://youtu.be/nOQqGy4boBY?t=1416) But I want I present it to you now. So let me give you concrete example of why they're fighting. Why are people finance fighting with people in AI?
+
+[23:49](https://youtu.be/nOQqGy4boBY?t=1429) And there's a very good reason because if you're able to control Washington DC, if you're able to control the levers of government, you're able to make a lot of money for yourself. Okay? So let's look at this concretely. Okay.
+
+[24:10](https://youtu.be/nOQqGy4boBY?t=1450) What people don't really understand is that both finance and AI are bubbles that will burst. They're parasites. Okay. So, finance is a parasite because there's something called a private credit bubble.
+
+[24:30](https://youtu.be/nOQqGy4boBY?t=1470) Private credit bubble it I mean the idea of private credit is very simple. Rather than banks issuing loans to companies, companies privately issue loans to other companies. And you would think that these companies would be very careful with who they lend to and how much they lend to, right?
+
+[24:52](https://youtu.be/nOQqGy4boBY?t=1492) That's not true though. Okay? Why? Because in 20 2008, these banks destroy the global economy and the American government bailed them out, right?
+
+[25:04](https://youtu.be/nOQqGy4boBY?t=1504) They suffered no consequences. This idea of moral hazard. If you do not suffer consequences for your stupidity, well, you're just going to be more stupid in the future. Okay?
+
+[25:14](https://youtu.be/nOQqGy4boBY?t=1514) So these companies believe that we control Washington DC, therefore we can be as risky and stupid as we want. So they're giving out lots and lots of silly loans to companies because they collect a fee for these loans, right? And then when these loans don't actually work out, meaning the companies go bankrupt, what they do is they say, "Oh, we we'll lend you some more money to keep afloat." Okay? So now this problem has reached about $2 trillion.
+
+[25:46](https://youtu.be/nOQqGy4boBY?t=1546) And so they think that okay well worst case scenario the government will bail us out if we all go bankrupt because we're too big to fail and all our friends are in government. Okay that's their mentality. And in 2008 that worked but there's a problem today which is there's also another group that's doing the same crap. Okay?
+
+[26:06](https://youtu.be/nOQqGy4boBY?t=1566) And it's called the AI bubble. All right? So if you look at AI bubble, you have you got companies like Microsoft, Open AI, Oracle, Nvidia, okay, lot lots and lots of different companies. And the way they operate is they just lend money to each other.
+
+[26:26](https://youtu.be/nOQqGy4boBY?t=1586) It's like I give you a billion dollars, then you give me a billion dollars, and now we have $2 billion. Okay? It's a circle jerk.
+
+[26:32](https://youtu.be/nOQqGy4boBY?t=1592) And it's getting a lot of money from the GCC and other investors. The problem of course is what's happening in the war, right? So if the GCC can no longer put more money into this bubble, then eventually this bubble will have to burst. But they're like, that's okay.
+
+[26:51](https://youtu.be/nOQqGy4boBY?t=1611) Why? Because we control Trump. We control the White House. We are the stock market.
+
+[26:59](https://youtu.be/nOQqGy4boBY?t=1619) Therefore, Washington DC will bail us out. Okay? So that's the war going on where you have two parasitic forces, the finance sector and the and the tech sector and there are all looking for government bailouts when their bubble burst. But they the government doesn't have infinite money.
+
+[27:18](https://youtu.be/nOQqGy4boBY?t=1638) It can only build one side, right? So they're going to fight over with the government they're going to fight over who bails who out. Okay? If the Democrats can win the House and the presidency into 2028, then the private credit people will get bailed out.
+
+[27:35](https://youtu.be/nOQqGy4boBY?t=1655) But if Trump and his people stay in power in 2028, then the AI people will get bailed out. Okay? So that's the civil war going on in America right now. We'll discuss this more later in the future, but I just present to you right now.
+
+[27:51](https://youtu.be/nOQqGy4boBY?t=1671) And then of course you have the Israelis Israel people don't really appreciate how divided Israel is. This is about 2020 when you have like a million people in Tel Aviv calling for the resignation the impeachment the jailing of Prime Minister Netanyahu because Nanyahu like most Israeli politicians is very corrupt. Okay.
+
+[28:20](https://youtu.be/nOQqGy4boBY?t=1700) And to avoid going to jail, Nanyahu proposed changing the judiciary, changing the laws. And so there's these massive protests against Nanyahu. And at this point in Israel, it seemed as though Nanyahu was going to fall from power and go to jail for the rest of his life. But then of course October 7th happened.
+
+[28:40](https://youtu.be/nOQqGy4boBY?t=1720) October 7th happened and then we Israel is now in permanent war. That gives him emergency powers. Okay. All right.
+
+[28:49](https://youtu.be/nOQqGy4boBY?t=1729) To give you a sense of how divided Israel is, let's look at the Knesset, which is a parliament. Guys, this is a lot of political parties and as you can see, none of them are dominant. Okay, the biggest loot, which is Nanyahu party, it has about 30 members, but it cannot rule by itself. Therefore, it has to join with other political parties.
+
+[29:12](https://youtu.be/nOQqGy4boBY?t=1752) It has to be a coalition. But look, you look at its enemies. Well, its enemies also have a lot.
+
+[29:19](https://youtu.be/nOQqGy4boBY?t=1759) So, it seems as though Israel is a extremely divided society, and it is. Okay. People don't really appreciate this. You know, a lot of people talk about a Jewish global conspiracy.
+
+[29:29](https://youtu.be/nOQqGy4boBY?t=1769) What people don't really understand is the Jewish people have never ever gotten along. So, you go back to the to the time of Jesus and there were like three major factions in Jerusalem. They were the Seduces, there were the Pharisees and the Essenes. They all hated each other.
+
+[29:46](https://youtu.be/nOQqGy4boBY?t=1786) In the year 70, the Romans sent a huge army to destroy Jerusalem. Okay? And you would think at this time the people in Jerusalem would get together and unite and defend Jerusalem because otherwise they'd all be killed. Well, they didn't get together, okay?
+
+[30:07](https://youtu.be/nOQqGy4boBY?t=1807) And the Romans destroyed Jerusalem and burned down the second temple and massacred a lot of Jews. So the Jews have always had this problem where they're extremely creative and intellectual, but that just leads to massive infighting. Okay. All right.
+
+[30:22](https://youtu.be/nOQqGy4boBY?t=1822) So these are the leaders of the different political parties of Israel. And again, I hate to say this, but like they really hate each other. It's not, you know, like a show. They generally hate each other.
+
+[30:37](https://youtu.be/nOQqGy4boBY?t=1837) And that's why Israel has been politically been so dysfunctional these past few decades. Okay. All right. So now I want to discuss where the major conflict in Israel is.
+
+[30:55](https://youtu.be/nOQqGy4boBY?t=1855) So I would say there like the two major conflict is represented by Tel Aviv and Jerusalem. These are two cities in Israel and they are the two major cities of Israel and they represent two different centers of gravity, two different visions for Israel. Tel Aviv is democratic.
+
+[31:21](https://youtu.be/nOQqGy4boBY?t=1881) Jerusalem is a theocracy meaning it's religious. Okay. Tel Aviv is open meaning it actually has a lot of homosexuals, right? And you can imagine people in Jerusalem aren't happy about this.
+
+[31:36](https://youtu.be/nOQqGy4boBY?t=1896) So they're very conservative. Okay. Okay. Cosmopolitan tradition.
+
+[31:47](https://youtu.be/nOQqGy4boBY?t=1907) So these are two vastly different visions of for Israel where Tel Aviv is this open democratic modern progressive city. Lots of homosexuals, lots of open ideas, very secular, very outward-looking, very western. Jerusalem is complete opposite, okay?
+
+[32:08](https://youtu.be/nOQqGy4boBY?t=1928) Very religious, very conservative. And they again, they hate each other. And the fact that Tel Aviv is getting destroyed right now in this war, people in Jerusalem are actually okay with this, okay? They're not like, "Oh my god, they're killing." No, no, no.
+
+[32:19](https://youtu.be/nOQqGy4boBY?t=1939) Tel Aviv is the great Satan. Let's just destroy it so that we can build a theocracy. Okay. All right.
+
+[32:28](https://youtu.be/nOQqGy4boBY?t=1948) So, let's look closely at where they where they disagree. Okay. So, Israel is a kingdom of David. Okay.
+
+[32:45](https://youtu.be/nOQqGy4boBY?t=1965) But Tel Aviv and Jerusalem perceive David differently. Okay. So, for people in Tel Aviv, David was the king when Israel was at the height of its glory. When it was an open cosmopolitan creative innovative empire and that's what they want Issue to be.
+
+[33:06](https://youtu.be/nOQqGy4boBY?t=1986) The people in Jerusalem see this see David as a different person. They see David as primarily a poet prophet and they see David as the exampler as the favorite of God because he redeemed himself and repented himself in the eyes of God. Okay. So redemption and repentance.
+
+[33:40](https://youtu.be/nOQqGy4boBY?t=2020) And what they focus on is a story of David where David is king and one day he wakes up and finds he's in love with Bashiba. And so he basically has sex with Bashiba. Bashiba gets pregnant and that's a problem because Bashibba is married to someone else, Yuria the Hitite.
+
+[33:59](https://youtu.be/nOQqGy4boBY?t=2039) So what does David do? David has him killed. Okay. And David can do this because he's king.
+
+[34:04](https://youtu.be/nOQqGy4boBY?t=2044) But God finds out and sends the prophet Nathan to tell David, you've sinned. And at first, David refuses to admit that he's in a wrong. But then their son, his child with Bashibba dies, and David falls into tremendous grief. And every day he's praying to God for forgiveness.
+
+[34:27](https://youtu.be/nOQqGy4boBY?t=2067) He's asking for redemption. He is repenting. And God forgives him. And in this process, not only does David become a better person, but he becomes united with God because now they're best friends.
+
+[34:43](https://youtu.be/nOQqGy4boBY?t=2083) Now they talk every day. And that's what the vision for that people in Jerusalem have for Israel, a nation that engages in redemption and repentance. They don't care about this war. Don't care about Iran.
+
+[34:55](https://youtu.be/nOQqGy4boBY?t=2095) They don't care about the United States. Don't care about the Israel project. They care about the Jews finding God again and being loyal to God. And that is what will bring peace to the world.
+
+[35:11](https://youtu.be/nOQqGy4boBY?t=2111) That is how they see the world. This is how they perceive things. They believe that in every person there's a divine soul, okay, that comes from God, but it is it is trapped in the animal soul. Okay, so Tel Aviv is the animal soul.
+
+[35:31](https://youtu.be/nOQqGy4boBY?t=2131) And this is divine soul. All right. So what the animal soul is, you seek material comfort. You want to have sex.
+
+[35:42](https://youtu.be/nOQqGy4boBY?t=2142) You want to get drunk. You want to party. You want to drive a drive a Ferrari. Okay?
+
+[35:47](https://youtu.be/nOQqGy4boBY?t=2147) This is all animal. But inside of you is the vine soul that only seeks to be with God. Okay? And so we are constant in a struggle between the animal soul and the divine soul.
+
+[36:04](https://youtu.be/nOQqGy4boBY?t=2164) And so from their perspective, Tel Aviv represents the animal soul of Israel. Jerusalem represents the divine soul of Israel. So it's okay if there is destroy Tel Aviv. Good.
+
+[36:12](https://youtu.be/nOQqGy4boBY?t=2172) Also they recognize that war is good because if people really want to find God again, they need to suffer. They need they need to lose everything before they recognize the glory of God. Okay. So, think of the book of Job when Job was Job is a character in the Bible who's very wealthy and so God decides, you know what, maybe he's only faithful to me because he's very wealthy.
+
+[36:45](https://youtu.be/nOQqGy4boBY?t=2205) So, Job lose everything and this heightens his faith in God. Okay. So that's the vision that these crazy religious zealots have in Jerusalem, which is like let's destroy Israel so that we can refine, rediscover our love for God. Okay?
+
+[37:04](https://youtu.be/nOQqGy4boBY?t=2224) The destruction of Israel will lead to the redemption and repetence of the Israeli people and therefore peace in this world. The Messiah will finally come. That's why the rabbi was constantly talking about on Thursday Messiah will come because he feels it's so close. There's so much destruction.
+
+[37:28](https://youtu.be/nOQqGy4boBY?t=2248) There's so much war. So the Messiah must come because now the Jews recognize that only God can save them. Therefore, when you will it, when you pray for the Messiah, when you really want in your heart, that's when the Messiah will come. Okay?
+
+[37:43](https://youtu.be/nOQqGy4boBY?t=2263) But you need to create the conditions when people really want the Messiah. Okay? So that's a civil conflict going on in Israel. And again, these people in Jerusalem, these fanatics, they don't really care if the world is destroyed because this world is fake anyway.
+
+[38:03](https://youtu.be/nOQqGy4boBY?t=2283) Who cares? What matters is the divine soul. Okay. Yeah.
+
+[38:10](https://youtu.be/nOQqGy4boBY?t=2290) You have a question. M >> like you said that Messiah is coming today which is Thursday and like >> No, I didn't say that. >> Huh? >> I didn't say that.
+
+[38:24](https://youtu.be/nOQqGy4boBY?t=2304) The rabbi said that. >> Oh the rabbi said that like the Messiah is coming today. But like will the coming of Messiah really affect China and those countries or is all their personal beliefs? >> Okay, listen.
+
+[38:39](https://youtu.be/nOQqGy4boBY?t=2319) I know this is hard for you guys to understand but China doesn't matter. Okay? Only Israel matters. United States, China, Russia does not matter.
+
+[38:49](https://youtu.be/nOQqGy4boBY?t=2329) The only thing that matters is Israel. Okay? Only matters is the people in Israel, the Jews. Their spiritual state will determine the fate of the world.
+
+[38:58](https://youtu.be/nOQqGy4boBY?t=2338) Once the Jews unify with God, then peace and prosperity will come for the rest of the world. Okay? All right. Okay.
+
+[39:13](https://youtu.be/nOQqGy4boBY?t=2353) So, now I want to talk about Iran. Okay. This is the political government structure of Iran. Now, one thing to notice is that it's very complicated.
+
+[39:26](https://youtu.be/nOQqGy4boBY?t=2366) It's divided into the religious aspects okay assembly of experts and the secular aspect which is the government okay so it's a government but the Islamic clerics are at the very top and this is a dual identity of Iran okay and this is the their last presidential election and as you can see it's a pretty divided country where people in the middle voted for Jalali but people in the outskirts voted for peskin. Okay. So there's a lot of conflict in Iran not just political religious but also ethnic as well.
+
+[40:19](https://youtu.be/nOQqGy4boBY?t=2419) So let me explain very quickly what I see is a major divide in Iran. Okay. So, of course, you have the Islamic theocracy.
+
+[40:36](https://youtu.be/nOQqGy4boBY?t=2436) Another conflict with secular nationalists. And now, of course, there ethnic groups as well. I don't really think the ethnic groups matter that much. Okay.
+
+[40:53](https://youtu.be/nOQqGy4boBY?t=2453) What really matters is a conflict between the secular nationalists and the Islamic theocracy. Right? So basically the rural urban divide. People who are well educated and want to see Iran as a secular state that promotes democracy and progress and science versus these religious individuals.
+
+[41:15](https://youtu.be/nOQqGy4boBY?t=2475) Now what happens is that in a war you become more extreme. So what will happen is that is this theocracy will transition into Shia esquetology or martyrdom. Okay.
+
+[41:35](https://youtu.be/nOQqGy4boBY?t=2495) Where they think that this war is about return having the 12th IM Madi who is the basically the Messiah return to lead them to war against the great Satan which is Israel in the United States. Okay. So over time the Islamists will become much more radical. This will force the secular nationalist to also become much more radical as well.
+
+[42:03](https://youtu.be/nOQqGy4boBY?t=2523) So they will become Persian exceptionalists. Okay. What this is means is that Persian exceptionalism which just means that Persia is the greatest civilization in human history and therefore it is worth dying for. It is worth fighting for.
+
+[42:25](https://youtu.be/nOQqGy4boBY?t=2545) The survival of the Persian civilization is much more important than the survival of the Iranian state. Okay. So the great question for the Iranians is are they able to reconcile the differences between these two strands of the culture or will this lead to civil war in Iran? Okay.
+
+[42:50](https://youtu.be/nOQqGy4boBY?t=2570) We are seeing civil war in Israel. We're seeing civil war in America. Iran cannot afford to fight a civil war at this time because they're being bombarded by two very popular nations, the Israel and America. Okay.
+
+[43:05](https://youtu.be/nOQqGy4boBY?t=2585) But unfortunately, the law of proximity teaches us that people are much more interested in their own internal conflict than the outside global conflict. Okay. And so this understanding now gives us helps us answer the three big questions of today, right? How are these leaders getting killed?
+
+[43:34](https://youtu.be/nOQqGy4boBY?t=2614) Why are they getting killed? And what will this mean for the rest of the world? Okay. And so the first two questions, how are they getting killed?
+
+[43:44](https://youtu.be/nOQqGy4boBY?t=2624) Why are they getting killed? They're getting killed because of all these civil conflicts within these nations. Okay. These different factions are providing intelligence to their enemies in order to limit their internal enemies.
+
+[43:56](https://youtu.be/nOQqGy4boBY?t=2636) That's again I don't have evidence but I think according to game theory that's the best explanation for how these leaders are getting killed because again it's not that easy as a foreign nation to identify the location precisely of that leader. Okay. And what we're seeing in this war is both the Iranians and the Israelis are doing a very excellent job of killing each other's leaders.
+
+[44:21](https://youtu.be/nOQqGy4boBY?t=2661) And that's not actually common, right? So I think this civil conflict within these nations offers the best guide, the best understanding of why this of why this happened. Okay. The third question is where's the where's the world going?
+
+[44:39](https://youtu.be/nOQqGy4boBY?t=2679) As you can see from these conflicts, it seems as though the world can only become much more theocratic in the end. Okay. So, what's happening is at the end of the day, this war in Iran in the Middle East, it's really a war between two different competing visions of the world. Okay?
+
+[45:02](https://youtu.be/nOQqGy4boBY?t=2702) You f you have the global secular financial order. Okay? And this is the world that we live in today. And they're fighting against a nationalist theocracy, theocratic order.
+
+[45:25](https://youtu.be/nOQqGy4boBY?t=2725) So this is what we can expect over the next 5 to 10 years where Iran becomes much more theocratic and extreme and nationalistic. Israel abandons democracy and embraces theocracy. America will also abandon democracy and embrace theocracy because that is a general trend of the world.
+
+[45:53](https://youtu.be/nOQqGy4boBY?t=2753) So what I want to do next class is discuss how the world will change next 5 to 10 years.
+
+[46:04](https://youtu.be/nOQqGy4boBY?t=2764) Any questions? Okay.
+
+[46:11](https://youtu.be/nOQqGy4boBY?t=2771) I mentioned that Israel have two divided parts and one represents the animal soul and the other represents the divine soul. Like I can substitute this logic to a single person like people are always struggled with like identify or not identify like separating the divine soul and pursue the divine soul but they cannot get rid of the animal soul. Is there a way where we can only struggle at as in our lives? >> Okay.
+
+[46:43](https://youtu.be/nOQqGy4boBY?t=2803) So first of all, it's important to understand that this is how religious people in Israel frame the conflict in Israel. Okay? What a conflict between the animal soul and the vine soul. The people in Tel Aviv would frame the debate as one between progress and tradition, right?
+
+[47:01](https://youtu.be/nOQqGy4boBY?t=2821) Going forward or staying backward, right? So, so that is so people in Tel Aviv and Judism would see this in a in a different way. But as you point out, there's some validity to this idea that we're all struggle between the animal soul and the divine soul. And I would say that for the past 20 years, we only have been indulging in the animal soul.
+
+[47:32](https://youtu.be/nOQqGy4boBY?t=2852) We've abandoned the divine soul. And that's why I think people are so desperate for change and this is what's leading to so much conflict around the world where the human soul is off balance. Okay?
+
+[47:48](https://youtu.be/nOQqGy4boBY?t=2868) Where we are too materialistic and not spiritual enough. And what we know from history is that if you if a society goes too far in one extreme, they swim back to the extreme. Okay? And that's what we're seeing where one good outcome I think of all this conflict around the world is people start to recognize the limitations of money of materialism of individualism and they start to embrace more spirituality community because quite honestly you don't have a choice in the matter.
+
+[48:23](https://youtu.be/nOQqGy4boBY?t=2903) If you if you're like, you know, I want to buy myself a Gulfream jet and I want to have like, you know, a huge company, you're going to be disappointed. Okay. As I will show you next class, the world is headed towards an economic depression.
+
+[48:41](https://youtu.be/nOQqGy4boBY?t=2921) Basically a splintering, a rupture in the world. And so you're not going to able to afford to fly to Mald for vacation. There will be avocados in the supermarket.
+
+[48:57](https://youtu.be/nOQqGy4boBY?t=2937) But that this but all this means is now you have a chance to focus more on introspection, on reflection, on family, on asking yourself what makes me happy, what gives me meaning and purpose in life. And the answer of course is each other. Okay?
+
+[49:13](https://youtu.be/nOQqGy4boBY?t=2953) And maybe this is a good thing. Maybe this is the intention of the universe. Maybe as the people in Jerusalem would say, this is really the plan of God. Okay?
+
+[49:24](https://youtu.be/nOQqGy4boBY?t=2964) And I it's unfortunate that all this war and suffering is happening. But again, what a lot of people who are religious will tell you is we can only find redemption through suffering and through pain and through tragedy. All right. Okay.
+
+[49:43](https://youtu.be/nOQqGy4boBY?t=2983) Any more questions, guys? Okay. All right. I'll see you next
