@@ -1,0 +1,793 @@
+https://www.youtube.com/watch?v=ef-Ch2LGDDI
+
+so we continue the French Revolution today and uh last class we looked at
+Jeanjac Rouso and how he is the philosopher poet of the revolution he
+provided the um dream okay for the revolution he told the French that there
+was a promised land of reason where if you use your reason which is God's gift
+to us you could build a new society a utopia a kingdom a kingdom on earth in
+today's class we will look at Robespier Maximian Robepier who is a prophet who
+will take his people into the promised land all right so he is the main
+instigator uh the main leader of the French Revolution and um I'm going to make a
+very strange argument today about Rose Pier that no one has made before so it's
+going to be very controversial it's going to be very strange so um I will do
+this very slowly okay basically I'm gonna make the argument to
+you that Rose Pier saw himself as the second coming of
+Jesus and because he did
+so he sacrificed himself in order to save the French Revolution okay so
+that's my argument to you today again it's going to be a very controversial provocative argument so I will work very
+slowly to explain it all right okay so let's go over some um let's review some
+information we discussed last class that's very important okay so as we
+discussed last class traditionally in Europe there have been two major groups
+of people okay there there are the peasants and the
+poor and the slaves okay so basically the lower class the underclass and then
+at the top are the nobility and
+clergy now there's always been towns people there's always been merchants and
+artisans and crafts people but they're in the minority but because of the gunpowder revolution as Europe begins to
+industrialize um these people are growing in number and in influence and in power okay and
+we call these people today the middle class
+and the middle class it's an extremely diverse uh group of people and you
+can simplify the middle class into three major categories okay there's the boujo
+the bouro remember are the elite of the town so these are bankers lawyers
+doctors factory owners um industrialists merchants okay so they
+are the elite of a town then you
+have what what we call later the politariat okay the polletariat um are
+the lower class of a town they include artisans
+uh workers okay they're often the majority
+and then in between are what we call the petite boujo or the petty middle class and
+these are just people who are just stuck in between these two major categories and they include um school
+teachers journalists um small lawyers okay
+notaries small business owners okay so this is extremely diverse group of
+people okay now and as we discussed last class what often happens in revolution
+is that is that the Portuguese will often be the
+become the counter elites the counter elites are just those who lead the
+people to revolt against the elites the proletariat will be the
+muscle or the army okay and the borso Z are in a very
+unstable position because at first they they will often support revolutions because they want more political power
+but over time they will uh become reactionaries or they will try to
+control the revolution or even kill the revolution because the revolution is threatening threatening their economic
+interests okay so this is the pattern that we see in human history okay so um
+let's let's go over some terms that we will need in order to understand the French Revolution okay
+um so what happens is
+this the middle class is growing in France throughout the 17th and 18th
+century in fact they become the main economic
+engine for France at this time France is the most populous the wealthiest nation
+in all of Europe but it is an absolute monarchy an absolute monarchy is one in
+which the king makes all the decisions he decides whether or not to go to war
+he decides who has the power he decides who has to pay taxes okay he has absolute power an absolute monarchy the
+absolute monarchy leads France into a series of disastrous wars in this in the 18th
+century the most prominent the most important is something called the Seven Years War fought between France and
+England primarily there are other participants as well and this is a world war okay this is really the first world
+war you you can actually call this world war zero it's fought all all around the world in North America in Europe um in
+Asia it's fought everywhere and France loses this war okay when you lose the
+war you incur a lot of debt but not only that right after seven years war France
+sponsors the American Revolution okay so France becomes the main uh uh economic political and
+military sponsor of the Americans in the revolution against the British and of course the Americans win this war when
+the Americans refuse to pay back the debt that they owe to the French okay so these are two major wars that are now
+that have now left um France in very dire economic straits in fact their
+treasury it's empty okay the government has no more money food prices are um off
+the charts people don't have enough to eat there's no bread the economies in
+tatters okay so what the king needs to do now is he needs to
+call an assembly of the people okay and this and this what's called the estate general the estate general this happens
+in the year 1789 and this marks the beginning of the
+French Revolution and the purpose for this estate general it's very simple all
+the king wants to do is get these people the nobility the clergy and the middle class B to agree to give them more money
+okay to pay more taxes to replenish the treasury of
+course the middle class everyone in the middle class is like "This is a bad deal
+for us we are the main economic engine for France we pay the most taxes we do
+the most work but we have no political power therefore we should have some political
+power in fact we should check the power
+of the king to uh declare war and to raise taxes okay so they want a
+constitutional monarchy no at this time in history no
+one is saying that they should depose a king and declare republic no one is saying that okay all they want is a more
+um def a greater diffusion of power all right less power for the king more power
+for the people that makes sense okay but of course the king and the elite don't
+really like this idea and the king um this is Louis the
+16th and he's very indic indecisive okay he wants to maintain the
+absolute monarchy but he lacks the cutthroat mentality mentality that that
+he would need to u achieve um his power okay so he should
+have sent in the military to kill everyone but he didn't want to do that he he goes back and forth okay and so
+what happens is now the estates general breaks off in the estate general there
+are three estates okay three major groups there's the no the first estate is called the clergy the Catholic Church
+the second estate is the nobility the third estate is everyone else the commoners okay so what happens is the
+third estate breaks off and they form something called the national assembly and they use national assembly as a
+mechanism to press for more rights and
+the national assembly because it's made up of most of the members of the middle class you have different groups of the politariat the petite boujo the boujo
+um they argue amongst themselves as well so what what's happening now is that
+within the national assembly these political groups political clubs are forming in order to deise strategy and
+to consolidate um ideology amongst themselves okay and the most famous of these clubs is are
+called the you guys remember the jackabins right have you guys studied
+this history okay the jackabins oh anyway the jackabins the
+jackabins and this is just a meeting place for um revolutionaries to come together and discuss ideology how do we
+best proceed now over time as a revolution develops the Jacobins will split off
+into other groups okay um and the the reason why they split off is because the
+economic interests the political economic social interests of these different groups do not align with each
+other all right so from the Jacobins you will emerge the fins the fins represent the
+boujoee they don't want any economic change they want political change they
+don't want to um have a more equal society they just want more power over
+the king okay so these are conservatives but then you will also emerge the
+Girundins girundins the Girundins are lower bouroi these are merchants these
+are trades people and what they want is war they want France to declare war
+against their enemies Austria Prussia basically and and the reason why is if
+there's war they can make money off war okay because these are merchants these are trades people um these are
+industrialists so they see war as an opportunity to enrich themselves they're speculators basically and these are
+called the dironians and then you will also emerge the
+cordelers and the cordelers represent a more extreme faction of the Jacobins who
+want universal suffrage they want the polletariat to have more rights okay um
+at this point the polletariat is called the san
+kulat the s kulots okay these are very important people because they provide the muscle for the revolution sulot is
+French meaning without breaches so the custom at that time is that if you are a
+middle class person you wear like silk socks okay but they're expensive so uh
+the middle the lower class and polletitariat they they don't they cannot afford these socks therefore
+they're called the s kolat okay the s kulat and the colers want to galvanize
+these people to create a full revolution where the complete social economic
+political and religious order is overthrown okay then you have people call the
+herpertists and what they want to do is overthrow the Catholic Church okay so
+throughout this revolution over time you have different groups emerging with different political interests within the
+middle class okay does that make sense but at the same
+time you have threats to the revolution okay so the main threat is the king
+because a king he's a bourbon and his brother his brother is king of Spain he
+has relatives all over Europe so he writes to Austria Prussia to ask for aid
+can you come in send your army and crush this revolution for me because my army is not listening to me okay so the king
+is conspiring against the revolution there are these invasions from Austria
+and Prussia okay and then England also sees the revolution as a threat as well
+because remember every nation has a middle class and they're afraid that the middle class in their nations will rise
+up against them as well so you have these external threats coming in and then you also have internal threats okay
+you have counterrevolutionaries the nobility who try to raise their own armies to crush revolution you also have
+economic collapse going on okay so so the revolution at this point in the year
+1990 1991 it seems threatened so what happens is that someone
+emerges from this chaos to lead the revolution and his name is Maxmillian
+Robespierre okay Maxmillian
+Robespier and Ropes Pierre he is just a provincial lawyer okay he is not from
+Paris he is from Ara um a province in France he's a lawyer and he's part of
+the petite boujo and he's not imposing he's not huge he's he's not he's not powerful he
+doesn't have a faction behind him and he's not extremely charismatic he he he he's almost like a
+nerd but the thing about ropier is that he is completely convinced vinced that
+the revolution must win and it will win if he works hard enough he works 18 hours a
+day the moment he gets up he works he gives speeches he he gives over 500 speeches in the National Assembly over
+his career um he is extremely virtuous he's he he comes to Paris with
+no money and he leaves Paris with no money his entire career as a lawyer back in his hometown he spent defending the
+poor and the weak against the powerful and he has very clear ideas
+about how to to proceed with the revolution based on Jeanjac Rouso okay he sees himself as a disciple of Jeanjac
+Rouso okay remember last class we looked at Rouso's ideas and and how to
+implement um a kingdom of reason okay so
+um Roses Pier because he is the most virtuous he is the most um he has the
+most conviction he becomes the de facto leader of the revolution okay uh he
+becomes head of something called the committee for public safety and it's not
+a dictator it's not a dictatorship okay he's not a dictator but he's head of a comm committee that advises national
+assembly on how to proceed and because he he is the most forceful he has the most ideas his ideas usually win
+out okay and what and over time as he
+accumulates more and more power he makes more more radical proposals his most
+radical propo proposal is called the reign of terror the reign of terror is a time of
+mass mass execution okay the guillotine in
+Paris to in order to sol solidify the revolution in order to advance the the
+revolution says we must instill terror in our enemies
+we must investigate our enemies and execute them if they are plotting with
+the king against us if they are plotting with enemies against us if they are
+conspiring against us if they are engaged in economic speculation if they're hoarding food these are all enemies they're trying to sabotage the
+revolution therefore we must kill them okay so over a few years three or four
+years the ring of terror will kill at least 40,000 people within
+terrorists alone okay we don't know in the provinces uh how how many people are
+killed the reign of terror will also execute the king and
+queen so they will kill the king and queen as well all
+right so historians have been debating for a long time if the ring of terror uh
+was necessary because obvious obviously it's a terrible thing to kill tens of thousands of people for holding opposing
+political opinions okay and a lot of these people were in fact just political
+enemies of ropes pier okay so how can we best understand the ring of terror
+well if you think about it in this class we we've actually studied the reign of terror before okay it's the idea of
+human sacrifice and we've discussed this
+before uh all societies engage in war preodern times practice human sacrifice
+so Romans did it the Vik the Vikings did it the Aztecs did it okay the Aztecs were famous for for doing it so why
+would you do human sacrifice if you're engaged in war okay well there are different reasons and there are three
+main reasons the first reason is you want to unify and energize the
+people okay when people observe or they watch human
+sacrifice when they when they engage in a spectacle they become much more excited they be they have blood lust
+okay we call this blood lust war lust they want to kill now okay they got
+they're excited to kill okay that's one purpose second purpose of course is to
+terrorize your enemy to put fear in your enemy okay that's obvious and then there's the third reason which is the
+most important the third reason is to break
+taboo okay the break the taboo when you break a taboo you are
+signaling that you are crossing a boundary you've crossed a line and you
+can never go back you can no longer compromise you can only move forward
+okay so the taboo they broke in the French revolution is they kill the king and queen of
+France that meant that now all of Europe would unite against the French and they
+would come and exact a bloody vengeance on the people of France the enemies of
+France which include England the Netherlands Prussia Austria Russia the
+five most powerful nations in all of Europe they would they they will now come and they will not stop until they
+have avenged the the the dead king and queen okay they've because the French people
+have broken this taboo and the monarchs cannot allow the French people to get to to get
+away with this okay because if they did then this would encourage their people to rise up against them as well okay so
+by with the ring of terror ropes breaks the taboo and when you break the taboo
+then you are now all in you are fully committed to the revolution there's no more of compromise
+there's no more surrender there's no more uh going back into the past you are
+now in the promised land you are now in a new world you must fight to the death for this world okay does that make sense
+okay but what happens next um and it's very strange is
+ropesier has accumulate all the power in France he's not dictator he doesn't have
+the powers to be a dictator but he's de facto dictator and at this point in his
+life he's only like in his mid-30s he could choose to become king right he
+could be like you know what for the revolution to fully succeed I need to become the dictator and the people the S
+colot love him the wins love him he would win okay but at this particular
+stage in the revolution he decides to just sit at home he goes into
+seclusion he kind of gives up and this allow this gives time for his enemies to
+conspire against him and he has a lot of enemies because this is this is the ring of terror rose Pierre is virtuous and no
+one can be as virtuous as Robes Pierre and his enemies think this guy is crazy
+he's going to kill everyone who is not as virtuous as he is and therefore we're all going to be
+killed at some point okay so they try to they decide to act first so the national assembly conspire to vote for his canon
+canonation they vote for his death and he does not resist the most he does is
+he goes to national assembly and he gives a speech cursing them all okay and
+then but then afterwards they send uh soldiers to arrest him and he doesn't
+really resist and then he's sent off to the guillotine and then he's killed and that's the end of
+Rosepier and this is a mystery a paradox to historians like why did Rosier fall
+why didn't he resist why did he just give up
+okay all right so to answer this question I'm going to provide you w with
+a new idea okay and this is a hard idea
+so please feel free to challenge me or ask questions make sure you're clear okay all right so the thing you you need
+to understand is this in a time of revolution when people reject
+authority when people say "I no longer believe in God i refuse to listen to my priests." the nobility is evil i refuse
+to submit to the king the question then is what takes charge what guides society now and the
+answer is mythologies mythologies are the
+subconscious operating system of society okay does that make sense so what
+mythology does everyone in France know well the story of Jesus right what's the
+story of Jesus um Jesus is
+persecuted for telling the truth for trying to bring about a more equal more
+just world in fact he is murdered he's crucified okay it's
+cru crucification okay and the moment he's crucified people discover that he's
+truly the son of God and then after he dies he ascends to
+heaven where he wait he awaits a day when he has to return okay and he does return in something called the second
+coming second coming and the second coming Jesus will become
+the god of war okay the Messiah and he will lead his people into victory
+against the entire world and once he defeats the entire world he will build a kingdom of heaven
+a thousand years of peace and then after a thousand years of peace heaven will
+come onto earth we will all become immortal and those who have been good will live in heaven those who have been
+bad will burn in hell okay the final judgment okay so that's a story a mythology that everyone understands that
+everyone knows in France and so even though the French Revolution was a
+revolution of reason when they're trying to reject the Christian faith the mythology is still implanted in their
+brains and this mythology becomes the operating system of the French
+Revolution okay so um using this
+mythology let's now ask ourselves what happened when Rosepier
+died okay three things happened when Rosepier died the first one that happened
+is Rosepier became a scapegoat okay a scapegoat is someone
+who takes the blame for all the crimes of the community so the ring of terror is when the Parisians killed 40,000
+people and some of them were innocent and when Rose Pier died he took the blame for the ring of terror right they
+killed him because they call him a tyrant he's the one responsible for those 40,000 deaths and he said "Sure
+I'll take the blame." Okay he becomes a scape that's the first thing that happens second thing that happens is he
+becomes a martyr for the revolution he died in order to save the revolution
+rose said to the people "If you need me to die in order to cleanse you of your
+sins then I will do so and I will do so because what matters is not my life but
+the revolution." Okay he becomes a martyr and when he became a martyr what
+he did was he made people feel guilty for having persecuted and killed him
+okay and so the third thing he becomes is a role model or a
+paragon a hero he's telling the French people
+listen I could have become king i had all the power in the world but I chose to sacrifice myself because what
+mattered most was the revolution if you feel guilty for having killed
+me then you have an obligation to the revolution to sacrifice necessary in
+order to save the revolution okay so this is what happened the moment he killed himself he became a scapegoat a
+martyr and a paragon of virtue a hero to the people people will feel guilty for
+having killed him and now they will transfer this guilt into promoting and saving the revolution
+and so in other words the moment that he died G Rosepier
+became Jesus he became in the minds of the French people second coming of Jesus
+does that make sense okay so that's my argument to you today and so over the the rest of the
+class we will look at the evidence and actually the best evidence
+is how Rose Pier died okay so let's compare the death of Jesus and the death
+of Rose Pier and you will see they match up they line up perfectly okay
+so let's look at the death of Jesus
+and then we'll look at Ruth Pier his death
+jesus spends his life preaching the truth to the people and trying to build
+a more just and equal world but he knows that eventually he
+must die in order to complete his mission okay so at the in the last supper he tells his followers the
+disciples one of you will betray me okay betrayal and of course this person's name is Julius Escariat who betrays
+Jesus to the high priest of Jerusalem okay so the f so the first thing is
+betrayal but after the dinner everyone goes to sleep and Jesus goes to a quiet
+place okay he isolates himself why because he
+knows that the soldiers are coming to arrest him and to put him to death okay
+the servants of the high priest are going to come and arrest him the servants do come to arrest Jesus
+and Jesus submits okay submission he does not resist
+but one of his disciples Peter he he sees what's happening and he rushes to
+try to save Jesus and uh Peter cuts off the ear of
+one of the servants of the high priest and Jesus tells him "No no no Peter go
+home this is what I must do by myself i must go with the with the high to the high priest." Okay he goes to the high
+priest who then presents him to the Roman governor Pontius Pilate right and
+Pilate says "Jesus you've been accused of crimes against your people of defying
+the laws of your God what do you have to say in your defense?" And Jesus says
+"Nothing." Jesus does not defense defend himself okay okay so submission okay and then
+Pon Pilot says "Fine if you refuse to defend yourself then I can only condemn you to death." So Jesus um there's he
+has to bear a cross okay and he's bearing the cross the Jews line up and
+see him and they jeer him okay they curse him they spit at him they throw stones at him and all this while there's
+someone a soldier a centurion following him and whipping him okay this is called the
+passion okay he is punished and then he is of course crucified and he's
+crucified it's the worst way to die right people thousands of people come
+and watch him be get crucified and then die okay that's the story of Jesus guess
+what guys this story becomes the death of Rosepier too so
+Ropier is betrayed he is betrayed by his
+political allies and friends he helped these people amass
+power and once they amass power and Rosar gets rid of all the the other
+enemies they see Robier as the ultimate threat so they conspire against him okay
+so it's a betrayal respir is asked to speak to the
+to the assembly he does okay but he knows the assembly has already condemned him to to death there's no point in him
+arguing okay so what he does is after his speech he goes to a building a town hall and he goes to the second floor and
+he be and he is isolated from everyone okay he knows his fate he knows they're going to come and kill him and he just
+stands there his friends his most loyal followers okay say to him
+"Wop they're coming to kill you let's rally the p people let's go to the sections the sulot we have thousands
+tens of thousands of loyal followers let's rally them let's inspire them to
+revolt let's let's raise an army and kill the entire national assembly and Robes Pier refuses okay then you have
+the Paris Commune leaders from the Paris Commune they they they've heard what happened to Roespier so they sent a
+delegation to the section and say "Hey guys we need to defend our hero." Okay
+and so you have this huge crowd moving towards the National Assembly and they're waiting for Rose to appear
+before them and said "Fight fight fight." Okay defend the revolution save the revolution save Robes Pierre they're
+waiting for the hero to come out and lead them robes Pier refuses to say a
+word he just he just sits there and then begging begging Robes Pierre please
+Roses Pierre we have to do something and Robes Pierre just he stares off into space okay he's like Jesus at this point
+he knows his fate he knows his destiny he refuses to fight his destiny he
+submits okay
+submission the soldiers come and his followers they get into a fight some
+people die but a soldier shoots a pistol into the jaw of Rose Pier okay and now
+he's covered in blood and he's trying to wipe off the blood but he's in pain okay
+and even though he's in pain they still take him to the guillotine so the passion of Rosepier
+and he's being driven on a horse with his followers and there's about 100 of them to the guillotine they will be all
+massacred at once okay and thousand people lining up on the streets to to
+shout down the tyrant down the tyrant okay they hate Whoops Pier these are people who lost uh France family in the
+ring of terror so they want to see this guy dead and ultimately then ropes pier then is
+guillotine and that's the end of ropes pier okay do you see how these stories
+line up perfectly it is almost as if Robespier is trying to act out the story
+of Jesus for the French people that is that is his intention that is his
+legacy he wants people to understand that it was Jesus who appeared before them and Jesus made the ultimate
+sacrifice because he loved his people in order to rally his people to save the revolution and fight off the enemies of
+France okay these stories line up too well now
+we know that this story is basically just mythology okay but I keep on telling you
+guys in history for us humans mythology ideas are real
+okay so Rose Pier remember this mythology or subconsciously knows this mythology and he acted out for the
+French people in order to inspire them in order to fully realize the
+revolution okay so in other words the French
+Revolution was essentially a relig religious mythology in which ropes pier
+volunteered to play the part of Jesus
+right to be Jesus you need to make the ultimate sacrifice you need to sacrifice yourself in front of people and that's
+what he did okay and after his death people now see that he's Jesus and now
+people are inspired to believe that there will be a second coming of Ropes Pier someone will come come who will be
+Ropes Pier and who will lead them to final victory against all their enemies and this person's name
+is who who who comes after ropes
+pier napoleon do you understand so Napoleon takes advantage of all this mythology and he
+uses it in order to become the king of France okay Rose refused to become king but Napoleon will become king and we'll
+discuss Napoleon next class and this will end our French revolution trilogy
+okay all right so right so um this is the main argument okay so I provide
+basically the basic story but what's important for us is now to look at the evidence okay so we're going to look at
+the speeches of ropes PR in a context of French revolutionary history all right
+to understand his mentality right now what's really important is for us to understand his
+psych psychology and ask ourselves if if g if Wilspir really believed he was
+Jesus or a prophet then do his speeches do his
+words actually provide evidence for this okay and I will show you that in fact there is evidence that he does in fact
+see himself as a prophet but before I start the evidence
+are you guys clear about this argument are you clear about the story I'm telling you all right are you guys clear all
+right good so let's look at the
+evidence sorry all right
+okay
+that is a great question does Roar know that people will will know he doesn't
+right he can't know and in fact if you look at the Bible the Bible is very
+clear jesus himself was full of doubt he was not completely uh sure that he
+people will remember him okay but that's the problem of faith if you truly believe in the people
+you will have faith in the people you understand so it was an act of faith
+right rose never at any point said "Hey I am the prophet i need to
+sacrifice myself in order to save the revolution okay he hints at that but he never really says it
+outright and so he himself is extremely conflicted person right there's a part of him that
+is pulling him towards his destiny but there's also another part of him that resists against against this okay do you
+understand we humans are extremely complicated robes was a human being okay
+okay does that make sense he can never be confident that this will work out in the end but because he took that that
+leap of faith it radically changed human history okay because because because I believe okay and I will argue this if he
+actually didn't do this if he actually just became king right if he seized the crown like Napoleon did the French
+Revolution would have failed and we really wouldn't remember the French Revolution and it really wouldn't change
+the course of human history what I will show you next class is because he did so because he sacrificed himself it allowed
+Napoleon to defeat all of Europe okay without spirit sacrifice Napoleon could not have become
+Napoleon all right so does that make sense no prophet ever truly believes
+he's the prophet there's always a part of him that is doubtful that is
+skeptical okay but he persists nonetheless and that what makes
+him heroic okay and this is true for all prophets does that make sense all right
+french revolution um maximum ropes pier okay so
+some basic biographical details about ropes pier okay he was born in a town
+called Ara which is a province of France and his family there for um a few
+generations was Bour they were all lawyers his grandfather was a lawyer his father was a lawyer but um his mother
+Rob's mother died giving birth to a younger brother they all they both both both died um and then Robier's father
+left the family and died a few years later in Belgium or somewhere okay so
+Robepier went from Bour to Pat Boujo his family is still wealthy but not as
+wealthy as before uh Roses Pierre be becomes at a very early age okay maybe
+seven or eight be he becomes the man of the family okay he's responsible for taking care of of his younger brother
+and his younger sister his grandparents are still pretty wealthy they send him to a Jesuit school where he excels
+academically okay his ambition is really to be Jean Jac Rouso he wants to be a
+philosopher he wants to be like a poet philosopher like Jeanjac Rouso he writes a lot he dreams of a better world he's
+very idealistic he becomes a lawyer and as a lawyer as I mentioned he spends all
+his time defending the poor and the weak he's a champion of the oppressed um the
+estates general is um organized and he goes and becomes a representative and as
+I said over the next few years he rises to the very top so the question we're looking at today is how did Robes Pier
+fall okay so um as I mentioned um before the states
+general is called France is in a is facing economic
+financial collapse and so king Louis the 16th appoints Jack Neker to become the
+finance minister the thing about Neker is that he understands that listen if
+you people if you want people to pay more taxes you need to give them more political
+representation okay so Neker becomes a champion of the middle class and he's
+worshiped by the middle class louis the 16th doesn't really like what he has to say and so they have this back and forth
+for many years where Louis 16 fires him the people revolt Louis the 16th hires
+him back then fires him again okay so this goes on for quite some time neker will also become um
+um okay around this time as the state general is being called in order to
+raise more taxes from the people the sea who's who's a clergman he writes a very
+influential pamphlet called what is the third estate right because the first second and third estates are being
+called the first and second estates have all the power the third estate has no power so he writes a very influential
+pamphlet um asking the question what is the third estate and he answer and his answer is
+everything okay the third estate is everyone in France 99 99.99% what has it been until now in the
+political order nothing what does it demand to be something okay so during
+this time pamphlets are like the internet of today it's how most people get their news and the pamphlets become
+extremely um violent and ext and call for radical
+change may 5th 1789 the three estates meet king Louis the 16th refuses to
+acknowledge the third estate he he refuses to meet with them he refuses to heed their demands so what happens is
+the third estate form their own national assembly okay and these people are
+radical this is everyone in the middle class the boujo the petite boros the sulot they want more political power
+they want more political representation in government um while this is happening
+people's mood is becoming more and more radical and violent okay so the people
+perish they don't have any bread they're hungry they're unemployed they feel hopeless they feel the king is aloof so
+a group of people they storm the bastau the storming of the bastau happens on
+July 14th 1789 this is important because the national day of France today is July
+14th why because on July 14th the people rose up and stormed the fortress of the
+pastel in order to get gunpowder in order to have their own army okay but
+not only that but they kill the governor of the pastel and parade his head in
+front of everyone okay so people's mood is extremely
+violent and this violence is happening all around France it's been decades of
+economic stagnation poverty military defeat people want a revolution
+um August 27 1789 the National Assembly declares the um a new constitution okay
+this new constitution is something called the Declaration of the Rights of Man and the citizen and it becomes a
+basis for most constitutions in the world okay this marks the beginning of a
+new age in human history so let's look at a few passages from the
+declaration of rights of
+men for these reasons the National Assembly do recognize and declare in the presence of the supreme being the
+supreme being is a god of reason and with the hope of his blessing and favor the following sacred rights of man and
+of citizens okay do you understand these rights were not given to you by the government they were given to you by God
+and these rights can never be taken away from you okay first men are born and
+always continue free and equal in respect of their rights civil distinctions therefore can be found only
+on public utility okay this is a radical statement everyone is equal in the eyes
+of God and therefore in the eyes of the law if there's nobility if there's a
+clergy it's only because we agree to give them this this distinction
+based on their uh utility okay based on the fact that they do public good for us
+right so that's a radical statement second the end of all political associations is the
+preservation of the natural and imprescriptible rights of man and these rights are liberty property security and
+resistance of oppression okay these are the fundamental human rights all government all laws all society must be
+based on these fundamental principles liberty property security and
+oppression uh resistance of of oppression okay third the nation is essentially the
+source of all sovereignty nor can any individual or any body of man be entitled to any authority which is not
+expressly derived from it so what this is saying is now is now we have a new god it's a nation state france becomes a
+first nation state and all authority derives from the idea of the nation okay
+and no power can supersede the power of the nation okay does that make sense
+guys okay okay this is the beginning of modernity right four political liberty consists on
+the power of doing whatever does not injure another you can do whatever you want as long as you don't harm someone
+else the exercise of the natural rights of every man has no other limits than
+those which are necessary to secure to every other man the free exercise of the same rights and these limits are
+determined only by the law five the law ought to prohibit only actions hurtful
+society what is not prohibited by the law should not be hindered nor should anyone be compelled to that which the
+law does not require okay so this is a new idea of freedom negative freedom okay before was positive freedom where
+you had to do certain things to become a citizen now it's like if you're a citizen you can do you can do whatever
+you want as long as you are not hurting someone else and you're not breaking the law okay and so this is the where the
+modern or our modern idea of freedom comes from all right six the law is an
+expression of the will of the community all citizens have a right to concur either personally or by the
+representatives in its formation it should be the same to all whether it protects or punishes and all being equal
+in its sight are equally eligible to all honors places and employments according
+to different abilities without any other distinction than not created by their virtues and
+talents not only is the government now responsive to the needs and demands of
+the people the people can at any time become the government okay so the people are above the government okay so the
+hierarchy now is at the very top is the nation and then below the
+nation now is the people right and then below the people now is the government
+the government only exists in order to protect the rights of the people so the
+government only exists at the behest and
+um concurrence of the people all right number 10 no man ought to be molested on
+account of his opinions not even on account of his religious opinions provided has a vow of them does not
+disturb the public order established by law okay so this is now the separation of church and state you are free to
+believe whatever you want 11 the unrestrained communication of thoughts and opinions being one of the most
+precious rights of man every citizen may speak write and publish freely provided he is responsible for the abuse of this
+liberty in case determined by law you are free to say whatever you want okay this is the freedom of expression okay
+so the declaration of rights of man basically defines the new liberal order
+okay last is 17 the right to property being invaluable and sacred no one ought
+to be deprived of it except in case of evident public necessity legally ascertained and on condition of a
+previous just indemnity okay so property is also a sacred right if you have
+property it is yours by the will of God obviously Ropes Pier does not like
+this idea okay so Rosepier gives a speech arguing against this idea and he
+proposes an amendment to this idea now last session this is Rosepier
+speaking before the national assembly okay now last session I took the floor in order to make a few important
+additions to the declaration of the rights of man and of the citizen it was my intention to expand your declarations
+of the theory of property by the addition of a few articles let the word property threaten no
+one filthy souls who value only your money i will not violate your treasures
+even though I know how unclean the source from which they are from which they come okay so most of you are saying
+to everyone I know you guys are rich and you all want to protect your property i won't take away your property but please
+remember every one of you stole this from someone else this is how you became rich through theft through crimes okay
+so Rosier has a contempt for the
+wealthy ask any one of these traders in human flesh what is property okay how do people people money for the slave trade
+basically he will show you the long coffin called a ship in which men are packed together and chained men who seem
+yet alive and he will tell you "Look at my property i have bought it head forhead." It it's a known fact that at
+this time in history a lot of people are getting rich off the slave trade okay question this noble man who has
+goods and subjects and who believes that the world will can come to an end now that he no longer possesses them and he
+will expound similar ideas on property to you okay rich people love their land they love their wealth question the
+members of the Capatian dynasty and they will tell you that the most sacred property is the right of inheritance
+that they have the ancient right of oppression the 25 million Persians now
+populating the territory of France of destroying them of treating them legally and monarchally according to their own
+world will so what most are saying is that property cannot be a secret right
+because property requires the oppression of others right how do you make your
+money how do you make money off land by getting people to farm them right you're oppressing people you're explaining
+people therefore this is a contradiction if you're saying
+that property is sacred right then you're saying that God gave people this right but God would never give you the
+power to oppress others that makes no
+sense you have increased the number of articles in order to afford the largest possible latitude the right to one's
+property and yet you have not added a word in limitation of this right with the result that the declaration might
+make the impression of having been credit not for the poor but for the rich the speculators for the stock exchange
+strawber to remedies the effects I propose the following additions okay so he's saying at this point in the revolution the middle the entire middle
+class including the boujo z are participating in this revolution but he's also saying that you the boujo have
+written this constitution for your benefit and not for the benefit of everyone for the people okay so we need to make changes
+first property is that right held by each citizen to dispose freely of that portion of the general goods guaranteed
+him by the laws so it's society that gives people property not God who gives
+people property okay there's a difference second the right to property like all other rights is limited by the
+obligation to regard the rights of others all right so when you speak you
+you can do whatever you want as long as you don't you don't harm others well he what ro is saying is like that should
+also apply to property you can own property as long as you are doing so in a way that does not exploit
+others and the third is property may not cause any detriment to our security or
+to our liberty or our existence or to the property of our neighbor
+okay owning property should also not harm the national interest as well so
+he's putting severe limitations on the idea of property because what world wants a society based on equality of
+all okay now um as this revolution is
+happening um there's a man named Joseph Ignets
+Guilloton who will create something called the guillotine okay he's a doctor and he wants to create a more humane way
+of executing people the guillotine will become the main mechanism of terror
+during the French revolution right so if you are an enemy of the state they will guillotine you
+um as all this is happening the king is trying to work with the National
+Assembly but the king is also conspiring against the National Assembly by trying to write to his family and friends
+overseas to raise armies against the revolution and um on June 20 to 21 1792 the king and
+queen actually try to flee France but they're recognized and they're captured and sent back to uh
+Paris a month later August 10th the people actually storm the king's
+residence and um basically massacre his Swiss guard the mercenaries
+who are paid to protect him okay finally they decide to just kill
+this guy because he's been he's he's threatening the revolution okay King Louise is always trying to conspire
+against revolution so they break this taboo okay because remember many people
+many people believe that the king is a son of God and they kill him okay and
+Rose Pier is explaining why and it's very simple okay louie may die in order that the revolution may live it's that
+simple what matters first and foremost is a revolution in order to advance a
+revolution everyone is expandable including Rose Pier okay rose Pear is
+only the prophet of revolution he is not the revolution it
+itself um as is happening there is now counterrevolutionaries so in the Vendai
+which is in West uh France peasants are rebelling against the French revolution
+why because French French revolution is calling for a secular state it's calling for a negation of religion and um the
+thing about peasants is they love their religion okay so the peasants are now
+rising up against the French Revolution and it is a brutal war of genocide okay
+there are massacres and atrocities on both sides um on May uh 31st Rose Pier takes
+command of the National Assembly this is something called the Mont Tonaku because
+he's in charge of of a faction called the the mountain okay this is French for
+mountain and of course he then begins the ring of terror okay and we discussed why he starts the ring of terror he
+needs to unite the energies of people to commit them fully to the revolution okay
+we can't go back there's no coming back after this ring of terror we have too many enemies now
+um the thing about the um ring of terror is he doesn't he kills
+his enemies but more importantly he's also killing his
+political allies okay the people on the left he's also killing as well because
+they also threaten the revolution so this is George uh Denton and he's one of
+the leaders of the Cordelers which as as I mentioned is a very leftwing political
+group calling for the uh for universal suffrage for property rights for the S
+colot and he he's seen as a threat to the revolution and
+like ropier he's also fanatical he's a fanatical prophet so the national
+assembly votes to condemn him to death and he says I have said and I have shall I'll repeat my home will soon be in
+oblivion and my name in a pantheon here is my head it will I will it will answer
+for everything my life is a burden to me i shall be glad to be rid of it okay he's like screw you all i don't care i
+have done God's work if I must rest I shall rest okay and then he's
+guillotine um Jacques Herbert is leader of the herpetus he's a journalist and
+he's calling for the complete abolishment of the Catholic Church and of course the peasants don't like that
+the the peasants would all unite against you so he's seen as a threat to the revolution even though he is a close
+ally of Rose Pier and Rosepier also has him killed okay so Rosier is not just
+killing his enemies but he's also killing his friends as well and it's all
+in order to advance the revolution
+um so now Rose Pier needs to explain why this is happening okay and he presents a
+vision of the revolution which tells us that he sees himself as a prophet he's
+trying to build a new world it's it it right now there's a war between good and evil and good must triumph no matter
+what the cost all right so his speech before the national assembly to explain
+the ring of terror to judge by the power and the will of a republican soldiers it
+will be easy to defeat the English and the traitors but we have another task of
+no less importance but unfortunately of greater difficulty this task is a task
+of frustrating but an uninterrupted access of energy okay so the ring of terror is to energize the
+people right the eternal intrigues of all enemies of freedom within the
+country of paving the way for the victory of the principles on which the general well depends okay so our true
+enemies are not the English the Austrians the Prussians our true enemies are those traders within us they're the
+ones who most threaten this the revolution this is another speech okay
+what's the goal toward which we are heading why are we doing this why the
+ring of terror the peaceful enjoyment of liberty and equality kingdom of kingdom on earth
+utopia paradise okay justice and equality the ring of that eternal
+justice who laws have been inscribed not in marble and stone but in the hearts of
+all men even in that of the slave who forgets them and in that of the tyrant
+who denies them okay this law this justice this equality is what God
+promised us because it's implanted in our hearts we all yearn for this world when we are all equal when justice
+prevails okay we are fighting for the freedom and liberation of of all humanity from oppression that's why
+we're fighting we seek an order of things in which all the base and cruel passions are in chain okay so last class
+we discussed John Rouso and remember John Rouso his most famous line is we
+are born free but we are all in chains okay so this is a rewriting of that idea
+so what keeps us in in us in chains are emotions so we want a world in which our
+reason prevails and we are control of our emotions then we'll be truly liberated
+all the beneficent and generous passions are awakened by the laws where ambition becomes the desire to merit glory and to
+serve our country okay so your ambition is not to gain wealth at the expense of
+others your ambition is to help the community grow and and thrive where
+distinctions are born only of equality itself where the citizen is subject to the magistrate the magistrate to the
+people and the people to justice where our country assures the well-being of each individual and where each
+individual proudly enjoys our country's prosperity and glory where every soul
+grows greater through the continual flow of republican sentiments and by the need of deserving the esteem of a great
+people where the arts are the adornance adornments of the liberty which enobles them and commerce the source of public
+wealth rather than solely the monstrous opulence of a few families guys he's talking about communism okay a world in
+which everyone is equal everyone is free to do what he or she wants and this will
+lead to the general prosper purity wealth and happiness of the entire nation okay so Rose Pier is dreaming of
+a world in which everyone is equal the great purity of the French
+revolution's fundamental elements the very solity of its objective is processing what creates our strength and
+our weakness our idealism is what gives us power okay our strength because it gives
+us the victory of truth over deception and the rights of public interest over private interests our weakness because
+it rallies against us all men who are vicious all those who in their hearts
+plan to desoil the people and all those who have desoiled them in what impunity
+and those who reject liberty as a personal calamity and those who have embraced the revolution as a livelihood
+and the republic as it were an object of prey okay so we are fighting a war of
+good versus evil among us are men of good who want to build a better world
+who care for others but there are also speculators among us who use
+the who use the revolution in order to advance his or her interest okay that's
+why we're fighting this war we're trying to rid the world of those who seek to
+exploit others who pray on others okay who enjoy being
+bad that's why we're fighting this
+war hence the affection of so many ambitious or greedy men who since the beginning have abandoned us along the
+way because they had not begun the voyage in order to reach the same goal
+okay one could say that the two contrary geniuses that have been depicted competing for control of the realm of
+nature are fighting in this great epoch of human history to shape irrefibly the destiny of the world and that France is
+a theater of this mighty struggle okay this is the end of the world this is the end of the world this is good versus
+evil good must triumph it must so every sacrifice must be made without all the
+tyrants encircle you within all the friends of ty conspire they will conspire until crime has been robbed of
+hope we must smother the internal and external enemies of the republic or parish in this situation the first
+maximum of your policy ought to be to lead the people by reason and the people's enemy by terror okay this reign
+of terror it is about the ultimate victory against evil
+we are killing our enemies because our enemies destroy want to destroy all good
+in the world if the main spring of popular
+government in peace time is virtue amid revolution it is at the same time virtue
+and terror virtue without which terror is fatal terror without which virtue is impotent terror is nothing but prompt
+severe inflexible justice it is therefore an emanation of virtue it is less a special principle
+than a consequence of a general principle of democracy applied to our country's most pressing
+needs we have to be as brutal as our as enemies if we are truly to promote
+democracy and there's no there's no other choice all right so the ring of terror
+is just one policy that rotier adopts in order to save the revolution but he also
+adopts a new religion called the festival the call of the supreme being okay this is a new religion where god is
+the god of reason all right so rophere is adopting a lot of different policies
+and again he is working selflessly in order to promote the revolution but
+eventually he gets exhausted okay he just breaks down he has he has a nervous breakdown because it's too hard like he
+wants people to be virtuous he wants people to be reasonable and everywhere
+he sees like he sees everyone in front of him and everyone's in everyone's plotting against him everyone's trying
+to exploit the revolution for his or her own benefit okay and
+eventually Rosepur is brought down and he is guillotine okay
+but let us look at his last speech to fully understand how he sees the
+revolution and his own death okay this is his last speech before the National Assembly this is two days before he is
+to be executed okay this is July 26 1794 the enemies of the republic called
+me tyrant okay the the National Assembly is now calling for his execution because he's a
+tyrant i were I such they would gravel at my feet i would gorge them with gold
+i should grant them impunity for their crimes and they would be grateful right if I'm a tyrant then I would make
+political alliances i would bribe people i would benefit people but I don't do
+that i incorruptible i'm virtuous were such the kings we have
+vanquished far from denouncing ropier would lend me their guilty support okay
+so the kings of England Netherlands
+Austria Prussia Russia are all aligned against the French Revolution why
+because they're afraid of revolution at home right so ropes are saying "Listen
+if I if I just become a king they would marry their daughter to me and we all be
+one big happy family." Okay they would not they would not see me as a threat
+there would be a covenant between them and me tyrony must have tools but the enemies of tyranny whether does their
+path tend to the tomb and to immortality what tyrant is my protector to what
+faction do I belong yourselves everything I've done is for the people of France and you know
+this since the beginning of the revolution has crushed and annied so
+many detected traders you the people our principles are that faction a faction to
+which I am devoted and against which all the scoundrelism of the day is banded okay it is because I Wilia and the and
+the only virtuous person who has fought for the revolution now do you conspire against
+me the confirmation of the republic has been my object and I know that the republic can be established only on the
+internal basis of morality okay it only if we are virtuous can we win out in the
+end against evil against me against those who hold kindred principles the
+league is formed my life oh my life I abandon without a regret i have seen the past i foresee the future i am the
+prophet i have seen the past and I foresee the future you will kill me i
+accept my fate what friend of his country would wish to survive the moment when he could
+no longer serve it when he could no longer defend innocence against oppression you have taken away my powers
+fine take away my life as well because I serve I live only to serve wherefore should I continue in an
+order of things where intrigue eternally triumphs over truth where justice is mocked where passions the most object or
+fears the most absurd over the sacred interests of humanity the pollution has
+so the revolution has been polluted it is is now corrupt if it if you take my
+life I I'll be glad to give it to you question history and learn how all
+the defenders of liberty in all times have been overwhelmed by calamity okay
+all prophets in their time were prosecuted including Jesus and Socrates
+but their producers died also the good and the bad disappear alike from the earth but in very different conditions
+oh Frenchmen oh my countrymen let not your enemies with their desolating
+doctrines degrade your souls and innovate your virtues now is the time to
+stand up and fight for the revolution i may die but the revolution must live
+death is not an internal sleep citizens if face the tomb that
+motto graven byious hands which spreads over all nature a funeral crepe takes
+from oppressed innocence its support and affronts the beneficent disposition of
+death inscribe rather therefore these words death is the commencement of immortality i leave to the oppressures
+of the people a terrible testament which I proclaim with the independence befetting one whose career is so nearly
+ended it is the awful truth thou shalt die yes today I die but so will you and
+when we all die we must face our maker we must all see God and we must
+account for our lives i go to
+God in full conscious i'm happy to go directly to God and await my fate okay
+and these are his last words why should I where should live under system where intrigue triumphs over truth where
+justice is a lie where the basis passions and the most ridiculous of terrors supersede in man's heart the
+most sacred duties why should I regret to escape from the eternal torture of seeing this horrible secession of
+traitors who by concealing the turpitude of their souls under the veil of virtue
+and even of friendship will leave prosperity in doubt which was the greater their cowardice or their crimes
+you members of the national assembly were elected to serve the people you
+have only served yourself you have only fought for your own economic interests
+and because you see me as a threat you see Rose Pierre as a man of purity of virtue of reason you conspire against me
+and I am happy to be condemned to death because it will it will liberate me from
+this evil world that you have created but upon my death there shall come
+vengeance okay so that's it guys that's Rob's
+pier all right so does does this make
+sense okay he sees himself as a prophet who must save the
+revolution at first he believes that he must kill his enemies the enemies of the
+revolution in order to save the revolution but then he recognizes that
+no no no this ring of terror is not really about energizing the people it's
+really about eliminating the enemies of his allies okay it's really
+about political intrigue and so he recognizes that if this revolution is to
+really triumph then he must make the ultimate sacrifice rather than try to cease the crown he must give his life
+for the revolution to set an example for everyone especially the oppressed and
+the weak and after he dies this will energize France it will
+unite France it becomes a hurricane okay the French revolution now becomes a hurricane all right and Napoleon will
+come he will take this hurricane and he will unleash it on the entire world and he will conquer the entire world and
+that's what we'll do in the next class okay we'll look at Napoleon but does this make sense to you
+guys any
+questions yeah go
+so how do you know about
+Okay okay so um the question
+is are people conscious of what Rose is doing and I I I know this is a hard
+argument um and I I I know this is hard to understand but this is all happening
+subconsciously okay this is all happening without people being aware of it rosephere is not aware of it
+the people are not aware of it okay so the argument goes like this first of
+all mythology is the collective subconscious
+okay mythology is a collective subconscious that that's the first idea okay does that make sense to you okay
+second idea is this when
+authority breaks down the
+mythology takes over okay do you understand okay the
+arament is this usually someone in authority orders people around right
+someone in authority whether it's a general or a priest or a teacher tells
+you what to do but when you deny this authority when you reject this authority
+what tells you what to do well mythology okay your collective
+subconscious okay you are guided by your collective subconscious even though you don't know it
+right the third argument is that mythology is essentially a
+play okay a mythology is a play it's a story
+and this play requires actors okay so the
+leaders become now the actors this play must take place because that's
+what people want now you need actors you need volunteers to come and be the actors in this play so whoever choose
+who whoever volunteers now must play that role and then people will follow that person okay so Rose Pierre played
+the role role of Jesus so people followed him even though people don't really know why they're following him
+okay does that make sense but they're following him because he's willing to play the role that's required of him in
+this play that's being acted out during the French Revolution
+okay but and this is really important this play only
+works if people play the role they're supposed to play when they speak the
+lines they're supposed to speak right that's really important because what happens is if people break the role and
+instead of people listen I was just acting the entire play dies okay the play dies why is this
+important because next class we will look at Napoleon okay in the beginning
+the Napoleon is playing his role right he's the Messiah come to earth to lead the French people to final victory
+against evil to unite the world in good he's playing that role but then he does
+something that he should not do and which breaks the play and which is what
+you guys do you guys know what does do that roast doesn't do that's right he declares himself
+emperor and you're not supposed to do that okay if you're roastier you would never declare yourself emperor you can
+make yourself first citizen you can make yourself counsel dictator whatever but you cannot make yourself emperor because
+now you're like everyone else right and when he does that this is very important he destroys the French Revolution and
+after that France is now destroyed by their enemies napoleon
+falls okay does that make sense guys so only if you are playing your
+role can this play work out once this play works out people are energized to sacrifice their
+lives okay the reason why Napoleon at first could defeat all his enemies is
+his soldiers were not afraid to die okay they didn't care they're like "Well you
+know if we die we're going to heaven." That that's what World War did okay but we'll discuss this next class okay does
+that make sense so so it's a hard argument to make because like I'm I'm arguing like there is a
+subconscious operating system to society that we don't ever see okay that we
+don't we don't ever talk about but once we see this okay then it helps us
+explain the world we live in it explains a lot of history to us
+but you need to be able to see it first and most people don't see it okay if you look at the traditional accounts of the
+French Revolution it's always these economic political structural forces okay I'm presenting a different idea
+here okay does that make sense great any any any other questions
+terror is kind of human and it is
+a way to No no um the reign of terror was a form
+of human sacrifice okay they literally took their enemies and they killed them in front of everyone right and that's no different from the Aztecs no different
+from the Vikings no different from the Romans okay these are all societies that practice human sacrifice in order to
+unite the people right to galvanize the people energize them create blood lust
+to terrorize their enemies and to break taboo to tell to send a message that we
+will never go back we are going towards total victory we
+won't surrender we won't compromise okay it has nothing to do with Jesus in fact Jesus the story of Jesus is to tell us
+we no longer need human sacrifice because Jesus made the ultimate sacrifice okay does that make sense okay but um
+but the ring of terror what it did was unleash all this energy okay okay and
+this energy it's polluted energy because it's it's it's it's based on violence on
+vengeance on hatred right so what Voltfeir decides to do and it's very clever of him he needs to now to purify
+this energy right and how do you purify this energy by becoming a scapegoat by sacrificing yourself by telling the
+French people the ring of terror was not your fault it was my fault blame me
+sacrifice me okay for what happened i will take the guilt of the nation i will cleanse cleanse you of
+your sins so that you may move on okay does that does that make sense okay good
+any more questions great questions
+guys okay all right so this ends part two of the French Revolution next class
+on Tuesday is Napoleon and this will end the French Revolution trilogy okay

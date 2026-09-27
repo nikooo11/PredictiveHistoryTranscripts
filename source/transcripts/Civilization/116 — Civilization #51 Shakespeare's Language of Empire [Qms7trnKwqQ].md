@@ -1,0 +1,707 @@
+https://www.youtube.com/watch?v=Qms7trnKwqQ
+
+okay um good morning so this class we are focusing on William Shakespeare but
+before I do that I want to give you an overview of how we will end the course
+um to end the course we will we will focus on the four great modern civilizations that have fought for
+global dominance these past 20 years these four great civilizations are the
+Russians the Germans the British and the Americans now what's interesting about
+um all four civilizations is that they all claim to be the the um ultimate
+Christian civilizations that are here to Rome but because of the differences in
+their geography and their culture they have different interpretations of
+Christianity and Romanness okay so let's compare and contrast these four great
+civilizations the Russians uh as you know Russia is the largest land mass in
+the world it is huge it is also really cold and dark okay so the geography
+um transform the Russian character okay um Germany in contrast it is within
+Europe and it does not have the natural boundaries that the other nations have it is always being attacked and
+threatened by adversaries okay um the British it's an island
+fortress the Americans um are the most interesting because it is a continental
+fortress it is not only invincible it cannot be invaded but also has all the
+resources it needs in order to have a thriving modern economy therefore
+America can choose to isolate itself from the rest of the world okay now because of the difference in geography
+you have differences in Christianity and in its Romanness so the Russians believe
+that they are here to the bisantine empire and as such they are the
+protectors of something called eastern orthodoxy okay so to understand what eastern orthodoxy is think of augustine
+okay we read Augustine city of god so it is a very mystical metaphorical
+u collectivist attitude towards religion
+in contrast the Germans believe that they are here to the Holy Roman Empire
+first initiated by Charlemagne and as such they are more Catholic than the
+Russians okay then you have the British who believe they are here to the real
+Roman Empire um and their religion is angling okay remember Anglicanism
+there's really really little difference between Catholicism and in Anglinism when in Anglicanism you swear allegiance
+to the king of England in Catholism you swear allegiance to the pope of the Vatican
+um and then you have the Americans who have a who believe that they are adheres
+to the Roman Republic okay not the empire the republic before the time of Julius Caesar the best former government
+in the world um the religion um so the elite is something we call um das okay
+so they believe in God but God as someone who is removed from the world
+you also have many different sex of panism okay so the religion in America it is very diffuse very diverse okay so
+um different c cultural the different cultural outlooks will also determine
+their cultural identities so for example the Russians um they have the thing that
+differentiates the Russians is they have a very dark imagination so some of the greatest literature some of the greatest
+music philosophy actually comes from Russia so think of Toy Story Dossi in
+terms of music you have Tchaikovski and Stravinski okay I will also show you
+that uh the Russians produced the greatest geopolitical leaders in history so in the 20th century the greatest
+geopolitical leader was actually Joseph Stalin and I will show you I I'll show you this is the case uh when we move to
+the 20th century today the greatest yopula leader in the world is Vladimir Putin so there's something about the
+Russian dark imagination that produces men of genius to lead their countries um
+the Russian cultural identity is the idea of mother Russia the land itself
+the nation the people it is divine all right and so the main
+objective of all Russian geopolitical leaders is to protect its borders from enemies because because Russia is so
+huge and encompasses two continents um it has a lot of geopolitical enemies okay so that's the Russian um
+civilization when we move to the Germans the Germans are really interesting because the Germans have also the great
+human civilizations in history okay so rather than a dark imagination the
+Germans believe in the idea of will to power we will discuss this when we discuss German philosophy especially
+nichi okay but the idea is this that we have the capacity to impose our will on
+reality that's the idea of will to power we don't we are not subject to culture we're not subject to reality there are
+great men among us who can impose their will on all of us okay and that's why
+you have Hitler and the Nazis okay um the what the Germans believe in is the
+idea of limit okay limitum i know this is a hard word it's a German word but it's actually a pretty easy concept the
+concept is called living space so throughout its history German the German
+people have always been invaded attacked by its adversaries so to protect itself it needs living space it needs to move
+out and colonize its surrounding territories Poland uh Russia Austria and
+make it more German so that the German nation can thrive okay very simple
+concept okay but this is the concept that drives the German uh military strategy in World War I and World War II
+okay limits Rome you have the British and the British as we discussed last
+class they are a very practical people the philosophy is empiricism and utilitarianism okay it's not a question
+of what is right or what is ideal it's a question of what works now okay the
+British are extremely practical um the British Empire is based on the concept of white men's burden meaning that the
+British culture is inherently superior to all other cultures and as such the
+British have a responsibility to go out and civilize and educate and enlighten all others okay so this is the
+philosophy that drives the British Empire the Americans are interesting
+because they are a new civilization and they try to base their culture on the
+ideas of the enlightenment okay so Rouso Kant especially John Lock um their
+driving ideology is the idea of manifest destiny so the idea of manifest destiny is that it is the obvious will of God
+for America to control the entire Western Hemisphere that's why Trump
+today is saying we should take over Canada we should take over Greenland because that's always been
+part of the American understanding of the world it is God's will that America
+will eventually control all the entire Western Hemisphere canada will eventually come into America into
+America as well and eventually America will drive out all European powers including Denmark and Britain from the
+Western Hemisphere okay so next class we'll discuss uh America in greater
+detail today we will focus on the British Empire which is founded by
+William Shakespeare okay so we will discuss William Shakespeare today uh next week we'll start to focus on the
+Russians and the Germans okay these are the four great civilizations that will drive history
+from from the 19th century up to today okay and I will also show you later on
+that it is actually the conflict between these four great civilizations that will drive human
+creativity science technology um philosophy okay and that's why from
+about 1800 up until um 2000 you had a
+tremendous flowering of ideas and culture okay all right so that's the
+game plan for the rest of semester any questions about this
+framework again you don't have to know these ideas right away i'll explain them in detail to you as we move forward okay
+but understand the overall framework is there are four different civilizations
+that will drive human uh modernity and they are in conflict with with each other and it's because of this conflict
+that drives human innovation all
+right okay let's move on so the shakes the question we're looking at today is
+how did Shakespeare transform English into the language of empire so for the
+longest time English is what they what they spoke on the British Isles okay not even the British Isles primarily in
+England so how did Shakespeare transform that into the language that everyone speaks today okay English really is the
+language of empire you think when you learn English you're not just learning uh grammar and vocabulary you are really
+learning a culture a philosophy an identity all right right and what's amazing about English is that it has
+really created um it it's really for soft power
+convince everyone to believe that Anglo-American culture is really the best in the world when objectively
+speaking it is not i you can make the argument that Russian and German culture is far superior to Anglo-American
+culture but everyone especially young people in the world today believes that Anglo-American culture is just vastly
+superior and the reason why is because most people speak English and we absorb
+um um our understanding of the world through language okay right so that's the question we're looking at today all
+right so before we talk about Shakespeare I want you to understand some basic principles about language art
+culture and civilization okay the first major principle is great art okay dante
+Homer uh Vamir Shakespeare it lifts the soul of civilization and changes the
+neurological neurological structure of societies creating a new way of being
+and seeing okay so this is a really important idea where you have to understand that
+civilization has a collective consciousness and what great art does is it seeps into this collective
+consciousness and rewires the brain to make the civilization see the world in a
+new way which causes people to behave differently okay so we discussed this
+about Homer and Dante right especially Homer and Dante today I'll show you how
+Shakespeare radically transformed the English imagination all right another idea I
+need I need I need you to understand is how poets transform civilization is
+they innovate in imagery grammar and vocabulary okay and when they do that
+poets expand a civilization's capacity to imagine feel and
+think okay so um we will discuss William Shakespeare
+william Shakespeare did not live very long he died at 52 okay so he was not
+alive for a very long time but his accomplishments are amazing in his brief
+life he wrote anywhere between 38 to 41 plays and he established the English
+culture identity okay shakespeare is really the founder of English culture
+and he established the his English historical memory okay and he did this by writing a lot of plays right so
+tragedies histories comedies you've read some of them in in in um in in school
+right so his accomplishments are tremendous the reason why we don't know how many plays he actually wrote okay is
+he never published in his lifetime all his plays were published after his death
+by his friends who are working with his notes as well as as um recollections
+from actors who participated in Shakespeare's plays that's why so we don't have actually anything written
+specifically by Shakespeare okay so keep that in mind um in his plays he used
+anywhere between 20,000 to 30,000 different words so his range of
+vocabulary was just vast what's really unique about Shakespeare is he
+introduced anywhere between 1700 to 3,500 new uses of words what we call
+diction okay I I'll show you what diction is later on to put this in context between the years 1500 and 1650
+around 10,000 new words are being introduced into into England because of
+re revolutions in agriculture in trade um in communication in technology okay
+so at this point in history England is um going out into the world and it's
+transforming it society and therefore it needs to bring in new words what Shakespeare does that's really important
+is he transforms the British imagination in order to better um absorb
+these new ideas and he does so through new new uses of words what we call
+diction okay so this makes sense guys okay so let's let's examine how he does this let's let me give you an example
+let's look at the word dagger okay dagger means just a short sword okay and it's a very common English word but what
+Shakespeare does is he uses it in a really imaginative metaphorical way that
+forces you to reimagine the world around you okay so let's look at some examples
+and these are my examples by by the way they're not Shakespeare's examples all right we will look at Shakespeare examples later on all right so the first
+example is he has a dagger fat and short okay this is interesting because when we
+see a dagger we think of something that is um thin right this is saying this is fat
+all right so this forces you to to think about what dagger is as a
+metaphor and this makes your mind think oh here's a dagger fat and short so it's
+possible that on the surface he looks fat and short but actually as a person
+he is lean and mean he's very very clever he's pretends he's stupid but he
+has he has very precise um cleverness okay all right so that's
+what Shakespeare does he takes a traditional metaphor and he radically reverses or inverts it to force you to
+reimagine things in a new way all right that's the first example second example is I daggered him with questions now the
+word daggered actually exists in English language but it means you carry a dagger with you okay so if I say I am daggered
+it means my there's a dag my pocket and that's a traditional use of dagger but
+there's no reason why you can't do what Shakespeare does and says I daggered him with questions which means like I stab
+him with questions all right I'm threatening him with questions i ask a lot of questions and this is very visual
+it's very imaginative okay now the third example is his voice is daggerly dagly
+as a word does not exist but because you know what the word dagger means you can imagine what dagly could mean right a
+voice that is like mine very high high high okay and which you feel um is
+jabbing at you all right so that's the genius of Shakespeare he takes words
+that we use every day and he finds new ways of using it in his plays that
+forces us to reimagine the world in a different way all right that's the power of Shakespeare now um what this is
+saying is this what Shakespeare understands is that language can be a portal into the
+neur neurological framework of our minds right so you might have some study some neuroscience or psychology you know like
+our brain it's structured by these things called synapses okay these pathways in our brain and what
+Shakespeare understands is that by manipulating language in a new way you
+can also perform a sort of surgery on the synapses all
+right all right so Shakespeare as music the thing to remember about about
+Shakespeare is his plays were meant to perform as musicals okay um today in
+school we have you read Shakespeare but remember during the time of Shakespeare no one read him you experienced
+Shakespeare by going to his plays and his plays were musicals uh when people spoke Shakespeare it was
+as though they were singing and also there were lots of like dance routines within the place as well remember these
+are people who are extremely ordinary okay who are going to Shakespeare as a form of mass entertainment it's almost
+like the equivalent of like going to movies today and the way that Shakespeare creates music in his place
+is through a device called pentameter okay pentameter um you know right it's
+Um amus is just uh the arrangement of syllables where you have one one that is
+deep and then another that's high so deep high deep high deep high deep high
+deep high when you have 10 syllables it's called pentameter okay so an example of course is to be or not to be
+or that is the so so you you understand
+how this works right low high low high low high and Shakespeare does that throughout his plays that's why it comes
+across as musical but if it's musical then then it's easy to remember because
+it becomes like a song right it's really easy for us to remember songs So e andic pentameter Shakespeare's
+plays are memorable beautiful and resident meaning they touch our souls and again these are people so
+through I'm a pentameter Shakespeare is performing a surgery on the imagination
+of civilization right all right so having said that let's go into some
+brief history about Shakespeare um during the time of Shakespeare theater is extremely popular
+around the country and theater is primarily the means of mass entertainment but it's
+also the means of mass education if you want to know about history if you aren't about culture um you go to the theater
+now problem with this is that during the time of Shakespeare around the 16th century as we discussed last class
+there's a major conflict going on between the Protestant religion and the Catholic religion and so the the queen
+Elizabeth is concerned about theater as a means of creating the scent in society
+so what they do is they force all the theater productions to be placed in a
+suburb of London okay that's where Shakespeare is going to work by doing that um Shakespeare is being introduced
+to all the major theater of that time okay so Shakespeare never actually wrote
+anything that is unique okay so Hamlet Julius Caesar Ollo King Lear these are
+all plays that are um part of the British theatrical imagination but what
+he does that's different is he reimagines the characters and introduces new diction into the plays to make it
+beautiful right so this is the globe which is where Shakespeare performed much of his productions right the globe
+theater um the thing also remember about this time is theater is low class all
+right so a in this district the this district there are lots of brothel
+people go to theater and they get drunk okay they're drinking they're spitting they're eating stuff they're also part
+participate in something called in a gambling activity called bear baiting okay bear baiting is really strange but
+the idea is you take a bear you chain him up you blind him okay and then you have dogs attack him and then you bet
+who wins the bear or the dogs and this is a really popular thing to do at this time right so it just shows you that we
+think of Shakespeare as very high class and we teach Shakespeare as high class but at this time Shakespeare is very
+very low class and Shakespeare's plays are performed uh right beside beer
+baiting uh venues as well as brothel right but this is important
+because because if Shakespeare is reaching to the masses right he's educating the masses
+into a global imagination All right um Shakespeare and theater
+it's so detested by the upper class that from 1642 to 1660 the Puritans banned
+from England okay remember we discussed the Puritans and how they're obsessed with uh control they hate alcohol they
+hate fun they hate theater especially theater they hate Shakespeare okay so they banned it so during this time
+Shakespeare is extremely controversial um so having gone into history let's
+discuss the genius of Shakespeare okay um you you do Shakespeare in school
+you've read quite a few of his plays so I'm not going to go too deeply but I'm going to focus on one example that
+distinguishes um Shakespeare from all other playrs okay so the example I want to use is Hamlet okay hamlet the story
+you know it's a very simple story it's about this prince of Denmark called Hamlet he's going to university in um um
+Germany um I believe Wikenstein which is where Martin Luther went he comes home
+and then he's visited by the ghost of his dead father and the ghost of his dead father tells Hamlet I was killed by
+your uncle Claudius who now has stolen the throne from me as well as married my wife Gertrude your mother it is your
+responsibility as my son to seek vengeance against Claudius okay so that's the mission of Hamlet the problem
+is that Hamlet he is a very analytical person he thinks too much paralysis is
+analysis okay so he spends the entire play thinking about how to kill him kill
+Claudius but also whether or not to kill Claudius and this is why we believe that Hamlet is Shakespeare's best play
+because it is a very deep philosophical work and in many ways Hamlet is really
+the expression of Shakespeare um you may not know this but Shakespeare had a son called Hamnet and Hamlet actually died
+when he was young so a lot of um scholars of Shakespeare and there are like thousands of scholars on Shakespeare believe Hamlet is
+Shakespeare's most personal play all right so we're going to go into a bit of
+Shakespeare and look at the most famous siloquy in Shakespeare to understand how
+he thinks how he writes all right so this again this is amic pentameter to
+be or not to be that is the question whether it is nobler in the mind to
+suffer the slings and arrows of outrageous fortune or to take arms
+against a sea of troubles and by opposing end them to die to sleep no
+more and by asleep to say we end the heartache and a thousand natural
+shocks that flesh is here to a consummation devotely to be wished to
+die to sleep to sleep her chance to dream i there's the rub for in that
+sleep of death what dreams may come when we have shuffled off this mortal coil must give us pause there's respect that
+makes calamity of soul long life thus conscious dove make cowards of us all
+and thus the native hue of resolution is slick over with a pale c of thought and
+in a pris of great pith and moment with this regard the currents turn arry and loosen of action okay so some brief
+comments about the slickquake first of all as you can understand it's beautiful right it's also if you think about it
+pretty easy to read there are lots of really complicated words in the speech but it's really smooth right if you read
+it for yourself it's really smooth and that's the power of pentameter if you really want to be fluent in English just
+read Shakespeare aloud for a few months and your English will be perfect okay um
+the British really are the best practitioners of English if you read magazines like The Economist
+um it's really the best written magazine in the world and you think to yourself well duh the British invented English
+right uh no okay just because you invent something doesn't mean you're good at it so the Chinese invented gunpowder
+compass printing paper didn't really get us anywhere okay the fact of the matter is that in England you're expected to
+read and know Shakespeare right so it's Shakespeare that allows the British to have amazing
+English all right so this is very complicated but it's actually not
+that deep okay it's not like Dante dante is very very deep but Shakespeare is actually not that deep all right so
+let's look at what it actually means with these words okay to be or not to be
+that is the question against the misfortune in our lives is it more brave and good to bear it or to stand against
+it i no longer want to bear this pain let me sleep i no longer want to feel my heartache and my body become weak and
+injured that is my wish i want to sleep and to dream but that is a danger isn't it when we are dead we cannot control
+what we dream and that is what frightens me and that's why I continue to build more misfortunes around me it is my own
+mind that has made me a coward and why each time when I become determined my resolve breaks apart and I cannot act
+okay that's what he's saying that's like literally what he's saying no difference but of course when you do this when you
+simplify Shakespeare you lose the beauty and richness of Shakespeare all right so
+now question then is why is Shakespeare so complicated what's he trying to do
+with his language okay so the first thing that he's trying to do is he's trying to use language as a mechanism to
+convey different realities different meanings okay so within Shakespeare with
+each with each of his plays there are many different layers of meaning that can be true at the same time all right
+so let me show you an example of this let's look at the first possible interpretation of to be or not to be
+okay you can say it means to die or to live i cannot decide i do not know if
+it's more brave to live a painful life or to run away from it and escape into death so this is saying that Hamlet is
+overwhelmed by the moral dilemma he's put in okay he cannot u escape he he has
+to avenge his father right or he cannot sleep but avenging his father means killing his uncle who his mother loves
+okay it's an impossible moral dilemma he doesn't he doesn't want to deal with it so he wants to kill himself okay that's one possible interpretation another
+possible interpretation is to kill or not to kill I do not know is it more good to let those who do evil suffer
+their own fate or should I stop their evil and end their lives okay so you can interpret this as saying he's asking
+himself how should he kill Claudius should he kill Claudius okay that's a
+different interpretation yet another interpretation is should I follow my
+fate or should I defy it is it more brave and good to do as I am told or to fight against my fate and in so doing
+perhaps die okay so this is a much more deeper and richer meaning where he's talking about fate and life in general
+he's making the argument that we are we have no free free will we are forced into a situation where we must do what
+fate tells us and in this situation what does it mean to be human what does it mean to have free will where you're
+controlled by the forces of fate around you okay so that's a much deeper meaning
+and then the last deep meaning is what is the point of existence i do not know when we exist we must face pointless
+questions in our lives should we suffer or should we fight okay so this is the deepest meaning where he's ask he's he's
+actually asking what does what is existence what is the point of all this
+how do we get here what is the purpose of existence okay so there are four possible
+interpretations of this speech and they're all correct you can interpret them any way they want okay so it's the
+first power of Shakespeare where he's forcing you to interpret his speech in
+different ways okay the second power of Shakespeare is it's visual okay in this
+tradition in this oral culture where no one reads and writes well most people don't read and write uh most people are
+accessing information through words right and in this tradition words are images all right so
+let's go over the silicquay and see how they are images okay so when Hamlet says
+suffer the slings and arrows of outrageous fortune or take arms against a sea of troubles and by posing in them
+the audience is seeing these pictures they're seeing a movie in their heads okay that's the attraction of
+Shakespeare okay do you guys see this is it clear to you guys all right and
+because you're seeing pictures they remember all this okay if you when you talk to an English person it's amazing
+how much Shakespeare that person knows subconsciously another image okay in
+that sleep of death what James may come we have shoveled off this mortal coil must give us pause all right so this is
+an image of a person who's dead so his soul goes up to heaven but what's in
+heaven what's that sleep of death no one knows
+okay another image the native hue of resolution is slick over with a pale
+pass of thought okay so this is a complicated sentence but it's really about how something that is clear to us
+once we think about it becomes very dark and
+unclear right so that's a power of Shakespeare it's a visual language
+all right another example enterprise of great pivot moment their currents turn to rise and loss of action right so
+imagine a ship it's going very it's going in a direction you're set on that
+path but the moment you think about it the think the moment you think deeply about what you're doing um the ship
+collapses you don't know where you're going anymore right so is that clear to you
+guys all right so another example of the power of Shakespeare is uh Julius Caesar
+i'm not sure if you read Julius Caesar in uh school but Julius Caesar it's a
+very I mean the plot is very simple um Julius Caesar he has defeated all his
+enemies in the Roman Civil War and his friends Brutus Casius um they're worried
+that he'll become a dictator they're they're worried that he he'll become king so they plot to kill him and Brutus
+and Casius and all the conspirators kill um Julius Caesar and then Brutus and Cas
+think this is over okay but Mark Anthony who is Caesar's lieutenant he swears
+vengeance and Mark Anthony and Octavian will combine forces to destroy and kill
+Brutus and Cases and that's the plot of Julius Caesar not very complicated okay but in Julius Caesar you will find some
+of the greatest speeches in the English language it's stunning speeches okay and
+in the speeches you will find example of how Shakespeare understands language as
+a surgery on the brain how through speech making how through language you can actually transform the neur
+neurological structure of the human brain okay so let's look at an example of this mark Anthony and Brutus are
+going to engage in a speech competition they're going to debate each other okay brutus will be the first to give a
+speech and then he'll be followed by Mark Anthony so the strategy of Brutus is is you use a rhetorical strategy
+called the antithesis okay the antithesis is basically very simple you have two opposing ideas okay and there
+are opposed to each other so the idea is I am Buddhist i am honorable you know me
+as honorable because my name is Brhus which is also the name of Lucius Brhus
+who founded the Roman Republic you know me as honorable person now who is Caesar caesar is
+ambitious okay honor and ambition cannot go together so I love Caesar but because he
+was ambitious he wanted to enslave us i want to free us therefore I have to kill him all right so that's the idea of
+Buddhist he's trying to create a economy between Caesar and himself if you know
+me Brutus as honorable then you must believe that Caesar is ambitious this rhetorical strategy is what we call the
+antithesis okay in the human mind you just see these two things as separate from each other mark Anthony then
+responds to Brutus using something called the triasmus okay the triasmus it's really interesting the triasmus
+take tries to take these two opposing principles and combine them together all right so what Mark Anthony will say is
+that Caesar was ambitious and honorable as honorable and ambitious as Buddhist
+this is called we call triasma it's called it's an a bba structure when you
+do that when you have a triasmus you collapse the antithesis remember the antithesis are two separate ideas that
+cannot meet together exclusionary the chasma shows you like these are mirrors of each other
+okay when you do that in the in the Roman imagination human Roman mind you
+then collapse the economy between Brutus and Caesar and you see them as one and the same but if it was Brutus that
+killed Caesar then Brutus must be the less honorable and ambit and more ambitious one okay does that make sense
+guys julius Caesar all right so let's see an example of this all right this is
+Brutus si talking to the Roman crowd after the death of Julius Caesar okay he's trying to explain his actions
+before the Roman crowd he says "If then that friend demand why Brutus rose
+against Caesar this is my answer." Okay you want to know why he killed Caesar i'm going to tell you why he killed
+Caesar not that I love Caesar less but I love Rome more had you rather Caesar
+were living and die all slaves than that Caesar were dead to live all free men
+this is an antithesis right i love Caesar but I love Rome more okay
+this is antithesis this is also antithesis caesar if you were living he we he would make us into slaves if
+Caesar is dead we will continue to live as free men okay two exclusionary ideas
+developed by Brutus now what Mark Anthony is going to do is he's going to collapse this okay he's going to change
+your neurological structure he's going to change your synapses within you through his speech making let's look at
+Mark Anthony yet Buddhist says he was ambitious and sure he is an honorable man okay so he's summarizing uh the
+argument made by Buddhist i speak not to disprove what Buddha Buddhist spoke but
+here I am to speak what I do know you all did love him once not without cause
+what cause withholds you than to mourn for him okay this is a tasmus
+cause love mourn okay you guys see that he continues with a
+tasmus but yesterday the word of Caesar might have stood against the world now
+lies he there and none so poor to do him reverence oh masters if I were disposed
+to stir your hearts and minds to mutiny and rage I should do Brutus wrong and
+Cass's wrong who you all know are honorable men I will not do them wrong i
+rather choose to wrong the dead to wrong myself and you than I will wrong such honorable man okay this is two examples
+of tismas where word of Caesar and reverence match stood and lies match
+okay for the chasm he's collapsing this economy another example is here okay the
+red match the green match this this is what we call chasmus does that make
+sense guys okay have you guys learned this before okay it's really important you
+know you know these ideas all right so that's the power of Shakespeare through his language through his rhetoric he's
+transforming the British imagination so that they are more open more fluid they can absorb new ideas and they can be
+more innovative okay now we we as we discussed way back at the beginning of
+this course Homer did the same thing so let's compare and contrast Homer and Shakespeare how was it able that they
+were both able to be founders of great civilizations all right first of all
+they came at a time when there's a cultural tabular rasa okay tabular rasa just means blank
+slate so Homer came at a time after the branch age collapse of Greece the misanian civilization collapsed and now
+you have this the polar system okay so it's a tabala rasa same thing with Shakespeare where Britain at this time
+it is not an advanced culture as much as the French and um the Spanish second is
+rapid cultural change where Britain is undergoing all these revolutions when you when it's undergoing all these
+revolutions people are anxious and they're looking for new ideas oral culture okay we we talked
+about this where if you live in an oral culture people have a stronger memory
+and have a greater imagination that's why they're able to sit through three hours of Shakespeare at one go at at one
+um one go and visualize his language and this is like the most common person in
+Britain okay these are not the elite these are just commoners and so um we
+have an oral culture you have a stronger memory imagery vibrancy and flexibility they look guys I I hate to say this but
+back then they were smarter than we are today we have you know Google and chatbt
+but if you think about it all these things are just making us stupid okay um open cooperative competition
+just means that in their times Homer was just one of thousands of bars that are
+traveling around uh Greece and singing legends of the Trojan War and the Golden
+Fleece okay so what they were doing was they were stealing from each other all right Shakespeare was stealing from
+everyone else and that allows for rapid innovation when when you have an open cooperative
+competition democratic sensibilities this is really important okay homer was talking to ordinary people shakespeare
+was talking to ordinary people the problem with today's culture is um there's a lot of uh market
+differentiation where if you feel that you are high class you're university professor you don't want to talk to
+common people you want to talk to other university professors that leads to stagnation and segmentation okay uh free
+market really important idea where how do you know if you look good or not okay
+well in a university you know if you're good or not if a professor tells you you're good or not but how do you know
+the professor knows what he's talking about the free market provides an objective feedback loop- which forces
+you to constantly innovate and improve right how do you know you're good because people come and listen to you
+they pay attention to your plays they want to pay for your place right and it
+turned out that because of the free market and open corporate competition Shakespeare proved to be the best okay
+and the last idea is poet as profit okay this is a really important idea where
+okay yes Shakespeare became very wealthy because of the plays he was producing he
+was he came from a very common background he was not very wealthy he didn't go to university that's why
+that's why today there are scholars who believe Shakespeare did not write Shakespeare because he didn't go to
+Oxford or Cambridge christopher Maro wrote to went to Oxford or Cambridge but not Shakespeare okay so you have a lot
+of scholars who actually believe because he's not well educated he um could not
+have written the place he wrote but what drove Shakespeare and what drove Homer is the idea that you have a divine
+mission to spread the truth okay so Shakespeare and Homer they were rich
+they were popular they were famous but they were not driven by money they were driven by a divine messianic mission to
+transform the world okay does that make sense guys
+this is really important to understand great artists are driven by
+um a messic mission to change the world for the better they're not driven by money or power or fame all right so
+having done that let's recap and summarize the three great poets that
+have impacted western civilization okay and compare and contrast the three all right you have Homer who founded the
+Greek civilization you have Dante who we discussed in great detail this semester he's the founder of modernity and you
+have Shakespeare who was the founder of the British Empire all right so
+um again Homer Dante and Shakespeare were all democrats in their heart
+homer was a roing bard who went around the different polices to uh sing and
+entertain the masses dante was revolutionary because he wrote divine comedy not in Latin which was the
+language of the educated elite but in the vernacular in Tuscin so that ordinary people could access it and by
+doing so he transformed tas tuskcin into the official Italian language that is spoken
+today uh Shakespeare again was a playwright he wrote to entertain the masses that's why in Shakespeare you
+have such I mean it's it's it's very offensive someone's language okay all
+right um they have different conceptions of language though all right and this is
+very key for us to remember for Homer language is a window into the human soul
+so go back to the Iliad in the Odyssey it was really about what drove us humans
+achilles was driven by the thirst for fame uh Odysius was driven by his love
+of Peny and his son Tamakus okay so uh both the Iliad and the Odyssey were
+tremendous psych psychological studies of what it means to be human you have Dante okay dante uses language as a
+portal into the mind of God what is the universe how did God create the universe
+what does God want from us okay that's divine comedy shakespeare is very different okay Shakespeare creates a new
+idea of language as a reality onto itself all right a reality onto itself
+so what I mean by that is with Shakespeare it's not really a deep
+meaning it's very hard to find deep truths in Shakespeare but the language is beautiful and this is the culture we
+live in today where you know what people write novels they use beautiful language
+beautiful description great imagery but there's really not great truths deep
+truths grand truths in the novels that are written and produced today okay so
+let me give you example of what it means to have language as reality onto itself all right so let let me show you show
+show you what this means and to do so I'm I'm going to use a different um poet his name is John Keats okay John Keats
+and this is from his most famous poem to Autumn which is considered the greatest
+English poem of all time all right so let's read it together and then I'll show you how this is a reality onto
+itself where are the songs of spring i Where are they think not of them thou
+has thy music to you while barred clouds bloom the soft dying day and touch the
+stubble plains with rosy hue then in a wealth of choir the small nuts mourn
+among the river shallows born alive or sinking as wind lives or dies and
+foreground lambs loud bleed from hilly born had crickets sing and now with treble soft the red breast whistles my
+garden cough and gathering swallows Twitter in the skies okay so it's
+beautiful what does it mean all right i'm going to show you what it means okay this is this is language as
+real reality onto itself it is language visualizing a new world all right so you
+see how the words match right while barred clouds bloom the soft dying day
+and touch the stubble plains with rosy hue it's a painting guys all right this
+one sentence it's a painting of a new world that you can see in your
+heart also then in a wealthful choir the small gnats mourn among the very
+shallows born aloft or sinking as our l as a light wind lives or dies okay you
+can see the music within this picture right this is a not just a picture but
+it's a world that you can access because it's moving it's alive it's the power of
+language next sentence and full grown lambs loud beat from
+hilly born head sing and now with treble soft the red breast whis from a garden
+cough okay so you see what's happening where this poetry it is entering your
+soul and is it is activating all your emotions all your senses there's the visual okay there's a sound there's a
+smell there's a
+touch and gathering swallows Twitter in the
+sky okay that's what poetry is poetry is
+the expression of a new world that you can access right and when you access it when
+you enter it it transforms your soul and your imagination your capacity to think
+feel and imagine okay does that make sense you
+guys all right all right so let's summarize what
+we learned okay shakespeare turns English into the world's linguistic
+internet a platform in which all cultures ideas and worldviews can meet
+and crossbreed okay so Shakespeare is transforming English into this extremely
+flexible beautiful memorable language which allows everyone to learn English well
+you want to learn English well just read Shakespeare okay that's all you have to do and then you can master English so
+it's a linguistic internet for the first time all cultures
+are able to meet together in within a English language and communicate with
+each other okay there's a problem with this there's a problem with this the problem is this but this exchange is mediated
+through Anglo-American civilization which is at its heart utarian skeptical
+and empirical all right so when you embrace English when you experience English
+you're also experiencing British culture history and philosophy okay and as we discussed the
+three main philosophies of British culture are utitarian skeptical and empirical utarian we discussed last
+class it just means that um we should do things that works as opposed to what is
+right skeptical is to be skeptical of our capacity to reason and to think if you
+think you know something you probably don't know it okay and then empirical
+just means the only thing you know is things you experience all right so in other words Anglo-American
+culture even though it dominates the world it's it's pretty lackluster it's
+very narrow-minded it's very practical it's pretty mediocre okay and if you want to know
+what I mean by that think about think think to yourself what when was what was
+the last great American novel you read i mean there are lots of great Russian
+German novels right so Russ Russians you have Anakarina war in peace um K
+punishment the Germans have great philosophy Kant nichi Hegel we we'll go
+into that uh later on okay but I I struggle to think about what great art
+the Americans produce have produced even though they are the most wealthy most powerful country that has ever existed
+in human history okay and I mean Shakespeare is great i mean like like
+like I love Shakespeare king Leair is one of the greatest plays ever written but Shakespeare compared with Dante I
+mean I don't know okay dante is like you are in the mind of God you can feel this
+is divine okay but with Shakespeare you're like this is beautiful
+but is it a pretty nothingness
+okay that's a question I I have and again to be fair it's been a long time
+since I actually rich read Shakespeare i've read most of his plays uh but it's been a long time since I've read
+Shakespeare so what I want to do later on uh may maybe a few years from now is
+actually teach Shakespeare and see if I'm wrong okay but um right now I I I
+have to say Shakespeare is not as impressive as Homer and Dante right and I think Homer and Dante are the two
+greatest poets who ever lived all right so let me give an example of what I mean
+by how British culture is kind of narrow-minded all right so this is considered the greatest epic in the
+English tradition called Paradise Lost by John Milton and it's really about
+um Adam and Eve right why did Adam and Eve eat that forbidden fruit and why
+were we banished from uh the garden of Eden and look um it's 12 books which is
+a model of the great epics of integrity um Homer and uh Virgil and there are
+some parts of Paradise Lodge which are beautiful
+okay I mean I love Paradise Lost i I've taught Paradise Lost before but the reality is this as an epic as a grand
+vision of the world it doesn't really work okay i mean like um I don't really
+think the plot the vision of Paradise Lost it is as fully formed and as grand
+as Homer and as Virgil and as Dante okay and and so Paradise Lost you might have
+a chance to read it um in college one day but it's a very limited and
+narrow-minded uh epic all right so so
+let's conclude all right so we we did Britain today okay and I hope you understand
+uh British culture it's an island fortress it sees itself as here to Roman
+Empire it is an Anglican religion it's driven by the emper empiricist and
+utteran philosophies okay and Shakespeare is really the founder of this great civilization next class we'll
+do America okay and then after we do these two uh cultures that now dominate the
+world we'll move on to the Germans and the Russians okay that's the game plan
+but was today's class clear to you do you understand Shakespeare now does this make sense okay any
+questions anything you're not clear about any questions
+so that's like
+Okay yeah so okay so the question is what is
+like like so Shakespeare is played is is performed all the time and you are
+forced to read Shakespeare in school so where is where do we get these plays
+from okay so um let me explain to you what's happening all
+right okay so Shakespeare's plays all right so when Shakespeare was alive
+um he didn't really publish his plays okay he didn't publish his plays
+and there are many reasons why he didn't publish his plays um first of all in this culture at this time there's no
+copyright so if you publish your play and someone steals it too bad so you're not incentivized to publish your play
+second of all people don't really read and write so there's really no market for his plays so even if he were to
+publish his plays he wouldn't make any money he he would make money he would not make money off it okay so what he
+did was he wrote his plays down um primarily for his actors to memorize but as but but the but but the
+benefit of America is that actually the speeches are pretty easy to
+memorize okay and um when he was alive Shakespeare was a national celebrity he
+performed his plays in front of the king and queen okay he was very very very well known um extremely famous
+um he was looked down upon by the nobles but I mean he was very very wealthy and he himself will go on to purchase a
+noble title for himself okay so he was extremely successful
+um when he was alive people didn't really fully
+understand his genius okay it's only about 100 years 20 years afterwards
+uh when people really appreciate his genius and his play spread throughout
+Europe especially to Germany to Germany the Germans love Shakespeare okay and it was only after his death that people
+realized what a um unique genius Shakespeare was so
+um after his death um his friends and I don't remember their names okay but his friends want to uh remember him they
+want to memorize him okay so they start to publish his plays it's it's something called the first folio so basically what
+they did was okay they took um the notes from Shakespeare so some of surviving
+manuscripts not complete okay but some of his notes they also got the actors to basically write
+down what uh they uh remembered okay and they remember a lot because these are
+actors actors have extremely um good memories okay so they were able to reme remember exactly uh the
+speeches um and then they'll make they'll make edits okay and this is the first portal first for folio okay but as
+you can imagine over time there'll be a lot lots of additions and
+mistakes all right but um so today it there are thousands of Shakespeare
+scholars and they argue over certain words did Shakespeare really have this
+word or was it a later edition okay and I
+mean it's a really silly thing to do because as I explained to you the genius of Shakespeare was to imagine language
+as this very fluid um flexible imaginative tool for you to
+experience reality onto itself okay so to argue what I mean like was the word
+dagger or datter or dasher okay and people will argue this i mean like does
+it really matter i mean like a lot of Shakespeare is just word play right i mean like there's really no deep truth
+in Shakespeare and quite honestly I mean like these words are not
+are not going to change the deeper meaning of Shakespeare okay so so something that I think overpaid English
+professors do okay just because they have nothing better to do okay they argue about what was the in the first
+fortio what was edited out was added to they're trying to figure out what was Shakespeare's original
+intention and I mean Shakespeare think of him as a musician okay he's I mean
+like he's trying to um sing beauty and
+truth but a lot of it is not intentional a lot of it's not conscious a lot of
+being driven by inspiration and intuition and imagination okay right so when we go back to Hamlet
+the silicquy if we change a few words it doesn't really change the meaning of the silicqu
+okay right okay does that make sense Eva okay
+great question though right any other questions
+yes yeah so how's that like mindset
+okay okay so it's a great question okay um what men's
+burden okay this is a concept that was introduced during the age of imperialism right at the end towards the end of the
+19th century by Robert Kipling okay okay the white man's burden we have a responsibility as white people to go and civilize the dark people okay in Africa
+and in China and other places um what's the connection to Shakespeare okay first of
+all Shakespeare was not interested in the world okay he he was very provincial he
+was interested in London and that was about it i'm not even sure if he traveled okay um there's a debate
+whether or not he actually speaks French and Latin he knows a bit of Latin but this is debate whether or not he speaks French okay so um Shakespeare was not an
+imperialist he was not a globalist he didn't really care about the world but
+within Shakespeare is British culture okay he wrote of histories
+tragedies and comedies there's like 38 to 41 plays and
+together they are the encapsulation of British culture right so as Britain was
+going out into the world and conquering people uh and colonizing nations they
+need to explain why this this was happening okay why are you going and killing people for like no particular
+reason and this is why Shakespeare is important because Shakespeare
+allows him to say "Well do you have a Shakespeare do you have do you have like 38 to 41 plays that are beautifully
+written?" Well if you don't then that means you're not civilized okay we have Shakespeare you
+don't have Shakespeare that means we're superior to you and therefore we will teach you Shakespeare we will educate
+you in Shakespeare we will civilize you okay so this is not just Shakespeare
+there are other um um individuals as well okay but primarily
+Shakespeare shakespeare is really the um greatest cultural product of the
+British right so that doesn't make sense echo
+okay so Shakespeare himself was not an imperialist he didn't really care about that sort of thing okay but his legacy
+will be co-opted by British imperialists in order to justify and explain why
+they're going out and killing so many people around the world and stealing the resources right okay but we'll discuss
+this when we enter the age of imperialism which is towards the 19th century and and then this will lead us
+into the great wars uh world war I and World War II
+okay all right any more questions
+really best way
+learn
+yeah I I I answered the question okay great great yeah so so you're you're doing a fellow in class and you're
+looking at a fellow from the perspective of race and identity and culture
+right um okay so let's just discuss how
+Shakespeare wrote his plays okay so he wrote um for around 40 plays before he died at
+at 52 okay which meant that he was basically producing one two three plays a year
+that's a lot guys if you read Shakespeare the themes are extremely diverse okay you have a fellow who is a
+Moore who kills his wife Desimona okay but you also
+have Merchant of Venice Julius Caesar okay so there's a wide range of his
+plays and so the question is how did he do it well he was stealing it from everyone okay remember this is a um
+market there's a huge market for theater there are dozens and dozens of really talented playrs in London in England who
+are producing wonderful works okay so he's just stealing these plots from
+different uh playwrights but what makes Shakespeare unique and special and
+superior to these other playwrites is first of all his characters okay
+um he has a deep empathy for his characters he goes into the mind
+of his characters and he says if I'm this person how would I behave okay so
+that's one thing that makes him unique second as we discussed is his use of language okay just the
+fluidity and the beauty okay and the flexibility of his
+language okay um and the last thing is the realism which
+is he's trying to make the plot as realistic as possible he's trying to remove the
+supernatural elements okay he's much he's interested in psychology
+okay so um when you look at a fellow he's he's he's asking himself why is it
+that a man who loves his wife what could drive him to kill his wife okay that's
+the question he's asking he doesn't see Oll as a black person in a foreign
+culture he doesn't see it that way he just sees I want to ask myself a question if you truly love a person what
+would what would drive him to kill her
+okay but because the theme is so universal it allows you
+to impose
+um cultural readings okay so he himself was not
+interested in the issue of race culture and identity and quite honestly at this time in history there's no such thing as
+race or identity okay remember I keep on saying this but for most of you of human ministry we did not differentiate
+ourselves according to race we differentiate ourselves according to community okay so within England people
+didn't care about the French or the Germans they hate but but you know what they cared about each other and they
+hated each other remember the main conflict in England at this point is the conflict between the Catholics and the Protestants okay so they weren't focused
+on the world they were focused on each other so um these cultural readings come
+later they come from today shakespeare himself was only interested in psychology what drives us humans all
+right and you can see that manifests itself in Oll and in Hamlet all right and quite honestly um
+I'll be honest with you I think it's really unfair to Shakespeare that we're doing this all right i mean like like like
+like isn't it much it wouldn't be much more interesting class if we stop asking ourselves oh Oll was a black person so
+how black people were persecuted and ask ourselves Oll is a man of great achievement he's a man of great
+tremendous pride and honor but is it possible that in in certain in certain circumstances this can be used against
+him and that's and that's the plot of a fellow which makes it a Greek tragedy right the Greeks were concerned about
+hubris arrogance fate these are questions that the Greeks were concerned about so in
+many ways Shakespeare saw himself as continuing the Greek legacy all right and the fact that we're
+focusing on questions like race culture and identity it sort of like degrades the
+because it's saying like oh if you're a black person uh then you may always be
+manipulated and persecuted and quite honestly it's also reinforcing certain
+racial stereotypes about black people as very violent and emotional okay so if I
+were to teach Oll it's a great play and I've never taugh but I would focus more on the human aspect of a fellow as
+opposed to the racial aspect of a fellow does that make sense
+okay great any more questions
+that's a great question how is Shakespeare able to focus on human psychology um given the fact that he's
+not well educated okay I will make the argument it is precisely because he's not well educated that he focused on
+human psychology okay when you are educated you are educated into cultural
+attitudes norms and values of the elite but if you're not educated then
+what you do is you observe humans as they are without prejudice you want to
+know you want to know how are we as humans and you have not been
+indoctrinated to believe believe certain certain things okay so if you go to school you
+do one school and you go to university the first thing you're taught is only well educated people are capable of deep
+psychological insights and that's a prejudice that's a failing because
+Shakespeare never went to school he's able to see himself as equal to other
+people and therefore he's able to have tremendous empathy for other people and therefore he's able to understand the
+psychology and his own psychology all right he's able to see people as a reflection of his own psychology and
+that's what drives his genius and that and quite honestly that's what also what what drove Homer okay
+so um I mean um I I hate to say this okay but I did go to Yale University i
+studied English literature there so I stud I spent a year studying Shakespeare and
+um I was not impressed with the education I got at at Yale because again
+the problem with going to these elite universities is you're taught to think in a very rigid
+way that inhibits your empathy your curiosity and your own psychological
+understanding okay in fact I'll be honest with you um I watch a lot of YouTube videos and like to do research
+for these talks i'm always impressed by how these self-taught historians know
+much more about history um than these academics at Yale Cambridge Oxford
+Harvard okay that I mean that's that's something that that I I've observed i'm you're much better off talking to an
+individual who has a passion for history and who spent his entire life asking
+himself what is history but never really got a formal education never got a doctorate in history as opposed to a
+Harvard PhD in history okay that's that that's that's a hard lesson I learned in my life it was very hard for me for me
+to accept because I am um an elite um graduate of of elite university okay but
+what Shakespeare understood intuitively is no it's the common
+people the ordinary people that's where the truth lies okay not in books but in
+people that's that's what makes Shakespeare so great he's he is first and foremost an anthropologist a
+psychologist of people he wants to understand how people think and behave okay and when you read when you read his
+plays that's what that that's what you experience for yourself okay he's really interested in the psychology of IGO
+Desimona and Oll okay that's a that that's what he's
+that's what he's curious about he's not interested in these structural forces that drive conflict and persecution
+uh among these people okay that comes later that that that's what we do to Shakespeare today okay but back then he
+was only he was only interested in what it meant to be a human being
+okay okay does that make sense okay great any more questions
+guys you want to ask more about Oll I'd be happy to answer even though my reading of Oll
+might be different from what what you're being taught in class
+okay
+okay so the question is how does Shakespeare develop his themes okay so
+um so Oll sorry so Athell Hamlet King Leair all
+these plays are well-known stories okay they're extremely well well-known
+stories but Shakespeare he is curious about people all right because every day
+if you work in a theater you you deal with people all the time okay your customers are people your actors are
+people and what he discovered over time is people are very complicated people are very emotional people have um their
+own psychology there's diversity among people okay and so what he does that's really interesting is he takes these
+legends and he combines them together okay he takes these legends and he and he takes his observations of human
+individuals and he combines them together to create Shakespeare in other words what he does that's
+unique is he takes these characters King Lear Hammond he turns them into people he's
+observed all right when you do that you get you get a lot of interesting psychology right so let's imagine um you
+become Hamlet and you were in a circumstance where your father has come and told and given you a mission to go
+kill your uncle because he's sleeping with you know your your your mother and um how would you behave well you
+probably like Hamlet and you'd be like very confused you'd be very distraught
+okay does that make sense same thing with where
+um let's just say that you're this great champion you're this great hero well other people are be jealous of you right
+and if other people are going to are are going to be jealous of you what what they're going to do is figure out how to
+um get back at you okay so it's not a racial issue it's a human
+issue if you're the top student in the school and every day the teachers are praising you right I'm pretty sure those
+students are going to hate your guts that's a fellow right that's a human thing it's
+not a racial thing it's not because he's black i mean it's because he's such a uh accomplished
+individual okay does that make sense all right great okay so um next class we do
+the American Revolution all right

@@ -1,0 +1,2245 @@
+https://www.youtube.com/watch?v=N2GFDDZtGQY
+
+Hello everyone. Welcome to the first
+stop in my end of the world global tour.
+Um
+[applause]
+so first of all I would like I would
+like to thank Alli and his team for
+organizing this event. Um as you can see
+it is an amazing space. I also like to
+thank you guys for being paid
+subscribers. Um, as you know, for the
+past 2 years, I've worked as a high
+school teacher in Beijing. And now that
+you're supporting my work, I'm now able
+to travel more around the world and see
+for myself what's going on in this world
+so I can do better geopolitical uh
+analysis. So, what I want to do today is
+basically provide a framework for
+understanding how we got to this point
+and where we're going. So to start, I
+want to tell you my first impressions of
+Los Angeles. It's my first time here and
+Theo Vaughn invited me to be on this
+podcast. So um I want to thank Theo
+Vaughn and his team uh for being such
+gracious holes. I came in Wednesday and
+they put me in West Hollywood, a very
+nice place, beautiful, a really
+beautiful hotel. And I enjoy walking
+around the city in Ward sense of the the
+culture. And I was walking around the um
+Sunset Boulevard area and the
+residential area is just beautiful and
+I'm just admiring the houses, the
+sunlight, the beautiful all and then I
+see right in the middle of the pavement
+is a pile of dog I obviously walk
+around it. It takes me a couple minutes
+before I realize it probably didn't come
+from a dog.
+So, that's my first impression of LA,
+unfortunately.
+And then my next impression of LA is I
+went to breakfast and I I went to the
+cheapest place I could find. I paid $17
+for avocado on toast.
+$17 on avocado on toast. And I was like,
+there better be cocaine in this thing.
+Okay. And unfortunately, there wasn't.
+So, um I I've been walking around the
+city. There's a really a lot of homeless
+people. There's a lot of drug addicts.
+And the impression that I I've dealt
+these past three days is America is
+suffering from imperial exhaustion. Uh
+it's an empire really in decline. It's
+exhausted.
+And you know, when I was in China,
+um I would just hear Americans talk
+great things about China. and I live in
+China and I see all the problems and I
+really didn't understand why Americans
+thought China was great until I came
+here and see the world from your
+perspective and honestly from your
+perspective everything is great. So let
+me give some historical background as to
+how we got to this point. So the year is
+1944 and America is about to win this
+war against Japan and Germany. They
+organized the bread and wits conference
+in New Hampshire and the idea is to
+establish the US dollar as a world
+reserve currency. The logic of this is
+very simple. Uh World War II, America
+had to build a lot of factories to
+supply armaments for its war machine.
+Now that the war is coming to an end,
+what do you do with these factories? And
+the answer is you turn these factories
+from manufacturing munitions and weapons
+to manufacturing TVs, cars for the
+global market. Problem is uh the entire
+world is destroyed because of World War
+II. So America, what America did was
+lend the world the money in order to buy
+uh cars and washing machines and
+television sets. And this became the
+basis for Pax Americana as well as the
+US dollar uh system. Now because America
+was lending so much money to Europe and
+to Japan, it needed collateral for this
+financing and this collateral of course
+was gold. So the agreement was that US
+dollars would always be pegged to gold.
+We call this a gold standard and it
+worked great for the first 10 years,
+first 10, 20 years because it allowed
+the average American middle class uh
+person to live like a Roman emperor. If
+you were a white male in 1950s,
+um you were in paradise. Um you you had
+maybe a factory job, but with that with
+that factory job, you could have your
+wife work at home. You could raise three
+kids and have them all go to college.
+You could um go on vacation twice a
+year. You had two cars. It really was
+the best life. But unfortunately
+um America started to waste a lot of
+this what we call exorbitant privilege,
+the right to print US dollars. And so
+America started to do stupid things like
+for example the war in Vietnam, uh the
+space race, the great society. And at
+this point, the world recognized that
+maybe America is spending too much
+money. At the same time,
+the rest of the world is catching up to
+America industrially. So Germany and
+Japan um they were deficit in the war,
+but they're working really hard and now
+their industrial capacity is surpassing
+that of the United States. So that
+what's happened is America went from a
+creditor nation to a debtor nation. And
+that's bad because you owe everyone gold
+and there's not enough gold in the world
+to pay off the debt. So what happens is
+in 1971 Richard Nixon declares, "Oh,
+remember how in 1944 we agreed that US
+dollars will be pegged to gold. The gold
+standard will forget about it. Okay?
+From now on the US dollar it's all free
+floating. It's just fi fiat currency. it
+it we will not give you gold uh for US
+dollars. So now this creates a crisis of
+confidence and to resolve this crisis of
+confidence Nixon does two things. He
+visits Saudi Arabia and agrees to get
+them to sell oil only in US dollars. We
+call this the petro dollar. And the
+other thing that he does is he goes to
+China and gets China to start to
+liberalize its economy to start working
+in the United States. Uh and basically
+what China does is use its cheap labor
+in order to make to manufacture goods
+for the global economy and sell its
+cheap labor um in US dollars. Okay. And
+these two things what happened in the
+Middle East and what happened in uh East
+Asia now becomes the new framework for
+the global economy. And the idea is that
+uh the Middle East will sell its oil to
+East Asia so that Japan, South Korea,
+Taiwan, China could then make
+manufactured goods to sell the world.
+And all this is being facilitated in US
+dollars. And all this money because it's
+being facilitated in US dollars goes
+back to America. But because of this
+global system, America now has to shift
+from a manufacturing power to a
+financial power in order to process all
+this trade. Okay. And this is this has
+led to the financialization, the hauling
+out of the American manufacturing uh
+sector. And um this has led to
+tremendous problems in American society.
+For one thing, it's led to tremendous
+inequality. Uh another thing is that uh
+America now is forced to provide
+security guarantees for the entire
+world. So its military is overextended.
+Uh this is what is called imperial
+overstretch. Another thing that happens
+is there's so much power in the
+financial sector that leads to
+corruption. And and this is what
+obviously led to the 2008 supreme crisis
+because you got these Wall Street bank
+banks out of control and they were all
+engaged in speculation and they didn't
+really care because they knew that no
+matter what happened the government
+would pick up pick up the tab at the end
+of the day. So uh they engaged in all
+this reckless behavior and this has led
+to the world that we live in today.
+Obama was elected in 2008 to fix these
+issues, right? To represent the working
+class. But he didn't do that. That's why
+in 2016 we got Donald Trump who promised
+uh to build a wall to stop illegal
+immigration. Uh he also promised to um
+um basically prevent the world from
+taking advantage of America. And this
+has led to the uh Trump years. And um
+this system was fenally unstable.
+But at the same time there was no
+alternative and so this system uh kept
+on going but there were all these signs
+that the system would eventually break
+down and one of the first major signs
+was Brexit. Another major sign was the
+election of Donald Trump in 2016. But
+the major sign that the system basically
+uh is now in its twilight or is about to
+collapse is a 2022
+Russian invasion of Ukraine. And this
+was beyond the imagination of many
+American leaders because they grew up in
+a time when American power was
+ascendant. the idea that Russia, which
+is a gas station with nukes, um, is able
+to defy the American order, that set
+shock waves around Europe and the United
+States. What's even worse is that the
+sanctions that America imposed on Russia
+backfired. So, as you remember, um, the
+Americans and Europeans froze about
+300$300 billion dollars in Russian
+assets around the world. Uh they also
+kicked Russia off the Swift system and
+they imposed all these sanctions on
+Russia. But rather than hurt the Russian
+economy, what it did was destroy the
+credibility of the Western financial
+system. And now countries like China are
+like, "Wait a minute here. If the United
+States can just freeze our assets for no
+reason, then we should not buy that many
+US assets." So now you see this massive
+shift from uh buying US treasuries which
+was previously considered the best
+investment to now buying gold and this
+puts additional pressure on the uh US
+financial system and this war in Ukraine
+it's it's a test of the credibility of
+Pakistan
+but because Russia is a nuclear power
+there's really not much you can do about
+Russia you can support Ukraine all you
+all you want but eventually Ukraine is
+going to get exhausted. So you can make
+the argument that Trump sought this war
+in Iran in order to establish the
+credibility
+reestablish the credibility of Pax
+Americana that ultimately at the at the
+end of the day the US military is the
+greatest military in the world
+invincible and obviously we know what
+happened. Uh this is not true. The US
+military it's very corrupt. Um it's
+overextended. Um it's not very
+strategic. It's very bureaucratic. And
+now basically United States is losing
+this war uh in Iran which is causing
+even more strain on uh the American
+political system. But what's happening
+and this is the most important thing is
+a domino effect is being created where
+this global economic system created by
+the Americans it's now under strain on
+multiple um nodes. Okay. So uh the big
+thing to watch now is Japan because as
+you as you know from the news the
+Japanese currency the yen it is
+collapsing against the US dollar. This
+is a really bad sign. Why? Because Japan
+and the Middle East provide a lot of
+liquidity
+for the globe economy, which basically
+means that this liquidity buys up US
+treasuries, which allows the US economy
+to continue to be a Ponzi scheme. Once
+the Middle East and Japan are no longer
+able to buy US treasuries,
+if they're not able to invest in the US
+economy, then the AI bubble collapses,
+the private credit bubble collapses.
+And we don't know what will happen.
+Okay? Because this is a systems
+collapse. So what's happening in Japan
+is crucial. And that's why for the first
+time in a few decades, the United States
+has intervened
+to save a foreign currency. It's not a
+lot of intervention to save the US
+dollar. But this is the first time in
+like 30 years, United States has
+interveneed on behalf of a foreign
+economy. Some of you may remember uh a
+few days ago Scott Bessim the treasury
+secretary he had a picture um he was
+running on on on a notebook you know
+Japanese yen 5 to10 billion dollars and
+people appreci understood this as
+propaganda where Scott Bezon is trying
+to reassure investors that the the US
+treasury will come in and save the
+Japanese yen but it's also a sign of
+desperation meaning there's really that
+many toolkits there that many um um
+tools that the US Treasury has to stop
+the global economy from collapsing. So,
+it's engaging in optics. It's trying to
+engage in propaganda. It's trying to use
+these tricks to trick you to think
+everything is fine when really we only a
+few months away from total system
+collapse. Okay? And this total system
+collapse. What does it look like? Well,
+it looks like stock market collapse,
+financial collapse, United States,
+right? AI bubble, star credit um private
+credit bubble. It's all being propped up
+by liquidity from around the world. This
+liquidity dries up, the the US economy
+collapses. Okay. It also means famine in
+Africa and other places. And it means
+ultimately the merging of a of the war
+in Ukraine and Iran, which will lead
+ultimately to World War II. I think I
+already think we are in World War II,
+but you can make the argument that we're
+we're still in a regional conflict. And
+so we've reached a point of imperial
+exhaustion, meaning that the system that
+United States created in 1944, it's
+reached its last legs. Okay? Um and and
+right now the people in charge, these
+imperial bureaucrats, they themselves
+are exhausted. They have no ideas. They
+have no imagination. They're just trying
+to use as many tricks as possible to
+maintain this very unstable system. And
+the more desperate they get, the more
+anxious they get, the more unstable the
+system becomes. And so um that is my
+introduction to today. And uh I hope
+this history gives us a framework um to
+have a very vibrant discussion. Okay. So
+thank you very much. Okay.
+>> [applause]
+>> Okay. So, maybe we'll take a five minute
+break and then we'll come back. We'll do
+a fireside chat and then we'll we'll
+have a discussion. Okay. All right.
+>> You know, that was obviously an
+illuminated introduction. Um, and I've
+had a lot of thoughts. It's definitely
+changed my worldview since I discovered
+your your videos. And one of the things
+that I always wonder about is how much
+of what we're seeing now is pre-ordained
+versus a kind of series of political
+accidents like you know Trump getting
+elected the first time, Brexit.
+It feels as though we were almost two
+elections away from avoiding all of
+this.
+>> Yeah.
+>> But when I watch your lectures, I feel
+like this was almost pre-planned,
+pre-ordained.
+>> Yeah. So I would say we are in an age of
+imperial decline. If you look at
+history, empires decline for very much
+the same reasons and the pattern of
+decline is very similar. So I I will say
+there are three major causes of American
+imperial decline. Okay. So the first is
+financialization and you know Thomas
+ talks about this in his book
+capital in the 21st century where as
+capitalism progresses eventually you
+reach a point where it's much more
+lucrative to do financial speculation
+than it is to do real wealth creation.
+Right? So let's just imagine you're
+entrepreneur and you work really hard
+like Alli, you know, and you create a
+lot of wealth. You hire a lot of people
+and now you have a lot of savings. So
+what you do with these savings is you
+invest in other enterprises. Okay? You
+engage in financial speculation and what
+you realize is wow financial speculation
+is a lot more profitable than in real
+wealth creation like opening a business.
+And this is just how capitalism works.
+And Thomas shows that over time
+just the logic of capitalism because it
+is really the consolidation of capital
+in the hands of really smart investors
+then stock market speculation will be a
+lot more lucrative than real wealth
+creation. So the example he gives is on
+average if you put your money in stock
+market you might get 5% returns. If you
+open a restaurant or open a factory you
+might get 2% return a year. So
+eventually you reach a point where I'm
+not going to put my I'm not going to go
+open a restaurant or start a business.
+I'll just spend my money money in the
+stock market. And that's where we are
+today, right? It's much more lucrative
+to go uh play the stock market or
+cryptocurrency than it is to open a
+factory. Okay, that's that's number one.
+Number two is you also have the
+bureaucratization of society. Meaning
+that these rock species that were meant
+to coordinate and centralize resources,
+they become bigger and bigger over time
+until they become parasites. In the
+classic example, um, our universities,
+if you go in university 1950s, it was
+really about making sure the professors
+could teach well and do research and
+administrators were just professors who
+volunteered four years of their time,
+right? So professors would become
+university president for four years then
+return to teaching and research. That
+was true for most uh administrative
+faculties. Now the administration
+universities is a full-time bureaucracy.
+And quite honestly there's more of them
+than there are professors. And because
+there's so much of them, they're always
+causing problems in order to justify
+their existence. And that's why we have
+DEI and political correctness and
+student centered learning because they
+want the students to complain in order
+to justify their existence. And that's
+why it's almost impossible as a
+professor to teach because if a student
+complains a dean's going to come to you
+and spend the next few months
+investigating the complaint even though
+the complaint may be completely
+warrantless. All right. So there's a
+huge problem in universities and a lot
+of the reason why is burers expand
+because bureaucrats have children and
+they need to put their children
+somewhere. So it's often in the
+bureaucracy and so that's why
+bureaucracies expand over time. This
+again it's pretty consistent pattern in
+human history. And the third thing uh
+that's driving all this is the idea of
+elite overp production. There's a civil
+war going going on between the Wall
+Street financial elite which has
+controlled America since the Clinton
+Obama years and now you have the the
+Silicon Valley tech oligarchs who are
+trying to uh rest control over policym
+in Washington DC. Okay. 2008 because the
+tech because the financial elite were
+able to control Washington DC they could
+force a bailout. Now what San Altman and
+other techs want to do is basically get
+Trump to nationalize data centers. So
+the cost of AI shifts to the government.
+Okay. Basically government subsidies for
+San Alman and and his brethren. So that
+is why empires decline over time. These
+three reasons. Okay. You have
+financialization, batization and then
+you also have lead of production. Now it
+does seem there is some coronation going
+on right and the reason why is this
+secret societies because they practice
+the occult they have um understanding of
+tens of thousands of years of human
+history they understand the broad scope
+the broad pattern of human history and
+so they're able to anticipate events but
+not only do they do that but what they
+recognize is we can't control the course
+of human events but by working together
+we can accelerate the course of human
+human events. And why is that important?
+Because we we tend to make a lot of
+money doing this, right? The financial
+system will collapse, but if we if we
+can control when it will collapse, we
+will make all the money, right? It's
+going to collapse in later, but if we're
+able to pick the right time when it
+collapses, then we will make a killing.
+And that's why they're so interested in
+astrology and esquetology and all these
+things. So in many ways it does seem
+coordinated but we have to remember that
+these people are not are first and
+foremost accelerationists. They cannot
+change the course of events but they can
+accelerate the course of events. And
+we're already seeing this where you look
+at the 12 years and this past year he's
+done what uh many presidents will do in
+about 10 years, right? We are seeing so
+much change these past few months. And
+the reason why is we are really at the
+end of empire. And so what they're
+trying to do is they're trying to
+accelerate the collapse of empire and
+then basically uh create the conditions
+for a new empire to arise whether it be
+in Israel or Argentina or China. Okay,
+they're trying to accelerate events so
+as to maximize their profit. So 1944
+until recently we had a a world order,
+liberalism, neoliberalism and now we are
+staring down the barrel of a new world
+order that is much more uncertain. much
+more dangerous and definitely much more
+unequal. Are we just experiencing a
+regression to a historical mean which is
+this is the law of the jungle. That's
+what most of human history has been. We
+had 70 years of prosperity. That's just
+really a blip. Or is it the opposite? Is
+actually the historical mean prosperity,
+collaboration, globalism, and we're
+actually entering an aberration.
+>> Yeah. Okay. So, one text that a lot of
+these tech oligarchs obsess over is
+Isaac Asmos foundation series. Okay? And
+the idea of the foundation series is
+this this is like an empire. And it's
+been around for 10,000 years, but it's
+in decline. And this decline will last
+thousands of years, the dark ages.
+And the dark ages means a time of
+tremendous human suffering. And so what
+they're trying to do in the foundation
+is trying to
+shorten the lifespan uh of the dark ages
+and create an empire as soon as possible
+in order to reduce human suffering. And
+believe it or not, but a lot of these
+people, people like Peter Theel,
+especially Peter Theo, but and Ellen
+Musk, like they see like the ultimate
+purpose is to prevent humanity from
+entering the dark ages. Because if you
+know any history, okay, you know that
+whenever it's decline, what happens now
+is the dark ages. Just like 100 years of
+complete and utter chaos. Think of the
+fall of the Roman Empire. Okay?
+uh think of the bronze age collapse.
+They understand that impaired decline,
+impaired collapse just means tremendous
+human suffering. The complete breakdown
+of civilization, just the most abhorent
+behavior, okay? And they they're
+thinking to themselves, how do we
+prevent that from happening? And that's
+what they see their mission as. That's
+why, you know, they're so obsessed with
+data centers and AI and going to Mars
+because they believe that the technology
+could be a loophole in the grand course
+of human rise and decline, the grand
+story of human rise and decline. Like,
+can we create technology so that we can
+skip from empire to the next stage of
+human evolution? Okay, that's that's
+what they believe. Does that make sense?
+>> Yeah, of course. Of course. This is my
+last question because I've seen some of
+the questions you submitted and they're
+fantastic. So, we'll make time for
+those. You know, I see a lot of young
+people in this crowd and I'm I'd like to
+think I'm still young and uh I am
+scared. So, when I watch your videos and
+I look at the state of the world, it's
+uh it seems pretty dark. But I know that
+uh you've spoken to this and I would
+love to see, you know, your advice for
+young people, I guess, to avoid them
+falling into nihilism, which I suppose
+is his own scop. you know, we don't want
+to feel learned helplessness. We want to
+feel like we can do something about uh
+the future. And uh I'd love to hear your
+take or your advice for young people
+going into this new uh paradigm in the
+world.
+>> Right. So I think a lot of the fear and
+anxiety comes from a fundamental
+misunderstanding of our nature, where we
+came from, what we're doing here, where
+we're going. Um, if you study the
+occult, if you uh read the divine
+comedy, if you read the great books,
+what you recognize is that first and
+foremost we are spiritual beings. That
+we are pure consciousness and we are
+constantly connected to the divine. That
+our consciousness exists in infinite
+dimensions and there's a beauty uh
+there's a real power
+that is inherent in us. But we have
+fallen asleep. We have been blinded and
+we have been tricked into believing that
+no, we are just um a body, a husk. And
+this husk is all that we have. So we
+must cherish it. And once it dies, then
+we die with it. And we've forgotten
+where we came from. And it's because
+we've forgotten and they've been able to
+trick us. That's the source of our
+anxiety. That's the source of our fear.
+And so my advice is to
+reclaim your heritage, okay? We we're
+not husk. We're not just like these
+monkeys here to for fornicate and pass
+on our genes to other generations. We
+are divine spiritual beings that is part
+of the great consciousness we can call
+God. God is in us and we are in God and
+we're here to experience things that we
+couldn't experience in other dimensions.
+And I would say the like the most
+important thing we exper we can
+experience here that we can't experience
+anywhere else is the idea of family.
+Okay? Like having someone you truly love
+and then together raising a family and
+then loving your children and seeing
+seeing them grow old. If you read Homer,
+um what the Odyssey tells us is that is
+the greatest joy, the greatest purpose
+of being alive, of being human, to love
+your family. Uh I'm not sure if you've
+seen Christopher Nolan's film. I have
+not seen it, but reading the Odyssey, I
+will tell you that um that's a special
+theme of Homer. Remember Odysius goes to
+Trojan War seeking fame and glory. like
+Achilles, they all go to Trojan War
+seeking fame and glory and prestige. And
+what they recognize is no, what really
+matters at the end of the day is family.
+Having someone who believes in you, some
+having someone who loves you, that's the
+real purpose of of being here. And so we
+have to as a species, as a people read
+the great books appreciate their meaning
+because they are really challen in in in
+their text and then reclaim our heritage
+as spiritual beings. And once we do that
+then this marks a new age in humanity
+and everything that's happening will be
+nothing in the grand scheme of things.
+We have not really at all manifest our
+true power. Imagine a world in which we
+are fully conscious of our divine
+heritage and we are pursuing our purpose
+our tilos in life. Well, I think that
+sort of world would be a magical world
+full of powers we could never previously
+imagine. Okay. And there are some
+occultists who who who who believe that
+we've created this world before. It's
+called Atlantis. Okay. So, we humans
+what we're capable of doing is uh beyond
+our imagination. Now, I mean, I know
+this world looks impressive. We have
+like airplanes. We have the internet.
+But that's just because we put our minds
+to it. That's just because we want to
+create this world. So imagine if we want
+to create a world in which there is
+peace and prosperity, in which the human
+spirit is free to fully roam the
+universe. Then I think that world will
+be even me be more more magnificent.
+>> Okay.
+>> Yeah,
+>> we have questions many of them very good
+ones. So there's a question from Josh.
+In my opinion, the most critical war in
+the world is not an external physical
+war like those in Ukraine, Israel, and
+Iran. It's an internal war within each
+one of us between materiality and
+spirituality. Do you feel like it's more
+of an internal war?
+>> Yeah. So if you look at all the major
+religions whether it's Hinduism,
+Buddhism Christianity Judaism they
+all say the same thing which is we
+ourselves our consciousness is a fractal
+of the universe. Okay? So we're always
+connected to the universe and the
+universe is always within us. We're just
+a reflection of the universe. So what
+happens inside of us is reflected
+throughout the universe. I know this is
+hard to imagine but all of these people,
+all these different religions working in
+different cultures, different uh times,
+they say the same thing. They emphasize
+the same point. And the point is the
+real battle between heaven and hell is
+the battle within us. Uh the moment we
+choose to do to do good, uh the world
+will be a better place. The moment we
+choose to do evil, the world will be a
+worse place. And the classic example
+that I use is the Iliad by Homer where
+you know Achilles at by the end of the
+Iliad has done all these demonic things.
+He caused the death of his best friend
+Petrous. He killed Hector and is
+constantly mutilating his body and he's
+doing so in front of his parents pri and
+Hecuba. He's causing all this tragedy
+and pain throughout the story. And the
+Iliad ends with Hector's father, Pryam,
+forgiving Achilles, going sneaking into
+Achilles tent, kissing the hand of the
+demon who killed his son, and like
+humbling himself before Achilles. And
+that act, it sounds so insignificant,
+but it changes the entire course of the
+universe. Not only because one, it
+allows Achilles to forgive himself. It
+allows him to redeem himself from all
+his evil. Um, and it causes a
+reconciliation between Achilles and Pry
+so that they leave as good friends. But
+this idea, this story, it's captured by
+Homer and internalized in the Iliad so
+that when we read it, it becomes part of
+us as well. Okay. So, it's but you're
+like, well, but that's because someone
+was there to record it. The universe is
+recording every single thing we do and
+it's it's remembering everything that we
+do. And so imagine where you know like
+you you forgive an enemy and it's only
+the two of you who experience this but
+the universe sees this and the universe
+records it and then what the universe
+does is it implants this memory into our
+imagination so that one of us like Homer
+could write about it and then it becomes
+part of the universal consciousness. So
+the universe is almost magical in this
+way and so we can choose to do good, we
+can choose to do evil and we have to
+remember like everything we do will have
+an impact in the universe. Emanuel Khan
+talks about this and he says it is a
+categorical imperative and the negative
+categorical imperative is everything you
+do imagine that whatever you do everyone
+in universe does at the same time. If
+you laugh, if you smile, everyone in the
+universe laughs and smiles with you. If
+you get angry, everyone gets angry with
+you. So ask yourself like what kind of
+world do you want to live in and then
+just be that world and the world will
+become it.
+>> Question from Jessica. Why will
+Christians triumph over people with
+progressive secular values I suppose in
+the US?
+>> Yeah. Okay, that's a [clears throat]
+really good question.
+So, um, right now in the United States,
+the professional managorial class, and I
+imagine there's a lot of us in that in
+this group, okay, I'm also part of the
+PMC, uh, as is Ally. Um, we're ascended,
+okay? We went to the best schools. We
+work really hard, really smart. Uh,
+we're very cosmopolitan, open-minded.
+We're constantly learning. We know we
+know how to get things done. And um this
+has led to a great deal of inequality.
+It's led to a lot of stagn stagnant um
+stagnancy. And so um the professional
+measural class, the meritocracy
+represents the pinnacle of enlightenment
+philosophy, right? Um in the 18th
+century when Latin think let legant
+thinkers like Jac Rouso and Emo Kod were
+writing they were really hoping for a
+world like this and a world in which
+we've transcended religion race and
+culture and the problem though is
+even though in many ways the world we're
+living in marks the height of human
+civilization
+people are really unhappy. You know,
+people feel really depressed. Uh people
+feel lonely, people feel meaningless.
+Um people are very very nealistic. And I
+think the reason why is we are first and
+foremost spiritual beings. And
+enlightenment philosophy negates that.
+The meritocracy negates that. It wants
+us to first and foremost focus on our
+material
+uh needs because enlightenment thinking
+what it does is it it prioritizes human
+reason above human emotion. In fact, it
+sees human emotion almost as as an
+enemy. And I think that yeah, maybe for
+the first 100 years, 20 years, that was
+great because it's led to a lot of
+progress. But at the same time um it's
+denying our true nature. And if we deny
+our true nature, we can never be we can
+never be happy. So I think that
+eventually and I think we're already
+seeing seeing it, you're going to have a
+huge backlash towards religion. The
+problem is that organized religion can
+be just as problematic as the world we
+live in. Right? Right? So, think of the
+Catholic Church during the medieval um
+ages. And so, um we we have to abandon
+our focus on materialism and embrace our
+spirituality. The problem is how to do
+so in a way that maintains our
+individuality. That's a real challenge a
+ahead.
+Question from Raider. I think I'm
+pronouncing that right. I hope I'm
+pronouncing that right. predicting
+economic collapse in just a few months
+is pretty serious. How do you find
+yourself personally preparing for this
+outcome?
+>> Well, first of all, I think our economy
+has already collapsed. Um, I mean, you
+just look at how the economy is
+structured. I mean, the idea that you're
+paying $17 for avocado toast. That's
+just absurd. Okay. Um, try like if
+you're a young entrepreneur, try hiring
+other young people to do work for you.
+Good luck with that, guys. Okay.
+[laughter] Um, so I think we we've
+already collapsed and they're they're
+just hiding this from us. Um, I think
+it's just narrative control. So remember
+back back in the Biden uh years, it's
+clear that that the American economy was
+in recession. So what did they do? They
+changed the definition of recession.
+Okay. Uh Janet Yellen um uh just like
+well no we're actually not in recession
+even though actually technically the
+United States was in recession. So, we
+we're in a period of impaired decline,
+which means basically exhaustion, which
+basically means that um rather than
+trying to do a good job, the bureaucrats
+in Washington DC are using either fraud
+or force to maintain the illusion of of
+control. So first of all I would say the
+economy collapsed a long long time ago
+maybe um maybe even around 2009 2010
+because the fundamental roots of
+economic mise was not addressed right um
+in 2008 2009 the correct strategy would
+have been to save the homeowners if that
+were the decision of Washington DC we
+would be in a different world right if
+you save the homeowners then people
+would have real wealth and they would um
+want to protect this wealth. So they
+would work hard and instead they chose
+to save the people who caused the
+collapse in the first place. These
+people should have gone to jail. Okay. A
+lot of things they do were clearly
+criminal. Like calling an elderly person
+who was handicapped and tricking him or
+her into signing a mortgage he couldn't
+he or she couldn't afford. That's
+clearly criminal. That's clearly fraud.
+and um they got away with it and so I
+think that you know we we are in
+economic collapse and um now it's really
+about what do we do next was that
+decision to let them get away with it
+just pure corruption the fact that they
+were buddies at you know Princeton Yale
+you know whether it's the chair of the
+Fed versus Obama or whoever was it just
+because they're all part of the secret
+the same secret societies and clubs or
+was there a deeper reason for for that
+forgiveness Because in Iceland they
+jailed them.
+>> It's a meritocracy. The most obvious
+society today is the meritocracy. These
+are people who went to the best schools
+and their friends and they like the
+thing about going to place at Yale and
+Harvard is there are absolutely no
+consequences. Okay, let me tell you a
+story of like me at Yale. Okay. Um, so I
+go to Yale and every freshman is offered
+a job where you do nothing and you get
+paid a lot of money. Okay. And most
+people pick um uh work in a library.
+Okay. So like what happens is like you
+literally go to library and you sit
+there for four hours and you do your
+homework and you you get paid to do
+that. Like like like Yale is like a
+welfare state, guys. Okay? It's like the
+biggest socialist system in the world.
+And so um I took advantage of this
+system by working multiple jobs. Okay.
+So what I did was like no no no no. This
+is like what I literally did. I got a
+job in the library. Okay. And so you
+just go and clock in. Then I got a job
+working for the AV center, the audio
+visual center because at in the evening
+um a professor might show a film. So
+your job was to go and show the film and
+then uh take take the VHS cassette out
+of the recorder. Okay. Very simple
+thing. Okay. And then I also did
+something called two walk which is like
+you just like uh walk a uh female
+student across the street. Okay. I did
+all three jobs at once. All right. And
+most time it wor it worked out well. But
+one evening while I was doing two walk
+uh I went in to open the uh projector.
+Okay. I turn it on then I left to do my
+two walk. I come back an hour later and
+the professor is freaking out because
+she's like this projector isn't working.
+I'm like okay so what do you want me to
+do about it? You know go fix it
+yourself. It's like you're you you're
+the one who's supposed to fix this for
+us. Like I don't know how to fix this. I
+was never trained. And like she was so
+pissed. I didn't care at all. I was
+like, "Well, you know, too bad, man."
+You know, so she got pissed. So pissed
+that she wrote a letter to the president
+of Yale complaining about me. And so um
+the
+AV my boss who's head of the AV center
+calls me into the office and he's like
+um yeah so this professor says that uh
+you were an and she wrote a
+letter to the president of Yale
+University complaining about you but I'm
+sure you have a side you you have your
+story. I want to hear both sides. I was
+like, "There really isn't another side
+to this story, man. There just isn't."
+It's like, "Sorry, I can't even bother
+to to like explain to you what
+happened." It's like, and then he's
+like, "Okay, well then you're fired."
+Like, "Okay, I don't care." And that's
+it, guys. Okay, that's Yale. So, like,
+if you go to place like Yale, you pull
+the you do the dumbest stuff ever and
+you're never punished for this. So,
+imagine what happens if you go work for
+Wall Street and then you go work for
+Washington DC. You It's the same
+mentality, man. Okay, you do the dumbest
+thing and you never you're never
+punished because you're part of the
+elite. You are the chosen, right? You
+are what Plato said calls the
+philosopher king. You were selected
+based on your merit. You're just
+superior to everyone else and therefore
+you should never have to have to suffer
+consequences for anything. And that's
+what and that's what hap and that's
+that's that's the world we live in.
+Okay? You go to Washington DC, you meet
+these bureaucrats guys, they're not not
+smarter than you are. They're just more
+privileged. They they have a sense of
+self- entitlement. You go to Wall
+Street, they really are not smart. It's
+just like they went to the right
+schools, they knew the right people, but
+they think they're smarter than
+we. And so therefore, they do more
+stupid things than we. Okay?
+>> So it's just it's tribalism in many
+ways. Um, it's it's privilege. It's
+blast. It's privilege. These are the
+untouchables. Oh, sorry. Sorry. These
+are the brahen the breman class.
+>> Archer, you have a a long question. I'll
+let you ask it. Where's Archer? There
+you go. Amazing. It's okay. That's the
+question is I I saw recently that Saudi
+Arabia Pakistan and Turkey USA social
+defense stuff like that and I just were
+to see what you thought about it in
+terms of then creating their own like
+coatas and how that would uh impact
+things like bash if Israel and Turkey
+recently this year.
+>> Yeah, that's a great question. Okay.
+Yes. Um this is a huge uh development
+where Turkey, Saudi Arabia and Pakistan
+have signed a mutual defense treaty and
+this expands the uh alliance between
+Pakistan and Saudi Arabia. Remember uh
+Saudi Arabia and Pakistan signed a
+mutual defense pact a a couple years
+ago. Um and so um this is interesting
+because Turkey and Israel have been
+butting heads for the past few few
+months and Saudi Arabia is now being
+attacked by the Houthies and Saudi
+Arabia is planning a offensive against
+the Houthies. Um here's what I read.
+Okay, like there may there may be like a
+dozen possible interpretations but um my
+understanding is this.
+ultimately Turkey, Pakistan, Saudi
+Arabia, they're all American vassel
+states. And so if you go to the national
+defense strategy uh of the Pentagon, the
+the the strategy is very simple. Okay,
+we the we the United States are going to
+retreat or withdraw from being Pax
+Americana, basically the last guaranter
+of global security. Okay. And what that
+means is we we have to defend every
+region, every nation, and like screw
+that because it's too expensive, it's
+too hard. And instead, we're going to
+use balance of power. Okay? We're going
+to create situations where nation states
+balance each other out. So the idea is
+that in Europe, uh NATO will balance out
+Russia. In East Asia, Japan will balance
+out China. and in the Middle East um the
+GCC and Israel will balance out Iran.
+Okay? So they're trying to create
+balance of uh of power. And so I see a
+lot of things that are happening as part
+of this larger strategy. So the alliance
+between Turkey, Saudi Arabia and
+Pakistan, that's one aspect of the
+strategy. But also, if you've been
+following the news, um um I think Kuwait
+and Ban um have agreed to buy 5,000
+Patriot missiles from the United States.
+Okay. And and so what's happening is
+that the United States is offloading
+um the defense obligation to these
+nations.
+And so that that's what's that's what's
+happening. So I think like in a short
+term uh this alliance means a
+multicultural sorry a multinational
+coalition against the Houthis. The
+Houthies are huge problem for Saudi
+Arabia. Saudi Arabia cannot defend
+themselves against Houthies. So they're
+trying to bring in uh Turkey. Okay. This
+conflict between Turkey and Israel. It's
+all theater. is that like like just ask
+yourself where the oil uh um where where
+Israel gets its oil. The answer is
+Turkey. Okay? And as long as Turkey is
+providing oil to Israel, uh they're not
+going to go to war. Okay? So um so all
+this is
+um basically heralding Pax Judea. It's
+it it's all part of the transition from
+U Pax Americana Americana to Pax Juda
+Judea in the Middle East. Okay.
+>> Just as a followup from that, you know,
+when when America and Israel attacked
+Iran, it really proved that those GCC
+nations were really just vassels for the
+United for the US Empire. How does their
+relationship the US and the Gulf
+countries and the the issue of the
+Houthis all you know factor in in the
+larger picture for example in in in this
+uh this agreement and also just the
+battle against the Houthies and and Pax
+Judea.
+>> Okay. So the GCC was created um out of
+the petro dollar system right?
+>> Yeah. Um, so, uh, the Pedro system was
+great for the GCC because now they could
+sell their oil, um, all around the world
+and not have to provide not have to
+provide for their own defense. And so
+that this is what's led to the rise of
+the GCC. Um, they were able to e
+economically progress very very quickly,
+but it's all unstable because
+um, what do you do about Iraq? and the
+United States was like, "Don't worry,
+we'll we'll we'll deal with Iran." And
+really, if if that's the case, then what
+the United States should have done and
+what I think a lot of people um wanted
+to do um is basically prop up Iraq.
+Okay, does that make sense? Okay, you
+you want protective GCC. It's a vital
+part of your petrol system. So you prop
+up Iraq as a counterbalance to Iraq
+because Iran is not part of your global
+economy. So you bring Iraq into your
+global economy and then you create
+balance of power between Iraq and Iran
+and then you limit Israel.
+Okay? And like as an empire this is how
+you should behave of power, right? Um so
+you rather than invade Iraq, you
+economically develop Iraq. And during
+the Clinton years, that was actually the
+agreement. People forget this, but
+during the Clinton years, there was
+almost a side deal between Saddam
+Hussein and Bill Clinton where these
+American companies would go into Iraq
+and get the oil for really, really
+cheap. It was a great deal for the
+United States. And it made a lot of
+geopolitical sense because now with a
+emergent Iraq, you can now balance out
+Iran. The thing you don't want to do,
+the last thing you ever want to do is go
+invade [clears throat] Iraq because then
+you create a huge problem with with
+Iran. Now, Iran is a regional
+superpower. Like, the last thing you
+would ever do is go invade Iraq as an
+empire. And you're like, well, why that
+why did they invade Iraq then? All
+right. Okay. And the answer is something
+called the Clean Break Memo of 1996.
+Clean break memo. All right. And the
+idea of the clean brick memo is to
+create Israel as a reg as a regional
+hegeimon. Okay? Rather than create
+balance of power in the Middle East with
+Pax American in charge, you have Israel
+emerge as the regional superpower. It's
+called the clean break memo. There's
+exactly one page. It was written by a
+few people but two of the most prominent
+were Richard Pearl and Douglas 5. Okay.
+Why is this important? Because Richard
+Pearl and Douglas 5 wrote the memo for
+Netanyahu in 19 in 1996 u because he was
+a new prime minister and he promised a a
+clean break from the Oslo peace process.
+Right? The Oslo peace process was about
+creating regional stability. Uh it was
+about creating bouts of power. It was
+about bringing peace to the Middle East
+so that they could trade together under
+American protection. Clean Break was
+saying, uh, screw that. Okay, screw the
+peace process. Israel will now dominate
+the Middle East by reging ch regime
+change Iraq and regime change Syria.
+Okay, that's that's what the clean book
+memo called for. and the two one two two
+authors Richard Pearl and Doug Spive
+they then went on to be work in the
+defense department and then with Paul
+Wolitz the three Paul Wolitz DP sp and
+Richard Pearl became the chief
+architects of the Iraq war
+and here's another really funny thing
+about these two guys since 1970s the FBI
+and the CIA CIA suspect suspected them
+of being Israeli assets somehow how
+1970s they were flagged as Israeli
+assets. They're working as congressional
+staffers at this point. Okay. Um somehow
+despite being flagged as Israeli assets,
+they climbed the Washington bureaucracy
+to the highest levels and together they
+were able to
+um launch a war against Iraq. And again,
+this war makes no sense from an imperial
+perspective. That is the most
+thing you can do from an American
+perspective and they still did it.
+All right. Also remember at this time um
+after 911
+the Americans um there there was a
+conversation between Emmy Goodman and
+Wesley Clark.
+Have you guys seen this conversation?
+Amy Goodman and Wesley Clark.
+>> Yeah. Yeah. Yeah. Yeah. Okay. So,
+basically Amy Goodman's like, "Why are
+we going into Iraq?" And Western Clark's
+like, "No, actually, Amy, we're not just
+going to Iraq. We're also going to go
+into Libya, Syria, Lebanon,
+Iran, Somalia, Sudan. In five years,
+we're going to we're going to destroy
+the entire Middle East." And like
+imigman's like why would we do that and
+like I don't know we don't know. Well if
+you actually read the clean big memo it
+tells you why the purpose is to create
+Israel as a regional power. Okay. So
+so I mean like unless you appreciate
+that the entire intention all along was
+to create Paka it's really hard to
+understand what's going on in the Middle
+East. Why the United States invade Iran?
+We don't know. Even today, no one's
+explained why the United States had to
+go bomb Iran. Why is this war
+continuing?
+All right. Clearly, the United States
+cannot defeat Iran in a war. Clearly,
+this having massive strain on the global
+economy. So, why hasn't the United
+States sued for peace?
+Okay.
+from an American empirical perspective
+that none of this makes any sense and
+the only explanation we have is a clean
+brick memo of 1986. If you actually go
+read it u and you analyze what's
+happened the past 20 years, it all lines
+up. What they proposed in 1986 is what
+we're doing uh what what what the
+American Empire has been doing for the
+past 20 years.
+>> How do we keep the thread for 30 years?
+Is it it's like a relay? people passing
+the baton, people retire, people die in
+this in this world. I mean, are these uh
+architects still with us? I mean,
+obviously Netanyahu is, but you know,
+how do they keep this plan alive for
+this long?
+>> So, if you just look at points of
+convergence, that'll give you the
+answer. Okay, so let let me give you
+some certain points of convergence.
+Okay,
+these three people, Paul Wolitz, Richard
+Pearl, and there's five 1970s they were
+working for a US senator called Henry
+Scoop Jackson. Okay, he's very famous
+because well, first of all, he's a very
+powerful senator, but also he he's
+considered a cold warrior. Uh meaning he
+wanted America to win the Cold War. Now,
+it's interesting because there's
+something that he was obsessed about. He
+was obsessed about forcing the Soviet
+Union to allow Jews to immigrate to
+Israel. That was his big thing. He
+really cared about that. It's like
+that's kind of weird like you're a US
+senator and like you know your your
+passion, your um your life mission is to
+force the Soviet Union to allow Jews the
+freedom to immigrate to Israel. like why
+do you care? And then you know uh like
+they interviewed Henry uh Jackson. He's
+like well it's because of this. It's
+because first of all I was in Nuremberg
+as a prosecutor and I felt sorry for the
+Jews because of what happened to them in
+the labor camps.
+Also, my my my um mother was a widow and
+she worked as a house cleaner for Jews
+and the Jews were really nice to her.
+So, they so she she in her will wrote
+that I must now look after the Jews,
+right? And and um and and he's like,
+"Well, I've always had lots of Jewish
+friends." Okay, so it's just really
+weird. But someone he was really close
+with
+um is a man named Rebeersonen.
+Rebeersonen. And Rebeersonen is head of
+something called Habat Lubovich. Okay.
+So just remember the name Reben, Habat
+Lubovich. That's one point of
+convergence. Okay. These three guys who
+orchestrated the Iraq war, Paul Wolitz,
+Richard Pearl, and his wife, all worked
+for Henry Jackson, who was obsessed with
+forcing Soviet Union to allow Jews to
+immigrate to Israel. And um Reson was
+friends with
+um Henry Jackson. Okay, that's one point
+of convergence. Another point of
+convergence is um
+Mark Zuckerberg.
+Mark Zuckerberg in an interview said,
+"So um when
+uh, my parents had three daughters
+before they had me, and they really
+wanted a son, so they went to see
+Reberson."
+And
+Reberson gave
+um
+um a blessing to my parents to have a
+son. And then after this blessing
+happened, they had me. Okay, now you
+hear the story and again guys, you can
+fact check this, okay? You can like on
+your phone just Google this and and this
+is what the these are the exact words
+from Mark Zuckerberg. And you hear the
+story, it's like that doesn't mean
+anything. Actually, if you read the
+Bible, it means a lot. You know the
+Bible, it's it's actually telling you a
+lot because
+um remember there are three instances.
+There actually a lot of instance but
+there are three major instances where
+a parents really wanted a son so that
+they beg God for a son. Okay. So the
+first instant of course is Abraham and
+Sarah um they could Sarah couldn't
+conceive but then God blessed them and
+gave them Isaac. Okay. And and then what
+did I Abraham do? Abraham tried to
+sacrifice Isaac to God and God has sent
+an angel to stop Abraham from doing so.
+Okay. And the idea here is if God
+blesses you with a son, that son belongs
+to God, not to you. All right? Then you
+have the story of Samuel who who's a
+major prophet. Um and Samuel's parents
+couldn't conceive either. So they went
+to the head priest Eli and says, "Could
+you please help us?" Eli says, "God will
+give you a child, but this child will
+now be God's servant."
+Okay? And so that becomes um
+um Samuel and Samuel is a prophet who
+anoints David as a king of the
+Israelites. Okay, again if you know the
+Bible like like this is all pretty basic
+stuff. And the and the last is um John
+the Baptist whose per whose father was
+the high priest and um they begged uh
+God and then God says okay we'll give
+you a son but this son his mission is to
+announce the coming of the Messiah. Okay
+so [laughter]
+Mark Zuckerberg when he tells you the
+story you think it doesn't mean anything
+but actually means a lot. You know the
+Bible it's coded language guys. Okay.
+Now, why is this interesting? Well,
+because Mark Zuckerberg um founded
+Facebook and he became a billionaire.
+But you're like, "Okay, well, good for
+him." Look, guys, it's not that simple.
+All right. I went to Y 1995. First thing
+that happened when you get into into the
+Yo camp is they give you something
+called Facebook.
+And the Facebook are the pictures and
+personal information of the entire
+freshman class. And we were obsessed
+with it because like you know you're
+horny teenagers. What do you do? Well,
+you go over and you like, you know, look
+for like really hot guys and girls.
+Okay, that's all we ever cared about
+through the entire year. All right, so
+imagine the potential if you were able
+to digitize this and allow these people
+to interact with each other. Well, you
+couldn't do that because privacy issues,
+right? Privacy issues. like you know if
+you're a really hard girl you don't want
+guys randomly like you know messaging
+you on on a digital service so the
+university would not allow you to do
+that okay
+why would Harvard let Mark Zuckerberg do
+that
+okay not only that but Harvard allowed
+Mark Zuckerberg to connect the Harvard
+Facebook with other universities imagine
+the pH if you're at UMass Amherst or
+Boston College you can now meet really
+hot Harvard girls and guys, right?
+Like like why would Harvard do that?
+Well, there's a reason why. No, I'm
+sorry. This is not the reason why, but
+there's a connection here. Freshman
+year, Mark Zuckerberg was a member of
+Harvard Habad.
+Okay. And Harvard Habad was started in
+1987 and is part of the Habat Lubich
+movement. Remember it was Rear Sners who
+blessed Mark Zuckerberg.
+Also members of Harvard Habad were Nalie
+Portman and Jared Kushner.
+The faculty advisor for Harvard Habad uh
+was Alan Dersitz.
+Also one of the major patrons of Harvard
+Habad was Larry Summers then president
+of Harvard University.
+Larry Summers,
+Alan Deritz, Natalie Portman, Jared
+Kushner was friends with Mark
+Zuckerberg.
+Okay. Again, I I don't know what's going
+on. All right. I'm I'm just I'm just
+trying to draw these points of
+convergence,
+right? Like, huh, that's interesting.
+Okay. All right.
+Um, another point of convergence is
+2016, Donald Trump is running for
+president. Who's running Donald Trump's
+social media campaign? Jared Kushner.
+Who's head of Facebook? Mark Ziggleberg.
+Guys, you guys remember the uh Cambridge
+Analytica scandal 2016 for somehow
+they're able to access 50 million
+Facebook users metadata and they're able
+to design
+um target advertising to sway their
+political opinion
+and Mark Zuckerberg will apologize like
+I'm really sorry. Okay. But again,
+really strange connection where um
+Harvard allows Mark Zuckerberg to create
+Facebook and become a billionaire. Uh
+Jared Kushner is head of Trump's social
+media
+um outreach and Mar's,
+you know, head of Facebook. Really
+strange coincidence, right? I I I I
+don't know what what's happening. These
+are just points of convergence. One
+final point point of convergence.
+There's billions of points of
+convergence around this guy Re. But but
+here's but here here here's one final
+point of convergence. Um Benjamin
+Netanyahu 1980s he is UN ambassador
+um Israel UN ambassador. Okay. And he's
+running for politics. And so he goes to
+Rebrison and says will you give me your
+blessing? And Reberson is like yes I
+will give you my my my my my blessing.
+Um, at this time
+there's other people who ask for his
+blessing.
+At this time there are two people who go
+to uh Rebrison
+and um they're about to get married and
+so they ask for his blessing. And guys,
+this is on YouTube. Okay, these two
+people are Sheldon and Miriam Adlesen.
+Who are these two people? the ones who
+financed bankrolled Netanyahu's
+political career in Israel. Okay. And
+who else did um Shan Aden bankroll?
+Donald Trump. 2016 2020 Shen was the
+major donor to Donald Trump's proven
+campaign.
+These are all points of convergence.
+Make what you will um of it.
+Um, one final point is there's a video
+of on YouTube of Netanyahu in 1991
+going to rebase SN. And there's a lot of
+meetings between the two and in this
+meeting um, Rebrison asked Nahu a
+question. The question is this,
+when is the Messiah coming?
+And Nahu is soon. and repres like let's
+hurry it up guys. All right, let's hurry
+it up. The guy station dies in 1994.
+He's dead. Okay.
+Um, so Hab Lubberidge, it's part of the
+Hidic uh Jewish uh system. And um the
+thing about uh Judaism is it's all
+family dynasties. So if you're rabbi,
+your son inherits it. Okay? Um, and if
+you don't have a son, then you adopt a
+son and he inherits it. But, but, but
+the point is you have to pass it on to
+someone otherwise the dynasty dies out.
+Guys, go to Habet Lubich website. Okay,
+there is no leader now and you like ask
+who is Rebeersonen and they will tell
+you he is the seventh and final
+Rebe of Habalich.
+What the hell is that?
+final rebe.
+What that mean? Well, you can speculate.
+What what they're really saying is
+the Messiah is coming. That's why he's
+the final. You don't need a reb. The
+Messiah is coming. Right.
+>> In your lectures, you talk about how in
+the coming years, religiosity will
+increase. And in the case of America, a
+rise in Christianity will be almost
+necessary for people to come together
+and survive what's coming. How should
+people or groups of people that believe
+in a more mystic or platonic view of the
+world maybe also in line with thinkers
+like Kant or Hegel or even Dante? How
+should one move in one if one holds
+these beliefs as opposed to a more
+fundamentalist Christianity and how
+should one go about community building
+in this case?
+>> Um yeah that's a great question and uh
+you're absolutely right in like in the
+future the struggle is not longer
+between materialism and spirituality.
+It's really one between organized
+religion and free spirituality.
+Um, and I'm not a big fan of organized
+religion. Um, so I really do hope free
+spirituality wins out. And I think the
+re the like the way that it it will win
+out is if we get as many people as
+possible to engage in deep spiritual
+practice. Um and then what will happen
+is that the more you engage in deep
+spiritual practice, the more that people
+will congregate towards you. Uh because
+that's how the universe works. Uh the
+universe is first and foremost
+consciousness and like attracts like. So
+if you are engaged in deep spiritual
+practice then um others will come to you
+and you'll be able to move towards
+others but also the people around you
+will be influenced by your deep
+spiritual practice even though they
+themselves may not know it. Um so the
+trick is to engage in spiritual alchemy
+to transform yourself in a way that
+allows others to come to you. Okay. I
+have a two-part question if that's okay.
+Um, in some of your lectures or
+podcasts, I've heard that uh you stating
+you don't believe in God, but then most
+recently in the Solomon podcast, you
+were saying when you were wandering
+around in the snow cold, you got a sign
+from God to keep it pushing and keep
+thriving. And my question is like if
+you're comfortable sharing, what is your
+relationship with God or the monad? Um,
+and how do you see this fabric of
+reality? Do you have a more of a Gnostic
+kind of like this world was made by a
+demi urge and I need to go past that or
+do you mind expanding on your um I guess
+your relationship with God and how you
+view this world?
+>> Yeah. Okay. So I mean I'm a product of
+meritocracy
+and so I've been indoctrinated to
+believe that the world is is material
+and um for the longest time I resisted
+or had contempt for the idea of God and
+um that made me a very unhappy person, a
+very depressed person. And it was not
+obvious to me then, but like looking
+back at my life, I recognized that by
+denying my own uh divine consciousness,
+by denying my own spirituality, I make
+myself a very unhappy person. Uh because
+it's not denying who you are.
+And um recently I have discovered
+um God. But the way I define God is
+going to be different from how others
+define God. U because I see God as the
+universe, the monad. So both the being
+and the becoming, the um nothing and the
+everything. Okay? So um so I see myself
+as part of God, but God is in me. And
+what I've really um come to terms with
+these
+uh past few months is I'm almost now
+like a messenger for the Monad um or a
+spark. Um and this something that I
+wouldn't have come to terms with maybe a
+year ago or two or two years ago uh
+because
+um I
+really prize my own individuality like I
+want my freedom. I don't be a messenger
+for any force. Uh but um given the fact
+that
+um my rise on social media has been
+spectacular, given the fact that um I've
+been able to impact or influence so many
+people and given the fact that we're
+sitting here in this room and so so many
+of you have come a long way to be here.
+um I can't explain it except that this
+is the will of the universe that this is
+the um cosmic force that has brought us
+uh together. So um I I believe that
+there's a plan there's an intention um
+at work on the question of the demi
+urge. I don't go into that because I
+don't think the Bible is a work of God.
+I mean the vine comedy
+Homer the Iliad that's a work of God but
+the Bible it's um a collection of texts
+that have been pluggized
+and if you uh take it literally then
+that gets you in in a lot of trouble. Um
+so I think the demi urge is an
+explanation or attempt to reconcile the
+a lot of the contradictions in the Bible
+but I don't buy into the Bible in the
+first place. So I I don't accept the ex
+the existence of the demiurge. I don't
+really accept the ex existence of of
+Satan. Um I don't think there's evil in
+the world. I I think the evil is the
+things that we imagine
+um and to to explain certain things that
+we we do. But I think um the monad the
+universe is all forgiving. It's all
+love. It's all generous. And we have
+complete agency to create the world that
+we want with our imagination. Now this
+leads to a lot of problems. Okay. As we
+can see from the world that that we live
+in. Um but it also um gives me
+tremendous hope.
+>> Just very quick followup. How are you
+able to retain so much information if
+we're talking about right now like maybe
+esoteric or religious things and then
+all of a sudden we talk about
+geopolitics? How are you able to bring
+authors dates years
+so quickly off the top of your head?
+>> Yeah. So, um something that I do
+um that's very important and something
+something that you're taught not to do
+in school and almost you're taught
+you're made not able to use it. It's
+it's something called the memory palace
+system. Okay? And the idea of the memory
+palace system is rather than focus on on
+the facts, focus on the story. Okay, the
+grand structure don't worry also if this
+grand structure is factually correct or
+not but try to construct the paradigm,
+try to construct the narrative. And then
+what you do is then you organize the
+facts to fit the narrative. And if you
+do it that way, it's actually pretty
+easy to recogn to remember the facts.
+But if you insist on just memorizing the
+facts for themselves,
+um then it's very hard to remember the
+facts. But also it confuses you. Okay?
+And that's the system that we have
+today. Uh academics, scholars,
+universities are just completely useless
+because they're too focused on the facts
+and not enough on like the whole
+picture, on the whole story. So So when
+I do research, I'm interested in like
+the story. I'm interested like you know
+how does one thing lead to the next and
+I'm not not focused on the facts
+themselves when you do that then the
+facts begin to
+congregate naturally in a place that is
+pretty easy to remember
+>> right
+>> I wanted to go to a related question on
+like spirituality when in the Odyssey
+you talked about the the soul the spirit
+and the mind when they're all
+disconnected such in Penelopey with
+Telmicus and Adysius how when they're
+all disconnected that it led to
+depression or paralyzation of all three
+uh people in it. Um I was just wanted
+the clarification between what the
+difference you meant between the soul
+and the spirit because I felt those were
+the very similar or the same I guess.
+>> Yeah. Okay. So I think the best way to
+understand this is like our
+consciousness exists on infinite
+dimensions
+and it's really where do we put our
+focus and if you just put your focus on
+the body that could come at the
+detriment of the um soul and the spirit.
+Okay? So imagine like the soul is maybe
+the astral body, the spirit is the
+connection to the universe. Um, and so
+you're a happy person when all three
+align together. And all three align
+together when you focus on your love and
+your purpose. Um, and um, that's the
+idea.
+>> Yeah.
+>> You often talk about um, your years in
+between Yale and getting a family or
+some of your hardest years, your darkest
+years. Um I think often you've used the
+word depression and and similar things.
+So um I know amongst that you mentioned
+that a desire for creating a family
+unconditional love. Some of the you know
+top concepts in the divine comedy were
+what allowed you to basically manifest
+and attract that. So my question is was
+there a switch? Um what what happened?
+How did you get from that deep darkness
+to the next step of desire for
+unconditional love and family to then
+actually be able to physically, you
+know, obtain that or was it time that
+went by?
+>> Okay, so looking back,
+I think a lot of the issue is I went to
+Yale and Yale is an MK ultra system. So
+what what I mean by that is Yale takes
+young sensitive people and puts them in
+an environment that is very high
+pressure. So it's traumatic and this is
+intentional because if that's the case
+they you can implant certain ideologies
+certain uh values into this person and
+this person become and this becomes so
+subconscious
+that um it almost consumes the entire
+soul of this person. And one of the um
+really repugnant values
+of a place like Yale is achievement at
+all costs.
+Like you could be a millionaire, but
+that's not enough. You have to be a
+billionaire. You constantly have to rise
+and rise and there's really no purpose
+in that. And that and that's why we live
+in such a
+shallow vacuous society. think something
+like Obama, right? Barack Obama, I
+think, is one of the um best examples of
+where the meritocracy has failed society
+because I mean he had a talent to become
+president, but he didn't know why he
+wanted to become president. Like like
+like what are you trying to do? What's
+your purpose? But but the America
+doesn't care
+and all it cares cares about is
+achievement. And so
+um
+I struggled because that MK ultra
+programming
+and my soul were in closely with each
+other. Okay. So I wanted to achieve but
+not at the cost of my soul. And so
+um I floundered through through society.
+Um I was talented, I was very smart, but
+I didn't want to make the sacrifices
+necessary in order to truly succeed. Um
+I want for example
+when I was working for for United
+Nations in Afghanistan, it was pretty
+easy to make a lot of money. But I knew
+that
+um you were stealing from poor Afghans
+because that international aid money was
+directed at feeding them. But like
+instead we international civil servants
+were taking this money and going to
+fivestar restaurants eating sushi in
+cabal. They literally flew in sushi into
+cabal when you have a nation of starving
+people. It's just the most
+thing. So I lasted a few months and I
+had to quit. Um, I worked as a
+journalist and if you want to succeed as
+a journalist, you have to write things
+that um, sell and I don't want to do
+that. I want to write things that were
+truthful. So, there's this conflict
+between my MK Ultra programming and my
+soul and I made a decision that I needed
+to get rid of this MK Ultra programming.
+And so I spent years just
+engaging in activities that really
+liberated uh myself from MK Ultra
+programming. And one of these things and
+it's really interesting is semic comedy.
+Semic comedy. It it's it's almost like
+um if you actually get in front of a
+stage and you learn to tell jokes
+because jokes is really about exposing
+yourself, proving you're vulnerable
+that really begins to disrupt your MK
+programming. Is there any success is is
+there any successful comedian who's like
+a like an Ivy League graduate in any
+>> Conan O'Brien?
+>> Is he a good comic?
+>> Yeah.
+>> Okay. But I'm saying like, you know,
+these military colleges, technical
+collegologist, and Ivory League are not
+the same thing. Like the the Ivy League
+like the way that they do humanities
+education, it really does brainwash you
+in in a certain way. Um, yeah. So, I
+would say some comedy. Um, and I would
+say also like things like Brazilian
+jiu-jitsu.
+Um, because the thing about Brazilian
+jiu-jitsu is that it really humbles you.
+It really grounds you. Um, skydiving.
+Yeah. But also like moving yourself out
+of your comfort zone
+um is something that really will help
+you uh liberate your soul.
+>> Okay.
+>> I have a geopolitics questions. Um so uh
+how do uh want to hear your perspectives
+on the outcome of uh coming November uh
+midterm election and um when would the
+uh ground invasion on Iran by either
+Israel or America would do given that
+the low approving rating um would Trump
+try to switch the whole uh game before
+the election by just invading that or
+will he just wait out until whatever the
+outcome comes out he would uh pursue the
+final I guess battle uh after the
+election.
+>> Okay. So, I don't think the midterm
+elections matter. I I I know it's a
+strange thing, but I I don't think they
+actually matters in the grand scheme of
+things. It's possible Democrats take the
+House, but they won't take the Senate.
+It's also possible uh the Democrats
+start impeachment hearings against
+Trump, but all this is theater. All this
+is just to like cover your ass. Uh
+because the thing that like they don't
+want to happen is a vote on the war.
+Okay, that so like uh go back to uh 2003
+the Iraq war. Congress approved of the
+war. Congress authorized the war and it
+really
+um destroyed many political careers,
+right? Because you and now on the record
+supporting the war and they all support
+the war and so they don't want to be in
+that situation again. They don't want to
+be a situation where they're they are
+supporting the war, but at the same
+time, they're stuck with the war. Okay.
+So, I think that [clears throat] it's
+possible that the Democrats win, but
+it'll just be theater. Um, it won't
+really matter for the war. Okay. The
+grand invasion, I think it's already
+happening. I think you already have
+special forces on the ground. Um, you
+also have MSAD on the ground and I think
+that the ground invasion
+will happen after the midterms. Um,
+right now they're looking at inserting
+special forces into Pax Mountain or
+taking over one of the islands, but um,
+no matter what happens, it's going to be
+pretty stupid. I I mean like I sort of
+given up on trying to figure out what's
+happening because like you never know
+what I come up with. They do something
+even more stupid than I could possibly
+imagine.
+Okay. Like this war is just a complete
+dumpster fire. It's it's it's it's like
+if you if like you told me um a year ago
+like Trump would just be tackering every
+week, right? like, okay, on
+on Monday on Friday, it's like, I'm
+going to bomb Iran back to the stone
+age. On Monday, it's like, oh, you know
+what? We're just we're friends. It's
+it's like this so stupid.
+>> But is he is he manipulating the stock
+market? Is that why he's doing it?
+That's the theory is that he's he's just
+playing the the markets by making these
+announcements and then retracting them.
+>> Well, certainly people are benefiting
+from this. Okay. But I think Trump um
+you know they they say it's chaos chaos
+magic. Okay. Chaos magic which is like
+how do you get the American people to
+tolerate
+a war
+um that is extremely unpopular that has
+no purpose
+and which is hurting America very badly
+or you distract them. Okay. It's it's
+it's almost like chaos magic, right?
+Like just and like like just the idea
+that there are no protests on the
+streets and the the Democratic party is
+not coming out and saying this word is
+stupid like like the level opposition in
+2003 was intense. Okay, if you go back
+to 2003
+like like tens of thousands of people
+marching on the streets, okay, protest
+everywhere. Nothing today. You have
+nothing today. Even though this war is
+much more detrimental to the world than
+the Iraq war and pe people like Tucker
+Carlson look back and go I was for the
+Iraq war now I regret that or I was
+always against the Iraq war and I just
+don't think that's going to happen in 20
+years about the Iran war that people
+will say I took a stand against the Iran
+war when when it was happening. It
+doesn't seem yeah to your point that
+people are doing that people have
+blocked it out out of their minds. It's
+really strange. This is one of the most
+consequential wars in our lifetimes and
+people are not processing it, right?
+That's Trump's chaos magic.
+>> Uh, hi. So, I just want to say thank you
+for visiting us here in LA and also
+thank you for publishing your lectures
+online. Uh, for me personally, they've
+really helped me to kind of have a
+different perspective towards the the
+study of history. Um so I come from a a
+background where uh higher education was
+looked down on very severely critical
+thinking and uh recently I just got
+admitted to an Ivy League uh institution
+and obviously you know go going from
+knowing nothing about the world into an
+opportunity to engage with the world uh
+uh more thoroughly. um from what you
+have said here tonight or or this today
+um specifically the things that you've
+discussed occurring at Yale uh by the
+way I I got into Yale ironically
+um
+>> recent what yeah
+um my question is what advice would you
+give for for someone like me and my
+circumstances to guard against uh as
+well as uh what what thing would you uh
+advise for me to preserve as that I
+engage in, you know, elite uh academia
+vibe.
+[sighs]
+>> Wow.
+Okay. Well, I I have three children and
+none of them speak English. It's kind of
+weird. Uh my son Chris, who's eight,
+he's he he's with me. Um and we're going
+around the United States. Uh this is our
+first stop, but we'll we're going to New
+York next week. He doesn't speak
+English. And that's kind of weird
+because like uh in China every parent
+wants their child to
+um learn English and I speak English. So
+um why am I not teaching my child um
+English
+and not only that but like we don't even
+want our child children in school? Um,
+and
+I mean having someone who went to Yale
+and having and like having worked in
+education for all my life, my um my
+conclusion is
+school makes you stupid.
+And the more school you do, the more
+stupid you become. Okay? And this is
+weird. So, so let me explain what I
+mean. What I mean is I think that
+[clears throat]
+left by left our own devices we're
+pretty smart because we're intuitive. We
+have a connection to the um monad. We
+have a connection to the vine. And left
+our own devices we can learn anything.
+We can be anyone be anything. We are
+unlimited potential. Left to our own
+devices.
+When we go to school,
+um the point of school is not education.
+It is indoctrination
+and they are trying to make you think in
+a very rigid way. If you don't do what
+they tell you, they literally drug you
+up. Okay? They literally do that. Uh
+they force boys to take rolin. Um, you
+know, it's so absurd like now like if
+you just as a young boy or a young girl,
+you raise your hand, ask a question, the
+teacher thinks you're disruptive, sends
+you as a psychiatrist who did this, who
+then prescribes rolin. Okay, it's
+completely out of control. Um, and the
+meritocracy is a filtration system. So
+anyone with any anyone with any
+curiosity, anyone with any uh sense of
+rebellion is filtered out of the system.
+And so those who go to to Ivy League are
+those who are the most willing
+to
+uh please authority, the most willing to
+be co-opted by the system. You go to
+every league and for for those four
+years it is just mesmerizing the wealth
+at Yale uh the prestige
+the um limit limitless opportunities and
+it's almost disorientating and it's
+designed that way because it it's meant
+to traumatize you so that they can
+implant certain ideas into you and um
+then they have you controlled. Okay. So,
+think of think of Barack Obama in 2008.
+He promised hope and change
+and he promised a revolution of sorts,
+right? He had this huge movement behind
+him. comes into office and what he does
+is he appoints into office Larry
+Summers,
+um Tim Gner,
+um
+um Rob Rubin, Bob Rubin, the people who
+caused this mess in the first place. And
+why did he do that? It's just his
+programming. Okay, he got perceived
+of a world in which the Ivy Leagueers
+are not in charge. Okay, he thinks it is
+right and proper that only Harvard and
+Yale people control the world even
+though the evidence suggests like they
+are incompetent. He can't perceive that.
+Um so
+um a place like you Harvard it's really
+it's a cave you know Plato's cave is a
+cave it teaches you the beauty the
+seductiveness of the illusion but it's
+all just an illusion so I don't want any
+of my kids to go to the Ivy League I
+don't want any of my kids even to go to
+school I just want them to be spirits I
+just want them to be people who are
+connected to the divine. And my advice
+to you is
+how do you avoid the trap?
+Um, and the answer is well, the moment
+they you they accept you, you're kind of
+trapped, right? Because think of think
+of all the hurdles you have to go
+through to apply to Yale, right? It's a
+really cumbersome process. It's probably
+the most complicated
+application process you'll ever have in
+your life. And the idea that you've sunk
+so much into it and you're like, you
+know what, um, I now know Yale is
+terrible. I won't go to Yale. It's not
+going to happen. Okay? you your your
+your mind is like, well, I know Y is
+terrible, but I'll be the exception,
+okay? I'll go to Yale and I'll escape
+the MK Ultra programming they have ready
+for me. I'm the exception. Honestly, if
+I had to go back in time at age 18 and
+knowing like what Yale is, I would have
+still gone to Yale.
+But I I I but I would also know I've got
+10 20 years of Anna suffering um ahead
+of me. Okay. Because having the Yale
+education and then trying to remove the
+MK ultra ring from my um uh system, it
+really benefited me in the end. Um it
+really freed me. Um, so,
+um,
+um, I think it was a worthwhile process.
+It's just like really painful. Um, and I
+don't want my children to go through
+that process.
+>> Um, I had a geopolitical question about
+something you said earlier. I didn't
+quite understand when you were talking
+about how I think you said in 1971 they
+chose to separate the US dollar from the
+gold and how that led to the problems
+that we have now because they tied it to
+like the oil and and the manufacturing
+in China and stuff. But does that mean
+that like if they change it to where the
+dollar is connected to gold again or
+some other mineral or like metal, would
+that fix things in the financial part?
+>> Yeah, that's a great question. Okay. So,
+um the problem is the Euro dollar
+system. Okay. The Euro dollar system all
+it means is US dollars that are outside
+the US economy and are in the global
+economy. Okay. There are certain
+problems with this system. Number one is
+we have no idea how much EUR dollar
+there is. Okay. But it's probably a lot.
+Number one. Number two is a lot of these
+Euro dollars again US dollars outside
+the US economy are counterfeit. they're
+fake. Um, and so how do you build a
+system
+uh that reestablishes [clears throat]
+the gold standard? The answer is you
+can't because you don't know how much US
+dollars are actually flo floating
+around. So the only solution then is to
+at the end of the day burn down the US
+economy.
+>> That's like literally what they have in
+planned. I I I want us to be clear about
+what what money is. Okay? If I'm the
+elite and what I want to do is basically
+make you work for me. Okay? So, for
+example, I want to build a house, but
+I'm too lazy. I don't want to build a
+house myself, right? So, what do I do?
+Well, I get others to work for me. And
+to solve this problem, um, historically,
+there have been different solutions.
+Okay? The first solution, of course, is
+slavery. So I just go and say you know
+like if you don't work for me I'll come
+kill you. Okay. Um but
+um a better solution is to use money.
+Okay. And so I give you money and then
+you come work for me. Okay. It's the
+same system because because what what
+I'm doing is I'm extracting your energy.
+Okay. So money is a mechanism to extract
+um your energy. Okay. The reason why you
+agree to your energy being extracted is
+you can then take this money I given you
+and extract the energy of of other
+people as well. Okay? Does that make
+sense? Like you're like now I want to
+buy a boat. So like I need someone to go
+build me a boat. So I'll give that
+person money to build a boat. Okay. So
+this entire system works as long as we
+believe this money has value.
+But imagine the amount of US dollars
+being printed today. It's obscene,
+right? That's why you have $17
+avocado toast. Okay? When you have $7
+toast, it probably tells you the money
+isn't worth that much. Okay? Also like
+the idea that SpaceX is worth $220.
+That's is that's just stupid. Okay. So,
+we've reached a system where
+we don't see any value in US dollars
+anymore. And that's why young people
+refuse to work. It's like they
+understand this, right? Why I'm going to
+work hard
+um for $50,000 a year when that doesn't
+get me anything. How much is a house?
+Like $2 million? Like, how long do I
+have to work to get a house?
+Right? So the only way out of this is to
+destroy the US economy.
+Okay. So imagine the great depression
+1929 stock market collapse. Then you
+have a great depression where people are
+unemployed. They have no money and then
+they beg to be sent to war. They beg
+they beg to work in a factory. Okay. But
+but to get to that point you need people
+to suffer for like 10 years. And and
+that's the plan because like the entire
+point is not um to give you money. The
+point is to make you want to work hard.
+>> Should we wrap things up?
+>> Yeah. Thank you so much. [applause]

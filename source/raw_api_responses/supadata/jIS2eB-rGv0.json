@@ -1,0 +1,5847 @@
+{
+  "lang": "en",
+  "availableLangs": [
+    "en"
+  ],
+  "content": [
+    {
+      "lang": "en",
+      "text": "I hope everyone had a nice break and",
+      "offset": 960,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "welcome back to the end of the world.",
+      "offset": 3280,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "So, as you know, World War II has",
+      "offset": 6560,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "started. United States and Israel have",
+      "offset": 8639,
+      "duration": 5681
+    },
+    {
+      "lang": "en",
+      "text": "start to attack Iran",
+      "offset": 11280,
+      "duration": 6800
+    },
+    {
+      "lang": "en",
+      "text": "and we are now in the fourth day of this",
+      "offset": 14320,
+      "duration": 7520
+    },
+    {
+      "lang": "en",
+      "text": "war. And we can expect this war to last",
+      "offset": 18080,
+      "duration": 7439
+    },
+    {
+      "lang": "en",
+      "text": "for many weeks, possibly also for many",
+      "offset": 21840,
+      "duration": 6640
+    },
+    {
+      "lang": "en",
+      "text": "years. But I promise you that after this",
+      "offset": 25519,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "war is done, the world will never be the",
+      "offset": 28480,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "same again. So what what we will do",
+      "offset": 31519,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "these next few weeks is use game theory",
+      "offset": 34480,
+      "duration": 6960
+    },
+    {
+      "lang": "en",
+      "text": "and understand and analyze the",
+      "offset": 38399,
+      "duration": 5201
+    },
+    {
+      "lang": "en",
+      "text": "geopolitical situation.",
+      "offset": 41440,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "And so I'm going to teach you the ideas,",
+      "offset": 43600,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "the theories, the techniques to",
+      "offset": 45600,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "understand the world around you and make",
+      "offset": 48559,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "predictions. and we can know if our",
+      "offset": 51200,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "analysis is correct because all this is",
+      "offset": 54079,
+      "duration": 4721
+    },
+    {
+      "lang": "en",
+      "text": "happening in real time and so we can",
+      "offset": 56480,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "test it against reality. All right, so",
+      "offset": 58800,
+      "duration": 6079
+    },
+    {
+      "lang": "en",
+      "text": "let's go over some basic facts about",
+      "offset": 61600,
+      "duration": 6720
+    },
+    {
+      "lang": "en",
+      "text": "what's happened so far. So in the early",
+      "offset": 64879,
+      "duration": 7201
+    },
+    {
+      "lang": "en",
+      "text": "morning of Saturday uh in Tran the",
+      "offset": 68320,
+      "duration": 6400
+    },
+    {
+      "lang": "en",
+      "text": "Israelis and Americans launched a",
+      "offset": 72080,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "decapitation strike against the Alatona",
+      "offset": 74720,
+      "duration": 8000
+    },
+    {
+      "lang": "en",
+      "text": "uh Hami who is the supreme leader of",
+      "offset": 78320,
+      "duration": 8000
+    },
+    {
+      "lang": "en",
+      "text": "Iran. Now there are",
+      "offset": 82720,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "arguments and and disputes about as to",
+      "offset": 86320,
+      "duration": 4799
+    },
+    {
+      "lang": "en",
+      "text": "what happened. The Americans and",
+      "offset": 88960,
+      "duration": 5199
+    },
+    {
+      "lang": "en",
+      "text": "Israelis said that they had real",
+      "offset": 91119,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "intelligence about where the leader was",
+      "offset": 94159,
+      "duration": 5361
+    },
+    {
+      "lang": "en",
+      "text": "and so they sent airplanes to just bomb",
+      "offset": 96799,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "the crap out of a place. They also had a",
+      "offset": 99520,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "spy who was able to record the body of",
+      "offset": 102159,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "the dead to",
+      "offset": 105600,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "this was announced. At first, the",
+      "offset": 108159,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "Iranians denied this and the Iranians",
+      "offset": 110640,
+      "duration": 4159
+    },
+    {
+      "lang": "en",
+      "text": "insisted he was still alive. But",
+      "offset": 113200,
+      "duration": 5199
+    },
+    {
+      "lang": "en",
+      "text": "eventually, state media um admitted that",
+      "offset": 114799,
+      "duration": 6481
+    },
+    {
+      "lang": "en",
+      "text": "he did die in the air strike. But then",
+      "offset": 118399,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "what they also said is that they had",
+      "offset": 121280,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "told he's 86 years old and he chose to",
+      "offset": 123759,
+      "duration": 6161
+    },
+    {
+      "lang": "en",
+      "text": "die. He could have gone to Moscow, but",
+      "offset": 126560,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "instead he chose to stay in Tran and die",
+      "offset": 129920,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "for his people. But not only that, but",
+      "offset": 132720,
+      "duration": 6879
+    },
+    {
+      "lang": "en",
+      "text": "he died along many of his relatives. He",
+      "offset": 135599,
+      "duration": 5681
+    },
+    {
+      "lang": "en",
+      "text": "died along with his daughter, his",
+      "offset": 139599,
+      "duration": 4241
+    },
+    {
+      "lang": "en",
+      "text": "son-in-law, his grandchildren. So the",
+      "offset": 141280,
+      "duration": 5920
+    },
+    {
+      "lang": "en",
+      "text": "entire So many of the family died in",
+      "offset": 143840,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "this assault.",
+      "offset": 147200,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "Also, there's been reporting that he had",
+      "offset": 149440,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "prostrate cancer. Okay? So he was going",
+      "offset": 151280,
+      "duration": 6959
+    },
+    {
+      "lang": "en",
+      "text": "to die fairly soon as well. So what you",
+      "offset": 153840,
+      "duration": 6320
+    },
+    {
+      "lang": "en",
+      "text": "need to understand first about the war",
+      "offset": 158239,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "is that even though the Americans and",
+      "offset": 160160,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "the Israelis claim great success in",
+      "offset": 162879,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "decapitating the leadership of the",
+      "offset": 165680,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "Iranians from the Iranian perspective",
+      "offset": 168959,
+      "duration": 8280
+    },
+    {
+      "lang": "en",
+      "text": "this is a martyrdom martyrdom. Okay.",
+      "offset": 171440,
+      "duration": 5799
+    },
+    {
+      "lang": "en",
+      "text": "And so the religion of the Iranians is",
+      "offset": 177599,
+      "duration": 4961
+    },
+    {
+      "lang": "en",
+      "text": "called Shia",
+      "offset": 180640,
+      "duration": 4560
+    },
+    {
+      "lang": "en",
+      "text": "um Muslim. And this is different from",
+      "offset": 182560,
+      "duration": 4319
+    },
+    {
+      "lang": "en",
+      "text": "Sunni",
+      "offset": 185200,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "Muslim. So uh Sunnis are the majority.",
+      "offset": 186879,
+      "duration": 4481
+    },
+    {
+      "lang": "en",
+      "text": "They're about 9% of all Muslims in the",
+      "offset": 189280,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "world. The Shia have always been the",
+      "offset": 191360,
+      "duration": 4879
+    },
+    {
+      "lang": "en",
+      "text": "minority. And as such, they've always",
+      "offset": 194000,
+      "duration": 6720
+    },
+    {
+      "lang": "en",
+      "text": "been persecuted. So in the Shia faith,",
+      "offset": 196239,
+      "duration": 8080
+    },
+    {
+      "lang": "en",
+      "text": "the core value, the force that binds",
+      "offset": 200720,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "everyone together and gives them purpose",
+      "offset": 204319,
+      "duration": 3521
+    },
+    {
+      "lang": "en",
+      "text": "and meaning in life, that galvanizes",
+      "offset": 205920,
+      "duration": 3760
+    },
+    {
+      "lang": "en",
+      "text": "them into action is the idea of",
+      "offset": 207840,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "martyrdom, which forces jihad. to",
+      "offset": 209680,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "sacrifice yourself for your religion.",
+      "offset": 212799,
+      "duration": 4481
+    },
+    {
+      "lang": "en",
+      "text": "Sacrifice yourself for the common good.",
+      "offset": 215040,
+      "duration": 7040
+    },
+    {
+      "lang": "en",
+      "text": "So think of the death of Kam as a",
+      "offset": 217280,
+      "duration": 7280
+    },
+    {
+      "lang": "en",
+      "text": "sacrifice, a self-sacrifice in order to",
+      "offset": 222080,
+      "duration": 6159
+    },
+    {
+      "lang": "en",
+      "text": "motivate their radiance in this war.",
+      "offset": 224560,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "Okay? So that's the first thing you need",
+      "offset": 228239,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "to understand that for the Iranians,",
+      "offset": 230720,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "this is not a biblical war. This is not",
+      "offset": 233599,
+      "duration": 4401
+    },
+    {
+      "lang": "en",
+      "text": "an economic war. This is not a war of",
+      "offset": 236080,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "resistance. This is a jihad. Okay?",
+      "offset": 238000,
+      "duration": 3599
+    },
+    {
+      "lang": "en",
+      "text": "Right? It's a war against the great",
+      "offset": 240400,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "Satan to avenge their leader. They will",
+      "offset": 241599,
+      "duration": 5121
+    },
+    {
+      "lang": "en",
+      "text": "fight to the death. All right? That's",
+      "offset": 244480,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "number one. Number two is this.",
+      "offset": 246720,
+      "duration": 8079
+    },
+    {
+      "lang": "en",
+      "text": "Also, that morning when um the was",
+      "offset": 249760,
+      "duration": 8560
+    },
+    {
+      "lang": "en",
+      "text": "killed, they really struck a school in",
+      "offset": 254799,
+      "duration": 7201
+    },
+    {
+      "lang": "en",
+      "text": "the south of Tran killing about 150",
+      "offset": 258320,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "school children. These are girls in",
+      "offset": 262000,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "primary school. And again, there's not",
+      "offset": 264560,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "debate and argument as to what happened.",
+      "offset": 267680,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "This really said that first of all, the",
+      "offset": 270080,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "school was next to a military base. We",
+      "offset": 272560,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "are targeting military base. And second",
+      "offset": 274400,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "of all, it wasn't us which struck the",
+      "offset": 277040,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "school. It was a air defense missile",
+      "offset": 279280,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "that went off course. Okay. And the",
+      "offset": 282080,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "Iranians insisted no. The the Israelis",
+      "offset": 285520,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "purposefully attacked the school to kill",
+      "offset": 288560,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "the school children. And then you're",
+      "offset": 291600,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "like, why would the Israelis do that?",
+      "offset": 293919,
+      "duration": 5921
+    },
+    {
+      "lang": "en",
+      "text": "But then these few years, well, we've",
+      "offset": 297120,
+      "duration": 4560
+    },
+    {
+      "lang": "en",
+      "text": "seen what they've done in Gaza, in",
+      "offset": 299840,
+      "duration": 3760
+    },
+    {
+      "lang": "en",
+      "text": "Palestine to the Palestinians, and it's",
+      "offset": 301680,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "pretty consistent what the Israelis have",
+      "offset": 303600,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "been doing. All right? So this action",
+      "offset": 305600,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "against the Israelis, it's meant to show",
+      "offset": 308639,
+      "duration": 5441
+    },
+    {
+      "lang": "en",
+      "text": "to themselves in the world that we are",
+      "offset": 311840,
+      "duration": 4560
+    },
+    {
+      "lang": "en",
+      "text": "now allin. Okay? We've made the",
+      "offset": 314080,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "sacrifice. We are now committed to this",
+      "offset": 316400,
+      "duration": 6960
+    },
+    {
+      "lang": "en",
+      "text": "war to win this war at all costs and",
+      "offset": 319520,
+      "duration": 6720
+    },
+    {
+      "lang": "en",
+      "text": "this action has also provoked the",
+      "offset": 323360,
+      "duration": 5279
+    },
+    {
+      "lang": "en",
+      "text": "Iranian people to resist with their full",
+      "offset": 326240,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "might. Okay. So I want you to keep this",
+      "offset": 328639,
+      "duration": 4241
+    },
+    {
+      "lang": "en",
+      "text": "in mind and again we don't have complete",
+      "offset": 330880,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "evidence that it's the Israelis who did",
+      "offset": 332880,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "this but given past actions from the",
+      "offset": 335520,
+      "duration": 7040
+    },
+    {
+      "lang": "en",
+      "text": "Israelis this is fairly consistent with",
+      "offset": 338960,
+      "duration": 6079
+    },
+    {
+      "lang": "en",
+      "text": "what they've done. Okay. So we can",
+      "offset": 342560,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "assume that this is something that do",
+      "offset": 345039,
+      "duration": 5121
+    },
+    {
+      "lang": "en",
+      "text": "did why they did this what the purpose",
+      "offset": 347919,
+      "duration": 4401
+    },
+    {
+      "lang": "en",
+      "text": "is something we we will discuss as we",
+      "offset": 350160,
+      "duration": 4879
+    },
+    {
+      "lang": "en",
+      "text": "move on okay it's very complicated",
+      "offset": 352320,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "next I want to show you this this is",
+      "offset": 355039,
+      "duration": 5361
+    },
+    {
+      "lang": "en",
+      "text": "Dubai and Dubai is considered one of the",
+      "offset": 357520,
+      "duration": 6560
+    },
+    {
+      "lang": "en",
+      "text": "wealthiest safest cities in the world",
+      "offset": 360400,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "there are thousands tens of thousands of",
+      "offset": 364080,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "westerners who move to Dubai because",
+      "offset": 367280,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "it's clean you don't pay any taxes you",
+      "offset": 370240,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "make a lot of money and you there are",
+      "offset": 372720,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "great restaurants and this is really the",
+      "offset": 375199,
+      "duration": 5201
+    },
+    {
+      "lang": "en",
+      "text": "economic model of Dubai. It's one of the",
+      "offset": 377360,
+      "duration": 7360
+    },
+    {
+      "lang": "en",
+      "text": "Gulf the GCC countries, okay? The Gulf",
+      "offset": 380400,
+      "duration": 8560
+    },
+    {
+      "lang": "en",
+      "text": "uh coastal countries. And for the",
+      "offset": 384720,
+      "duration": 7199
+    },
+    {
+      "lang": "en",
+      "text": "longest time, Dubai had a really good",
+      "offset": 388960,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "deal because they were under the",
+      "offset": 391919,
+      "duration": 5521
+    },
+    {
+      "lang": "en",
+      "text": "protection of the American military. So",
+      "offset": 394400,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "they didn't have to pay for defense.",
+      "offset": 397440,
+      "duration": 5199
+    },
+    {
+      "lang": "en",
+      "text": "They and then they were in the Middle",
+      "offset": 399840,
+      "duration": 5199
+    },
+    {
+      "lang": "en",
+      "text": "East, which is the oil producing um",
+      "offset": 402639,
+      "duration": 4321
+    },
+    {
+      "lang": "en",
+      "text": "center of the world. And so they focus",
+      "offset": 405039,
+      "duration": 4401
+    },
+    {
+      "lang": "en",
+      "text": "on aviation, they focus on logistics,",
+      "offset": 406960,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "they focus on finance, on tourism. They",
+      "offset": 409440,
+      "duration": 3840
+    },
+    {
+      "lang": "en",
+      "text": "be extremely wealthy, right? I'm not",
+      "offset": 411840,
+      "duration": 2799
+    },
+    {
+      "lang": "en",
+      "text": "sure if you've taken Emirates, one of",
+      "offset": 413280,
+      "duration": 3359
+    },
+    {
+      "lang": "en",
+      "text": "the best airlines in the world. So their",
+      "offset": 414639,
+      "duration": 4641
+    },
+    {
+      "lang": "en",
+      "text": "airport, Dubai airport, is the busiest",
+      "offset": 416639,
+      "duration": 7201
+    },
+    {
+      "lang": "en",
+      "text": "in the world. And Dubai for the longest",
+      "offset": 419280,
+      "duration": 7440
+    },
+    {
+      "lang": "en",
+      "text": "time was flourishing under American",
+      "offset": 423840,
+      "duration": 6079
+    },
+    {
+      "lang": "en",
+      "text": "protection. And Dubai said to the world,",
+      "offset": 426720,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "listen, we're like Switzerland. We're",
+      "offset": 429919,
+      "duration": 4241
+    },
+    {
+      "lang": "en",
+      "text": "neutral. We don't want any involvement",
+      "offset": 432240,
+      "duration": 4239
+    },
+    {
+      "lang": "en",
+      "text": "in any wars. we're here just to take",
+      "offset": 434160,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "care of our citizens, to make sure every",
+      "offset": 436479,
+      "duration": 4801
+    },
+    {
+      "lang": "en",
+      "text": "has a good time to make money. And then",
+      "offset": 438160,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "right after the war started, the",
+      "offset": 441280,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "Iranians attacked",
+      "offset": 442560,
+      "duration": 9280
+    },
+    {
+      "lang": "en",
+      "text": "the uh GCC. Okay, Dubai, Abu Dhabi,",
+      "offset": 445280,
+      "duration": 10080
+    },
+    {
+      "lang": "en",
+      "text": "uh Ban, Qatar,",
+      "offset": 451840,
+      "duration": 5840
+    },
+    {
+      "lang": "en",
+      "text": "Kuwait, they attacked these places and",
+      "offset": 455360,
+      "duration": 3600
+    },
+    {
+      "lang": "en",
+      "text": "these places were like, \"What's going",
+      "offset": 457680,
+      "duration": 2959
+    },
+    {
+      "lang": "en",
+      "text": "on? We're neutral, man. We're not",
+      "offset": 458960,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "involved in this war.\" and the airport",
+      "offset": 460639,
+      "duration": 9120
+    },
+    {
+      "lang": "en",
+      "text": "was shut down in Dubai. At at one point,",
+      "offset": 465840,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "rich the rich people in Dubai were",
+      "offset": 469759,
+      "duration": 4801
+    },
+    {
+      "lang": "en",
+      "text": "willing to pay about 250,000 US dollars",
+      "offset": 471520,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "just get on a plane and get out of",
+      "offset": 474560,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "there. Okay.",
+      "offset": 476240,
+      "duration": 6639
+    },
+    {
+      "lang": "en",
+      "text": "So, um the reality is this. For the",
+      "offset": 478800,
+      "duration": 6959
+    },
+    {
+      "lang": "en",
+      "text": "longest time, Dubai had a reputation for",
+      "offset": 482879,
+      "duration": 4241
+    },
+    {
+      "lang": "en",
+      "text": "being safe and that's why people move",
+      "offset": 485759,
+      "duration": 3440
+    },
+    {
+      "lang": "en",
+      "text": "their money there. Guess what, guys?",
+      "offset": 487120,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "After what the Iranians did, it's dead.",
+      "offset": 489199,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "Dubai as a city in the long term it is",
+      "offset": 491440,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "dead because you're a wealthy westerner.",
+      "offset": 493599,
+      "duration": 3201
+    },
+    {
+      "lang": "en",
+      "text": "You're not going to move to a place",
+      "offset": 495680,
+      "duration": 3199
+    },
+    {
+      "lang": "en",
+      "text": "where it could be attacked any time by",
+      "offset": 496800,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "the Iranians. You might move to",
+      "offset": 498879,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "Singapore. You might move to Hong Kong,",
+      "offset": 500720,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "Japan, South America, but you're not",
+      "offset": 502960,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "moving to Dubai. Okay. So, the big",
+      "offset": 505440,
+      "duration": 6479
+    },
+    {
+      "lang": "en",
+      "text": "question for us is why do I do this? It",
+      "offset": 508240,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "would say it's really Americans who",
+      "offset": 511919,
+      "duration": 4961
+    },
+    {
+      "lang": "en",
+      "text": "attack you. Why go after the GCC? All",
+      "offset": 513279,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "right. and not only that, but they're",
+      "offset": 516880,
+      "duration": 4399
+    },
+    {
+      "lang": "en",
+      "text": "escalating the attacks against the GCC.",
+      "offset": 518959,
+      "duration": 3841
+    },
+    {
+      "lang": "en",
+      "text": "So, it's something that we will look at",
+      "offset": 521279,
+      "duration": 4801
+    },
+    {
+      "lang": "en",
+      "text": "very closely today. Well, the short",
+      "offset": 522800,
+      "duration": 5920
+    },
+    {
+      "lang": "en",
+      "text": "answer is because these places, even",
+      "offset": 526080,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "though they they pretend to be neutral,",
+      "offset": 528720,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "they house the American military. They",
+      "offset": 531680,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "allow the Israelis and Americans to use",
+      "offset": 534880,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "their airspace to attack Iran from. All",
+      "offset": 536800,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "right. So, this is Bahrain. Now, Bane is",
+      "offset": 540160,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "interesting, okay? Because I I want you",
+      "offset": 543040,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "guys to remember this, but Bane will",
+      "offset": 545200,
+      "duration": 4319
+    },
+    {
+      "lang": "en",
+      "text": "probably be one of the major centers of",
+      "offset": 547040,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "this conflict because first of all, this",
+      "offset": 549519,
+      "duration": 5201
+    },
+    {
+      "lang": "en",
+      "text": "is the um American fifth fleet. All",
+      "offset": 552240,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "right, this is their naval base in the",
+      "offset": 554720,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "Middle East. And as you can see, the",
+      "offset": 557440,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "Iranians are attacking it with missiles",
+      "offset": 559120,
+      "duration": 7040
+    },
+    {
+      "lang": "en",
+      "text": "and it's being blown up. Bin is",
+      "offset": 562880,
+      "duration": 9200
+    },
+    {
+      "lang": "en",
+      "text": "interesting because it has about 50% or",
+      "offset": 566160,
+      "duration": 8640
+    },
+    {
+      "lang": "en",
+      "text": "even more. Okay. Shia, which is the",
+      "offset": 572080,
+      "duration": 5759
+    },
+    {
+      "lang": "en",
+      "text": "religion of the Iranians, but the people",
+      "offset": 574800,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "in charge are the Sunnis.",
+      "offset": 577839,
+      "duration": 6321
+    },
+    {
+      "lang": "en",
+      "text": "And so what is the what makes this",
+      "offset": 580880,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "strike really important for from our",
+      "offset": 584160,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "perspective is first of all, not only",
+      "offset": 586080,
+      "duration": 4960
+    },
+    {
+      "lang": "en",
+      "text": "are the Iranians attacking US military",
+      "offset": 588640,
+      "duration": 6319
+    },
+    {
+      "lang": "en",
+      "text": "assets, not only are they destroying the",
+      "offset": 591040,
+      "duration": 6320
+    },
+    {
+      "lang": "en",
+      "text": "economies of the GCC, but they're also",
+      "offset": 594959,
+      "duration": 5521
+    },
+    {
+      "lang": "en",
+      "text": "also trying to ignite a religious war,",
+      "offset": 597360,
+      "duration": 5919
+    },
+    {
+      "lang": "en",
+      "text": "right? If you're Shia, you're loyal to",
+      "offset": 600480,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "the Aatollah. And if he's dead, then you",
+      "offset": 603279,
+      "duration": 5841
+    },
+    {
+      "lang": "en",
+      "text": "must as a religious obligation now",
+      "offset": 606160,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "commit jihad against your enemies. And",
+      "offset": 609120,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "it's no different in other religions",
+      "offset": 612160,
+      "duration": 3760
+    },
+    {
+      "lang": "en",
+      "text": "where listen, if you want to kill the",
+      "offset": 613600,
+      "duration": 4239
+    },
+    {
+      "lang": "en",
+      "text": "Pope, the Catholics would be really",
+      "offset": 615920,
+      "duration": 3200
+    },
+    {
+      "lang": "en",
+      "text": "angry at you and they would want to kill",
+      "offset": 617839,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "you, right? So now you have the Shia who",
+      "offset": 619120,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "will probably eventually arise creating",
+      "offset": 621920,
+      "duration": 5599
+    },
+    {
+      "lang": "en",
+      "text": "a revolution",
+      "offset": 624800,
+      "duration": 4719
+    },
+    {
+      "lang": "en",
+      "text": "in Ban. Okay? Okay. So I think Boran",
+      "offset": 627519,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "will be the first to fall. Dubai will",
+      "offset": 629519,
+      "duration": 5121
+    },
+    {
+      "lang": "en",
+      "text": "probably go bankrupt. Okay. But in the",
+      "offset": 631519,
+      "duration": 6161
+    },
+    {
+      "lang": "en",
+      "text": "long term we can expect the entire GCC",
+      "offset": 634640,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "area including Saudi Arabia",
+      "offset": 637680,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "to eventually collapse. Okay. And this",
+      "offset": 641120,
+      "duration": 3680
+    },
+    {
+      "lang": "en",
+      "text": "something we will use game theory to",
+      "offset": 643200,
+      "duration": 7600
+    },
+    {
+      "lang": "en",
+      "text": "understand. All right let's continue. So",
+      "offset": 644800,
+      "duration": 8400
+    },
+    {
+      "lang": "en",
+      "text": "we will know how this war develops just",
+      "offset": 650800,
+      "duration": 4479
+    },
+    {
+      "lang": "en",
+      "text": "based on geography. Okay. So this is a",
+      "offset": 653200,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "map and this map even even if you don't",
+      "offset": 655279,
+      "duration": 4881
+    },
+    {
+      "lang": "en",
+      "text": "really know the war, even if you don't",
+      "offset": 658320,
+      "duration": 3759
+    },
+    {
+      "lang": "en",
+      "text": "know the participants, even if you don't",
+      "offset": 660160,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "know the weaponry, this map will tell",
+      "offset": 662079,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "you exactly how this war will progress.",
+      "offset": 664240,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "All right, so some certain things to",
+      "offset": 667839,
+      "duration": 4161
+    },
+    {
+      "lang": "en",
+      "text": "keep in mind about this map. This is",
+      "offset": 669920,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "what we call this area. Okay, really",
+      "offset": 672000,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "small about it's 33 kilometers wide.",
+      "offset": 674000,
+      "duration": 5279
+    },
+    {
+      "lang": "en",
+      "text": "Okay, people can swim across it. It's",
+      "offset": 677120,
+      "duration": 6560
+    },
+    {
+      "lang": "en",
+      "text": "really really um uh narrow. Okay, this",
+      "offset": 679279,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "small area guys, it's called the str",
+      "offset": 683680,
+      "duration": 3520
+    },
+    {
+      "lang": "en",
+      "text": "moose.",
+      "offset": 685519,
+      "duration": 4681
+    },
+    {
+      "lang": "en",
+      "text": "All right,",
+      "offset": 687200,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "and it's important because",
+      "offset": 690720,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "it's really the center of the world.",
+      "offset": 693360,
+      "duration": 7599
+    },
+    {
+      "lang": "en",
+      "text": "This one area is the nexus, the pivot of",
+      "offset": 696320,
+      "duration": 7199
+    },
+    {
+      "lang": "en",
+      "text": "the world. Let me explain why. First of",
+      "offset": 700959,
+      "duration": 7601
+    },
+    {
+      "lang": "en",
+      "text": "all, from the GCC, you have 20%",
+      "offset": 703519,
+      "duration": 8320
+    },
+    {
+      "lang": "en",
+      "text": "of all the world's oil flowing through",
+      "offset": 708560,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "this narrow straight. Where does it go,",
+      "offset": 711839,
+      "duration": 6481
+    },
+    {
+      "lang": "en",
+      "text": "guys? It goes to Asia, India, Pakistan,",
+      "offset": 713760,
+      "duration": 8560
+    },
+    {
+      "lang": "en",
+      "text": "South Korea, China, Japan.",
+      "offset": 718320,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "India depends on 60% of its oil from",
+      "offset": 722320,
+      "duration": 7680
+    },
+    {
+      "lang": "en",
+      "text": "this area. China depends on 40%. Japan",
+      "offset": 725200,
+      "duration": 7680
+    },
+    {
+      "lang": "en",
+      "text": "75%.",
+      "offset": 730000,
+      "duration": 4639
+    },
+    {
+      "lang": "en",
+      "text": "Prime Minister Takiichi of Japan has",
+      "offset": 732880,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "said that listen if the circle closes we",
+      "offset": 734639,
+      "duration": 6640
+    },
+    {
+      "lang": "en",
+      "text": "run out of oil in about 8 n months. The",
+      "offset": 738320,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "entire Japanese economy would collapse",
+      "offset": 741279,
+      "duration": 5521
+    },
+    {
+      "lang": "en",
+      "text": "in 8 9 months. If the circle moves were",
+      "offset": 743200,
+      "duration": 6079
+    },
+    {
+      "lang": "en",
+      "text": "to close and guess what the Iranians",
+      "offset": 746800,
+      "duration": 5839
+    },
+    {
+      "lang": "en",
+      "text": "have closed the circle moves okay so we",
+      "offset": 749279,
+      "duration": 5601
+    },
+    {
+      "lang": "en",
+      "text": "can expect that the entire global",
+      "offset": 752639,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "economy will suffer greatly over the",
+      "offset": 754880,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "next few months. All right. So that's",
+      "offset": 758079,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "point number one. Point number two is",
+      "offset": 760560,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "okay so the GC sends oil across the shoo",
+      "offset": 763120,
+      "duration": 7040
+    },
+    {
+      "lang": "en",
+      "text": "and what do they get back in return?",
+      "offset": 767440,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "Food guys.",
+      "offset": 770160,
+      "duration": 5840
+    },
+    {
+      "lang": "en",
+      "text": "All right so",
+      "offset": 772720,
+      "duration": 5840
+    },
+    {
+      "lang": "en",
+      "text": "people don't appreciate the GCC but it",
+      "offset": 776000,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "is really the lynch pin of the American",
+      "offset": 778560,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "empire because what is the American",
+      "offset": 781040,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "empire? The American empire is the petro",
+      "offset": 782720,
+      "duration": 4559
+    },
+    {
+      "lang": "en",
+      "text": "dollar. All right. The idea of the petro",
+      "offset": 785200,
+      "duration": 3759
+    },
+    {
+      "lang": "en",
+      "text": "dollar is this. The US dollar is worth",
+      "offset": 787279,
+      "duration": 3841
+    },
+    {
+      "lang": "en",
+      "text": "nothing. It's only valued when people",
+      "offset": 788959,
+      "duration": 5201
+    },
+    {
+      "lang": "en",
+      "text": "want it. But the GC says that if you",
+      "offset": 791120,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "want oil from us, you have to pay us in",
+      "offset": 794160,
+      "duration": 4239
+    },
+    {
+      "lang": "en",
+      "text": "US dollars. Okay? Then that is the basis",
+      "offset": 795920,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "of the value of the US dollar.",
+      "offset": 798399,
+      "duration": 6721
+    },
+    {
+      "lang": "en",
+      "text": "So if the GCC collapses, the American",
+      "offset": 801600,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "economy and American empire both",
+      "offset": 805120,
+      "duration": 6159
+    },
+    {
+      "lang": "en",
+      "text": "collapse at the same time.",
+      "offset": 807279,
+      "duration": 6560
+    },
+    {
+      "lang": "en",
+      "text": "The problem though is the GCC is an",
+      "offset": 811279,
+      "duration": 6081
+    },
+    {
+      "lang": "en",
+      "text": "artificial construct of empire. It does",
+      "offset": 813839,
+      "duration": 7521
+    },
+    {
+      "lang": "en",
+      "text": "not exist naturally. Why? Because that's",
+      "offset": 817360,
+      "duration": 8479
+    },
+    {
+      "lang": "en",
+      "text": "no food. That's no oil, no water. Okay",
+      "offset": 821360,
+      "duration": 8080
+    },
+    {
+      "lang": "en",
+      "text": "guys, no food, no water. So these cities",
+      "offset": 825839,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "are able to grow in the millions because",
+      "offset": 829440,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "of all these petrol dollars flowing in.",
+      "offset": 831519,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "If you close off the moose, there's no",
+      "offset": 833760,
+      "duration": 4960
+    },
+    {
+      "lang": "en",
+      "text": "food coming in, right? They're all going",
+      "offset": 836399,
+      "duration": 5401
+    },
+    {
+      "lang": "en",
+      "text": "to starve.",
+      "offset": 838720,
+      "duration": 3080
+    },
+    {
+      "lang": "en",
+      "text": "How much food does the GCD get from",
+      "offset": 841920,
+      "duration": 6320
+    },
+    {
+      "lang": "en",
+      "text": "overseas? 80%.",
+      "offset": 844399,
+      "duration": 3841
+    },
+    {
+      "lang": "en",
+      "text": "80% of all the food it consumes comes",
+      "offset": 848399,
+      "duration": 6081
+    },
+    {
+      "lang": "en",
+      "text": "from overseas that it imports. It does",
+      "offset": 851680,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "not grow by itself. It imports.",
+      "offset": 854480,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "All right.",
+      "offset": 858560,
+      "duration": 4719
+    },
+    {
+      "lang": "en",
+      "text": "So the sugar moose is really key and",
+      "offset": 860240,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "again the Iranians will close it in",
+      "offset": 863279,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "order to strangle the global economy and",
+      "offset": 865680,
+      "duration": 6399
+    },
+    {
+      "lang": "en",
+      "text": "therefore bankrupt the American empire.",
+      "offset": 868639,
+      "duration": 5281
+    },
+    {
+      "lang": "en",
+      "text": "All right. Second thing you will notice",
+      "offset": 872079,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "is these mountains.",
+      "offset": 873920,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "These mountains is what we call Iran.",
+      "offset": 876160,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "All right, this is Iran.",
+      "offset": 878720,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "This is GCC.",
+      "offset": 881199,
+      "duration": 4481
+    },
+    {
+      "lang": "en",
+      "text": "Okay, this is not a fair matchup, right?",
+      "offset": 883920,
+      "duration": 3120
+    },
+    {
+      "lang": "en",
+      "text": "Because these are mountains. And what",
+      "offset": 885680,
+      "duration": 3440
+    },
+    {
+      "lang": "en",
+      "text": "can you do in mountains? We can hide",
+      "offset": 887040,
+      "duration": 4479
+    },
+    {
+      "lang": "en",
+      "text": "rocket bases. You can hide drone bases.",
+      "offset": 889120,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "You can hide missiles. And that's the",
+      "offset": 891519,
+      "duration": 6241
+    },
+    {
+      "lang": "en",
+      "text": "entire Iranian offensive strategy. All",
+      "offset": 893760,
+      "duration": 7439
+    },
+    {
+      "lang": "en",
+      "text": "right. From here they can hide missiles",
+      "offset": 897760,
+      "duration": 7120
+    },
+    {
+      "lang": "en",
+      "text": "and drones from which to attack the GCC.",
+      "offset": 901199,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "And what are they attacking? They're",
+      "offset": 904880,
+      "duration": 3040
+    },
+    {
+      "lang": "en",
+      "text": "attacking",
+      "offset": 906399,
+      "duration": 3521
+    },
+    {
+      "lang": "en",
+      "text": "um",
+      "offset": 907920,
+      "duration": 3680
+    },
+    {
+      "lang": "en",
+      "text": "three things, right? They're attacking",
+      "offset": 909920,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "American military bases.",
+      "offset": 911600,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "American",
+      "offset": 914720,
+      "duration": 5400
+    },
+    {
+      "lang": "en",
+      "text": "military bases.",
+      "offset": 916639,
+      "duration": 3481
+    },
+    {
+      "lang": "en",
+      "text": "That's number one.",
+      "offset": 920560,
+      "duration": 3760
+    },
+    {
+      "lang": "en",
+      "text": "Okay. Is it possible for the Durkens to",
+      "offset": 922639,
+      "duration": 3200
+    },
+    {
+      "lang": "en",
+      "text": "defend against these hacks? The answer",
+      "offset": 924320,
+      "duration": 5199
+    },
+    {
+      "lang": "en",
+      "text": "is no. THEY'RE NOT. IT'S NOT. IT'S THE",
+      "offset": 925839,
+      "duration": 5201
+    },
+    {
+      "lang": "en",
+      "text": "SILLIEST THING IN the world. You have",
+      "offset": 929519,
+      "duration": 3041
+    },
+    {
+      "lang": "en",
+      "text": "all these bases in the Middle East, but",
+      "offset": 931040,
+      "duration": 3120
+    },
+    {
+      "lang": "en",
+      "text": "you cannot defend them against the",
+      "offset": 932560,
+      "duration": 4079
+    },
+    {
+      "lang": "en",
+      "text": "Iranians. That's kind of strange. Okay,",
+      "offset": 934160,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "that's number one. Number two is",
+      "offset": 936639,
+      "duration": 7000
+    },
+    {
+      "lang": "en",
+      "text": "oil and energy.",
+      "offset": 939920,
+      "duration": 3719
+    },
+    {
+      "lang": "en",
+      "text": "How hard is it to blow up an oil field",
+      "offset": 944000,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "with a drone? Not hard at all. Can you",
+      "offset": 946320,
+      "duration": 6560
+    },
+    {
+      "lang": "en",
+      "text": "defend these oil fields? No, you cannot.",
+      "offset": 948880,
+      "duration": 6800
+    },
+    {
+      "lang": "en",
+      "text": "All right. Number three, and that's most",
+      "offset": 952880,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "important, is water.",
+      "offset": 955680,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "Okay, you guys don't know this, but the",
+      "offset": 958000,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "GCC",
+      "offset": 961040,
+      "duration": 6960
+    },
+    {
+      "lang": "en",
+      "text": "has little access to fresh water. So the",
+      "offset": 963040,
+      "duration": 6640
+    },
+    {
+      "lang": "en",
+      "text": "only way that it can produce water is",
+      "offset": 968000,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "what is what we call dalination plants.",
+      "offset": 969680,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "Okay, these factories that take salt",
+      "offset": 972240,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "water and then through electrical",
+      "offset": 975040,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "chemical process turn it into fresh",
+      "offset": 976880,
+      "duration": 7120
+    },
+    {
+      "lang": "en",
+      "text": "water for the population to use. 60%",
+      "offset": 979360,
+      "duration": 7360
+    },
+    {
+      "lang": "en",
+      "text": "of the water supply and as you see comes",
+      "offset": 984000,
+      "duration": 7120
+    },
+    {
+      "lang": "en",
+      "text": "from the alination plants. Okay, 60%.",
+      "offset": 986720,
+      "duration": 6720
+    },
+    {
+      "lang": "en",
+      "text": "Is it hard to blow up the dalination",
+      "offset": 991120,
+      "duration": 4639
+    },
+    {
+      "lang": "en",
+      "text": "plant using a drone? The answer is it's",
+      "offset": 993440,
+      "duration": 4560
+    },
+    {
+      "lang": "en",
+      "text": "very easy. You understand? Okay, so you",
+      "offset": 995759,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "have this absurd situation where Iran is",
+      "offset": 998000,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "a mountain fortress where it can hide",
+      "offset": 1000959,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "its offensive capacity",
+      "offset": 1004000,
+      "duration": 6399
+    },
+    {
+      "lang": "en",
+      "text": "and the GCC it's just this desert, this",
+      "offset": 1006399,
+      "duration": 8000
+    },
+    {
+      "lang": "en",
+      "text": "flat desert and it is exposed to attack",
+      "offset": 1010399,
+      "duration": 5921
+    },
+    {
+      "lang": "en",
+      "text": "and there's nothing it can do about it.",
+      "offset": 1014399,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "Okay.",
+      "offset": 1016320,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "So, at any point in this war, the",
+      "offset": 1018480,
+      "duration": 5599
+    },
+    {
+      "lang": "en",
+      "text": "Iranians can choose to just destroy the",
+      "offset": 1021600,
+      "duration": 5599
+    },
+    {
+      "lang": "en",
+      "text": "entire GCC and there's nothing that",
+      "offset": 1024079,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "anyone can do about it.",
+      "offset": 1027199,
+      "duration": 7840
+    },
+    {
+      "lang": "en",
+      "text": "Okay? But Iran also has a weakness.",
+      "offset": 1030319,
+      "duration": 7600
+    },
+    {
+      "lang": "en",
+      "text": "Okay? And this is fundamental. So, Iran",
+      "offset": 1035039,
+      "duration": 5841
+    },
+    {
+      "lang": "en",
+      "text": "also has a water problem. Okay? So, for",
+      "offset": 1037919,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "the longest time, they suffer a drought",
+      "offset": 1040880,
+      "duration": 4079
+    },
+    {
+      "lang": "en",
+      "text": "issue.",
+      "offset": 1043199,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "Okay? this climate change.",
+      "offset": 1044959,
+      "duration": 7201
+    },
+    {
+      "lang": "en",
+      "text": "And so what the plan of the Israelis",
+      "offset": 1047679,
+      "duration": 8801
+    },
+    {
+      "lang": "en",
+      "text": "Americans is is destroy the water supply",
+      "offset": 1052160,
+      "duration": 8160
+    },
+    {
+      "lang": "en",
+      "text": "of the Iranians because the fortress it",
+      "offset": 1056480,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "it is a mountain fortress but it can",
+      "offset": 1060320,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "also be a mountain prison as well where",
+      "offset": 1062480,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "people are trapped inside with no access",
+      "offset": 1065679,
+      "duration": 3841
+    },
+    {
+      "lang": "en",
+      "text": "to water. Okay. So what we're going to",
+      "offset": 1067520,
+      "duration": 3600
+    },
+    {
+      "lang": "en",
+      "text": "see right now, we're we're already",
+      "offset": 1069520,
+      "duration": 3680
+    },
+    {
+      "lang": "en",
+      "text": "seeing attacks on civilian",
+      "offset": 1071120,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "infrastructure, hospitals. In the",
+      "offset": 1073200,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "future, you will see attacks on water",
+      "offset": 1076000,
+      "duration": 7039
+    },
+    {
+      "lang": "en",
+      "text": "supply, on dams, on reservoirs,",
+      "offset": 1078960,
+      "duration": 8880
+    },
+    {
+      "lang": "en",
+      "text": "on power plants. The point, the idea is",
+      "offset": 1083039,
+      "duration": 8081
+    },
+    {
+      "lang": "en",
+      "text": "to make Iran so inhabitable that the",
+      "offset": 1087840,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "people will will have to rebel against",
+      "offset": 1091120,
+      "duration": 3840
+    },
+    {
+      "lang": "en",
+      "text": "the people or there'll be a refugee",
+      "offset": 1092880,
+      "duration": 6400
+    },
+    {
+      "lang": "en",
+      "text": "crisis in Iran. Okay. So as you can see",
+      "offset": 1094960,
+      "duration": 8400
+    },
+    {
+      "lang": "en",
+      "text": "from this map, this war it is the end of",
+      "offset": 1099280,
+      "duration": 7519
+    },
+    {
+      "lang": "en",
+      "text": "the world. Okay, both sides have the",
+      "offset": 1103360,
+      "duration": 5439
+    },
+    {
+      "lang": "en",
+      "text": "potential to destroy each other. It's",
+      "offset": 1106799,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "really a question of how far do they",
+      "offset": 1108799,
+      "duration": 6481
+    },
+    {
+      "lang": "en",
+      "text": "want to go, right? We we can also say",
+      "offset": 1111840,
+      "duration": 6320
+    },
+    {
+      "lang": "en",
+      "text": "this is almost a game of chicken.",
+      "offset": 1115280,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "Okay,",
+      "offset": 1118160,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "we can blow we can blow each other up.",
+      "offset": 1120880,
+      "duration": 7039
+    },
+    {
+      "lang": "en",
+      "text": "How far do you want to go?",
+      "offset": 1124640,
+      "duration": 6720
+    },
+    {
+      "lang": "en",
+      "text": "And the problem is this. The problem is",
+      "offset": 1127919,
+      "duration": 7681
+    },
+    {
+      "lang": "en",
+      "text": "that the Iranians are Shia",
+      "offset": 1131360,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "which believes in martyrdom and you've",
+      "offset": 1135600,
+      "duration": 5439
+    },
+    {
+      "lang": "en",
+      "text": "killed the religious leader that K. So",
+      "offset": 1137840,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "they're willing to go very very far. The",
+      "offset": 1141039,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "GC the GC countries are Muslim but",
+      "offset": 1144320,
+      "duration": 5920
+    },
+    {
+      "lang": "en",
+      "text": "they're materialistic. They love money.",
+      "offset": 1147919,
+      "duration": 4241
+    },
+    {
+      "lang": "en",
+      "text": "And also most of the population are",
+      "offset": 1150240,
+      "duration": 4559
+    },
+    {
+      "lang": "en",
+      "text": "expatriots, foreigners. 90% of Dubai are",
+      "offset": 1152160,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "foreigners. Guess guess what's going to",
+      "offset": 1154799,
+      "duration": 3921
+    },
+    {
+      "lang": "en",
+      "text": "happen if they suffer? They're going to",
+      "offset": 1156400,
+      "duration": 7840
+    },
+    {
+      "lang": "en",
+      "text": "run away. Okay, so this is not a fair",
+      "offset": 1158720,
+      "duration": 7040
+    },
+    {
+      "lang": "en",
+      "text": "matchup.",
+      "offset": 1164240,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "The big question that people have is",
+      "offset": 1165760,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "first of all,",
+      "offset": 1169840,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "are the Americans going to use ground",
+      "offset": 1171840,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "troops?",
+      "offset": 1174160,
+      "duration": 3759
+    },
+    {
+      "lang": "en",
+      "text": "Because the only way that you can defeat",
+      "offset": 1176240,
+      "duration": 3600
+    },
+    {
+      "lang": "en",
+      "text": "Iran is by using ground troops. Okay,",
+      "offset": 1177919,
+      "duration": 3441
+    },
+    {
+      "lang": "en",
+      "text": "that's a big question we will look at",
+      "offset": 1179840,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "over the next few weeks. Will will",
+      "offset": 1181360,
+      "duration": 5199
+    },
+    {
+      "lang": "en",
+      "text": "America send his army half a million 2",
+      "offset": 1183840,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "million soldiers to topple the",
+      "offset": 1186559,
+      "duration": 3441
+    },
+    {
+      "lang": "en",
+      "text": "government? Okay, that's question number",
+      "offset": 1188799,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "one. Question number two, nuclear",
+      "offset": 1190000,
+      "duration": 5880
+    },
+    {
+      "lang": "en",
+      "text": "weapons.",
+      "offset": 1192880,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "If you're losing a war,",
+      "offset": 1197520,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "would you choose to use nuclear weapons?",
+      "offset": 1200240,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "Okay, that's another big question that",
+      "offset": 1202000,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "we have. Okay, another big question that",
+      "offset": 1205120,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "we have is who gets involved? Because",
+      "offset": 1207200,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "this situation is so dire that Europe,",
+      "offset": 1211360,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "okay, specifically Germany,",
+      "offset": 1214080,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "France and Britain",
+      "offset": 1217039,
+      "duration": 6801
+    },
+    {
+      "lang": "en",
+      "text": "are talking about entering this war. And",
+      "offset": 1220160,
+      "duration": 6800
+    },
+    {
+      "lang": "en",
+      "text": "guess what? If that happens, it is",
+      "offset": 1223840,
+      "duration": 6800
+    },
+    {
+      "lang": "en",
+      "text": "possible that Russia and China",
+      "offset": 1226960,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "will also enter this war on the side of",
+      "offset": 1230640,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "the Iranians. This is World War II,",
+      "offset": 1232640,
+      "duration": 3919
+    },
+    {
+      "lang": "en",
+      "text": "okay?",
+      "offset": 1234720,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "because of the importance of the",
+      "offset": 1236559,
+      "duration": 4321
+    },
+    {
+      "lang": "en",
+      "text": "political moves, because of the",
+      "offset": 1238960,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "importance of the Middle East, everyone",
+      "offset": 1240880,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "has to get involved at some point.",
+      "offset": 1242960,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "And we're going to use game theory to",
+      "offset": 1246640,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "really try to understand what what's",
+      "offset": 1248240,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "happening on the ground and where this",
+      "offset": 1250640,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "could lead us. Okay.",
+      "offset": 1252880,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "All right. You guys understand? All",
+      "offset": 1256640,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "right. All right. Let's continue. Okay.",
+      "offset": 1259120,
+      "duration": 7120
+    },
+    {
+      "lang": "en",
+      "text": "So again, there are American bases all",
+      "offset": 1262640,
+      "duration": 7519
+    },
+    {
+      "lang": "en",
+      "text": "over the Middle East",
+      "offset": 1266240,
+      "duration": 7200
+    },
+    {
+      "lang": "en",
+      "text": "and originally these bases were",
+      "offset": 1270159,
+      "duration": 6801
+    },
+    {
+      "lang": "en",
+      "text": "established to protect them from",
+      "offset": 1273440,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "basically their own people. Okay, these",
+      "offset": 1276960,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "are monarchies that were imposed on",
+      "offset": 1278960,
+      "duration": 6079
+    },
+    {
+      "lang": "en",
+      "text": "these nations by the Anglo-American",
+      "offset": 1281760,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "Empire, the British first and then the",
+      "offset": 1285039,
+      "duration": 4401
+    },
+    {
+      "lang": "en",
+      "text": "Americans came to support these",
+      "offset": 1286640,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "monarchies.",
+      "offset": 1289440,
+      "duration": 4719
+    },
+    {
+      "lang": "en",
+      "text": "And so they provide defense.",
+      "offset": 1291120,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "But then you're like, wait a minute",
+      "offset": 1294159,
+      "duration": 3601
+    },
+    {
+      "lang": "en",
+      "text": "here. I mean, didn't we just say that",
+      "offset": 1296000,
+      "duration": 3520
+    },
+    {
+      "lang": "en",
+      "text": "these American bases can actually defend",
+      "offset": 1297760,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "these people that they're exposed? And",
+      "offset": 1299520,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "the and the reason and the answer is",
+      "offset": 1302000,
+      "duration": 3679
+    },
+    {
+      "lang": "en",
+      "text": "yes, that's true. But remember that the",
+      "offset": 1303760,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "American military was built during the",
+      "offset": 1305679,
+      "duration": 7360
+    },
+    {
+      "lang": "en",
+      "text": "Cold War. Okay? And the Cold War was a",
+      "offset": 1308080,
+      "duration": 9280
+    },
+    {
+      "lang": "en",
+      "text": "war between the Soviet Union and um",
+      "offset": 1313039,
+      "duration": 7681
+    },
+    {
+      "lang": "en",
+      "text": "America. And so the cold war was defined",
+      "offset": 1317360,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "with something called MAD, mutually",
+      "offset": 1320720,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "assured destruction, because both had",
+      "offset": 1322400,
+      "duration": 3680
+    },
+    {
+      "lang": "en",
+      "text": "nuclear weapons. Okay? So they didn't",
+      "offset": 1324640,
+      "duration": 3360
+    },
+    {
+      "lang": "en",
+      "text": "really go to war against each other. And",
+      "offset": 1326080,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "so in other words, these bases aren't",
+      "offset": 1328000,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "really meant to defend",
+      "offset": 1330240,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "uh these nations from other enemies.",
+      "offset": 1333039,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "They're really meant to impose American",
+      "offset": 1335520,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "authority in the Middle East. Okay? And",
+      "offset": 1338559,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "it's the idea of this. It's the idea",
+      "offset": 1342000,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "that empire",
+      "offset": 1344559,
+      "duration": 6161
+    },
+    {
+      "lang": "en",
+      "text": "it is really a",
+      "offset": 1347760,
+      "duration": 5919
+    },
+    {
+      "lang": "en",
+      "text": "image. It is a hallucination. It's an",
+      "offset": 1350720,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "idea. Empire is the it's an aura of",
+      "offset": 1353679,
+      "duration": 6401
+    },
+    {
+      "lang": "en",
+      "text": "invisibility and inability. Okay? If you",
+      "offset": 1357600,
+      "duration": 5439
+    },
+    {
+      "lang": "en",
+      "text": "fear it, then you obey it.",
+      "offset": 1360080,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "But it's not really designed to fight a",
+      "offset": 1363039,
+      "duration": 4401
+    },
+    {
+      "lang": "en",
+      "text": "war. Okay? And and so that's why we have",
+      "offset": 1365039,
+      "duration": 4561
+    },
+    {
+      "lang": "en",
+      "text": "this absurd situation.",
+      "offset": 1367440,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "And because there are so many bases in",
+      "offset": 1369600,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "the GCC, that gives the Iranians the",
+      "offset": 1371520,
+      "duration": 4399
+    },
+    {
+      "lang": "en",
+      "text": "perfect pretext to attack them in order",
+      "offset": 1373840,
+      "duration": 4719
+    },
+    {
+      "lang": "en",
+      "text": "destroy the GCC economy, which will",
+      "offset": 1375919,
+      "duration": 5361
+    },
+    {
+      "lang": "en",
+      "text": "destroy the American empire. Right? All",
+      "offset": 1378559,
+      "duration": 4881
+    },
+    {
+      "lang": "en",
+      "text": "right. So this is how the war shipping",
+      "offset": 1381280,
+      "duration": 5279
+    },
+    {
+      "lang": "en",
+      "text": "out. Okay. So So the red is the Israelis",
+      "offset": 1383440,
+      "duration": 7440
+    },
+    {
+      "lang": "en",
+      "text": "and the Americans. The yellow are the",
+      "offset": 1386559,
+      "duration": 7041
+    },
+    {
+      "lang": "en",
+      "text": "Iranians. And as you can see, the",
+      "offset": 1390880,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "Iranians are attacking everywhere,",
+      "offset": 1393600,
+      "duration": 4319
+    },
+    {
+      "lang": "en",
+      "text": "primarily",
+      "offset": 1396240,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "Israel, okay? But also, as you can see,",
+      "offset": 1397919,
+      "duration": 6961
+    },
+    {
+      "lang": "en",
+      "text": "a lot of focus on Bahrain and Qatar. And",
+      "offset": 1400880,
+      "duration": 8640
+    },
+    {
+      "lang": "en",
+      "text": "again, the intention is to destabilize",
+      "offset": 1404880,
+      "duration": 7120
+    },
+    {
+      "lang": "en",
+      "text": "the economy and the government, okay?",
+      "offset": 1409520,
+      "duration": 4159
+    },
+    {
+      "lang": "en",
+      "text": "It's it's to try to get as much",
+      "offset": 1412000,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "instability as possible,",
+      "offset": 1413679,
+      "duration": 6041
+    },
+    {
+      "lang": "en",
+      "text": "right?",
+      "offset": 1416720,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "Okay. And as you can see, the Americans",
+      "offset": 1419919,
+      "duration": 8880
+    },
+    {
+      "lang": "en",
+      "text": "and the Israelis are focused on Tran.",
+      "offset": 1422720,
+      "duration": 9199
+    },
+    {
+      "lang": "en",
+      "text": "And so the Americans is use some",
+      "offset": 1428799,
+      "duration": 7641
+    },
+    {
+      "lang": "en",
+      "text": "something we call shock and all.",
+      "offset": 1431919,
+      "duration": 4521
+    },
+    {
+      "lang": "en",
+      "text": "And the very idea of shock and all is",
+      "offset": 1436960,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "you decapitate",
+      "offset": 1440640,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "the enemy. You cut off the head, the",
+      "offset": 1442400,
+      "duration": 7279
+    },
+    {
+      "lang": "en",
+      "text": "body will fall down. Okay. The problem",
+      "offset": 1445840,
+      "duration": 6800
+    },
+    {
+      "lang": "en",
+      "text": "though is again the Iranians see this as",
+      "offset": 1449679,
+      "duration": 5841
+    },
+    {
+      "lang": "en",
+      "text": "a religious war and so the Iranians have",
+      "offset": 1452640,
+      "duration": 7600
+    },
+    {
+      "lang": "en",
+      "text": "of have announced total war.",
+      "offset": 1455520,
+      "duration": 7920
+    },
+    {
+      "lang": "en",
+      "text": "Okay. And so what this means is that",
+      "offset": 1460240,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "right now command and control in in Iraq",
+      "offset": 1463440,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "is decentralized.",
+      "offset": 1466240,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "There's no one person telling everyone",
+      "offset": 1468960,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "what to do. Every region has its own",
+      "offset": 1470880,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "orders, has its own strategy. And so if",
+      "offset": 1473919,
+      "duration": 5601
+    },
+    {
+      "lang": "en",
+      "text": "you knock out Tran, everyone else keeps",
+      "offset": 1476640,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "on going. So you knock off the take off",
+      "offset": 1479520,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "the head, it doesn't change anything.",
+      "offset": 1482400,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "Okay? But unfortunately",
+      "offset": 1484960,
+      "duration": 6319
+    },
+    {
+      "lang": "en",
+      "text": "the um Israelis and Americans use this",
+      "offset": 1487520,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "as a military doctrine. Military",
+      "offset": 1491279,
+      "duration": 4561
+    },
+    {
+      "lang": "en",
+      "text": "doctrine just means how to how you",
+      "offset": 1493600,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "design your military for what purpose.",
+      "offset": 1495840,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "And so the even though the Americans",
+      "offset": 1499600,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "seem like an invincible army, they are",
+      "offset": 1502320,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "not equipped to fight a 21st century war",
+      "offset": 1504880,
+      "duration": 5279
+    },
+    {
+      "lang": "en",
+      "text": "against drones, against",
+      "offset": 1507279,
+      "duration": 4721
+    },
+    {
+      "lang": "en",
+      "text": "religious fanatics. Okay? They're just",
+      "offset": 1510159,
+      "duration": 3441
+    },
+    {
+      "lang": "en",
+      "text": "not",
+      "offset": 1512000,
+      "duration": 3840
+    },
+    {
+      "lang": "en",
+      "text": "all right. But unfortunately, because of",
+      "offset": 1513600,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "military doctrine, they're going to keep",
+      "offset": 1515840,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "on attacking Tran. Now the great irony",
+      "offset": 1518320,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "of all this is that the Iranians who",
+      "offset": 1520960,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "will be most supportive of you of regime",
+      "offset": 1524320,
+      "duration": 4560
+    },
+    {
+      "lang": "en",
+      "text": "change are actually in the cities",
+      "offset": 1526960,
+      "duration": 3599
+    },
+    {
+      "lang": "en",
+      "text": "because they are educated they're",
+      "offset": 1528880,
+      "duration": 3919
+    },
+    {
+      "lang": "en",
+      "text": "progressive the people who are most",
+      "offset": 1530559,
+      "duration": 3841
+    },
+    {
+      "lang": "en",
+      "text": "fundamentally against you will fight you",
+      "offset": 1532799,
+      "duration": 3760
+    },
+    {
+      "lang": "en",
+      "text": "to the death are religious fanatics the",
+      "offset": 1534400,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "Shia militants living in the rural areas",
+      "offset": 1536559,
+      "duration": 6561
+    },
+    {
+      "lang": "en",
+      "text": "okay so this is a really silly thing",
+      "offset": 1540080,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "where you are actually destroying those",
+      "offset": 1543120,
+      "duration": 6400
+    },
+    {
+      "lang": "en",
+      "text": "who who will most likely support you And",
+      "offset": 1545760,
+      "duration": 5919
+    },
+    {
+      "lang": "en",
+      "text": "you're leaving alone those who are most",
+      "offset": 1549520,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "likely to commit jihad against you. All",
+      "offset": 1551679,
+      "duration": 5921
+    },
+    {
+      "lang": "en",
+      "text": "right.",
+      "offset": 1555760,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "Any questions so far guys? Are you",
+      "offset": 1557600,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "clear? All right. So another idea that I",
+      "offset": 1559840,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "want you guys to understand is idea of",
+      "offset": 1562400,
+      "duration": 3279
+    },
+    {
+      "lang": "en",
+      "text": "asymmetry.",
+      "offset": 1563760,
+      "duration": 4919
+    },
+    {
+      "lang": "en",
+      "text": "Asymmetry.",
+      "offset": 1565679,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "All right. So what is asymmetry?",
+      "offset": 1568960,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "Asymmetry means that the two sides are",
+      "offset": 1570720,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "choosing to fight different wars using",
+      "offset": 1573760,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "different techniques because",
+      "offset": 1576880,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "one is much stronger than the other.",
+      "offset": 1579760,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "Okay, America has a great empire. It has",
+      "offset": 1581360,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "unlimited resources. It has a USD. It",
+      "offset": 1583760,
+      "duration": 6159
+    },
+    {
+      "lang": "en",
+      "text": "has it controls the world, right? Iran",
+      "offset": 1586480,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "uh is a country that has been under",
+      "offset": 1589919,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "economic sanctions for the past 45",
+      "offset": 1592159,
+      "duration": 5281
+    },
+    {
+      "lang": "en",
+      "text": "years. It's poor. It's technology is",
+      "offset": 1594000,
+      "duration": 6640
+    },
+    {
+      "lang": "en",
+      "text": "very limited. Okay. But as we learn in",
+      "offset": 1597440,
+      "duration": 6400
+    },
+    {
+      "lang": "en",
+      "text": "this class, actually those nations that",
+      "offset": 1600640,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "are poor actually have more energy.",
+      "offset": 1603840,
+      "duration": 4079
+    },
+    {
+      "lang": "en",
+      "text": "They're more open and they're more",
+      "offset": 1606320,
+      "duration": 3120
+    },
+    {
+      "lang": "en",
+      "text": "cohesive. Right? So let me give an",
+      "offset": 1607919,
+      "duration": 4561
+    },
+    {
+      "lang": "en",
+      "text": "example. This is what we call the Shahad",
+      "offset": 1609440,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "drones. Shahad drones. Each of these",
+      "offset": 1612480,
+      "duration": 6720
+    },
+    {
+      "lang": "en",
+      "text": "drones cost $50,000 at most. Okay? At",
+      "offset": 1615200,
+      "duration": 7359
+    },
+    {
+      "lang": "en",
+      "text": "most. It can go as cheap as $35,000 US.",
+      "offset": 1619200,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "But one of them is one of them is",
+      "offset": 1622559,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "$50,000. As you can see, you can fit a",
+      "offset": 1624240,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "lot of these drones to a truck that can",
+      "offset": 1626640,
+      "duration": 6639
+    },
+    {
+      "lang": "en",
+      "text": "go anywhere in Iran and they can hide",
+      "offset": 1629279,
+      "duration": 6801
+    },
+    {
+      "lang": "en",
+      "text": "anywhere. All right, so the thing to",
+      "offset": 1633279,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "understand is first of all, these drones",
+      "offset": 1636080,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "are cheap. They're easy and they're easy",
+      "offset": 1638320,
+      "duration": 6640
+    },
+    {
+      "lang": "en",
+      "text": "to make. They make about 500 a day.",
+      "offset": 1641200,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "Okay? And estimates are about there's",
+      "offset": 1644960,
+      "duration": 3680
+    },
+    {
+      "lang": "en",
+      "text": "80,000",
+      "offset": 1646480,
+      "duration": 4559
+    },
+    {
+      "lang": "en",
+      "text": "um right now that the Iranians have. So",
+      "offset": 1648640,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "they can go on for a long long time.",
+      "offset": 1651039,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "Okay? And one of these drones again can",
+      "offset": 1653360,
+      "duration": 3840
+    },
+    {
+      "lang": "en",
+      "text": "knock out a dissalination plant. It can",
+      "offset": 1655279,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "knock out a oil field. It can knock out",
+      "offset": 1657200,
+      "duration": 4479
+    },
+    {
+      "lang": "en",
+      "text": "a hotel. It can do a lot of damage.",
+      "offset": 1659360,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "Okay. And it's easily",
+      "offset": 1661679,
+      "duration": 6081
+    },
+    {
+      "lang": "en",
+      "text": "transportable. You can hide it anywhere.",
+      "offset": 1665600,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "You can you can use it from anywhere.",
+      "offset": 1667760,
+      "duration": 4960
+    },
+    {
+      "lang": "en",
+      "text": "Okay? And that's what the Iranians are",
+      "offset": 1669520,
+      "duration": 5840
+    },
+    {
+      "lang": "en",
+      "text": "using as an offensive weapon. And how do",
+      "offset": 1672720,
+      "duration": 5199
+    },
+    {
+      "lang": "en",
+      "text": "Americans defend against this? They use",
+      "offset": 1675360,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "something called a fad. Right.",
+      "offset": 1677919,
+      "duration": 8321
+    },
+    {
+      "lang": "en",
+      "text": "Right guys, this is what they use. FAD.",
+      "offset": 1681840,
+      "duration": 7680
+    },
+    {
+      "lang": "en",
+      "text": "FAD stands for thermal high altitude air",
+      "offset": 1686240,
+      "duration": 5439
+    },
+    {
+      "lang": "en",
+      "text": "defense. And they also have like Patriot",
+      "offset": 1689520,
+      "duration": 4399
+    },
+    {
+      "lang": "en",
+      "text": "systems. There's a lot. Okay. The thing",
+      "offset": 1691679,
+      "duration": 4401
+    },
+    {
+      "lang": "en",
+      "text": "that you will that you need to know know",
+      "offset": 1693919,
+      "duration": 4161
+    },
+    {
+      "lang": "en",
+      "text": "about the system is it's really",
+      "offset": 1696080,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "expensive. This missile guys cost $1",
+      "offset": 1698080,
+      "duration": 7160
+    },
+    {
+      "lang": "en",
+      "text": "million.",
+      "offset": 1702240,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "$1 million.",
+      "offset": 1707919,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "So, there's this $50,000 drone coming",
+      "offset": 1710399,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "your way and you throw a million dollar",
+      "offset": 1712559,
+      "duration": 3600
+    },
+    {
+      "lang": "en",
+      "text": "missile at it. Okay? And often these",
+      "offset": 1714559,
+      "duration": 3041
+    },
+    {
+      "lang": "en",
+      "text": "missiles miss, so you have to throw two",
+      "offset": 1716159,
+      "duration": 3841
+    },
+    {
+      "lang": "en",
+      "text": "or three missiles at it. Okay? So, you",
+      "offset": 1717600,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "you're spending two to $3 million on",
+      "offset": 1720000,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "each $50,000 that the spend.",
+      "offset": 1722640,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "That's kind of silly. Second thing",
+      "offset": 1726240,
+      "duration": 5919
+    },
+    {
+      "lang": "en",
+      "text": "you'll notice is that this thing is",
+      "offset": 1728240,
+      "duration": 8559
+    },
+    {
+      "lang": "en",
+      "text": "really big and really slow and therefore",
+      "offset": 1732159,
+      "duration": 7441
+    },
+    {
+      "lang": "en",
+      "text": "you can't really move it around.",
+      "offset": 1736799,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "Therefore, it's pretty easy for the",
+      "offset": 1739600,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "Iranians to spot where this is and",
+      "offset": 1741039,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "attack it. And when these planes blow",
+      "offset": 1743840,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "up, that's a lot of money, guys. Okay?",
+      "offset": 1746159,
+      "duration": 7201
+    },
+    {
+      "lang": "en",
+      "text": "Then you're like, \"What? But this makes",
+      "offset": 1750320,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "no sense. You know, the Iranians have",
+      "offset": 1753360,
+      "duration": 4960
+    },
+    {
+      "lang": "en",
+      "text": "drones. They've had drones for like 10",
+      "offset": 1756000,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "years. You've also seen drones used in",
+      "offset": 1758320,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "the Russia Ukraine war to devastating",
+      "offset": 1760880,
+      "duration": 6560
+    },
+    {
+      "lang": "en",
+      "text": "effect. Why don't the Americans know",
+      "offset": 1763520,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "this? Why did they prepare? Okay. And",
+      "offset": 1767440,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "again, it has to do with military",
+      "offset": 1770000,
+      "duration": 3279
+    },
+    {
+      "lang": "en",
+      "text": "military doctrine because military",
+      "offset": 1771440,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "doctrine determines how you fight a war.",
+      "offset": 1773279,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "It determines on your bureaucracy and it",
+      "offset": 1776080,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "and it determines how you spend your",
+      "offset": 1779279,
+      "duration": 4961
+    },
+    {
+      "lang": "en",
+      "text": "resources. Okay? And unfortunately, the",
+      "offset": 1780960,
+      "duration": 4719
+    },
+    {
+      "lang": "en",
+      "text": "Americans are used to fighting something",
+      "offset": 1784240,
+      "duration": 3840
+    },
+    {
+      "lang": "en",
+      "text": "called the cold war,",
+      "offset": 1785679,
+      "duration": 4961
+    },
+    {
+      "lang": "en",
+      "text": "right? And the cold war you can actually",
+      "offset": 1788080,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "fight the war. You can actually use uh",
+      "offset": 1790640,
+      "duration": 4639
+    },
+    {
+      "lang": "en",
+      "text": "kill each other because then you people",
+      "offset": 1793600,
+      "duration": 3840
+    },
+    {
+      "lang": "en",
+      "text": "use nuclear weapons. The cold war was",
+      "offset": 1795279,
+      "duration": 5721
+    },
+    {
+      "lang": "en",
+      "text": "about flexing.",
+      "offset": 1797440,
+      "duration": 3560
+    },
+    {
+      "lang": "en",
+      "text": "Flexing. Okay, you see how big and",
+      "offset": 1801760,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "powerful I am?",
+      "offset": 1805200,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "Okay, that's all it was.",
+      "offset": 1807440,
+      "duration": 5119
+    },
+    {
+      "lang": "en",
+      "text": "These weapon systems are designed to",
+      "offset": 1810320,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "scare the crap out of you. They are",
+      "offset": 1812559,
+      "duration": 5681
+    },
+    {
+      "lang": "en",
+      "text": "designed to impress you and as a result,",
+      "offset": 1815120,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "they cost a lot of money. They don't do",
+      "offset": 1818240,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "anything. All right, so that's the",
+      "offset": 1820799,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "entire American military. It costs a lot",
+      "offset": 1822960,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "and it doesn't really do anything and",
+      "offset": 1825919,
+      "duration": 5281
+    },
+    {
+      "lang": "en",
+      "text": "it's not resilient. It's not innovative.",
+      "offset": 1828320,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "It's not open. All right. Also, the",
+      "offset": 1831200,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "other thing I have to say this, okay, is",
+      "offset": 1834320,
+      "duration": 3520
+    },
+    {
+      "lang": "en",
+      "text": "if you look at the American military,",
+      "offset": 1836000,
+      "duration": 3919
+    },
+    {
+      "lang": "en",
+      "text": "it's corrupt.",
+      "offset": 1837840,
+      "duration": 6079
+    },
+    {
+      "lang": "en",
+      "text": "So, this is really about corruption.",
+      "offset": 1839919,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "So, the Americans don't really care",
+      "offset": 1843919,
+      "duration": 3921
+    },
+    {
+      "lang": "en",
+      "text": "about winning a war. What they care",
+      "offset": 1845679,
+      "duration": 3521
+    },
+    {
+      "lang": "en",
+      "text": "about is spending as much money as",
+      "offset": 1847840,
+      "duration": 4559
+    },
+    {
+      "lang": "en",
+      "text": "possible because then they get a cut. It",
+      "offset": 1849200,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "doesn't make sense, right? And that's",
+      "offset": 1852399,
+      "duration": 3841
+    },
+    {
+      "lang": "en",
+      "text": "why the Americans are in situation as",
+      "offset": 1854080,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "they are. All right, let's continue.",
+      "offset": 1856240,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "All right, so um something that people",
+      "offset": 1859520,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "don't really talk about, but you need to",
+      "offset": 1862480,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "understand it's the water issue in the",
+      "offset": 1864640,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "GCC in the Middle East in Iraq. All",
+      "offset": 1868080,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "right. So, um",
+      "offset": 1870240,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "this is a map of the world and if you",
+      "offset": 1873600,
+      "duration": 6640
+    },
+    {
+      "lang": "en",
+      "text": "are like blue, Brazil, Canada, you have",
+      "offset": 1876720,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "nothing to worry about because you have",
+      "offset": 1880240,
+      "duration": 3520
+    },
+    {
+      "lang": "en",
+      "text": "a lot of water, a lot of fresh water,",
+      "offset": 1881360,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "very little population.",
+      "offset": 1883760,
+      "duration": 7919
+    },
+    {
+      "lang": "en",
+      "text": "All right? So, um 100%",
+      "offset": 1885840,
+      "duration": 8880
+    },
+    {
+      "lang": "en",
+      "text": "just means 100% water stress just means",
+      "offset": 1891679,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "that you drink as much water as the",
+      "offset": 1894720,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "environment produces.",
+      "offset": 1898159,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "Okay. So, you want to be below 100%. To",
+      "offset": 1900399,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "be sustainable. Ideally, you you you",
+      "offset": 1903679,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "want to be at 10%. Okay.",
+      "offset": 1905679,
+      "duration": 5681
+    },
+    {
+      "lang": "en",
+      "text": "If it goes above 100%, it means that you",
+      "offset": 1908399,
+      "duration": 4721
+    },
+    {
+      "lang": "en",
+      "text": "are drinking more water, using more",
+      "offset": 1911360,
+      "duration": 3120
+    },
+    {
+      "lang": "en",
+      "text": "water than the environment actually",
+      "offset": 1913120,
+      "duration": 3520
+    },
+    {
+      "lang": "en",
+      "text": "produces. Okay? So, you're putting",
+      "offset": 1914480,
+      "duration": 5439
+    },
+    {
+      "lang": "en",
+      "text": "stress on the environment.",
+      "offset": 1916640,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "So 200%",
+      "offset": 1919919,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "is really bad, right? Because you're",
+      "offset": 1922320,
+      "duration": 4719
+    },
+    {
+      "lang": "en",
+      "text": "you're using twice as much water as",
+      "offset": 1924159,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "environment produces.",
+      "offset": 1927039,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "Guess what, guys? Look at the Middle",
+      "offset": 1929200,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "East. Okay, Egypt,",
+      "offset": 1931120,
+      "duration": 6439
+    },
+    {
+      "lang": "en",
+      "text": "6,420%.",
+      "offset": 1934559,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "Saudi Arabia,",
+      "offset": 1938320,
+      "duration": 5640
+    },
+    {
+      "lang": "en",
+      "text": "883%.",
+      "offset": 1940960,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "All right. Ban almost 4,000%.",
+      "offset": 1946159,
+      "duration": 8360
+    },
+    {
+      "lang": "en",
+      "text": "Dubai 17,000%.",
+      "offset": 1950240,
+      "duration": 4279
+    },
+    {
+      "lang": "en",
+      "text": "All right,",
+      "offset": 1955519,
+      "duration": 3081
+    },
+    {
+      "lang": "en",
+      "text": "these. So water is a huge issue. Again,",
+      "offset": 1958799,
+      "duration": 6801
+    },
+    {
+      "lang": "en",
+      "text": "it doesn't matter if Iran",
+      "offset": 1962799,
+      "duration": 4801
+    },
+    {
+      "lang": "en",
+      "text": "kills American soldiers, destroys",
+      "offset": 1965600,
+      "duration": 3280
+    },
+    {
+      "lang": "en",
+      "text": "American military. It doesn't have to do",
+      "offset": 1967600,
+      "duration": 3280
+    },
+    {
+      "lang": "en",
+      "text": "that. All it has to do is destroy the",
+      "offset": 1968880,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "dissalination plants and then the GCC is",
+      "offset": 1970880,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "destroyed. Okay.",
+      "offset": 1973600,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "But it's also true that Iran",
+      "offset": 1975919,
+      "duration": 8240
+    },
+    {
+      "lang": "en",
+      "text": "has water issues. 72% is pretty bad.",
+      "offset": 1979279,
+      "duration": 8721
+    },
+    {
+      "lang": "en",
+      "text": "Okay. So even though the Iranians could",
+      "offset": 1984159,
+      "duration": 7360
+    },
+    {
+      "lang": "en",
+      "text": "destroy the GCC much faster",
+      "offset": 1988000,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "than the Americans could destroy Iran,",
+      "offset": 1991519,
+      "duration": 5201
+    },
+    {
+      "lang": "en",
+      "text": "Iran is still in trouble. Okay. So so so",
+      "offset": 1994480,
+      "duration": 5840
+    },
+    {
+      "lang": "en",
+      "text": "let let me give you an example of this.",
+      "offset": 1996720,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "This is like so sorry. So this is",
+      "offset": 2000320,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "another map that shows you uh the issue",
+      "offset": 2002480,
+      "duration": 5199
+    },
+    {
+      "lang": "en",
+      "text": "of water scarcity. Okay. And it's just",
+      "offset": 2006000,
+      "duration": 3760
+    },
+    {
+      "lang": "en",
+      "text": "basically the Middle East. Okay. Their",
+      "offset": 2007679,
+      "duration": 5921
+    },
+    {
+      "lang": "en",
+      "text": "biggest issue in the future is water.",
+      "offset": 2009760,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "Okay. And that's where the geopolitical",
+      "offset": 2013600,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "tensions will rise in the future over",
+      "offset": 2015760,
+      "duration": 4639
+    },
+    {
+      "lang": "en",
+      "text": "water. India is also affected as well.",
+      "offset": 2017760,
+      "duration": 5759
+    },
+    {
+      "lang": "en",
+      "text": "Okay. All right.",
+      "offset": 2020399,
+      "duration": 5921
+    },
+    {
+      "lang": "en",
+      "text": "All right. So, let's look at the map,",
+      "offset": 2023519,
+      "duration": 5201
+    },
+    {
+      "lang": "en",
+      "text": "guys. This is called Lake Heria in",
+      "offset": 2026320,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "northern Iran. It's the sixth largest",
+      "offset": 2028720,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "saltwater lake in the world or it used",
+      "offset": 2031440,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "to be. Okay. This is what it was in",
+      "offset": 2034080,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "1984. Th This is a shallow. This is a",
+      "offset": 2036799,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "deep. Okay? You guys see that? It's",
+      "offset": 2040080,
+      "duration": 6479
+    },
+    {
+      "lang": "en",
+      "text": "really big, right? 20 years later, guys.",
+      "offset": 2042399,
+      "duration": 6960
+    },
+    {
+      "lang": "en",
+      "text": "This is what it looks like.",
+      "offset": 2046559,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "There's no more water here. You can walk",
+      "offset": 2049359,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "from here over to there. Okay, there's",
+      "offset": 2051839,
+      "duration": 3280
+    },
+    {
+      "lang": "en",
+      "text": "some water over here, but it's shallow",
+      "offset": 2053440,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "now. That's how serious the water issue",
+      "offset": 2055119,
+      "duration": 6560
+    },
+    {
+      "lang": "en",
+      "text": "is in Iran. And that's the weak point",
+      "offset": 2058399,
+      "duration": 5121
+    },
+    {
+      "lang": "en",
+      "text": "that the Americans and the Israelis will",
+      "offset": 2061679,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "attack. All right. They want to make",
+      "offset": 2063520,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "sure that Iran has no access to fresh",
+      "offset": 2066399,
+      "duration": 5841
+    },
+    {
+      "lang": "en",
+      "text": "water which will cause devastation in",
+      "offset": 2068800,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "their nation. Okay, that's strategy",
+      "offset": 2072240,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "number one. Strategy number two is this.",
+      "offset": 2074000,
+      "duration": 6879
+    },
+    {
+      "lang": "en",
+      "text": "This is a map of",
+      "offset": 2077919,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "the different ethnic minorities",
+      "offset": 2080879,
+      "duration": 7361
+    },
+    {
+      "lang": "en",
+      "text": "in Iran. As you can see, it's a very",
+      "offset": 2083919,
+      "duration": 7601
+    },
+    {
+      "lang": "en",
+      "text": "diverse place. In the center are the",
+      "offset": 2088240,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "Persians, but you also have",
+      "offset": 2091520,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "10 other groups as well. And in the",
+      "offset": 2094720,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "borderlands, it's basically a different",
+      "offset": 2097520,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "country, right? Like these are basically",
+      "offset": 2099520,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "different countries.",
+      "offset": 2101520,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "And so these places have more common",
+      "offset": 2104000,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "common areas with their neighbors than",
+      "offset": 2107520,
+      "duration": 5120
+    },
+    {
+      "lang": "en",
+      "text": "they do with Iran. Okay. So the second",
+      "offset": 2109359,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "weakness of Iran, the first is the",
+      "offset": 2112640,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "water. The second is the ethnic makeup",
+      "offset": 2114400,
+      "duration": 4959
+    },
+    {
+      "lang": "en",
+      "text": "of the country. So the strategy of the",
+      "offset": 2117040,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "Americans and the Israelis moving",
+      "offset": 2119359,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "forward is destroy Iran as a coherent",
+      "offset": 2120960,
+      "duration": 6720
+    },
+    {
+      "lang": "en",
+      "text": "nation state divided into ethnic",
+      "offset": 2125599,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "archives and have them fight over water.",
+      "offset": 2127680,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "That is the grand plan of the Israelis",
+      "offset": 2130640,
+      "duration": 5439
+    },
+    {
+      "lang": "en",
+      "text": "and the Americans. Okay.",
+      "offset": 2133280,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "All right. This is this is this is the",
+      "offset": 2136079,
+      "duration": 5601
+    },
+    {
+      "lang": "en",
+      "text": "vision where Persia is limited and then",
+      "offset": 2138320,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "all these other places are sponsored by",
+      "offset": 2141680,
+      "duration": 4960
+    },
+    {
+      "lang": "en",
+      "text": "the Americans and the Israelis. They're",
+      "offset": 2144560,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "given money. They're given weapons.",
+      "offset": 2146640,
+      "duration": 3520
+    },
+    {
+      "lang": "en",
+      "text": "They're given political support. And",
+      "offset": 2148480,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "then this war will wage over water",
+      "offset": 2150160,
+      "duration": 6959
+    },
+    {
+      "lang": "en",
+      "text": "forever. Okay? And this is how you",
+      "offset": 2154640,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "destroy Iran and make sure Iran is no",
+      "offset": 2157119,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "longer a viable threat to you. That is",
+      "offset": 2159280,
+      "duration": 6640
+    },
+    {
+      "lang": "en",
+      "text": "the plan of the Americans. Okay? As as",
+      "offset": 2161839,
+      "duration": 7041
+    },
+    {
+      "lang": "en",
+      "text": "you can see, it's pretty evil plan. And",
+      "offset": 2165920,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "that's why they have not announced it,",
+      "offset": 2168880,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "right? Because if you announce it,",
+      "offset": 2171280,
+      "duration": 3440
+    },
+    {
+      "lang": "en",
+      "text": "you're like, why are you doing this?",
+      "offset": 2173200,
+      "duration": 3600
+    },
+    {
+      "lang": "en",
+      "text": "What the Persians, what did the ever do",
+      "offset": 2174720,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "to you to warrant you coming destroying",
+      "offset": 2176800,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "their civilization? And the answer is",
+      "offset": 2178960,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "nothing. Right? So the Americans will",
+      "offset": 2180960,
+      "duration": 4639
+    },
+    {
+      "lang": "en",
+      "text": "never admit they're doing this. But if",
+      "offset": 2184000,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "you look at the map of war supply of",
+      "offset": 2185599,
+      "duration": 4881
+    },
+    {
+      "lang": "en",
+      "text": "ethnic",
+      "offset": 2188800,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "um tensions, this is the optimal game",
+      "offset": 2190480,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "game theory strategy for them to use",
+      "offset": 2192720,
+      "duration": 3280
+    },
+    {
+      "lang": "en",
+      "text": "against Iran. Okay, does that make",
+      "offset": 2194480,
+      "duration": 3680
+    },
+    {
+      "lang": "en",
+      "text": "sense? This is a long-term plan that",
+      "offset": 2196000,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "they have in place and it's all moving",
+      "offset": 2198160,
+      "duration": 5679
+    },
+    {
+      "lang": "en",
+      "text": "towards this plan. But now the question",
+      "offset": 2200480,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "then is how can the Iranians respond to",
+      "offset": 2203839,
+      "duration": 7601
+    },
+    {
+      "lang": "en",
+      "text": "this? And the answer is this. This is a",
+      "offset": 2206560,
+      "duration": 12640
+    },
+    {
+      "lang": "en",
+      "text": "map of the Muslim world. Okay. So the",
+      "offset": 2211440,
+      "duration": 11760
+    },
+    {
+      "lang": "en",
+      "text": "um light green are the Sunni people.",
+      "offset": 2219200,
+      "duration": 6800
+    },
+    {
+      "lang": "en",
+      "text": "Okay. That's 90% of the entire Muslim",
+      "offset": 2223200,
+      "duration": 4639
+    },
+    {
+      "lang": "en",
+      "text": "population about two two billion people.",
+      "offset": 2226000,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "Okay. Then you have in dark green the",
+      "offset": 2227839,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "Shia.",
+      "offset": 2231040,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "So as you can see the main place of the",
+      "offset": 2232880,
+      "duration": 7280
+    },
+    {
+      "lang": "en",
+      "text": "Shia is Iran. Okay, Iran is one of the",
+      "offset": 2237200,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "few Shia nations in the world. But you",
+      "offset": 2240160,
+      "duration": 5600
+    },
+    {
+      "lang": "en",
+      "text": "can also see from this map that Shia are",
+      "offset": 2242960,
+      "duration": 7520
+    },
+    {
+      "lang": "en",
+      "text": "spread throughout the world. Okay. And",
+      "offset": 2245760,
+      "duration": 7920
+    },
+    {
+      "lang": "en",
+      "text": "so the first thing that the Iranians",
+      "offset": 2250480,
+      "duration": 6240
+    },
+    {
+      "lang": "en",
+      "text": "want to do is create a jihad to unite",
+      "offset": 2253680,
+      "duration": 6320
+    },
+    {
+      "lang": "en",
+      "text": "all the Shia against American Empire.",
+      "offset": 2256720,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "All right. So what they want to do is",
+      "offset": 2260000,
+      "duration": 5000
+    },
+    {
+      "lang": "en",
+      "text": "create a uprising",
+      "offset": 2261520,
+      "duration": 3480
+    },
+    {
+      "lang": "en",
+      "text": "and it's already happening guys. Um the",
+      "offset": 2266560,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "Shia in Pakistan stormed the American",
+      "offset": 2270560,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "embassy in Pakistan and the Americans",
+      "offset": 2272560,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "killed a lot of people. Okay. the Shia",
+      "offset": 2275920,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "have have attacked the American embassy",
+      "offset": 2279440,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "in uh Iraq.",
+      "offset": 2282400,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "The American embassy",
+      "offset": 2284640,
+      "duration": 4479
+    },
+    {
+      "lang": "en",
+      "text": "uh are being attacked in a lot of",
+      "offset": 2287040,
+      "duration": 5440
+    },
+    {
+      "lang": "en",
+      "text": "places. Right? So the first strategy is",
+      "offset": 2289119,
+      "duration": 7681
+    },
+    {
+      "lang": "en",
+      "text": "to create a international global jihad",
+      "offset": 2292480,
+      "duration": 6960
+    },
+    {
+      "lang": "en",
+      "text": "of the Shia against the American empire",
+      "offset": 2296800,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "and it's already happening. it will",
+      "offset": 2299440,
+      "duration": 4560
+    },
+    {
+      "lang": "en",
+      "text": "continue for a long long term long time",
+      "offset": 2300960,
+      "duration": 6960
+    },
+    {
+      "lang": "en",
+      "text": "because the Americans have killed the um",
+      "offset": 2304000,
+      "duration": 8640
+    },
+    {
+      "lang": "en",
+      "text": "Kame okay and that requires vengeance.",
+      "offset": 2307920,
+      "duration": 7840
+    },
+    {
+      "lang": "en",
+      "text": "The other thing though is that",
+      "offset": 2312640,
+      "duration": 6400
+    },
+    {
+      "lang": "en",
+      "text": "it can unify",
+      "offset": 2315760,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "the Muslim world. Okay, if you look at",
+      "offset": 2319040,
+      "duration": 5520
+    },
+    {
+      "lang": "en",
+      "text": "this map, most of the Muslim world is",
+      "offset": 2321440,
+      "duration": 6639
+    },
+    {
+      "lang": "en",
+      "text": "actually run by dictatorships that are",
+      "offset": 2324560,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "not popular at all. Okay. And they're",
+      "offset": 2328079,
+      "duration": 4401
+    },
+    {
+      "lang": "en",
+      "text": "allowed to exist because they're like an",
+      "offset": 2330560,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "empire, right? You go to Saudi Arabia,",
+      "offset": 2332480,
+      "duration": 6800
+    },
+    {
+      "lang": "en",
+      "text": "Egypt, uh Algeria,",
+      "offset": 2336240,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "uh",
+      "offset": 2339280,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "these places, they're all run by clients",
+      "offset": 2340880,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "of American Empire, right? So if you",
+      "offset": 2344000,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "rally the people who hate their",
+      "offset": 2347040,
+      "duration": 5920
+    },
+    {
+      "lang": "en",
+      "text": "governments and you overthrow them, then",
+      "offset": 2349760,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "that makes Iran",
+      "offset": 2352960,
+      "duration": 6399
+    },
+    {
+      "lang": "en",
+      "text": "the leader of the the Islamic world. Not",
+      "offset": 2355920,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "just the Shia world, but the Islamic",
+      "offset": 2359359,
+      "duration": 4881
+    },
+    {
+      "lang": "en",
+      "text": "world. This creates something called tax",
+      "offset": 2361680,
+      "duration": 5560
+    },
+    {
+      "lang": "en",
+      "text": "Islam.",
+      "offset": 2364240,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "That is the end goal, guys. Okay? If you",
+      "offset": 2367280,
+      "duration": 6799
+    },
+    {
+      "lang": "en",
+      "text": "do that, then you don't have to worry",
+      "offset": 2371200,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "about the Americans and the Israelis",
+      "offset": 2374079,
+      "duration": 4721
+    },
+    {
+      "lang": "en",
+      "text": "anymore. Right? So the Israeli game",
+      "offset": 2376000,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "plan, the American game plan is to",
+      "offset": 2378800,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "fracture Iran into ethnic enclaves and",
+      "offset": 2380640,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "they'll fight over water for the rest of",
+      "offset": 2383839,
+      "duration": 4081
+    },
+    {
+      "lang": "en",
+      "text": "their lives and they all die. The",
+      "offset": 2385280,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "Iranian game plan is to create a",
+      "offset": 2387920,
+      "duration": 5439
+    },
+    {
+      "lang": "en",
+      "text": "religious war, a crusade that unifies",
+      "offset": 2390320,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "the Shia people that overthrows the",
+      "offset": 2393359,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "American Empire and establish something",
+      "offset": 2396320,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "called the Pax Islamaka.",
+      "offset": 2397839,
+      "duration": 4641
+    },
+    {
+      "lang": "en",
+      "text": "All right.",
+      "offset": 2400400,
+      "duration": 4320
+    },
+    {
+      "lang": "en",
+      "text": "All right.",
+      "offset": 2402480,
+      "duration": 5200
+    },
+    {
+      "lang": "en",
+      "text": "So again,",
+      "offset": 2404720,
+      "duration": 7639
+    },
+    {
+      "lang": "en",
+      "text": "the key is the GCC.",
+      "offset": 2407680,
+      "duration": 4679
+    },
+    {
+      "lang": "en",
+      "text": "All right. So the game plan is this. You",
+      "offset": 2412480,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "have to destroy the GCC. Why? Because",
+      "offset": 2415280,
+      "duration": 6640
+    },
+    {
+      "lang": "en",
+      "text": "the GCC is the lynch pin of the American",
+      "offset": 2417839,
+      "duration": 5760
+    },
+    {
+      "lang": "en",
+      "text": "Empire.",
+      "offset": 2421920,
+      "duration": 6880
+    },
+    {
+      "lang": "en",
+      "text": "So what the GC does is it sells oil.",
+      "offset": 2423599,
+      "duration": 9121
+    },
+    {
+      "lang": "en",
+      "text": "sells oil and then for US dollars.",
+      "offset": 2428800,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "Where does it put US dollars? It puts US",
+      "offset": 2432720,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "dollars into the American stock market.",
+      "offset": 2434800,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "All right. So this this is investments",
+      "offset": 2437520,
+      "duration": 4559
+    },
+    {
+      "lang": "en",
+      "text": "of the UAE, okay? Saudi Arabia and",
+      "offset": 2439200,
+      "duration": 5680
+    },
+    {
+      "lang": "en",
+      "text": "Kuwait into",
+      "offset": 2442079,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "the US financial markets. As you can see",
+      "offset": 2444880,
+      "duration": 6760
+    },
+    {
+      "lang": "en",
+      "text": "from 2012",
+      "offset": 2448079,
+      "duration": 3561
+    },
+    {
+      "lang": "en",
+      "text": "up to today, it's been exploding.",
+      "offset": 2451680,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "All right? Because the US financial",
+      "offset": 2456079,
+      "duration": 3040
+    },
+    {
+      "lang": "en",
+      "text": "markets is one of the safest places",
+      "offset": 2457680,
+      "duration": 3840
+    },
+    {
+      "lang": "en",
+      "text": "where you can put your money. The",
+      "offset": 2459119,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "intention is this. The intention is,",
+      "offset": 2461520,
+      "duration": 5360
+    },
+    {
+      "lang": "en",
+      "text": "hey, if I cut off oil",
+      "offset": 2463359,
+      "duration": 5601
+    },
+    {
+      "lang": "en",
+      "text": "and these countries no longer have",
+      "offset": 2466880,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "access to US dollars, they're forced to",
+      "offset": 2468960,
+      "duration": 4080
+    },
+    {
+      "lang": "en",
+      "text": "spend whatever resources they have on",
+      "offset": 2471520,
+      "duration": 3839
+    },
+    {
+      "lang": "en",
+      "text": "protecting themselves. Okay? And then",
+      "offset": 2473040,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "guess what happens? The stock market",
+      "offset": 2475359,
+      "duration": 4881
+    },
+    {
+      "lang": "en",
+      "text": "collapses. The summer collapses. The",
+      "offset": 2477440,
+      "duration": 4960
+    },
+    {
+      "lang": "en",
+      "text": "stock market is the real growth engine",
+      "offset": 2480240,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "of the US economy. the entire US economy",
+      "offset": 2482400,
+      "duration": 7280
+    },
+    {
+      "lang": "en",
+      "text": "collapses with it. All right, there are",
+      "offset": 2486240,
+      "duration": 7040
+    },
+    {
+      "lang": "en",
+      "text": "about maybe seven companies in uh",
+      "offset": 2489680,
+      "duration": 5040
+    },
+    {
+      "lang": "en",
+      "text": "America that accounts for about a",
+      "offset": 2493280,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "quarter of stock market growth. Okay,",
+      "offset": 2494720,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "these seven countries, these seven uh",
+      "offset": 2497280,
+      "duration": 4240
+    },
+    {
+      "lang": "en",
+      "text": "companies of course are are AI",
+      "offset": 2499440,
+      "duration": 4960
+    },
+    {
+      "lang": "en",
+      "text": "companies. Nvidia,",
+      "offset": 2501520,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "um",
+      "offset": 2504400,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "um Microsoft, Google, Apple. Okay, these",
+      "offset": 2506400,
+      "duration": 5840
+    },
+    {
+      "lang": "en",
+      "text": "are the companies when and then these",
+      "offset": 2510400,
+      "duration": 3439
+    },
+    {
+      "lang": "en",
+      "text": "companies are heavily invested in by the",
+      "offset": 2512240,
+      "duration": 4400
+    },
+    {
+      "lang": "en",
+      "text": "GCC nations. So if these nations are",
+      "offset": 2513839,
+      "duration": 5041
+    },
+    {
+      "lang": "en",
+      "text": "long long no longer able to invest in",
+      "offset": 2516640,
+      "duration": 5439
+    },
+    {
+      "lang": "en",
+      "text": "the stock market, these companies will",
+      "offset": 2518880,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "collapse in value and with that that",
+      "offset": 2522079,
+      "duration": 5681
+    },
+    {
+      "lang": "en",
+      "text": "would lead to economic depression in",
+      "offset": 2524960,
+      "duration": 4639
+    },
+    {
+      "lang": "en",
+      "text": "America.",
+      "offset": 2527760,
+      "duration": 4160
+    },
+    {
+      "lang": "en",
+      "text": "It doesn't make sense. All right, so",
+      "offset": 2529599,
+      "duration": 4480
+    },
+    {
+      "lang": "en",
+      "text": "that is the situation for today. Today",
+      "offset": 2531920,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "was just an overview, guys. Okay, I know",
+      "offset": 2534079,
+      "duration": 4561
+    },
+    {
+      "lang": "en",
+      "text": "we covered a lot. I know there's a lot",
+      "offset": 2536560,
+      "duration": 4559
+    },
+    {
+      "lang": "en",
+      "text": "to take in, but over the next few weeks,",
+      "offset": 2538640,
+      "duration": 6000
+    },
+    {
+      "lang": "en",
+      "text": "we will explore each issue",
+      "offset": 2541119,
+      "duration": 6161
+    },
+    {
+      "lang": "en",
+      "text": "um in depth and really understand what's",
+      "offset": 2544640,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "really going on. Okay? All right. So,",
+      "offset": 2547280,
+      "duration": 6280
+    },
+    {
+      "lang": "en",
+      "text": "any questions, guys?",
+      "offset": 2549920,
+      "duration": 3640
+    },
+    {
+      "lang": "en",
+      "text": "Any questions about what we've just",
+      "offset": 2554160,
+      "duration": 4679
+    },
+    {
+      "lang": "en",
+      "text": "learned?",
+      "offset": 2555839,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "Okay.",
+      "offset": 2560000,
+      "duration": 3000
+    },
+    {
+      "lang": "en",
+      "text": "Um if other countries such as Italy,",
+      "offset": 2563760,
+      "duration": 6800
+    },
+    {
+      "lang": "en",
+      "text": "France, China or Russia they have",
+      "offset": 2566560,
+      "duration": 7279
+    },
+    {
+      "lang": "en",
+      "text": "also joined this war like what's the",
+      "offset": 2570560,
+      "duration": 5840
+    },
+    {
+      "lang": "en",
+      "text": "cause of they join the war because of",
+      "offset": 2573839,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "oil or those resources.",
+      "offset": 2576400,
+      "duration": 6080
+    },
+    {
+      "lang": "en",
+      "text": "Okay,",
+      "offset": 2580319,
+      "duration": 4321
+    },
+    {
+      "lang": "en",
+      "text": "that's a great question. Okay, so I",
+      "offset": 2582480,
+      "duration": 3680
+    },
+    {
+      "lang": "en",
+      "text": "don't want to spend too much time on",
+      "offset": 2584640,
+      "duration": 3920
+    },
+    {
+      "lang": "en",
+      "text": "this question because we will explore",
+      "offset": 2586160,
+      "duration": 4800
+    },
+    {
+      "lang": "en",
+      "text": "this question as we move along. Okay. So",
+      "offset": 2588560,
+      "duration": 4960
+    },
+    {
+      "lang": "en",
+      "text": "the question is what brings the world",
+      "offset": 2590960,
+      "duration": 6960
+    },
+    {
+      "lang": "en",
+      "text": "into this conflict and the easy answer",
+      "offset": 2593520,
+      "duration": 5920
+    },
+    {
+      "lang": "en",
+      "text": "is",
+      "offset": 2597920,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "um just oil access energy access okay",
+      "offset": 2599440,
+      "duration": 3600
+    },
+    {
+      "lang": "en",
+      "text": "they need to protect their energy",
+      "offset": 2601920,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "supplies because remember uh it's a very",
+      "offset": 2603040,
+      "duration": 5039
+    },
+    {
+      "lang": "en",
+      "text": "complicated situation because Europe is",
+      "offset": 2606560,
+      "duration": 3759
+    },
+    {
+      "lang": "en",
+      "text": "now fighting Russia. So so Europe is not",
+      "offset": 2608079,
+      "duration": 4161
+    },
+    {
+      "lang": "en",
+      "text": "buying any oil resources energy",
+      "offset": 2610319,
+      "duration": 3280
+    },
+    {
+      "lang": "en",
+      "text": "resources from Russia. Therefore it",
+      "offset": 2612240,
+      "duration": 3680
+    },
+    {
+      "lang": "en",
+      "text": "depends a lot on the on the GCC. So the",
+      "offset": 2613599,
+      "duration": 4961
+    },
+    {
+      "lang": "en",
+      "text": "GC is not providing them energy then the",
+      "offset": 2615920,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "Europe will go bankrupt. Okay. So Europe",
+      "offset": 2618560,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "needs to enter this war on behalf of",
+      "offset": 2620560,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "Americans.",
+      "offset": 2622560,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "Okay. And then you Russia which cannot",
+      "offset": 2624560,
+      "duration": 6160
+    },
+    {
+      "lang": "en",
+      "text": "allow Iran to fall because if Iran falls",
+      "offset": 2627200,
+      "duration": 6399
+    },
+    {
+      "lang": "en",
+      "text": "then they'll come after Russia next.",
+      "offset": 2630720,
+      "duration": 5599
+    },
+    {
+      "lang": "en",
+      "text": "Right? China is actually neutral.",
+      "offset": 2633599,
+      "duration": 5601
+    },
+    {
+      "lang": "en",
+      "text": "China's okay with either scenario. But",
+      "offset": 2636319,
+      "duration": 4000
+    },
+    {
+      "lang": "en",
+      "text": "that's just the way that the Chinese",
+      "offset": 2639200,
+      "duration": 2480
+    },
+    {
+      "lang": "en",
+      "text": "system is set up. Okay. So we're going",
+      "offset": 2640319,
+      "duration": 3040
+    },
+    {
+      "lang": "en",
+      "text": "to explore this question as we move",
+      "offset": 2641680,
+      "duration": 3520
+    },
+    {
+      "lang": "en",
+      "text": "along. But it's a very complicated",
+      "offset": 2643359,
+      "duration": 5601
+    },
+    {
+      "lang": "en",
+      "text": "issue. All right. Okay. And each nation",
+      "offset": 2645200,
+      "duration": 6480
+    },
+    {
+      "lang": "en",
+      "text": "will have its own different strategic",
+      "offset": 2648960,
+      "duration": 5280
+    },
+    {
+      "lang": "en",
+      "text": "interests to consider.",
+      "offset": 2651680,
+      "duration": 4720
+    },
+    {
+      "lang": "en",
+      "text": "Right. And what we need to know what",
+      "offset": 2654240,
+      "duration": 4640
+    },
+    {
+      "lang": "en",
+      "text": "what we need to figure out is that this",
+      "offset": 2656400,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "war in the Middle East is actually",
+      "offset": 2658880,
+      "duration": 4880
+    },
+    {
+      "lang": "en",
+      "text": "connected to to the Ukraine war. And as",
+      "offset": 2661280,
+      "duration": 3600
+    },
+    {
+      "lang": "en",
+      "text": "we move along, I'll show you how these",
+      "offset": 2663760,
+      "duration": 5359
+    },
+    {
+      "lang": "en",
+      "text": "two two things connect together. Okay.",
+      "offset": 2664880,
+      "duration": 7600
+    },
+    {
+      "lang": "en",
+      "text": "Any other questions, guys?",
+      "offset": 2669119,
+      "duration": 6161
+    },
+    {
+      "lang": "en",
+      "text": "Okay, great. So um we'll continue this",
+      "offset": 2672480,
+      "duration": 7280
+    },
+    {
+      "lang": "en",
+      "text": "discussion on Thursday.",
+      "offset": 2675280,
+      "duration": 4480
+    }
+  ],
+  "_http_status": 200
+}

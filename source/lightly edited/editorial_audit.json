@@ -1,0 +1,2891 @@
+{
+  "source_archive": "/home/ubuntu/predictive_history_transcripts/readable_cleanup_archive",
+  "edition": "conservative deterministic editorial polish",
+  "transcript_count": 191,
+  "rules": [
+    {
+      "name": "remove_filler_um_uh_er",
+      "pattern": "(?i)(?<![\\w-])(?:um+|uh+|er+)(?![\\w-])(?:\\s*[,;:]\\s*|\\s+)",
+      "replacement": ""
+    },
+    {
+      "name": "repair_split_negotiate",
+      "pattern": "(?i)\\bnegot\\s+negotiate\\b",
+      "replacement": "negotiate"
+    },
+    {
+      "name": "repair_split_previous",
+      "pattern": "(?i)\\bpre\\s+previous\\b",
+      "replacement": "previous"
+    },
+    {
+      "name": "repair_split_intellectual",
+      "pattern": "(?i)\\bintellectu\\s+intellectual\\b",
+      "replacement": "intellectual"
+    },
+    {
+      "name": "repair_partial_to_the",
+      "pattern": "(?i)\\bto\\s+thei\\s+to\\s+the\\b",
+      "replacement": "to the"
+    },
+    {
+      "name": "repair_partial_first_time",
+      "pattern": "(?i)\\btouch\\s+first\\s+time\\b",
+      "replacement": "first time"
+    },
+    {
+      "name": "standardize_us_canada",
+      "pattern": "\\bU\\.?S\\.?\\s+Canada\\b",
+      "replacement": "U.S.-Canada"
+    },
+    {
+      "name": "repair_dangling_basically_prohibit",
+      "pattern": "(?i)\\bBasically\\s*,?\\s+prohibit\\b",
+      "replacement": "Basically, this would prohibit"
+    },
+    {
+      "name": "repair_dangling_basically_prevent",
+      "pattern": "(?i)\\bBasically\\s*,?\\s+prevent\\b",
+      "replacement": "Basically, this would prevent"
+    },
+    {
+      "name": "repair_worked_in_capacities",
+      "pattern": "(?i)\\bworked\\s+various\\s+capacities\\b",
+      "replacement": "worked in various capacities"
+    },
+    {
+      "name": "repair_ever_since_working",
+      "pattern": "(?i)\\bI\\'ve\\s+been\\s+ever\\s+since\\s+working\\b",
+      "replacement": "I've worked ever since"
+    }
+  ],
+  "aggregate_rule_application_counts": {
+    "capitalize_exposed_sentence_start": 9703,
+    "remove_exposed_immediate_repeats": 681,
+    "remove_filler_um_uh_er": 39033,
+    "remove_leading_discourse_only": 7954,
+    "repair_dangling_basically_prevent": 3,
+    "repair_dangling_basically_prohibit": 1,
+    "repair_ever_since_working": 1,
+    "repair_partial_first_time": 1,
+    "repair_partial_to_the": 1,
+    "repair_split_negotiate": 1,
+    "repair_split_previous": 1,
+    "repair_worked_in_capacities": 1,
+    "standardize_us_canada": 2
+  },
+  "transcripts": [
+    {
+      "video_id": "hcuT_mpeTxo",
+      "title": "Global Meet-Up #5 (Toronto):  Canada's Corporate Re-Structuring",
+      "video_url": "https://www.youtube.com/watch?v=hcuT_mpeTxo",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/001 — Global Meet-Up #5 (Toronto) Canada's Corporate Re-Structuring [hcuT_mpeTxo].md",
+      "source_file_sha256": "72168e753cd12e454706ad62594cf847f70c55dccf71b247526c548c6131cc88",
+      "editorial_file_sha256": "c85a3266f3c57e95233a9151ca20619dc6c8612b4609317c0891e4b2eba51701",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 200,
+        "remove_exposed_immediate_repeats": 11,
+        "remove_filler_um_uh_er": 652,
+        "remove_leading_discourse_only": 95,
+        "repair_dangling_basically_prohibit": 1,
+        "repair_partial_to_the": 1,
+        "repair_split_negotiate": 1,
+        "standardize_us_canada": 2
+      }
+    },
+    {
+      "video_id": "5gyyAzfmWk4",
+      "title": "Global Meet-Up #4 (Austin, Texas):  American Prophecy",
+      "video_url": "https://www.youtube.com/watch?v=5gyyAzfmWk4",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/002 — Global Meet-Up #4 (Austin, Texas) American Prophecy [5gyyAzfmWk4].md",
+      "source_file_sha256": "81a447887060c96d37fb6764e3f2b1c29154f51fd083b552d1111aea358e1af5",
+      "editorial_file_sha256": "3a7d4c939224f63d9ab98daea7022431a16549ef41aa53cd7f131b38c04dfa5a",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 180,
+        "remove_exposed_immediate_repeats": 13,
+        "remove_filler_um_uh_er": 727,
+        "remove_leading_discourse_only": 83
+      }
+    },
+    {
+      "video_id": "N2GFDDZtGQY",
+      "title": "Global Meet-Up #2 (Los Angeles):  The \"End of the World\" US Tour",
+      "video_url": "https://www.youtube.com/watch?v=N2GFDDZtGQY",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/003 — Global Meet-Up #2 (Los Angeles) The End of the World US Tour [N2GFDDZtGQY].md",
+      "source_file_sha256": "cf474f0ad93bf90c9e7be85ab33e55d6ff90004b518eb3dcb9ad41518e42a0f2",
+      "editorial_file_sha256": "8a9c167a915cd22b03e08d87453e94972773ddd2eaa16f598241a914bd0ea54e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 120,
+        "remove_exposed_immediate_repeats": 8,
+        "remove_filler_um_uh_er": 373,
+        "remove_leading_discourse_only": 41,
+        "repair_dangling_basically_prevent": 1
+      }
+    },
+    {
+      "video_id": "5rDMq-5_xkM",
+      "title": "Global Meet-Up #3 (New York City):  The Eschatology of Capitalism",
+      "video_url": "https://www.youtube.com/watch?v=5rDMq-5_xkM",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/004 — Global Meet-Up #3 (New York City) The Eschatology of Capitalism [5rDMq-5_xkM].md",
+      "source_file_sha256": "a919c44cbd4f408c035b200642d89f516f95fe4284690bb5f4ac85eda020a62c",
+      "editorial_file_sha256": "45cdb9d1e8fc5f844a48d55724165c471c11f904a051d543a7390f3b064dc2c6",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 200,
+        "remove_exposed_immediate_repeats": 18,
+        "remove_filler_um_uh_er": 626,
+        "remove_leading_discourse_only": 99
+      }
+    },
+    {
+      "video_id": "Z1G6WI1Q0M8",
+      "title": "Emergency Discussion #2:  The Blackmailing of Spain",
+      "video_url": "https://www.youtube.com/watch?v=Z1G6WI1Q0M8",
+      "series_folder": "Emergency Discussion",
+      "relative_path": "Emergency Discussion/005 — Emergency Discussion #2 The Blackmailing of Spain [Z1G6WI1Q0M8].md",
+      "source_file_sha256": "2aa6ed6485b03fa48187f85b4e4be02fdf5c093f2ba591321c9f4d7b3bd9d2f5",
+      "editorial_file_sha256": "4330049c23ed7d772b42c624585867e3453db26f5aacf16703bbacdf90063bcc",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 200,
+        "remove_exposed_immediate_repeats": 26,
+        "remove_filler_um_uh_er": 887,
+        "remove_leading_discourse_only": 100
+      }
+    },
+    {
+      "video_id": "A9Sr-4c-3Tg",
+      "title": "Emergency Discussion #1:  Spain Wins World Cup, US Plans Ground Invasion of Iran",
+      "video_url": "https://www.youtube.com/watch?v=A9Sr-4c-3Tg",
+      "series_folder": "Emergency Discussion",
+      "relative_path": "Emergency Discussion/006 — Emergency Discussion #1 Spain Wins World Cup, US Plans Ground Invasion of Iran [A9Sr-4c-3Tg].md",
+      "source_file_sha256": "bb1eed1754b564346b152b69add956ffff0b902024bf8318a68b41b3dbb61526",
+      "editorial_file_sha256": "3b9c2c1e4a8d10554a5e57700cb3fab63e3b1fcad14ecbe57e966e177f6d9993",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 227,
+        "remove_exposed_immediate_repeats": 21,
+        "remove_filler_um_uh_er": 1023,
+        "remove_leading_discourse_only": 33
+      }
+    },
+    {
+      "video_id": "E7QKiRnw0M8",
+      "title": "Live with Predictive History #2:  US-Iran War, World Cup",
+      "video_url": "https://www.youtube.com/watch?v=E7QKiRnw0M8",
+      "series_folder": "Live with Predictive History",
+      "relative_path": "Live with Predictive History/007 — Live with Predictive History #2 US-Iran War, World Cup [E7QKiRnw0M8].md",
+      "source_file_sha256": "f52abaf235416a1f9244b96c39e1d3439c66f304399a97d28cc1019d93241a1d",
+      "editorial_file_sha256": "11f1b6b95b697d01b3502df1bb461955dc840f52f98cb2a7a388c2692a90c93f",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 108,
+        "remove_exposed_immediate_repeats": 8,
+        "remove_filler_um_uh_er": 491,
+        "remove_leading_discourse_only": 27
+      }
+    },
+    {
+      "video_id": "zbjLl85FLUc",
+      "title": "Global Meet-Up #1 (Tokyo):  Japan's Geo-Political Outlook",
+      "video_url": "https://www.youtube.com/watch?v=zbjLl85FLUc",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/008 — Global Meet-Up #1 (Tokyo) Japan's Geo-Political Outlook [zbjLl85FLUc].md",
+      "source_file_sha256": "f1cb8291a3487c55d0d0de9c75b840e2de57ba753a2cbcaead453318a9d4168c",
+      "editorial_file_sha256": "307b57644262c6d7aa2605062eb15fece598fc01f279f553f0d369134923c9f9",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 33,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 136,
+        "remove_leading_discourse_only": 12
+      }
+    },
+    {
+      "video_id": "qRCSZoGC2Dg",
+      "title": "Substack Founding Members Livestream #2",
+      "video_url": "https://www.youtube.com/watch?v=qRCSZoGC2Dg",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/009 — Substack Founding Members Livestream #2 [qRCSZoGC2Dg].md",
+      "source_file_sha256": "bdf3e594ce9ae5d75bd7f0da200eaebb6874430be1f731941b11464df7c31168",
+      "editorial_file_sha256": "8c5f37831f3f5c5b2552ef38ca0f2144d408a324c0d584343dadb34d60ef2b88",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 222,
+        "remove_exposed_immediate_repeats": 26,
+        "remove_filler_um_uh_er": 1090,
+        "remove_leading_discourse_only": 31
+      }
+    },
+    {
+      "video_id": "Sa5kffYLvBE",
+      "title": "Dante #12 (Final): Purgatory Cantos 26-33",
+      "video_url": "https://www.youtube.com/watch?v=Sa5kffYLvBE",
+      "series_folder": "Dante",
+      "relative_path": "Dante/010 — Dante #12 (Final) Purgatory Cantos 26-33 [Sa5kffYLvBE].md",
+      "source_file_sha256": "8af453b205ffe4218efc78446c530c869ff13e9706f8c8ed83f824ec7d03fc82",
+      "editorial_file_sha256": "46269489e3f574b970a45a8c63db80a7923167d279ddf46846cfc38c48963f4f",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 273,
+        "remove_exposed_immediate_repeats": 38,
+        "remove_filler_um_uh_er": 1251,
+        "remove_leading_discourse_only": 109
+      }
+    },
+    {
+      "video_id": "oR3EOW52WCc",
+      "title": "Dante #11: Purgatory Cantos 15-25",
+      "video_url": "https://www.youtube.com/watch?v=oR3EOW52WCc",
+      "series_folder": "Dante",
+      "relative_path": "Dante/011 — Dante #11 Purgatory Cantos 15-25 [oR3EOW52WCc].md",
+      "source_file_sha256": "fe52a4c1012cc082cb8675c8bc354d50d1f5fdb9ad669fd2e716bbcff57928df",
+      "editorial_file_sha256": "5af6442e8b4e438a1def123af3e2a1bdb648d8efc2dac4c17b04b7d64fe33679",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 177,
+        "remove_exposed_immediate_repeats": 12,
+        "remove_filler_um_uh_er": 520,
+        "remove_leading_discourse_only": 153
+      }
+    },
+    {
+      "video_id": "MDOK9qaaA7Q",
+      "title": "Dante #10: Purgatory Cantos 5-14",
+      "video_url": "https://www.youtube.com/watch?v=MDOK9qaaA7Q",
+      "series_folder": "Dante",
+      "relative_path": "Dante/012 — Dante #10 Purgatory Cantos 5-14 [MDOK9qaaA7Q].md",
+      "source_file_sha256": "a9a2c37bb9b6dfd21d2fbed5f34f58104f68c6d5a87597d273fed40c78ca6d55",
+      "editorial_file_sha256": "c0f528678ea17ecbc92467e643dba2f27854e6702827529d250a273508ede17f",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 284,
+        "remove_exposed_immediate_repeats": 12,
+        "remove_filler_um_uh_er": 830,
+        "remove_leading_discourse_only": 107
+      }
+    },
+    {
+      "video_id": "SSmJKnUOsAc",
+      "title": "Dante #9: Hell Cantos 32-34, Purgatory Cantos 1-4",
+      "video_url": "https://www.youtube.com/watch?v=SSmJKnUOsAc",
+      "series_folder": "Dante",
+      "relative_path": "Dante/013 — Dante #9 Hell Cantos 32-34, Purgatory Cantos 1-4 [SSmJKnUOsAc].md",
+      "source_file_sha256": "228dcee2e72f45fc25afb514c7495f6fa89ce912f7b9b381800d41d6eb9ab9ce",
+      "editorial_file_sha256": "a91078d9cc88f7d01e19b13ceb71edb88e23d5ed8b1687e350927a507c088770",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 214,
+        "remove_exposed_immediate_repeats": 11,
+        "remove_filler_um_uh_er": 588,
+        "remove_leading_discourse_only": 111
+      }
+    },
+    {
+      "video_id": "oFK53cYz_h0",
+      "title": "Dante #8: Hell Cantos 20-32",
+      "video_url": "https://www.youtube.com/watch?v=oFK53cYz_h0",
+      "series_folder": "Dante",
+      "relative_path": "Dante/014 — Dante #8 Hell Cantos 20-32 [oFK53cYz_h0].md",
+      "source_file_sha256": "1bd1ef77ed5e13dd9a5e35f71c32d6c5c779e6dc9fd27a411ebdc445140ef98a",
+      "editorial_file_sha256": "252d4b5709bd73d962da0f7456ecd910f3bdd4b5a3404995a840607a73612fb5",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 188,
+        "remove_exposed_immediate_repeats": 20,
+        "remove_filler_um_uh_er": 531,
+        "remove_leading_discourse_only": 128
+      }
+    },
+    {
+      "video_id": "P82v6UAc9ss",
+      "title": "Dante #7: Hell Cantos 10-19",
+      "video_url": "https://www.youtube.com/watch?v=P82v6UAc9ss",
+      "series_folder": "Dante",
+      "relative_path": "Dante/015 — Dante #7 Hell Cantos 10-19 [P82v6UAc9ss].md",
+      "source_file_sha256": "854aae0efdb4afb6f34072ea3e90d9ad6df70e94ea35b80c3aa95d1a2d5757a6",
+      "editorial_file_sha256": "4b415965daf40179e14a318f2ef168951acbee85554bf35a6b914495bc36cb92",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 188,
+        "remove_exposed_immediate_repeats": 14,
+        "remove_filler_um_uh_er": 550,
+        "remove_leading_discourse_only": 134
+      }
+    },
+    {
+      "video_id": "e_9fndobOnI",
+      "title": "Dante #6: Hell Cantos 3-9",
+      "video_url": "https://www.youtube.com/watch?v=e_9fndobOnI",
+      "series_folder": "Dante",
+      "relative_path": "Dante/016 — Dante #6 Hell Cantos 3-9 [e_9fndobOnI].md",
+      "source_file_sha256": "21145785171b4d1d5071c57489afc72adc42a0a36fd61e9d92d2944cc280f7cf",
+      "editorial_file_sha256": "89c3b4260c683edcd02c68c993fb2bf9f2ff6afee903ac2626f2c9677956b696",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 184,
+        "remove_exposed_immediate_repeats": 5,
+        "remove_filler_um_uh_er": 579,
+        "remove_leading_discourse_only": 140
+      }
+    },
+    {
+      "video_id": "xPxEi5Zm0G4",
+      "title": "Dante #5: Paradise Cantos 30-33, Hell Cantos 1-2",
+      "video_url": "https://www.youtube.com/watch?v=xPxEi5Zm0G4",
+      "series_folder": "Dante",
+      "relative_path": "Dante/017 — Dante #5 Paradise Cantos 30-33, Hell Cantos 1-2 [xPxEi5Zm0G4].md",
+      "source_file_sha256": "e76576e0942b2f493c79df7cdbabb4f1d8a4b22d308365b9bf5c4afa0e4c331b",
+      "editorial_file_sha256": "189b29263f42548dfb0f4882140474954c6b6dca052d543aa71d6b1535c2fd79",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 169,
+        "remove_exposed_immediate_repeats": 9,
+        "remove_filler_um_uh_er": 479,
+        "remove_leading_discourse_only": 122
+      }
+    },
+    {
+      "video_id": "brRNCLD7to0",
+      "title": "Dante #4: Paradise Cantos 24-29",
+      "video_url": "https://www.youtube.com/watch?v=brRNCLD7to0",
+      "series_folder": "Dante",
+      "relative_path": "Dante/018 — Dante #4 Paradise Cantos 24-29 [brRNCLD7to0].md",
+      "source_file_sha256": "3588fbbd5f302e6114827d7ce291215c0a80da624c65c8d74b77b6e3d45ef314",
+      "editorial_file_sha256": "44cca3d881e29d468b11fbb6df11bc74188358de78c405de7766e5fac01d07d1",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 150,
+        "remove_exposed_immediate_repeats": 5,
+        "remove_filler_um_uh_er": 528,
+        "remove_leading_discourse_only": 100
+      }
+    },
+    {
+      "video_id": "6tzAyCZ4Omk",
+      "title": "Dante #3: Paradise Cantos 11, 12, 17, 24",
+      "video_url": "https://www.youtube.com/watch?v=6tzAyCZ4Omk",
+      "series_folder": "Dante",
+      "relative_path": "Dante/019 — Dante #3 Paradise Cantos 11, 12, 17, 24 [6tzAyCZ4Omk].md",
+      "source_file_sha256": "4a4cbc0accb159a757ad7c2031fafcae1d27350947585a59d7d84db65b6fbc05",
+      "editorial_file_sha256": "c254454b25a9c8dc1b7eddce37af7db6819bdd056c19d6a4149778a0e899b4d7",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 195,
+        "remove_exposed_immediate_repeats": 15,
+        "remove_filler_um_uh_er": 590,
+        "remove_leading_discourse_only": 164
+      }
+    },
+    {
+      "video_id": "eF5B3CWpKxg",
+      "title": "Dante #2: Paradise Cantos 5-7",
+      "video_url": "https://www.youtube.com/watch?v=eF5B3CWpKxg",
+      "series_folder": "Dante",
+      "relative_path": "Dante/020 — Dante #2 Paradise Cantos 5-7 [eF5B3CWpKxg].md",
+      "source_file_sha256": "0d1ba2ad3fa9d3cb917e2bb94b2259578093a5bec54916c353c3f0e98e02e716",
+      "editorial_file_sha256": "5aa5bd35b2497fa3cb20062f0b47fe1a93745087115a32e028903f29e4302d0e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 155,
+        "remove_exposed_immediate_repeats": 10,
+        "remove_filler_um_uh_er": 431,
+        "remove_leading_discourse_only": 152
+      }
+    },
+    {
+      "video_id": "7AG3EMDvKT0",
+      "title": "Dante #1:  Paradise Cantos 1-5",
+      "video_url": "https://www.youtube.com/watch?v=7AG3EMDvKT0",
+      "series_folder": "Dante",
+      "relative_path": "Dante/021 — Dante #1 Paradise Cantos 1-5 [7AG3EMDvKT0].md",
+      "source_file_sha256": "cf2e936d887f406e293315f2519ae2fd6f87dc3b65b478b0d3b8d3531ee5074f",
+      "editorial_file_sha256": "34731606ba6f30d60dba9a9c14e61ec082a5f4e1ab35d0add5bb759a71dc71e7",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 172,
+        "remove_exposed_immediate_repeats": 5,
+        "remove_filler_um_uh_er": 477,
+        "remove_leading_discourse_only": 156
+      }
+    },
+    {
+      "video_id": "f03GAKlvZRs",
+      "title": "Substack Live #1:  Welcome to Boomer Hell",
+      "video_url": "https://www.youtube.com/watch?v=f03GAKlvZRs",
+      "series_folder": "Substack Live",
+      "relative_path": "Substack Live/022 — Substack Live #1 Welcome to Boomer Hell [f03GAKlvZRs].md",
+      "source_file_sha256": "e28a2fde5c2b1ccf0c60bfe138c800993028cf93ee3bacd3a3a8376d3453a5bf",
+      "editorial_file_sha256": "e173511ebc3698d02f35915edd2bf10b7244639c79f65597b64d373103f8fc5d",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 178,
+        "remove_exposed_immediate_repeats": 8,
+        "remove_filler_um_uh_er": 619,
+        "remove_leading_discourse_only": 38
+      }
+    },
+    {
+      "video_id": "kFH4AujWqtI",
+      "title": "Predictive History Founding Members #1",
+      "video_url": "https://www.youtube.com/watch?v=kFH4AujWqtI",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/023 — Predictive History Founding Members #1 [kFH4AujWqtI].md",
+      "source_file_sha256": "5e1f6facf24115f73ef8253ed89722cc2714ecdca372900b921910e6a94040f8",
+      "editorial_file_sha256": "dba991f27b3527e08e508333607443cf24580d1f2c7ed8a0e60ad26011df7c13",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 115,
+        "remove_exposed_immediate_repeats": 6,
+        "remove_filler_um_uh_er": 382,
+        "remove_leading_discourse_only": 26
+      }
+    },
+    {
+      "video_id": "VWmPHHnZuiw",
+      "title": "Great Books #13:  Gay Talese's Sparks of Light",
+      "video_url": "https://www.youtube.com/watch?v=VWmPHHnZuiw",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/024 — Great Books #13 Gay Talese's Sparks of Light [VWmPHHnZuiw].md",
+      "source_file_sha256": "3f3b0cf1e9772b8ff0c7236158f2748256f9845da96ae4b25325824ce75bb526",
+      "editorial_file_sha256": "58191ef83aaeb1f2ece31578c2b4fae43b9df356a55484c24e01da356b780961",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 32,
+        "remove_filler_um_uh_er": 52,
+        "remove_leading_discourse_only": 29
+      }
+    },
+    {
+      "video_id": "RE2UribEFIo",
+      "title": "Game Theory #29:  Final Examination",
+      "video_url": "https://www.youtube.com/watch?v=RE2UribEFIo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/025 — Game Theory #29 Final Examination [RE2UribEFIo].md",
+      "source_file_sha256": "b91dd0bb96a128a787f67008593512044ee62e127a52b1f38c7094282d2ce8f8",
+      "editorial_file_sha256": "70bda443bada77149d424813b7e591e1281eeb2ea374f8c84d2396f5d1067afe",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 119,
+        "remove_exposed_immediate_repeats": 7,
+        "remove_filler_um_uh_er": 260,
+        "remove_leading_discourse_only": 101
+      }
+    },
+    {
+      "video_id": "FspDllFoiDE",
+      "title": "Great Books #12:  Dante in Paradise",
+      "video_url": "https://www.youtube.com/watch?v=FspDllFoiDE",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/026 — Great Books #12 Dante in Paradise [FspDllFoiDE].md",
+      "source_file_sha256": "ea2e834e7a133f9e00c2d0efdf506fcec7fd576a7d98207e7584f074c1527224",
+      "editorial_file_sha256": "6ed97294c3f813fc9376fe54fca15cfed8f6920cde17dc27d8bc38e0822d63ce",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 21,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 28,
+        "remove_leading_discourse_only": 35
+      }
+    },
+    {
+      "video_id": "dja6dkCfngE",
+      "title": "Game Theory #28:  Predictive History",
+      "video_url": "https://www.youtube.com/watch?v=dja6dkCfngE",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/027 — Game Theory #28 Predictive History [dja6dkCfngE].md",
+      "source_file_sha256": "c10848e4c827888a895cb8d088e762fa03bb0885c0d0fb341eb128c117eeebcb",
+      "editorial_file_sha256": "12c27de2c255d7b2b9810c19075241677763c8c066fdb457e4fd6cebfe6db76c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 40,
+        "remove_filler_um_uh_er": 105,
+        "remove_leading_discourse_only": 73
+      }
+    },
+    {
+      "video_id": "otyUpKhpTYM",
+      "title": "Great Books #11:  Dante's Revolution",
+      "video_url": "https://www.youtube.com/watch?v=otyUpKhpTYM",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/028 — Great Books #11 Dante's Revolution [otyUpKhpTYM].md",
+      "source_file_sha256": "e802171dd0167f8c6940d0c56374364a07f857cc7614af162af1134dbb33c61e",
+      "editorial_file_sha256": "4a2599c419b226cd4cf0fcf2a8cb2f9e28238f4c45ddd11995e34fd96801e9e1",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 12,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 52,
+        "remove_leading_discourse_only": 24
+      }
+    },
+    {
+      "video_id": "x83HcLWvHI8",
+      "title": "Game Theory #27:  Putin Enters the Chat",
+      "video_url": "https://www.youtube.com/watch?v=x83HcLWvHI8",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/029 — Game Theory #27 Putin Enters the Chat [x83HcLWvHI8].md",
+      "source_file_sha256": "eaddae5c69468e60e51328c4d89984cc677e14a89963795638bc96b0b9e01f89",
+      "editorial_file_sha256": "3bcd9725595ce5a5a6f69144e478d2fa51d8ca2fa99154aeda540012973cd684",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 49,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 125,
+        "remove_leading_discourse_only": 70
+      }
+    },
+    {
+      "video_id": "RG1clZlrfOo",
+      "title": "Game Theory #26:  The Holy Empire of AI",
+      "video_url": "https://www.youtube.com/watch?v=RG1clZlrfOo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/030 — Game Theory #26 The Holy Empire of AI [RG1clZlrfOo].md",
+      "source_file_sha256": "63194bccc42ace7a8b9a35b31be62ef2ae2d18ba938729cb89a36d175c589ed6",
+      "editorial_file_sha256": "7475ed9ec02569e13cd17bc6f1b68d7236103d6bac8814f325979919914552d6",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 24,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 84,
+        "remove_leading_discourse_only": 40
+      }
+    },
+    {
+      "video_id": "BIl5vJn6ohI",
+      "title": "Game Theory #25:  Trump Visits China",
+      "video_url": "https://www.youtube.com/watch?v=BIl5vJn6ohI",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/031 — Game Theory #25 Trump Visits China [BIl5vJn6ohI].md",
+      "source_file_sha256": "7af1f646ef5bf6d406a99df891812dfa62a72081eaab62121540008f29106125",
+      "editorial_file_sha256": "5919ce13c33f23784232aedf66a24a3435229c0d328dfb65b7e59830723d9b3b",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 18,
+        "remove_filler_um_uh_er": 104,
+        "remove_leading_discourse_only": 48
+      }
+    },
+    {
+      "video_id": "8nsxuB3Vsts",
+      "title": "Game Theory #24:  The AI Apocalypse",
+      "video_url": "https://www.youtube.com/watch?v=8nsxuB3Vsts",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/032 — Game Theory #24 The AI Apocalypse [8nsxuB3Vsts].md",
+      "source_file_sha256": "cc3674e62f85b2631026e14c902a6af661e4d1efd249b060447b21622244fef0",
+      "editorial_file_sha256": "7975c0aeab60579029c834181ae1cf2e808e96811f4455efb8e3cfe7aa044b13",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 31,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 94,
+        "remove_leading_discourse_only": 54
+      }
+    },
+    {
+      "video_id": "6aNh6sBpqvQ",
+      "title": "Game Theory #23:  The WWIII Chessboard",
+      "video_url": "https://www.youtube.com/watch?v=6aNh6sBpqvQ",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/033 — Game Theory #23 The WWIII Chessboard [6aNh6sBpqvQ].md",
+      "source_file_sha256": "6d3c2e6a5e856f6e52cb58da6a91ffb46e94433bc8c3aaf431ddb944e0391314",
+      "editorial_file_sha256": "4d859040d856b3055d3b555282277457793d2d58a9bc47279a312024bc6edc86",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 25,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 76,
+        "remove_leading_discourse_only": 61
+      }
+    },
+    {
+      "video_id": "wGpdMYa2bME",
+      "title": "Great Books #10:  Dante's Hierarchy of Hell",
+      "video_url": "https://www.youtube.com/watch?v=wGpdMYa2bME",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/034 — Great Books #10 Dante's Hierarchy of Hell [wGpdMYa2bME].md",
+      "source_file_sha256": "3122ee1dc8d9212cb9d85d3d3495918fa54e0d47f1b2bac3c8605603c1743868",
+      "editorial_file_sha256": "b7320254b9cb76390758eef737330e9af6ae2545be4a4aa839aa0a40d1e26896",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 12,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 55,
+        "remove_leading_discourse_only": 37
+      }
+    },
+    {
+      "video_id": "txgPfnXgzcE",
+      "title": "Game Theory #22:  Twilight of the Nation-State",
+      "video_url": "https://www.youtube.com/watch?v=txgPfnXgzcE",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/035 — Game Theory #22 Twilight of the Nation-State [txgPfnXgzcE].md",
+      "source_file_sha256": "8af949f6cb9600756ae553f1f08eb5a524a5c999c0dc90f83e748ad165e8cd06",
+      "editorial_file_sha256": "740c8670d8ef1d0527cb20bc8237e949b43c8841ff4265327f386a80d4b6097f",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 31,
+        "remove_filler_um_uh_er": 88,
+        "remove_leading_discourse_only": 40
+      }
+    },
+    {
+      "video_id": "Ts-AA6LQf6I",
+      "title": "Game Theory #21:  World War Trump",
+      "video_url": "https://www.youtube.com/watch?v=Ts-AA6LQf6I",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/036 — Game Theory #21 World War Trump [Ts-AA6LQf6I].md",
+      "source_file_sha256": "bf72e8f724cebd80235b2da51441e01bf764b4b078b5a3666e3d0ecac3b81a1c",
+      "editorial_file_sha256": "d4903647fc517c1e9482f52cebcbf30651aaaff9c343da3d41c994b415dd1963",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 36,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 103,
+        "remove_leading_discourse_only": 53
+      }
+    },
+    {
+      "video_id": "ue8y5e3HnHE",
+      "title": "Game Theory #20:  Mid-Term Examination",
+      "video_url": "https://www.youtube.com/watch?v=ue8y5e3HnHE",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/037 — Game Theory #20 Mid-Term Examination [ue8y5e3HnHE].md",
+      "source_file_sha256": "4931ac13eb987a4d603d86ff92c776f57cb525bfb1ff92476188b87ab5e6e374",
+      "editorial_file_sha256": "f1629803d7df6321a17d4916c64b0ea86a2c8c3f2a2a190cd097a97bae335a8a",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 83,
+        "remove_exposed_immediate_repeats": 3,
+        "remove_filler_um_uh_er": 187,
+        "remove_leading_discourse_only": 94
+      }
+    },
+    {
+      "video_id": "4EZUrGPgAos",
+      "title": "Great Books #9:  Dante (Re-Upload with Audio Fixed)",
+      "video_url": "https://www.youtube.com/watch?v=4EZUrGPgAos",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/038 — Great Books #9 Dante (Re-Upload with Audio Fixed) [4EZUrGPgAos].md",
+      "source_file_sha256": "8839292ece2788085550ed7d9e8bd33139b770ef382b0c95912ddae954afb934",
+      "editorial_file_sha256": "d9b8e9c5e79e2069909d5c738b6c98480272ac68fe58d66f9dcf13533677b01c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 24,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 84,
+        "remove_leading_discourse_only": 33
+      }
+    },
+    {
+      "video_id": "6M1Z_V3WgOk",
+      "title": "Great Books #9:  Dante's La Commedia",
+      "video_url": "https://www.youtube.com/watch?v=6M1Z_V3WgOk",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/039 — Great Books #9 Dante's La Commedia [6M1Z_V3WgOk].md",
+      "source_file_sha256": "2fe2f03e7431c716ddce586029a3c1dc235047f51e8ee2919c3a84eab4669559",
+      "editorial_file_sha256": "09db78dc94a1aca49e8f4889f9aa707e98e04f622fac241bb975078cc4e10724",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 24,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 84,
+        "remove_leading_discourse_only": 37
+      }
+    },
+    {
+      "video_id": "0HYET47Cc-E",
+      "title": "Game Theory #19:  The Hollywood-Pentagon Complex",
+      "video_url": "https://www.youtube.com/watch?v=0HYET47Cc-E",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/040 — Game Theory #19 The Hollywood-Pentagon Complex [0HYET47Cc-E].md",
+      "source_file_sha256": "f32b7d252eefcf0e659eb6ee294c7762f4eabf57a99d6b573fa33a88bb099475",
+      "editorial_file_sha256": "bcae49ae4e13d67f9b8cd163ae931fdc7429cea226fb5b9216a1173ccb06d0f9",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 37,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 110,
+        "remove_leading_discourse_only": 42
+      }
+    },
+    {
+      "video_id": "xrmERlHUqBk",
+      "title": "Game Theory #18:  Trump World Order",
+      "video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/041 — Game Theory #18 Trump World Order [xrmERlHUqBk].md",
+      "source_file_sha256": "28faf932f56edc933a1e91c80065dee070daf73d827b9ee0df1cc370d4b06c48",
+      "editorial_file_sha256": "0bad679845f14da45051bec7e2b24a74720e7d2cd9dca807a955d15af2ee31e6",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 32,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 92,
+        "remove_leading_discourse_only": 38
+      }
+    },
+    {
+      "video_id": "VbowBTJWKBo",
+      "title": "Game Theory #17:  The Great Reset",
+      "video_url": "https://www.youtube.com/watch?v=VbowBTJWKBo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/042 — Game Theory #17 The Great Reset [VbowBTJWKBo].md",
+      "source_file_sha256": "27f2f5fe7f39fa6124cfc6111d468a94f468f7024a30957430b5572ae21e949e",
+      "editorial_file_sha256": "661211e79459ed675091539298bdec8750aeae6d4ce07d8a9627994df9da3942",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 38,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 93,
+        "remove_leading_discourse_only": 68
+      }
+    },
+    {
+      "video_id": "mk4vcHtawSo",
+      "title": "Game Theory #16:  Pax Judaica Rising (Re-Upload)",
+      "video_url": "https://www.youtube.com/watch?v=mk4vcHtawSo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/043 — Game Theory #16 Pax Judaica Rising (Re-Upload) [mk4vcHtawSo].md",
+      "source_file_sha256": "931effabf7aa3bf120deaa4306038cb80f502e7879af46578f45271384ba4a1f",
+      "editorial_file_sha256": "2ac335db8baa7cb335c495a78dae99f7434b3fae7a865c7dd63337d096c1b2a6",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 37,
+        "remove_filler_um_uh_er": 112,
+        "remove_leading_discourse_only": 43
+      }
+    },
+    {
+      "video_id": "0aASxQrJYuo",
+      "title": "Game Theory #16:  Pax Judaica Rising",
+      "video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/044 — Game Theory #16 Pax Judaica Rising [0aASxQrJYuo].md",
+      "source_file_sha256": "96b5c784790745185b2dddf86950769d68f9dff82f931979ff8d8a93d39e4c6e",
+      "editorial_file_sha256": "296d5e32c7d71b96b73b9184a2bd8d6391cbf107448975633b1db09131d5812e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 27,
+        "remove_filler_um_uh_er": 111,
+        "remove_leading_discourse_only": 54
+      }
+    },
+    {
+      "video_id": "YXTRlvFIRt8",
+      "title": "Great Books #8:  The Poetry of Empire",
+      "video_url": "https://www.youtube.com/watch?v=YXTRlvFIRt8",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/045 — Great Books #8 The Poetry of Empire [YXTRlvFIRt8].md",
+      "source_file_sha256": "bec877c7f65d242842320801e28b818bb4d32b717ce4c76b7d9f0390ece8ef21",
+      "editorial_file_sha256": "d500add8b21409ebc6714198999cd000a50d5cf7a66fd401643c9ac4ca401bd0",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 26,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 83,
+        "remove_leading_discourse_only": 29
+      }
+    },
+    {
+      "video_id": "zAer-Mqe7tQ",
+      "title": "Game Theory #15:  The Return of History",
+      "video_url": "https://www.youtube.com/watch?v=zAer-Mqe7tQ",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/046 — Game Theory #15 The Return of History [zAer-Mqe7tQ].md",
+      "source_file_sha256": "8dac82232178dd3bdb9fcb2745931d0b6fe7771904b6b3e2cd8256ee435fa14b",
+      "editorial_file_sha256": "8ff4da0682b91af3e124864fb614250a8ea42d149e4b0eeb763ec14e9388fd02",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 26,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 95,
+        "remove_leading_discourse_only": 35
+      }
+    },
+    {
+      "video_id": "nOQqGy4boBY",
+      "title": "Game Theory #14:  The Law of Proximity",
+      "video_url": "https://www.youtube.com/watch?v=nOQqGy4boBY",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/047 — Game Theory #14 The Law of Proximity [nOQqGy4boBY].md",
+      "source_file_sha256": "3c286abdccf1a908b58da87583e08121c52b4a9fd7f49c403a87b3ce34b80f8b",
+      "editorial_file_sha256": "633023de6d5ba95a3145c8c3fb3d6e07c7d1c5ed89843aa679b35066822e8069",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 29,
+        "remove_filler_um_uh_er": 129,
+        "remove_leading_discourse_only": 37
+      }
+    },
+    {
+      "video_id": "EBWTRvjZ1dw",
+      "title": "Great Books #7:  The Anti-Homer",
+      "video_url": "https://www.youtube.com/watch?v=EBWTRvjZ1dw",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/048 — Great Books #7 The Anti-Homer [EBWTRvjZ1dw].md",
+      "source_file_sha256": "b2d4d613edb0183636e260676b27e60cf2dcedc29793c7c2185e713b0ef83757",
+      "editorial_file_sha256": "3e2b5bf420c6863e5ea735d5fa7cb1a995876412c1e5602474bd1d86119fd3eb",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 14,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 58,
+        "remove_leading_discourse_only": 15
+      }
+    },
+    {
+      "video_id": "aQSDSqdlFxk",
+      "title": "Game Theory #13:  Epstein's World",
+      "video_url": "https://www.youtube.com/watch?v=aQSDSqdlFxk",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/049 — Game Theory #13 Epstein's World [aQSDSqdlFxk].md",
+      "source_file_sha256": "add113119801e304296e5115d31844bad9b83868d2b34ff7e16239d680053e45",
+      "editorial_file_sha256": "4b69cd4fa09667b229ea5e6993e04cc5337d354cafd99b8693111d7e2c08a640",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 24,
+        "remove_filler_um_uh_er": 73,
+        "remove_leading_discourse_only": 58
+      }
+    },
+    {
+      "video_id": "spg58Glfz68",
+      "title": "Game Theory #12:  The Law of Eschatological Convergence",
+      "video_url": "https://www.youtube.com/watch?v=spg58Glfz68",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/050 — Game Theory #12 The Law of Eschatological Convergence [spg58Glfz68].md",
+      "source_file_sha256": "95d04953169d71cc21c22a6ee42fc7b6bdb2a57a303609f17079e23d2bfc741b",
+      "editorial_file_sha256": "70e8ae9c1c155b590aa1ff065aa4f572b6f550d96f7b37a68c8c74b75759466e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 46,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 116,
+        "remove_leading_discourse_only": 58
+      }
+    },
+    {
+      "video_id": "aS-NfPSPMu8",
+      "title": "Great Books #6:  The Intimacy of Love",
+      "video_url": "https://www.youtube.com/watch?v=aS-NfPSPMu8",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/051 — Great Books #6 The Intimacy of Love [aS-NfPSPMu8].md",
+      "source_file_sha256": "68302d10499c6ef9a3dda74e2d7dbea607efb8a5b065411377c15ee0ec5801b9",
+      "editorial_file_sha256": "8b96f19b57284089a25824b7e802fa5951066fb788d9cb47a6c8619e76be6401",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 10,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 59,
+        "remove_leading_discourse_only": 21
+      }
+    },
+    {
+      "video_id": "fz-Dan7NRss",
+      "title": "Game Theory #11:  The Law of Escalation",
+      "video_url": "https://www.youtube.com/watch?v=fz-Dan7NRss",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/052 — Game Theory #11 The Law of Escalation [fz-Dan7NRss].md",
+      "source_file_sha256": "590d7c6da83b8963dcd25939c92237925f2df466e76fb0e0a995c442386f5528",
+      "editorial_file_sha256": "2d1abe22051a4c819b230f17e75a74deaabff3428ac37e7682957a0992509e56",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 29,
+        "remove_filler_um_uh_er": 82,
+        "remove_leading_discourse_only": 51,
+        "repair_dangling_basically_prevent": 1
+      }
+    },
+    {
+      "video_id": "t5oisJiorsU",
+      "title": "Game Theory #10:  The Law of Asymmetry",
+      "video_url": "https://www.youtube.com/watch?v=t5oisJiorsU",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/053 — Game Theory #10 The Law of Asymmetry [t5oisJiorsU].md",
+      "source_file_sha256": "8b45405c2628ac126e6a986e6a1df957da5a5b8208a152a4113515a152c16af3",
+      "editorial_file_sha256": "106328e8ca88b41a0809bba8de352455865cd2b3cb4f5d348e9e266be7a834e1",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 27,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 66,
+        "remove_leading_discourse_only": 39
+      }
+    },
+    {
+      "video_id": "gXlcR7uHHdA",
+      "title": "Great Books #5:  The Odyssey",
+      "video_url": "https://www.youtube.com/watch?v=gXlcR7uHHdA",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/054 — Great Books #5 The Odyssey [gXlcR7uHHdA].md",
+      "source_file_sha256": "b575bbda0a8ed1e1401cb2f4321b0d964ac15ef6971267193ac311e41207803b",
+      "editorial_file_sha256": "bbd0d471dbc069b44ef888ce453ae1d7e7cab5df93ab0028dffed0d0fb06ba11",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 20,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 60,
+        "remove_leading_discourse_only": 30
+      }
+    },
+    {
+      "video_id": "jIS2eB-rGv0",
+      "title": "Game Theory #9:  The US-Iran War",
+      "video_url": "https://www.youtube.com/watch?v=jIS2eB-rGv0",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/055 — Game Theory #9 The US-Iran War [jIS2eB-rGv0].md",
+      "source_file_sha256": "ab72e62a8f1c20aafdf20e86a5388cf593d9f72b44b7fad8c7b4e421c4dc196a",
+      "editorial_file_sha256": "538e21a02bed51478540386cb2d6adecb0794aaeb24a6ccf087e988bd8f10a17",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 28,
+        "remove_filler_um_uh_er": 41,
+        "remove_leading_discourse_only": 50
+      }
+    },
+    {
+      "video_id": "axqDLhWs93Q",
+      "title": "Game Theory #8:  Communist Specter",
+      "video_url": "https://www.youtube.com/watch?v=axqDLhWs93Q",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/056 — Game Theory #8 Communist Specter [axqDLhWs93Q].md",
+      "source_file_sha256": "cbb5227b2fafb26361312f7cc7073b2a0d2a992b02732e1a468ae43049fb0f09",
+      "editorial_file_sha256": "abbf3d8b034448991c26d6115b848ea56ace91a68dc0e24f1bf5cb54a3f7f62a",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 30,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 67,
+        "remove_leading_discourse_only": 61
+      }
+    },
+    {
+      "video_id": "dkzr5A8IlLA",
+      "title": "Great Books #4:  The Conscious Universe",
+      "video_url": "https://www.youtube.com/watch?v=dkzr5A8IlLA",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/057 — Great Books #4 The Conscious Universe [dkzr5A8IlLA].md",
+      "source_file_sha256": "d9203ffb01a165d0bc4ebedc8efe9e6c737a4c98e3150d011bae9ffbfc8da88e",
+      "editorial_file_sha256": "8e53b0abe4421a51e2041ab5b815780d83b73b7dca27cfec568a2d42dfd99d1a",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 21,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 58,
+        "remove_leading_discourse_only": 59
+      }
+    },
+    {
+      "video_id": "ijnkCt1QK6k",
+      "title": "Game Theory #7:  America's Game",
+      "video_url": "https://www.youtube.com/watch?v=ijnkCt1QK6k",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/058 — Game Theory #7 America's Game [ijnkCt1QK6k].md",
+      "source_file_sha256": "54392136ecae6897f23998c5f2809f05e7dd7022e93a90f53569fe7518a8d8d7",
+      "editorial_file_sha256": "0965240999c278e7b9fc272a42065549fefa66612b3f2bf1f9a4b35f770c98b7",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 33,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 68,
+        "remove_leading_discourse_only": 56
+      }
+    },
+    {
+      "video_id": "CbamEcNuDXo",
+      "title": "Game Theory #6:  The World's Bank",
+      "video_url": "https://www.youtube.com/watch?v=CbamEcNuDXo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/059 — Game Theory #6 The World's Bank [CbamEcNuDXo].md",
+      "source_file_sha256": "eebe8133c9dcd5a5021d4aedc8cee0d4b7ea5cb1a6d34d3cf1feeff441ead162",
+      "editorial_file_sha256": "567399ba578f0f3c310ecf1a7567cad528ab6180d7a56dc5208c21071a828cec",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 18,
+        "remove_filler_um_uh_er": 68,
+        "remove_leading_discourse_only": 40
+      }
+    },
+    {
+      "video_id": "XRP407WsA0w",
+      "title": "Great Books #3:  Poets and Prophets",
+      "video_url": "https://www.youtube.com/watch?v=XRP407WsA0w",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/060 — Great Books #3 Poets and Prophets [XRP407WsA0w].md",
+      "source_file_sha256": "b541ac3336e5d2a0a850b46254dafa7eea7499ef96d7f1948139ecf0ef4dd90b",
+      "editorial_file_sha256": "ed33c19aba677df4fd5215d0b799c1c49838675786a5652984e43e90b70ad20d",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 14,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 39,
+        "remove_leading_discourse_only": 52
+      }
+    },
+    {
+      "video_id": "ybufqRY77PQ",
+      "title": "Game Theory #5:  The World Game",
+      "video_url": "https://www.youtube.com/watch?v=ybufqRY77PQ",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/061 — Game Theory #5 The World Game [ybufqRY77PQ].md",
+      "source_file_sha256": "c8ee1593dbc07bb68f92d5b024a3400608d3f1f55c35550c4eacb2e91499817b",
+      "editorial_file_sha256": "969d3d39a5d726fd28f67072fb56bb4f10fb692b6967a827911ca6886bd47006",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 35,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 87,
+        "remove_leading_discourse_only": 60
+      }
+    },
+    {
+      "video_id": "35HRPLVyF0g",
+      "title": "Game Theory #4:  The Immigration Trap",
+      "video_url": "https://www.youtube.com/watch?v=35HRPLVyF0g",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/062 — Game Theory #4 The Immigration Trap [35HRPLVyF0g].md",
+      "source_file_sha256": "beec077832510e7c07e700dc1c001acaa1ddb0f1a144cda9343a24df72fa007a",
+      "editorial_file_sha256": "37c9ed90f8d55790ae08a5a36920253ecb5f34de7e1e8935fd95c30b1a2a860c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 24,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 107,
+        "remove_leading_discourse_only": 33
+      }
+    },
+    {
+      "video_id": "Ft2CuowGuYc",
+      "title": "Great Books #2:  Homer and the Invention of the Human",
+      "video_url": "https://www.youtube.com/watch?v=Ft2CuowGuYc",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/063 — Great Books #2 Homer and the Invention of the Human [Ft2CuowGuYc].md",
+      "source_file_sha256": "480cbaee73521021e558954a3e7a8e24209deb1018934c0e754c487d83fea5cb",
+      "editorial_file_sha256": "5d8a35db5e07a808c53288a3040ea44b40d5c6acf1dac8c240470d9b59e88aa0",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 18,
+        "remove_filler_um_uh_er": 33,
+        "remove_leading_discourse_only": 33
+      }
+    },
+    {
+      "video_id": "MX93U4KzA28",
+      "title": "Game Theory #3:  Rich Dad, Poor Dad",
+      "video_url": "https://www.youtube.com/watch?v=MX93U4KzA28",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/064 — Game Theory #3 Rich Dad, Poor Dad [MX93U4KzA28].md",
+      "source_file_sha256": "1341f0e3a5b8f95da48b315fc49a3236d33115a3c29fac02386938d3cd4aa1fa",
+      "editorial_file_sha256": "50fbbf46919e5ac75d8c6fae552f0a41fc3ffb9f5b70072c6c67375aaa1bb816",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 26,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 44,
+        "remove_leading_discourse_only": 40
+      }
+    },
+    {
+      "video_id": "kS-muAuq62E",
+      "title": "Game Theory #2:  Why Schools Suck",
+      "video_url": "https://www.youtube.com/watch?v=kS-muAuq62E",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/065 — Game Theory #2 Why Schools Suck [kS-muAuq62E].md",
+      "source_file_sha256": "0d229464ffc49f7aaa3e44e213f1c7760081a0c9b12a26c3405aefdb7de41447",
+      "editorial_file_sha256": "f6bcdf86eace747e2c0f07ebd786d0d398428875fa8fd11b53aa7f07ffbc40a2",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 41,
+        "remove_filler_um_uh_er": 48,
+        "remove_leading_discourse_only": 51
+      }
+    },
+    {
+      "video_id": "TsD-8FGA84A",
+      "title": "Great Books #1:  Secrets of the Universe",
+      "video_url": "https://www.youtube.com/watch?v=TsD-8FGA84A",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/066 — Great Books #1 Secrets of the Universe [TsD-8FGA84A].md",
+      "source_file_sha256": "05972fd56559bfa1f41396a27231b3c01ecded350e14adf620c07f4a8e00596a",
+      "editorial_file_sha256": "dfe3b2d3ac31af3ae892c58f70c642a5509cdce373fbdd003603d3bf341b26d8",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 17,
+        "remove_filler_um_uh_er": 27,
+        "remove_leading_discourse_only": 47
+      }
+    },
+    {
+      "video_id": "hE4l9WyLF3U",
+      "title": "Game Theory #1:  The Dating Game",
+      "video_url": "https://www.youtube.com/watch?v=hE4l9WyLF3U",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/067 — Game Theory #1 The Dating Game [hE4l9WyLF3U].md",
+      "source_file_sha256": "4e4353008bf8fe20c62164d5f21135290bd86804f763c9904e9b8b8bd8aa845f",
+      "editorial_file_sha256": "202a4f754f5e64d688a6586506ddb398ac1b52bab916f02114b1a95751b0b8f3",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 20,
+        "remove_filler_um_uh_er": 58,
+        "remove_leading_discourse_only": 29
+      }
+    },
+    {
+      "video_id": "WFWizN3QoPg",
+      "title": "Secret History #END:  Pax Judaica",
+      "video_url": "https://www.youtube.com/watch?v=WFWizN3QoPg",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/068 — Secret History #END Pax Judaica [WFWizN3QoPg].md",
+      "source_file_sha256": "58bd4ed102dd493df209bb8a31616f11fde52afa9c84a939430adbde2a96abbb",
+      "editorial_file_sha256": "10a15899c8a4213dad9f89e01a378f0340b32d118779458530afd3d2be454e4e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 68,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 166,
+        "remove_leading_discourse_only": 80
+      }
+    },
+    {
+      "video_id": "ZPrecJHUOUs",
+      "title": "Secret History #27:  Empire of Evil",
+      "video_url": "https://www.youtube.com/watch?v=ZPrecJHUOUs",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/069 — Secret History #27 Empire of Evil [ZPrecJHUOUs].md",
+      "source_file_sha256": "488ab076e3a5101dc4245a02dfc5a8855836542425fad7c56ed416236bb700d5",
+      "editorial_file_sha256": "6fbdc74d466230931fd779631f42f793e21855fd57d539620ac4790b8b57ce13",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 54,
+        "remove_exposed_immediate_repeats": 5,
+        "remove_filler_um_uh_er": 117,
+        "remove_leading_discourse_only": 62
+      }
+    },
+    {
+      "video_id": "kULUM_eB8KI",
+      "title": "Secret History #26:  Faith of Evil",
+      "video_url": "https://www.youtube.com/watch?v=kULUM_eB8KI",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/070 — Secret History #26 Faith of Evil [kULUM_eB8KI].md",
+      "source_file_sha256": "009a830563ef69e0e78c99f6520d72eb0968fc2f35abc1c1e33907244b9ba3d7",
+      "editorial_file_sha256": "332aa4b989834cb72eaa6a2b27665a96c595a9ff457fc44a0635af676f789a4b",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 65,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 154,
+        "remove_leading_discourse_only": 63
+      }
+    },
+    {
+      "video_id": "B5FtHagng8c",
+      "title": "Secret History #25:  Capital of Evil",
+      "video_url": "https://www.youtube.com/watch?v=B5FtHagng8c",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/071 — Secret History #25 Capital of Evil [B5FtHagng8c].md",
+      "source_file_sha256": "bcb06cae50b04997e2f200dcbb2669d1ad2e16a1c1f29179677aa2e296a7c002",
+      "editorial_file_sha256": "a2c35f8750c3cd218722ab61508bf607b85f8c891c9676901b4d084ba6e5f96e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 44,
+        "remove_filler_um_uh_er": 86,
+        "remove_leading_discourse_only": 75
+      }
+    },
+    {
+      "video_id": "TEdVhyE8pO0",
+      "title": "Secret History #24:  Empire of Church",
+      "video_url": "https://www.youtube.com/watch?v=TEdVhyE8pO0",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/072 — Secret History #24 Empire of Church [TEdVhyE8pO0].md",
+      "source_file_sha256": "0971a364642d08dfde0f2c99ee4928f31d36ff260fb7dc0e913a9389a99a7e75",
+      "editorial_file_sha256": "7e403b4a87fede556d712175c4e8584248ffd1ee011bd0b8c12b6918041f5ce4",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 63,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 122,
+        "remove_leading_discourse_only": 97
+      }
+    },
+    {
+      "video_id": "6XGAc_OqCbU",
+      "title": "Secret History #23:  The Organization of Evil",
+      "video_url": "https://www.youtube.com/watch?v=6XGAc_OqCbU",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/073 — Secret History #23 The Organization of Evil [6XGAc_OqCbU].md",
+      "source_file_sha256": "58103d9e52f76295c33d2e7a6cf8069bdbd9b1d4052e5e1c9447007c9975e24e",
+      "editorial_file_sha256": "4ff1a7bf086f06a689740a6dc4733a4955bda6a5a3e9d51f01c0de7c32e82fe4",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 53,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 117,
+        "remove_leading_discourse_only": 81
+      }
+    },
+    {
+      "video_id": "pp0E1gb80WQ",
+      "title": "Secret History #22:  The Divine Spark of Jesus",
+      "video_url": "https://www.youtube.com/watch?v=pp0E1gb80WQ",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/074 — Secret History #22 The Divine Spark of Jesus [pp0E1gb80WQ].md",
+      "source_file_sha256": "29ea5f655bfe14484655887ef4efc3b024db5ab12342504af17d33ee9195b5c5",
+      "editorial_file_sha256": "8087a188d1bb64281dcb2a710116eb6ab111a11ab72fecec4bdc286c95125e9b",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 50,
+        "remove_filler_um_uh_er": 98,
+        "remove_leading_discourse_only": 90
+      }
+    },
+    {
+      "video_id": "Y-gXVzwbFMU",
+      "title": "Secret History #21:  Roman Anti-Civilization",
+      "video_url": "https://www.youtube.com/watch?v=Y-gXVzwbFMU",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/075 — Secret History #21 Roman Anti-Civilization [Y-gXVzwbFMU].md",
+      "source_file_sha256": "bec6056c5029538021e455b619fa8bfc473d9062633dde417d3d18897df29d71",
+      "editorial_file_sha256": "7a732302a2aebe37cf1983cf2c5c5413b08c3f4bc9bcbb0ee630dd01b20fb7a4",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 77,
+        "remove_filler_um_uh_er": 195,
+        "remove_leading_discourse_only": 77
+      }
+    },
+    {
+      "video_id": "z0AwFin83lo",
+      "title": "Secret History #20:  The Hellenistic World",
+      "video_url": "https://www.youtube.com/watch?v=z0AwFin83lo",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/076 — Secret History #20 The Hellenistic World [z0AwFin83lo].md",
+      "source_file_sha256": "c589e565483750410695dad5887247a2f306c506894ef12f1e0ea696d83ece50",
+      "editorial_file_sha256": "974d71f2f788b3223415cf440a4403a0849df2da172d372fadbd9a16fb89cfd7",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 70,
+        "remove_filler_um_uh_er": 176,
+        "remove_leading_discourse_only": 80
+      }
+    },
+    {
+      "video_id": "3t0MeVBD24I",
+      "title": "Secret History #19:  Dawn of the Jews",
+      "video_url": "https://www.youtube.com/watch?v=3t0MeVBD24I",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/077 — Secret History #19 Dawn of the Jews [3t0MeVBD24I].md",
+      "source_file_sha256": "ed902a68711f4c4c459650084474057b24dd86aaa63eee1e34db908673d945b3",
+      "editorial_file_sha256": "46e70a0d72611cf0d5d7fcc13f50a2ed5fb1b752259a7cb8cb67d074b0be7ff2",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 76,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 205,
+        "remove_leading_discourse_only": 71
+      }
+    },
+    {
+      "video_id": "dELEdxh0ceg",
+      "title": "Secret History #18:  Thus Spoke Zarathustra",
+      "video_url": "https://www.youtube.com/watch?v=dELEdxh0ceg",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/078 — Secret History #18 Thus Spoke Zarathustra [dELEdxh0ceg].md",
+      "source_file_sha256": "7418251b414732c1f0a010feb2a991ee22680ccdcb4a9b48b074e0683c5eec8b",
+      "editorial_file_sha256": "c7e51e654b08790d3fc36f3e6a7d4576e294e89ea4ed4bdd86a7ab0b63552443",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 25,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 109,
+        "remove_leading_discourse_only": 57
+      }
+    },
+    {
+      "video_id": "PlMNq44tBG0",
+      "title": "Secret History #17:  Literary Genesis",
+      "video_url": "https://www.youtube.com/watch?v=PlMNq44tBG0",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/079 — Secret History #17 Literary Genesis [PlMNq44tBG0].md",
+      "source_file_sha256": "4f75fca68b65ab4af716e6f5ed43fd6070cae5dc4a8eb48d2fa86a9e49e991f5",
+      "editorial_file_sha256": "9ab0db529105826221776a99b4efc0fb8feef8c129a084c3affb2f858066129e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 36,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 86,
+        "remove_leading_discourse_only": 74
+      }
+    },
+    {
+      "video_id": "4ehovUNrSrw",
+      "title": "Secret History #16:  The Big Bang of Greek Civilization",
+      "video_url": "https://www.youtube.com/watch?v=4ehovUNrSrw",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/080 — Secret History #16 The Big Bang of Greek Civilization [4ehovUNrSrw].md",
+      "source_file_sha256": "aa337ada78cfe0a256f4c1aca5bf74d9417ad7b8706208c43a6a530b8f7ebee8",
+      "editorial_file_sha256": "eec9c795cd05fdff0d8db120d5e2c555b5ca1c5fc53413d34dce2a99d6453c47",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 54,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 56,
+        "remove_leading_discourse_only": 67
+      }
+    },
+    {
+      "video_id": "rkt0HQOogHE",
+      "title": "Secret History #15:  Capital and the Bronze Age Collapse",
+      "video_url": "https://www.youtube.com/watch?v=rkt0HQOogHE",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/081 — Secret History #15 Capital and the Bronze Age Collapse [rkt0HQOogHE].md",
+      "source_file_sha256": "d75a9cadbee23aa433c141589d889b8cd5c7e47844b901de5e4dcc626f0aeeef",
+      "editorial_file_sha256": "ed4c8881e664d4c44fab8f7672bc9a4aaeb8e885d1ef1e93d708eda0574d4071",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 67,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 119,
+        "remove_leading_discourse_only": 63
+      }
+    },
+    {
+      "video_id": "JpTI2gFYWrU",
+      "title": "Secret History #14:  Legacy of the Steppes",
+      "video_url": "https://www.youtube.com/watch?v=JpTI2gFYWrU",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/082 — Secret History #14 Legacy of the Steppes [JpTI2gFYWrU].md",
+      "source_file_sha256": "3278404e9286688f70e15c5910a6539b582db8428aee38f91bbc5631d72ff5ef",
+      "editorial_file_sha256": "ecf90c9673aa03caf866c8c480e8647913f4cbf11307ff363f4f8bf7ec684568",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 46,
+        "remove_filler_um_uh_er": 110,
+        "remove_leading_discourse_only": 73
+      }
+    },
+    {
+      "video_id": "FJF8oD_5c_w",
+      "title": "Secret History #13:  Mandate of Heaven",
+      "video_url": "https://www.youtube.com/watch?v=FJF8oD_5c_w",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/083 — Secret History #13 Mandate of Heaven [FJF8oD_5c_w].md",
+      "source_file_sha256": "366a11203c9002cf5a8092d39c2c703fbb313deecbb4b130388945bcf0a2e01d",
+      "editorial_file_sha256": "a33f4b22646e63f955fae065eb0406ca3d68d11a385d689713ba28f10fbe26fd",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 42,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 88,
+        "remove_leading_discourse_only": 56
+      }
+    },
+    {
+      "video_id": "VtnRA-GNKM8",
+      "title": "Secret History #12:  Heaven on Earth",
+      "video_url": "https://www.youtube.com/watch?v=VtnRA-GNKM8",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/084 — Secret History #12 Heaven on Earth [VtnRA-GNKM8].md",
+      "source_file_sha256": "b49cab0061cf510ab57593b1541043eb83dc9cbb9173b8c55ed109545b333d5f",
+      "editorial_file_sha256": "f4ff2afd934e59edc63b98fbdda051ce17ba75931ed8550bb3ff3b8a57a27af4",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 47,
+        "remove_filler_um_uh_er": 97,
+        "remove_leading_discourse_only": 72
+      }
+    },
+    {
+      "video_id": "LvHsg5qtDs8",
+      "title": "Secret History #11:  Dawn of the Human Imagination",
+      "video_url": "https://www.youtube.com/watch?v=LvHsg5qtDs8",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/085 — Secret History #11 Dawn of the Human Imagination [LvHsg5qtDs8].md",
+      "source_file_sha256": "4a52f30e7b9b85a63410eef1254b5d090e6f8cebf8abe6f040d97e53e07a6afc",
+      "editorial_file_sha256": "8ad82eb310d4fe1ca181bb11c024941f01d6011ce1c5c68f48e25b49086bdd67",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 38,
+        "remove_filler_um_uh_er": 83,
+        "remove_leading_discourse_only": 65
+      }
+    },
+    {
+      "video_id": "ihh1fdW4-cA",
+      "title": "Secret History #10:  The Conspiracy of Evil",
+      "video_url": "https://www.youtube.com/watch?v=ihh1fdW4-cA",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/086 — Secret History #10 The Conspiracy of Evil [ihh1fdW4-cA].md",
+      "source_file_sha256": "50b8870712a623007dc70d9e648f25676d491e70c6858327946e464a453388ac",
+      "editorial_file_sha256": "a9b0a8af2f2b7e7d0fa536fcba4beea755245a79cc90e8c019ed22e68a4774af",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 35,
+        "remove_filler_um_uh_er": 67,
+        "remove_leading_discourse_only": 54
+      }
+    },
+    {
+      "video_id": "9MURGjjG4aA",
+      "title": "Secret History #9:   The Theory of Everything",
+      "video_url": "https://www.youtube.com/watch?v=9MURGjjG4aA",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/087 — Secret History #9 The Theory of Everything [9MURGjjG4aA].md",
+      "source_file_sha256": "8f29c8e5fb6fb5c0542492f8ea7c9c1264e17eefb84e2f156d1ddee8fd9c9b38",
+      "editorial_file_sha256": "cfffa225dbc49cba64e278426f0c8d1b283bb2cb0cece676082d7b658e0aacb4",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 27,
+        "remove_filler_um_uh_er": 48,
+        "remove_leading_discourse_only": 66
+      }
+    },
+    {
+      "video_id": "hk_yhi3-prw",
+      "title": "Secret History #8:  Death by Bureaucracy",
+      "video_url": "https://www.youtube.com/watch?v=hk_yhi3-prw",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/088 — Secret History #8 Death by Bureaucracy [hk_yhi3-prw].md",
+      "source_file_sha256": "2eee1ebcfae3144056723854ab0057f7ee8721f295122d3bff94313d04cd66d6",
+      "editorial_file_sha256": "2aaab18704dcb71fcc7b9b562e4b388857015c864bc5d9cab0102153ced743c6",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 53,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 55,
+        "remove_leading_discourse_only": 73
+      }
+    },
+    {
+      "video_id": "JU_8fJjtGxA",
+      "title": "Secret History #7:  Death by Meritocracy",
+      "video_url": "https://www.youtube.com/watch?v=JU_8fJjtGxA",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/089 — Secret History #7 Death by Meritocracy [JU_8fJjtGxA].md",
+      "source_file_sha256": "977c44d8e14ae09d0ffb3d643218ce8d00c46f1ae0fde4f13e15e0f9b1cf168e",
+      "editorial_file_sha256": "1333f5547cd83ef54a72896fbd16ff666de84ae90e1bbf602edd12b8199ab2a0",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 53,
+        "remove_filler_um_uh_er": 97,
+        "remove_leading_discourse_only": 68
+      }
+    },
+    {
+      "video_id": "6PdfD44DkqA",
+      "title": "Secret History #6:  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)",
+      "video_url": "https://www.youtube.com/watch?v=6PdfD44DkqA",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/090 — Secret History #6 The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised) [6PdfD44DkqA].md",
+      "source_file_sha256": "763e00d4e1769f29a3db6f1c6672c1b00bba2f3d67dff3f4c1288d9787457fbb",
+      "editorial_file_sha256": "b50a4b4352a2d1cef13f11ef1ab95f9f97647ef78bf066baa3fffb01840b7dce",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 31,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 47,
+        "remove_leading_discourse_only": 50
+      }
+    },
+    {
+      "video_id": "EgGfQdv_rPc",
+      "title": "Secret History #5:  The Birth of Evil",
+      "video_url": "https://www.youtube.com/watch?v=EgGfQdv_rPc",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/091 — Secret History #5 The Birth of Evil [EgGfQdv_rPc].md",
+      "source_file_sha256": "b12a2b3bd9c85515374c3ea7eb15b212f1a1bbfbf87b29390a43407e7a421ca5",
+      "editorial_file_sha256": "895d60d452f03c5a4f1e61b68059941018f5e84ce339f9f4b26ef39347e5f976",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 28,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 56,
+        "remove_leading_discourse_only": 56
+      }
+    },
+    {
+      "video_id": "BtlWoqWLm9Q",
+      "title": "Secret History #4:  How Evil Triumphs",
+      "video_url": "https://www.youtube.com/watch?v=BtlWoqWLm9Q",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/092 — Secret History #4 How Evil Triumphs [BtlWoqWLm9Q].md",
+      "source_file_sha256": "ffac2d985034a4e273fb316bd9e5c71f27b3195e791b036de76401cbf45ed249",
+      "editorial_file_sha256": "8b37f015e47cd3bb491483981563d1a295ea77b41c3500726b7aecd44778bf0f",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 34,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 81,
+        "remove_leading_discourse_only": 42
+      }
+    },
+    {
+      "video_id": "0g3yo1DjiLM",
+      "title": "Secret History #3:  Death by Gerontocracy",
+      "video_url": "https://www.youtube.com/watch?v=0g3yo1DjiLM",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/093 — Secret History #3 Death by Gerontocracy [0g3yo1DjiLM].md",
+      "source_file_sha256": "2cec3d4f1d4f91c7e419c83ee2cadc1f4f4e966b2691d94bc41195300b72a261",
+      "editorial_file_sha256": "64074b9dfe8bb422c109930db200234c075e93fa280c5af8838656373e26586a",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 37,
+        "remove_filler_um_uh_er": 68,
+        "remove_leading_discourse_only": 29
+      }
+    },
+    {
+      "video_id": "K-_l9jBGo74",
+      "title": "Secret History #2:  How Societies Collapse",
+      "video_url": "https://www.youtube.com/watch?v=K-_l9jBGo74",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/094 — Secret History #2 How Societies Collapse [K-_l9jBGo74].md",
+      "source_file_sha256": "423cf9820493e5f69ef209b8102cac996eb2592957f2d622850f65ae98897f92",
+      "editorial_file_sha256": "4eab32ef0a60aba999ae1bb3b93a48ec8478101a18ce06b915fdde54a4afb3b3",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 40,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 54,
+        "remove_leading_discourse_only": 46
+      }
+    },
+    {
+      "video_id": "lt8XLz78ZvY",
+      "title": "Secret History #1:  How Power Works (4K Re-Upload with Audio Fixed)",
+      "video_url": "https://www.youtube.com/watch?v=lt8XLz78ZvY",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/095 — Secret History #1 How Power Works (4K Re-Upload with Audio Fixed) [lt8XLz78ZvY].md",
+      "source_file_sha256": "5e08413d651fb146f63c2e1d00c281df28b945a36d32ae28c969c3ee840f6047",
+      "editorial_file_sha256": "c85bf13d1f24b47ab273ba48292777de20dec0753855033fb993a57a9ccc477d",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 34,
+        "remove_filler_um_uh_er": 40,
+        "remove_leading_discourse_only": 49
+      }
+    },
+    {
+      "video_id": "ajFXykT9Joo",
+      "title": "Secret History #1:  How Power Works",
+      "video_url": "https://www.youtube.com/watch?v=ajFXykT9Joo",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/096 — Secret History #1 How Power Works [ajFXykT9Joo].md",
+      "source_file_sha256": "2195608e8400d83880ffac08e70dc47db5ffb573a89bf7d3ba8b0f50d5ff1dfb",
+      "editorial_file_sha256": "0c783b8f20ead4d3ca2d8d70bce4f75eb3ea1f7a1da671880bb28caee95129a6",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 35,
+        "remove_filler_um_uh_er": 42,
+        "remove_leading_discourse_only": 56
+      }
+    },
+    {
+      "video_id": "E83dpuyvpiM",
+      "title": "Geo-Strategy Update #8:  Why the West is Doomed",
+      "video_url": "https://www.youtube.com/watch?v=E83dpuyvpiM",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/097 — Geo-Strategy Update #8 Why the West is Doomed [E83dpuyvpiM].md",
+      "source_file_sha256": "5a0d2a6bb664b287afd7cab152b5af3ab57dba675d159636d2f42118786218c8",
+      "editorial_file_sha256": "42f4c9af3d100158a176da8c6224e098276a2cd57d874a1c15b24bdf38344c31",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 55,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 204,
+        "remove_leading_discourse_only": 5
+      }
+    },
+    {
+      "video_id": "YQ-xg1nIbMs",
+      "title": "Geo-Strategy Update #7:  When Eschatologies Converge",
+      "video_url": "https://www.youtube.com/watch?v=YQ-xg1nIbMs",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/098 — Geo-Strategy Update #7 When Eschatologies Converge [YQ-xg1nIbMs].md",
+      "source_file_sha256": "aba2155b3411885c0708448d05160938eeafc20f5dd1d32191732b24d936ae31",
+      "editorial_file_sha256": "a882f4f99c48df09c7a7c47a6fa4fb03b3fd1a6cac432bcd5c4734e2461b64db",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 48,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 188,
+        "remove_leading_discourse_only": 12
+      }
+    },
+    {
+      "video_id": "ZgvAHZqaawA",
+      "title": "Geo-Strategy Update #6:  Is Putin the Ubermensch?",
+      "video_url": "https://www.youtube.com/watch?v=ZgvAHZqaawA",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/099 — Geo-Strategy Update #6 Is Putin the Ubermensch [ZgvAHZqaawA].md",
+      "source_file_sha256": "c5a89fb9157924231a6c99828fad5226cb250b7d44d532112fa6c659d78f184a",
+      "editorial_file_sha256": "c6da9917eed8a4f081c6c208502e472b79f235542f90e7294da592bffb5b9efa",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 33,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 142,
+        "remove_leading_discourse_only": 7
+      }
+    },
+    {
+      "video_id": "5I2VPYPJJ68",
+      "title": "Geo-Strategy Update #5:   The Universal Law of Game Theory",
+      "video_url": "https://www.youtube.com/watch?v=5I2VPYPJJ68",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/100 — Geo-Strategy Update #5 The Universal Law of Game Theory [5I2VPYPJJ68].md",
+      "source_file_sha256": "1e8ffa78e443004b900fb51daa431b6392f74202e9f700c44539c908138d08ce",
+      "editorial_file_sha256": "86bbf5dbd1a961e97280300c6d63d44d4f39feebf1734f78b26455cfde63bc6d",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 52,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 156,
+        "remove_leading_discourse_only": 7
+      }
+    },
+    {
+      "video_id": "Kw-TiN6dEcM",
+      "title": "Geo-Strategy Update #4:  Newton's Divine Plan",
+      "video_url": "https://www.youtube.com/watch?v=Kw-TiN6dEcM",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/101 — Geo-Strategy Update #4 Newton's Divine Plan [Kw-TiN6dEcM].md",
+      "source_file_sha256": "9b9792e0aa9d6a2f96d5705ae7abacaf15dee3f56b16e0d3d8a27f544ce96c52",
+      "editorial_file_sha256": "ff06664a8203c6406db046554c1080150e033a6a8c5fd2214401e3802e3004b7",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 204
+      }
+    },
+    {
+      "video_id": "bc9adtiIN_k",
+      "title": "Geo-Strategy Update #3:  The Messianic Calling",
+      "video_url": "https://www.youtube.com/watch?v=bc9adtiIN_k",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/102 — Geo-Strategy Update #3 The Messianic Calling [bc9adtiIN_k].md",
+      "source_file_sha256": "d14b9aca787cd3058ef562a9ffa29cda3d9245e7fabaaefbe8cd8050e2fc71cb",
+      "editorial_file_sha256": "a5a61ccdaead0ac6cfca94fe73a7442ddc36bdf311ba895d3fd6314cd9b231a7",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 137
+      }
+    },
+    {
+      "video_id": "N4cs-8mrP_s",
+      "title": "Geo-Strategy Update #2:  WWIII Begins, Let's Game Theory",
+      "video_url": "https://www.youtube.com/watch?v=N4cs-8mrP_s",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/103 — Geo-Strategy Update #2 WWIII Begins, Let's Game Theory [N4cs-8mrP_s].md",
+      "source_file_sha256": "c4f4c387fa6982bd5f9a6bac4c7f6351c8452fd68af067d08016c98187584b9d",
+      "editorial_file_sha256": "a9e1d3a67751ba66ed7e9f0a885b52587e903881b985a1578cd11fe3a732c92c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 114
+      }
+    },
+    {
+      "video_id": "8XdL-7tAqnU",
+      "title": "Geo-Strategy Update:  US-Iran War Incoming",
+      "video_url": "https://www.youtube.com/watch?v=8XdL-7tAqnU",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/104 — Geo-Strategy Update US-Iran War Incoming [8XdL-7tAqnU].md",
+      "source_file_sha256": "914be0274402413d1acb46f79878419dc945ee81134a2df459a100da92126e50",
+      "editorial_file_sha256": "7717053fd86214a61fd7e7b86b0233786455c42f103484afe458f845f3ba1a09",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 7,
+        "remove_filler_um_uh_er": 212
+      }
+    },
+    {
+      "video_id": "voQEteh6Hko",
+      "title": "Civilization BONUS:  Meet Professor Jiang",
+      "video_url": "https://www.youtube.com/watch?v=voQEteh6Hko",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/105 — Civilization BONUS Meet Professor Jiang [voQEteh6Hko].md",
+      "source_file_sha256": "c130d479d80423ca38118185479e6617f99f433d20ab0a863124be58b7e58678",
+      "editorial_file_sha256": "0a30dc622fb7e80d21681541b65d928f3a6d90da80f59a70c143e378a06b0571",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 31,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 126,
+        "remove_leading_discourse_only": 1,
+        "repair_ever_since_working": 1,
+        "repair_partial_first_time": 1,
+        "repair_split_previous": 1,
+        "repair_worked_in_capacities": 1
+      }
+    },
+    {
+      "video_id": "_gH4PvIni5E",
+      "title": "Civilization #END:  The Decline and Fall of the American Empire",
+      "video_url": "https://www.youtube.com/watch?v=_gH4PvIni5E",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/106 — Civilization #END The Decline and Fall of the American Empire [_gH4PvIni5E].md",
+      "source_file_sha256": "894091ef26ddb353f3d07437168f435951801b636922701437bca9ed315ea864",
+      "editorial_file_sha256": "d359105d33e718e39e11c56f65dd039680aa28439a04e2aaeb2f27ab647488ab",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 69,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 174,
+        "remove_leading_discourse_only": 57
+      }
+    },
+    {
+      "video_id": "QtqfIjK1GAc",
+      "title": "Civilization #59:  The Man of Steel",
+      "video_url": "https://www.youtube.com/watch?v=QtqfIjK1GAc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/107 — Civilization #59 The Man of Steel [QtqfIjK1GAc].md",
+      "source_file_sha256": "56236d9b7684fcb1da3853aea75ae861e6a136b888a79b83bfdd397c2e81bb6b",
+      "editorial_file_sha256": "f9ed15b6c0479137573d87acdf11deacbacbe2b3c2c2aa6711d8895dd14692a8",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 73,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 231,
+        "remove_leading_discourse_only": 67
+      }
+    },
+    {
+      "video_id": "tquo1UsC5Nw",
+      "title": "Civilization #58:  Birth of the Nation-State",
+      "video_url": "https://www.youtube.com/watch?v=tquo1UsC5Nw",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/108 — Civilization #58 Birth of the Nation-State [tquo1UsC5Nw].md",
+      "source_file_sha256": "f8b15adc9fb6dc7d1f2e58e35b196db706afc85e0cb08213a0838de0f4ce87c3",
+      "editorial_file_sha256": "7d0930b01b65f1b297a370ec2962a34d6ca889d5649e6f622bb046a8ce519c1d",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 205
+      }
+    },
+    {
+      "video_id": "cylkQPsfFRY",
+      "title": "Civilization #57： How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)",
+      "video_url": "https://www.youtube.com/watch?v=cylkQPsfFRY",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/109 — Civilization #57： How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa) [cylkQPsfFRY].md",
+      "source_file_sha256": "91b018c24f78f8d1347b4858e3385221de99e1b4226504f387028eb8039df03d",
+      "editorial_file_sha256": "7508a3159bf9cf9c8b0d6c8701eccd9b18504de2d2582044b7cd546d3fe91b90",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 63,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 181,
+        "remove_leading_discourse_only": 40
+      }
+    },
+    {
+      "video_id": "ra2v9HkaHz8",
+      "title": "Civilization #57:  How Modernism Ruined Everything",
+      "video_url": "https://www.youtube.com/watch?v=ra2v9HkaHz8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/110 — Civilization #57 How Modernism Ruined Everything [ra2v9HkaHz8].md",
+      "source_file_sha256": "826daf7f9819801bd02ea67f65ce6913c1c2fd005b6e26e4c912e708dca7bcfd",
+      "editorial_file_sha256": "85bb6beb6c6c7de3a6e01fb0caa898aeee6db9960087452688a87f06f875a508",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 179,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "m24LnQ-Ksjk",
+      "title": "Civilization #56:  What Marx Got Wrong",
+      "video_url": "https://www.youtube.com/watch?v=m24LnQ-Ksjk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/111 — Civilization #56 What Marx Got Wrong [m24LnQ-Ksjk].md",
+      "source_file_sha256": "f4385738b3bd88d985fd2dfe137c5ce0597c12f8d842655e92607cbc8b8bb60e",
+      "editorial_file_sha256": "c7db46a1ab7222c5db0f256bc0d5c0f609a30d473a3f0bdfcc02413d17e647e1",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 3,
+        "remove_filler_um_uh_er": 160,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "_3c3FjS57x4",
+      "title": "Civilization #55:  Kant, Hegel, and the Theory of Everything",
+      "video_url": "https://www.youtube.com/watch?v=_3c3FjS57x4",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/112 — Civilization #55 Kant, Hegel, and the Theory of Everything [_3c3FjS57x4].md",
+      "source_file_sha256": "d7357328e98f1ee3ca1295294ddf438fd51eab8614e7c93959899abfc98de133",
+      "editorial_file_sha256": "3e0ac53496e59ffe3b0becb03cb7c14a2dd58333f21a5e7d454473075e10a6ef",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 3,
+        "remove_filler_um_uh_er": 199,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "o2Nq--qU9Kc",
+      "title": "Civilization #54:  The German Will to Power",
+      "video_url": "https://www.youtube.com/watch?v=o2Nq--qU9Kc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/113 — Civilization #54 The German Will to Power [o2Nq--qU9Kc].md",
+      "source_file_sha256": "0b1c5d6020229e0d6204a0eba32a7d5c269c9db38b01f5764926acdeac50db6a",
+      "editorial_file_sha256": "72aacf306732142dab532b04f888c9de854b0a5c5dee4d289a7b9bfb21adffd0",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 208,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "0rALqcPWuH0",
+      "title": "Civilization #53:  Dostoevsky and the Soul of Russia",
+      "video_url": "https://www.youtube.com/watch?v=0rALqcPWuH0",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/114 — Civilization #53 Dostoevsky and the Soul of Russia [0rALqcPWuH0].md",
+      "source_file_sha256": "e40cf1f263399930688ace5af798d049f09a196db6f368d58279e7d966a3bb4c",
+      "editorial_file_sha256": "eece9b38202decbd7fd2ea1182ee7898d9480342ee2d0f40ac0694a564086050",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 7,
+        "remove_filler_um_uh_er": 218,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "ea20aMYfT5I",
+      "title": "Civilization #52:  Empire of Democracy",
+      "video_url": "https://www.youtube.com/watch?v=ea20aMYfT5I",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/115 — Civilization #52 Empire of Democracy [ea20aMYfT5I].md",
+      "source_file_sha256": "a414985a4763a0bee42809568efe16e05e5fe9803089992c22e6edcec74de70f",
+      "editorial_file_sha256": "8efb07881114ec1b96cfd4acb79ed45ef646b227b16f8d0fea13407cd7a1f460",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 161,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "Qms7trnKwqQ",
+      "title": "Civilization #51:  Shakespeare's Language of Empire",
+      "video_url": "https://www.youtube.com/watch?v=Qms7trnKwqQ",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/116 — Civilization #51 Shakespeare's Language of Empire [Qms7trnKwqQ].md",
+      "source_file_sha256": "3c83440692409327481f8cfc9c7601bda180efa6050888001d58726a7c1cb3a0",
+      "editorial_file_sha256": "f74882d1abfead3f49c891b2cf99d6469ccf4fd757fe1dd5f8cd79bc8d645788",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 3,
+        "remove_filler_um_uh_er": 169,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "laGSxfvlOfk",
+      "title": "Civilization #50:  Rule, Britannia!",
+      "video_url": "https://www.youtube.com/watch?v=laGSxfvlOfk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/117 — Civilization #50 Rule, Britannia! [laGSxfvlOfk].md",
+      "source_file_sha256": "26c19b1a596c2a7d4651f1d815c76119d3fef1b6a4b521aeffc8a9e61f55da55",
+      "editorial_file_sha256": "67333e3f552c80653bdabc91138c8e59b482e3cd0cb65986865912211fb602e6",
+      "rule_application_counts": {
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 169,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "JZ8P-FZHWnQ",
+      "title": "Civilization #49:  The Dutch Golden Age and the Rise of the Middle Class",
+      "video_url": "https://www.youtube.com/watch?v=JZ8P-FZHWnQ",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/118 — Civilization #49 The Dutch Golden Age and the Rise of the Middle Class [JZ8P-FZHWnQ].md",
+      "source_file_sha256": "cd2c790b85d34d8bca291bdb9e1d7244c9f1aa2be0c87204da60d4e68601f585",
+      "editorial_file_sha256": "b8530435b1a9d2e692eb252976441a10ae1fb51ea6d17ab74dfaee7323842b99",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 3,
+        "remove_filler_um_uh_er": 212,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "enEET_0j_Y8",
+      "title": "Civilization #48:  Napoleon's Empire of Myth",
+      "video_url": "https://www.youtube.com/watch?v=enEET_0j_Y8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/119 — Civilization #48 Napoleon's Empire of Myth [enEET_0j_Y8].md",
+      "source_file_sha256": "d954ac28af1887d03f0f1d80f71c9d31b044ee1d1a23c2b5ae85e2a38284cf88",
+      "editorial_file_sha256": "4efd5659c39e76a0fbf3ed4e6bad428145725af873ffad8f521948d2b2123c79",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 131,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "ef-Ch2LGDDI",
+      "title": "Civilization #47:  The Passion of Robespierre",
+      "video_url": "https://www.youtube.com/watch?v=ef-Ch2LGDDI",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/120 — Civilization #47 The Passion of Robespierre [ef-Ch2LGDDI].md",
+      "source_file_sha256": "88499f68a8c0b3ffb57a7b8cf59e2b3e851ef5dc4d4b77c5b807be739feb0d3c",
+      "editorial_file_sha256": "03d87fcf6acb6dda823260e657c70196c430496ddd2cbbd366ead7fc7a42d386",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 90
+      }
+    },
+    {
+      "video_id": "5HwZx5kQm9o",
+      "title": "Civilization #46:  The Revolution of Reason",
+      "video_url": "https://www.youtube.com/watch?v=5HwZx5kQm9o",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/121 — Civilization #46 The Revolution of Reason [5HwZx5kQm9o].md",
+      "source_file_sha256": "d75e94476c9e7973b9a69d41be646ce5066bc6dcd4f1f769e0eec3a0dc8163a9",
+      "editorial_file_sha256": "4c59f5301d27285495fc0e07bd1a24856f075054b18ca6888f16a60aa75aead2",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 112
+      }
+    },
+    {
+      "video_id": "DiRJyy-8V54",
+      "title": "Civilization #45:  The Gunpowder Revolution",
+      "video_url": "https://www.youtube.com/watch?v=DiRJyy-8V54",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/122 — Civilization #45 The Gunpowder Revolution [DiRJyy-8V54].md",
+      "source_file_sha256": "b1a43a8b211c4346798e98826cce8f67cbff112af721ce375d999ecb21076b0f",
+      "editorial_file_sha256": "73468c33dc104ae14accd982ec82fb311f0a6aa5294bc374d4533fb8ea30cb4e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 191,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "-DnfGcvZrfA",
+      "title": "Civilization #44:  The Spanish Conquest of the New World",
+      "video_url": "https://www.youtube.com/watch?v=-DnfGcvZrfA",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/123 — Civilization #44 The Spanish Conquest of the New World [-DnfGcvZrfA].md",
+      "source_file_sha256": "821b66903127105028f771ba3edf35e20429151f6df3456846350b709aa7a5b0",
+      "editorial_file_sha256": "e8f7885ebf15cdab3677434887eb7ad5914d6203f8760ae0b9fa592a5f54c46e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 178,
+        "remove_leading_discourse_only": 1,
+        "repair_dangling_basically_prevent": 1
+      }
+    },
+    {
+      "video_id": "CjtUnKcU1IA",
+      "title": "Civilization #43:  The Structure of Scientific Revolutions",
+      "video_url": "https://www.youtube.com/watch?v=CjtUnKcU1IA",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/124 — Civilization #43 The Structure of Scientific Revolutions [CjtUnKcU1IA].md",
+      "source_file_sha256": "9261bb84227964b08b6d7a4dcb60ab607f1083721a94e0c7e556fafdf82777f0",
+      "editorial_file_sha256": "68399e46747015e5ce6d2725168e7cfc6a75ad9aa239fec97e92a222a0edba24",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 7,
+        "remove_filler_um_uh_er": 237,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "TcxlOiJz8V0",
+      "title": "Civilization #42:  The Protestant Reformation and the Birth of Capitalism",
+      "video_url": "https://www.youtube.com/watch?v=TcxlOiJz8V0",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/125 — Civilization #42 The Protestant Reformation and the Birth of Capitalism [TcxlOiJz8V0].md",
+      "source_file_sha256": "ee86fe530cc98b476e1f9e1a49a8f0c8a8b29fbe4275535f26f654efdeed3908",
+      "editorial_file_sha256": "3bd592daecb0d511f370a763261c581fbcef61e5719c35fd725d5c95afa256a5",
+      "rule_application_counts": {
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 145,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "v6CDqJnrvLk",
+      "title": "Civilization #41:  Dante's Quiet Revolution",
+      "video_url": "https://www.youtube.com/watch?v=v6CDqJnrvLk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/126 — Civilization #41 Dante's Quiet Revolution [v6CDqJnrvLk].md",
+      "source_file_sha256": "fa5931310406f1248fc08aef221f641aca5bf142bd5c664370eba3fb72345bbc",
+      "editorial_file_sha256": "e072514037ba5f57a950a5df9c851930221fe565ebe02c5f05ad7759cccd7724",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 157,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "3751ZjwmrBw",
+      "title": "Civilization #40:  Church and Empire",
+      "video_url": "https://www.youtube.com/watch?v=3751ZjwmrBw",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/127 — Civilization #40 Church and Empire [3751ZjwmrBw].md",
+      "source_file_sha256": "0935f60cccf67a1bddf70e42aa8622f8c984390d3226f531739bf36415311990",
+      "editorial_file_sha256": "d9f50cc26dac2a828f2f8e7441cc61ff43c0a839606e1d8b4386e53ee89e5806",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 181,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "mPQzAPnjYkM",
+      "title": "Civilization #39:  Genghis Khan, World Shatterer",
+      "video_url": "https://www.youtube.com/watch?v=mPQzAPnjYkM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/128 — Civilization #39 Genghis Khan, World Shatterer [mPQzAPnjYkM].md",
+      "source_file_sha256": "f7ceabb441854596dae2f82363a424dee08a85cce7298a91bfc0389a3c6c2724",
+      "editorial_file_sha256": "fdfa700eb607eed0bdee56a98ac55f0f5c94deb3d616ea805e8950a1c576a4c8",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 6,
+        "remove_filler_um_uh_er": 266,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "A2LMJerHcKM",
+      "title": "Civilization #38:  Twilight of the Middle Kingdom",
+      "video_url": "https://www.youtube.com/watch?v=A2LMJerHcKM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/129 — Civilization #38 Twilight of the Middle Kingdom [A2LMJerHcKM].md",
+      "source_file_sha256": "4a6aec5cfeea4f98be9b8a8b622acb17575dff2b51456dd50681c9194a55c3b5",
+      "editorial_file_sha256": "f644b44e32a49d14112fb73cd03af2897617356aa0960b3494c615f8fa73c627",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 5,
+        "remove_filler_um_uh_er": 162,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "2OdO8LoKuo8",
+      "title": "Civilization #37:  The Golden Age of Islam",
+      "video_url": "https://www.youtube.com/watch?v=2OdO8LoKuo8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/130 — Civilization #37 The Golden Age of Islam [2OdO8LoKuo8].md",
+      "source_file_sha256": "f32c78c21a572834f7f451c0c9a6edee7823a491650f5ffe06e04522e857e2de",
+      "editorial_file_sha256": "95ec620412c2264bc637f95bc725c1828212259f1d0c565dd707618eb9e063d3",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 232,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "tYMNsa83NHY",
+      "title": "Civilization #36:  Memory of the Norse",
+      "video_url": "https://www.youtube.com/watch?v=tYMNsa83NHY",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/131 — Civilization #36 Memory of the Norse [tYMNsa83NHY].md",
+      "source_file_sha256": "e2225e7f0fbcbf7069d8dc339d01c09f28287dc354aa0263a69155ed84d075e4",
+      "editorial_file_sha256": "5dde4e73587938f9efa006851efcd1fabf2e5dba4f6a651948aec153fe0520f9",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 2,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 91
+      }
+    },
+    {
+      "video_id": "7k5XoLzwmls",
+      "title": "Civilization #35:  The Viking Legacy",
+      "video_url": "https://www.youtube.com/watch?v=7k5XoLzwmls",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/132 — Civilization #35 The Viking Legacy [7k5XoLzwmls].md",
+      "source_file_sha256": "cb9266de70b2ec980705b4a259ab6957e32a3ec19a435fbc5bee4302b2ed18ed",
+      "editorial_file_sha256": "1265d957daad404569fafe31cc3e71ed7a5d80c01eabf9412f5d279080adff23",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 197,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "1dwvgtc7XzY",
+      "title": "Civilization #34:  The Useful Fiction of the Holy Roman Empire",
+      "video_url": "https://www.youtube.com/watch?v=1dwvgtc7XzY",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/133 — Civilization #34 The Useful Fiction of the Holy Roman Empire [1dwvgtc7XzY].md",
+      "source_file_sha256": "346e9a62e492c204f1958fe3c9d9221409320ab38eec5f145eba3eb974ea2aea",
+      "editorial_file_sha256": "7fa2d7595244e4a3d59f89ed36f3f5cc7f7f632e1cdff2e84bfdd88e4b91397e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 177,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "abs6z7VPEMc",
+      "title": "Civilization #33:  The Rise and Fall of the Byzantine Empire",
+      "video_url": "https://www.youtube.com/watch?v=abs6z7VPEMc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/134 — Civilization #33 The Rise and Fall of the Byzantine Empire [abs6z7VPEMc].md",
+      "source_file_sha256": "9ccb00e76e5c62d0978f8ea391ddd9e0dedab5b87128e95c0130af3d812b25ad",
+      "editorial_file_sha256": "d4314c1c87fa3f79c44691c7bba32d4610b584700d922f8da50d17b76b9097ec",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 199,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "_Io7-_RS8uE",
+      "title": "Civilization #32:  Rome's Rise, Fall, and Legacy",
+      "video_url": "https://www.youtube.com/watch?v=_Io7-_RS8uE",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/135 — Civilization #32 Rome's Rise, Fall, and Legacy [_Io7-_RS8uE].md",
+      "source_file_sha256": "a0e1628a3292ea034a32c649a6d0df1c120d3ddce5a953bd08bb0ed2eab38c74",
+      "editorial_file_sha256": "17e2ef35e08b4a505ecd6a0fdbb08df94bad8b1820b938a9c4496c0e8efdc22a",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 100,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "HIoYQBbBllk",
+      "title": "Civilization #31:  The Oceanic Currents of History",
+      "video_url": "https://www.youtube.com/watch?v=HIoYQBbBllk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/136 — Civilization #31 The Oceanic Currents of History [HIoYQBbBllk].md",
+      "source_file_sha256": "4310a536ccdbea1b47b2f8a58e7da3d5d2897fc24fd4b550ea627719678897ee",
+      "editorial_file_sha256": "26388af7f69db3eebb1fdc63cf4dd2015b367d9507f2dab9bef1ede99fad047a",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 73,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "asbKjezwIJM",
+      "title": "Civilization #30:  Dante as the Second Coming of Homer",
+      "video_url": "https://www.youtube.com/watch?v=asbKjezwIJM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/137 — Civilization #30 Dante as the Second Coming of Homer [asbKjezwIJM].md",
+      "source_file_sha256": "444f48e96e67858cb163fe355d182cb5994c2921252d7ca3f768c1fac5e17fd9",
+      "editorial_file_sha256": "8d74efaa33fcbb7efee9faab6ec17a1bdb64d22fd9baf1e15cffeb802168168e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 90,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "GfqJi0qevok",
+      "title": "Civilization #29:  Dante's Divine Comedy and the Liberation of the Human Imagination",
+      "video_url": "https://www.youtube.com/watch?v=GfqJi0qevok",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/138 — Civilization #29 Dante's Divine Comedy and the Liberation of the Human Imagination [GfqJi0qevok].md",
+      "source_file_sha256": "a6b6e3eac78a7c93272310330781447ceea7a8159ae605fcb87d2df807a96cd6",
+      "editorial_file_sha256": "6f8bcd029b49f88fef359468bf6f4f999462af8364638b97fc1fa3523d35a4cb",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 66,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "C9rzPGJ0wm4",
+      "title": "Civilization #28:  Muhammad's Revolution of God",
+      "video_url": "https://www.youtube.com/watch?v=C9rzPGJ0wm4",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/139 — Civilization #28 Muhammad's Revolution of God [C9rzPGJ0wm4].md",
+      "source_file_sha256": "40bb14756db7a4e7006f098908320a7aba0a490c243571fef8ce09214e6c358b",
+      "editorial_file_sha256": "069cff064da9a0247da483061aa94acf44ff80319d847a589914948f72502563",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 45,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "GdbZBVUIVDE",
+      "title": "Civilization #27:  Augustine's Empire of God",
+      "video_url": "https://www.youtube.com/watch?v=GdbZBVUIVDE",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/140 — Civilization #27 Augustine's Empire of God [GdbZBVUIVDE].md",
+      "source_file_sha256": "fa15a7374f5e5d5484973d245c71413d21c3e33d071b647218d53a272c9ad44d",
+      "editorial_file_sha256": "c50f2356b50ac33383aa9a87fefa79008f6a882eb0ed507e61f2ded522972d27",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 71,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "za30rbC3tTg",
+      "title": "Civilization #26:  Constantine's Monotheistic Revolution",
+      "video_url": "https://www.youtube.com/watch?v=za30rbC3tTg",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/141 — Civilization #26 Constantine's Monotheistic Revolution [za30rbC3tTg].md",
+      "source_file_sha256": "8da9c4d791de0623db6b7fce3fd11e157a7cfb16988aabed1ab19f05dde8805e",
+      "editorial_file_sha256": "3a20df7ef62ea4eb6c145c6e54d1560d0f8507db0d4a67a2a988a522051aef83",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 58,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "kuMhSFXnr5I",
+      "title": "Civilization #25:  Paul of Tarsus, Messiah of Rome",
+      "video_url": "https://www.youtube.com/watch?v=kuMhSFXnr5I",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/142 — Civilization #25 Paul of Tarsus, Messiah of Rome [kuMhSFXnr5I].md",
+      "source_file_sha256": "3bf66e415012ab517c53698dd8e497615448dead78cc378362bd9a9f826af4de",
+      "editorial_file_sha256": "e1379056d08c3aaeaa39d340c0e594e741356c24f22bd8667eb68e7557bacb40",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 48,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "_bXHBT5NTfc",
+      "title": "Civilization #24:  Resurrecting the Gnostic Jesus",
+      "video_url": "https://www.youtube.com/watch?v=_bXHBT5NTfc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/143 — Civilization #24 Resurrecting the Gnostic Jesus [_bXHBT5NTfc].md",
+      "source_file_sha256": "2819df53f4ce09c9c6a834a444748f8aa35a70798e6be870e6e6a4dedcd94b39",
+      "editorial_file_sha256": "ad1cf7b23d7e5f38e5f47aff8e4ab52d5183bf6ba35ff48658d0f7d41b66fe2e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 72,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "HvVTNTPzq7E",
+      "title": "Civilization #23:  Cyrus the Great as Messiah",
+      "video_url": "https://www.youtube.com/watch?v=HvVTNTPzq7E",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/144 — Civilization #23 Cyrus the Great as Messiah [HvVTNTPzq7E].md",
+      "source_file_sha256": "7933a6965e6ce58cd2d16458b0d273c5df13be922bea95d22dd28c5fbebf8974",
+      "editorial_file_sha256": "80970330b83ae58e1fb0b87b49e360b90b6d6182d3e627e0c3f963469e638e31",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 110,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "GhLd_h1QsL4",
+      "title": "Civilization #22:  The Literary Genesis of the Yahwist",
+      "video_url": "https://www.youtube.com/watch?v=GhLd_h1QsL4",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/145 — Civilization #22 The Literary Genesis of the Yahwist [GhLd_h1QsL4].md",
+      "source_file_sha256": "614dee9a40d8368f4a86711a56e8a4d2bc9a96c49ef4387efb894f57aef36c9b",
+      "editorial_file_sha256": "f69a958c4a8e9e3c01d32a41702d8ce80a6c24802ed1d317b0a30a7a60e47b7f",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 64,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "RkpGrRUgjnk",
+      "title": "Civilization #21:  The Apology of King David of Israel",
+      "video_url": "https://www.youtube.com/watch?v=RkpGrRUgjnk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/146 — Civilization #21 The Apology of King David of Israel [RkpGrRUgjnk].md",
+      "source_file_sha256": "7f1d54bd08c9d601fcfeabf068d1f4548bf7926e316d6de54fc0dce304e41066",
+      "editorial_file_sha256": "59d9ad6225dfd575df0cfd169c69a6dc0c64d6ca99c366f49ae03587d05e6c56",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 3,
+        "remove_filler_um_uh_er": 140
+      }
+    },
+    {
+      "video_id": "cvI8rukoda8",
+      "title": "Civilization #20:  The Proto-Buddhists of the Indus Valley (Harappan) Civilization",
+      "video_url": "https://www.youtube.com/watch?v=cvI8rukoda8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/147 — Civilization #20 The Proto-Buddhists of the Indus Valley (Harappan) Civilization [cvI8rukoda8].md",
+      "source_file_sha256": "16b000f1f285f8eeaf9c0142ea114bad66671aef8f93e37fb95c1d179582ed86",
+      "editorial_file_sha256": "553f446b48e82c3117ff9ffb5f1cc032f8ce67b79698080812d8b2ea006ab8a8",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 184,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "e92jyBMmAyM",
+      "title": "Civilization #19:  Gilgamesh and Mesopotamia's Quest for Immortality",
+      "video_url": "https://www.youtube.com/watch?v=e92jyBMmAyM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/148 — Civilization #19 Gilgamesh and Mesopotamia's Quest for Immortality [e92jyBMmAyM].md",
+      "source_file_sha256": "99980eda50deca484c65a20a533eeb8ebf0026d2c465df23f5264e36e5ee4b7e",
+      "editorial_file_sha256": "9f1f94d7d78c2c1e630967c520b3a536db5123a6a3de5e27015280c057133810",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 71,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "KSSSCznYrGo",
+      "title": "Civilization #18:  The Great Pyramid as Ancient Egypt's Manhattan Project",
+      "video_url": "https://www.youtube.com/watch?v=KSSSCznYrGo",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/149 — Civilization #18 The Great Pyramid as Ancient Egypt's Manhattan Project [KSSSCznYrGo].md",
+      "source_file_sha256": "ef6548009263fe01ebc6c810838923d0f62b9ccbc5533dc351f54a3a73dbe245",
+      "editorial_file_sha256": "2dea3a50a7c7ba16d26a73b2d0898f398d830141740b345fdf2bf9626b5829b5",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 105
+      }
+    },
+    {
+      "video_id": "myTurqU7NxU",
+      "title": "Civilization #17:  Homer, Vergil, and the War for the Soul of Rome",
+      "video_url": "https://www.youtube.com/watch?v=myTurqU7NxU",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/150 — Civilization #17 Homer, Vergil, and the War for the Soul of Rome [myTurqU7NxU].md",
+      "source_file_sha256": "48fc8ff063dcdc12a808f789ddd25068955e575b1935902e9687a1112e897239",
+      "editorial_file_sha256": "f9c5ccbed967403ff247ae41e3ee409a5658e2382ed1609e4459ca858e805650",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 71,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "Dc54IquR7ik",
+      "title": "Civilization #16:  Julius Caesar's Will and Octavian's Birth of Empire",
+      "video_url": "https://www.youtube.com/watch?v=Dc54IquR7ik",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/151 — Civilization #16 Julius Caesar's Will and Octavian's Birth of Empire [Dc54IquR7ik].md",
+      "source_file_sha256": "1cb51d523cc8b4ae9da6a223bae315746da82fc666c4f25aa30b6d92415edba0",
+      "editorial_file_sha256": "dc360790c412111c7b2c60a6bacd1240d472b331012a4357dfd44b4b46dc58b6",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 111
+      }
+    },
+    {
+      "video_id": "F8qQgsEFGgc",
+      "title": "Civilization #15:  The Myth-Making Genius of Julius Caesar",
+      "video_url": "https://www.youtube.com/watch?v=F8qQgsEFGgc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/152 — Civilization #15 The Myth-Making Genius of Julius Caesar [F8qQgsEFGgc].md",
+      "source_file_sha256": "6662d9a84afcfe519f77513db523c68abb309b40d9f11643e698a55fdb409efd",
+      "editorial_file_sha256": "9ff5398649b0f24c2b8931efaece06ed1869de68aa390d865b5e8ec6d68abf70",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 159,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "TdcE7XGDayo",
+      "title": "Civilization #14:  Hannibal Barca, Lucius Brutus, and the Triumph of Rome",
+      "video_url": "https://www.youtube.com/watch?v=TdcE7XGDayo",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/153 — Civilization #14 Hannibal Barca, Lucius Brutus, and the Triumph of Rome [TdcE7XGDayo].md",
+      "source_file_sha256": "14f0081e9c55506d6bf9794fdac4f50af9d9162699b097ebdabbb1f76a5363ca",
+      "editorial_file_sha256": "623879efc5b3e3948537be5e9905da910e6a828547ef23021eb9ba8739681a42",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 141,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "WoTOxE4DTFA",
+      "title": "Civilization #13:  Aristotle and the Greek Legacy",
+      "video_url": "https://www.youtube.com/watch?v=WoTOxE4DTFA",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/154 — Civilization #13 Aristotle and the Greek Legacy [WoTOxE4DTFA].md",
+      "source_file_sha256": "f9f91dee0f42b1f1a2e59445904bf5f03242cfdded52e0b30490d12afdbb79ee",
+      "editorial_file_sha256": "b47af157ac60075004bb9ddccb8f709d97572cbc641a2e334d1a130d091b34f9",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 133,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "iTuRB48Of9Y",
+      "title": "Civilization #12:  The Tyranny of Alexander the Great",
+      "video_url": "https://www.youtube.com/watch?v=iTuRB48Of9Y",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/155 — Civilization #12 The Tyranny of Alexander the Great [iTuRB48Of9Y].md",
+      "source_file_sha256": "0cb960d345dbe5f4431a29bde3497a5595b68cf34d54300528542a92e7f4c930",
+      "editorial_file_sha256": "7223f74fa6bf1c8a5f439fed5038efaaf3025e4087d5124a0d674d5856e832fb",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 130,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "l6AroD58jkE",
+      "title": "Civilization #11:  The Greatness of Philip II of Macedon",
+      "video_url": "https://www.youtube.com/watch?v=l6AroD58jkE",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/156 — Civilization #11 The Greatness of Philip II of Macedon [l6AroD58jkE].md",
+      "source_file_sha256": "e474c397d27b2155547f8ba03008d6d903f095619eec56ea826e7f32e04e6ccc",
+      "editorial_file_sha256": "84e81c58a3896d02b1ed79a5e2d26b1a11aa6e585420388c51087a7a02961bcb",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 106,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "LWlTtdNww_k",
+      "title": "Civilization #10:  The Trial of Socrates and Plato's Allegory of the Cave",
+      "video_url": "https://www.youtube.com/watch?v=LWlTtdNww_k",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/157 — Civilization #10 The Trial of Socrates and Plato's Allegory of the Cave [LWlTtdNww_k].md",
+      "source_file_sha256": "08ee54a4014588c599f889005c7f53eb72c81119919d1a427390b80edcdc017a",
+      "editorial_file_sha256": "c20684a08907a32c370d8ea299e17a137fe90f6db58f989f8f43061e8ccb7acb",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 112,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "96hzWlozdHw",
+      "title": "Civilization #9:  Aeschylus, Sophocles, and Euripides as Prophets of Democracy",
+      "video_url": "https://www.youtube.com/watch?v=96hzWlozdHw",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/158 — Civilization #9 Aeschylus, Sophocles, and Euripides as Prophets of Democracy [96hzWlozdHw].md",
+      "source_file_sha256": "66f4895e92294ca589206ff4b824dcc2cbba973863077640da7a943e09375c66",
+      "editorial_file_sha256": "b3670b2d1dd25a22b37affe9d2e98961d88ce9238c61a5cc64c46df0834b5f7f",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 110,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "NpNCQ_gNqdE",
+      "title": "Civilization #8:  Rat Utopia and the Peloponnesian War",
+      "video_url": "https://www.youtube.com/watch?v=NpNCQ_gNqdE",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/159 — Civilization #8 Rat Utopia and the Peloponnesian War [NpNCQ_gNqdE].md",
+      "source_file_sha256": "2e340afb564bc9d7cb1c98622952466492bba0809c189cd800acccafa537b122",
+      "editorial_file_sha256": "edffac78f759d944893caae3d88f38fcde56a6db897be6c14a40bc286203e734",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 3,
+        "remove_filler_um_uh_er": 139,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "677rmlRgvLQ",
+      "title": "Civilization #7:  Homer's Iliad and the Birth of Greek Civilization",
+      "video_url": "https://www.youtube.com/watch?v=677rmlRgvLQ",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/160 — Civilization #7 Homer's Iliad and the Birth of Greek Civilization [677rmlRgvLQ].md",
+      "source_file_sha256": "a416d12b166417247ef1672d897bac10240caa946aa98964d5c4e57f11fd6636",
+      "editorial_file_sha256": "ff7c0891453db30b3377c83a2a6bf902ce67a79d3eaf1ecc0714afaab3acde8c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 54,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "QwfB-vXXKWU",
+      "title": "Civilization #6:  Elite Overproduction and the Bronze Age Collapse",
+      "video_url": "https://www.youtube.com/watch?v=QwfB-vXXKWU",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/161 — Civilization #6 Elite Overproduction and the Bronze Age Collapse [QwfB-vXXKWU].md",
+      "source_file_sha256": "89c54f07d50d65df471ebc46b5aca4ab01f3abd3e040c76143782783517b384c",
+      "editorial_file_sha256": "f8379a23c7482924bb9f9e7c2b8108e915c0ce7f4b7082cda0c8bef8d1bdc2b7",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 75,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "J4HTFJWl5D8",
+      "title": "Civilization #5:  The Yamnaya Conquest of Europe",
+      "video_url": "https://www.youtube.com/watch?v=J4HTFJWl5D8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/162 — Civilization #5 The Yamnaya Conquest of Europe [J4HTFJWl5D8].md",
+      "source_file_sha256": "d0b86f3dc8d0a9e7aea1b265284ab23b9049060439514b643c1491930d6b9434",
+      "editorial_file_sha256": "ae39d3794de6c20456f005f811b102f23bd9d926ac1adad78edb95ffc14ae858",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 69,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "RaT_ZUDjHrM",
+      "title": "Civilization #4:  The Paradise Lost of Marija Gimbutas",
+      "video_url": "https://www.youtube.com/watch?v=RaT_ZUDjHrM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/163 — Civilization #4 The Paradise Lost of Marija Gimbutas [RaT_ZUDjHrM].md",
+      "source_file_sha256": "11f4b8d3ba1a9732ae952f1459b13a76b04ff88d923a408cc2dfeabd3c5c91cf",
+      "editorial_file_sha256": "16117f01e8431ec1a5f4bec39242daab48f060a351dc8f8b79761671e39a8baf",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 93,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "VanPH0GFTsA",
+      "title": "Civilization #3:  The Religious Imagination",
+      "video_url": "https://www.youtube.com/watch?v=VanPH0GFTsA",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/164 — Civilization #3 The Religious Imagination [VanPH0GFTsA].md",
+      "source_file_sha256": "e2c45acc9f405b5168565a6ab1c6d4bd97826ccc691c57ab594c969b86648d3b",
+      "editorial_file_sha256": "da5b4f40a2c56ad4b705c34a3d337b1ea598240f2d9e06e77ee5509ba29dda50",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 47,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "x1E5rRmCiT4",
+      "title": "Civilization #2:  Religion and the Dawn of Society",
+      "video_url": "https://www.youtube.com/watch?v=x1E5rRmCiT4",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/165 — Civilization #2 Religion and the Dawn of Society [x1E5rRmCiT4].md",
+      "source_file_sha256": "fcaa2382cbadd67a767a2c04c5adaafd2ea49fdef39f277269252d31314918d7",
+      "editorial_file_sha256": "06d194c37a6c3546e3f573d7314973051e8fde59fd8e36366fd5d9039ac4aada",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 68,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "Jjqf9T59uY0",
+      "title": "Civilization #1:  Explaining Humanity's Transition to Agriculture",
+      "video_url": "https://www.youtube.com/watch?v=Jjqf9T59uY0",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/166 — Civilization #1 Explaining Humanity's Transition to Agriculture [Jjqf9T59uY0].md",
+      "source_file_sha256": "f39693f59139d9446bcbad7eac32116aebb0df3debbaa199769446f7fa6a0ec7",
+      "editorial_file_sha256": "52e63fc0080fa269c307915e427fc76d4f83dce474681ffb8c18b7565c0c4a8c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 68,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "s_k6esWheqA",
+      "title": "Geo-Strategy END:  Psychohistory (The Science of Imagining the Future)",
+      "video_url": "https://www.youtube.com/watch?v=s_k6esWheqA",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/167 — Geo-Strategy END Psychohistory (The Science of Imagining the Future) [s_k6esWheqA].md",
+      "source_file_sha256": "01743b31a3ac19664c87b152e75478a96b779e2be0b619d9ad003c1c6d94c2ee",
+      "editorial_file_sha256": "fbb0be471d62f544f2de5e19f56826c93258bf724e1ea33daa3fbcc83fc37df4",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 133,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "Go1bMQKnJBQ",
+      "title": "Geo-Strategy #11:  The Second American Civil War",
+      "video_url": "https://www.youtube.com/watch?v=Go1bMQKnJBQ",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/168 — Geo-Strategy #11 The Second American Civil War [Go1bMQKnJBQ].md",
+      "source_file_sha256": "e40baec7a13ee124102e7d9a8aff58239745cf85bfd5e642ccbdfd616894425a",
+      "editorial_file_sha256": "15d05fb32606f4fb7c87882f0da6a9afc79216887e99d1f86ea7b059cbf67a6e",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 127
+      }
+    },
+    {
+      "video_id": "B_al2wgk49Y",
+      "title": "Geo-Strategy #10:  Putin's Strategic Imagination",
+      "video_url": "https://www.youtube.com/watch?v=B_al2wgk49Y",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/169 — Geo-Strategy #10 Putin's Strategic Imagination [B_al2wgk49Y].md",
+      "source_file_sha256": "a222d1dc29d7e35d570b2d55d5a8de11480f63858cf357fed496c03e890b555a",
+      "editorial_file_sha256": "03ad021049a9aaf90561518e43179d51c85c89eafa1bf720ccefcc9f8b175734",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 87,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "AEPSUC-UQ5k",
+      "title": "Geo-Strategy #9:  Putin's War for the Soul of Russia",
+      "video_url": "https://www.youtube.com/watch?v=AEPSUC-UQ5k",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/170 — Geo-Strategy #9 Putin's War for the Soul of Russia [AEPSUC-UQ5k].md",
+      "source_file_sha256": "836c2220a94f8468af3737b8e412668041794dc38f9dbeda4e73c3f9c44170f8",
+      "editorial_file_sha256": "d3351e9bab569eb413a51a06a64b54f538afb79448ba94c3aae5202a319ca0ca",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 86
+      }
+    },
+    {
+      "video_id": "7y_hbz6loEo",
+      "title": "Geo-Strategy #8:  The Iran Trap",
+      "video_url": "https://www.youtube.com/watch?v=7y_hbz6loEo",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/171 — Geo-Strategy #8 The Iran Trap [7y_hbz6loEo].md",
+      "source_file_sha256": "819b0d701a4ec5ede4a6c34638a2959267f8d1ab0e988a03122a877756c68002",
+      "editorial_file_sha256": "6ddd4490aa57a626a8b25c0e235a43e12b449bfb44c0e20e3d6c5447a953c538",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 103,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "LsRGvKxfLts",
+      "title": "Geo-Strategy #7:  Who Killed Iranian President Ebrahim Raisi?",
+      "video_url": "https://www.youtube.com/watch?v=LsRGvKxfLts",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/172 — Geo-Strategy #7 Who Killed Iranian President Ebrahim Raisi [LsRGvKxfLts].md",
+      "source_file_sha256": "97356971a88866913cb76f5e77b3f7998d2335877a8ae1af106904960c1c10de",
+      "editorial_file_sha256": "c1840e3de205fe61873c34e51ac0764b766274e1fd2e109be8b2d4c5c7ce5062",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 132,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "JieFC4Yww4o",
+      "title": "Geo-Strategy #6:  America's Imperial Hubris",
+      "video_url": "https://www.youtube.com/watch?v=JieFC4Yww4o",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/173 — Geo-Strategy #6 America's Imperial Hubris [JieFC4Yww4o].md",
+      "source_file_sha256": "4afb0e639a8475d8faa12e3926800b224f731786c5d33cdcc354d7a39aff93c0",
+      "editorial_file_sha256": "d975e0a6ec2ee1d7c33c8fe303de1e512fd19f2bc44a52c1e9774d4ba3413a27",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 99
+      }
+    },
+    {
+      "video_id": "exRK-85630k",
+      "title": "Geo-Strategy #5:  Why Trump Will Win (And Pick Nikki Haley as VP)",
+      "video_url": "https://www.youtube.com/watch?v=exRK-85630k",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/174 — Geo-Strategy #5 Why Trump Will Win (And Pick Nikki Haley as VP) [exRK-85630k].md",
+      "source_file_sha256": "f73ab047c0c503408427664acbfac0bbcd463918101260424ce672c1ce6ea1d9",
+      "editorial_file_sha256": "3bfa1603326273cd5fb5bc7f97a0762604239e6aa33d7346705af89b4a36a31c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 99,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "LctUcVqhhns",
+      "title": "Geo-Strategy #4:   Saudi Arabia's Trump Card Against Iran",
+      "video_url": "https://www.youtube.com/watch?v=LctUcVqhhns",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/175 — Geo-Strategy #4 Saudi Arabia's Trump Card Against Iran [LctUcVqhhns].md",
+      "source_file_sha256": "5254813756039208e35ae7033a3a20c5101cb996995fa14fcc0b71372e6187cc",
+      "editorial_file_sha256": "9d5df0721953764990874ccdc0d299d81f524112085db719a2fb5c840297ede3",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 92,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "_blj8zKdKgA",
+      "title": "Geo-Strategy #3:  How Empire is Destroying America",
+      "video_url": "https://www.youtube.com/watch?v=_blj8zKdKgA",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/176 — Geo-Strategy #3 How Empire is Destroying America [_blj8zKdKgA].md",
+      "source_file_sha256": "4f06a5f71a7bee232fcff2d3121243ce00c1178d8a1d4aedfa6006edff8564cd",
+      "editorial_file_sha256": "4bd917930861245cba35239347436c4dec25843431d74280b2c1e5eba36636a6",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 94
+      }
+    },
+    {
+      "video_id": "lkKrZq4YdqY",
+      "title": "Geo-Strategy#2:  Christian Zionism and the Middle East Conflict",
+      "video_url": "https://www.youtube.com/watch?v=lkKrZq4YdqY",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/177 — Geo-Strategy#2 Christian Zionism and the Middle East Conflict [lkKrZq4YdqY].md",
+      "source_file_sha256": "d0f144033767ce356a07ac72bfbe6e3dec025ca65ca4cc45c86c793c30a0aad4",
+      "editorial_file_sha256": "26627fe60b805db666876eecca115dd2d743761950d775d2c7a3647828598fff",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 57,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "xEEpOxqdU5E",
+      "title": "Geo-Strategy #1:  Iran's Strategy Matrix",
+      "video_url": "https://www.youtube.com/watch?v=xEEpOxqdU5E",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/178 — Geo-Strategy #1 Iran's Strategy Matrix [xEEpOxqdU5E].md",
+      "source_file_sha256": "8ca2127b19f888927656dd2d2b0d47fe560b2e651f1a4a551594fbc86f378299",
+      "editorial_file_sha256": "20ca15ec3d49c772a77e1bd4fefc1b2bb0a123d8933ecdd15302a1a16f860009",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_exposed_immediate_repeats": 1,
+        "remove_filler_um_uh_er": 90,
+        "remove_leading_discourse_only": 1
+      }
+    },
+    {
+      "video_id": "Gp9Hv1PXx0o",
+      "title": "Jiang Xueqin Teaching Gay Talese Research Method (Introduction)",
+      "video_url": "https://www.youtube.com/watch?v=Gp9Hv1PXx0o",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/179 — Jiang Xueqin Teaching Gay Talese Research Method (Introduction) [Gp9Hv1PXx0o].md",
+      "source_file_sha256": "4e0d89658bbee4bef15f4bca7e27a4ba9c467fbf7c3e43fafcd70f2c80e945ff",
+      "editorial_file_sha256": "49745f0bd5f58b295fdcadde95cae4160687bd00d3eaffb575805b56120fa6f4",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 1,
+        "remove_filler_um_uh_er": 2
+      }
+    },
+    {
+      "video_id": "TZHsSDiNoJ0",
+      "title": "Dante Livestream #12 Final (Saturday, June 27 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=TZHsSDiNoJ0",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/180 — Dante Livestream #12 Final (Saturday, June 27 10AM) [TZHsSDiNoJ0].md",
+      "source_file_sha256": "caaf2d4adf9edd5602c9f8558f938f99b1ce435364e428471588fc9c11443568",
+      "editorial_file_sha256": "5acbd41b6ed7fff74433b419ad2eccd5dcb131b64674c2e337271e146f025f7b",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 278,
+        "remove_exposed_immediate_repeats": 41,
+        "remove_filler_um_uh_er": 1243,
+        "remove_leading_discourse_only": 122
+      }
+    },
+    {
+      "video_id": "ynMurcuyLoY",
+      "title": "Dante Livestream #11 (Friday, June 26 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=ynMurcuyLoY",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/181 — Dante Livestream #11 (Friday, June 26 10AM) [ynMurcuyLoY].md",
+      "source_file_sha256": "eef835c6f6b59ed5aeaed7c4884ecaea9805e67fc6064f7d2ff219b9e843504b",
+      "editorial_file_sha256": "ea91ac5d2994217f4da2c0c6fb016c8853bb2f560e6ceb6221d205f862a21196",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 180,
+        "remove_exposed_immediate_repeats": 13,
+        "remove_filler_um_uh_er": 517,
+        "remove_leading_discourse_only": 133
+      }
+    },
+    {
+      "video_id": "O2f-XTdVeIo",
+      "title": "Dante Livestream #10 (Thursday, June 25 9AM)",
+      "video_url": "https://www.youtube.com/watch?v=O2f-XTdVeIo",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/182 — Dante Livestream #10 (Thursday, June 25 9AM) [O2f-XTdVeIo].md",
+      "source_file_sha256": "e03ee3e617e311bf45b4d67fda57edc98d8aab8e8fb64cd7f22ed5cfd2ef5a27",
+      "editorial_file_sha256": "c653ce6a78f4302aa2756f12630bf6742f209fa4393371f790ce104e8f6c808c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 294,
+        "remove_exposed_immediate_repeats": 12,
+        "remove_filler_um_uh_er": 865,
+        "remove_leading_discourse_only": 100
+      }
+    },
+    {
+      "video_id": "VIo-EBsYVUo",
+      "title": "Dante Livestream #9 (Wednesday, June 24 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=VIo-EBsYVUo",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/183 — Dante Livestream #9 (Wednesday, June 24 10AM) [VIo-EBsYVUo].md",
+      "source_file_sha256": "8ac9f9e7b9097874dc98f544b4d612a27ed3ff7f1d24d0c0216adcf5bf6f1dfb",
+      "editorial_file_sha256": "2c11546482221141efea1a1e8e55abe12f4eedc7315833f1f637ccbbe690441c",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 212,
+        "remove_exposed_immediate_repeats": 9,
+        "remove_filler_um_uh_er": 587,
+        "remove_leading_discourse_only": 102
+      }
+    },
+    {
+      "video_id": "esoTLV4-ibM",
+      "title": "Dante Livestream #8 (Tuesday, June 23 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=esoTLV4-ibM",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/184 — Dante Livestream #8 (Tuesday, June 23 10AM) [esoTLV4-ibM].md",
+      "source_file_sha256": "f12035144c5f60027a314be29bff57480486c1cbe1bc1ef2e627c1dc3eacc989",
+      "editorial_file_sha256": "7fe4964bd9306a551725e125a7afc71697561a2c58b98b896f6878666bade189",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 183,
+        "remove_exposed_immediate_repeats": 20,
+        "remove_filler_um_uh_er": 526,
+        "remove_leading_discourse_only": 124
+      }
+    },
+    {
+      "video_id": "Qod_GuAmObc",
+      "title": "Dante Livestream #7 (Monday, June 22 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=Qod_GuAmObc",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/185 — Dante Livestream #7 (Monday, June 22 10AM) [Qod_GuAmObc].md",
+      "source_file_sha256": "4515c15d51529010d9afaf5a4561d29d47f77a43970ce1f6a8d6d6ebc5e66fa5",
+      "editorial_file_sha256": "01c0fcf02e0a36085e321b6c8e851fad350b66b3e46fe10f01d01e46bbe291f2",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 177,
+        "remove_exposed_immediate_repeats": 13,
+        "remove_filler_um_uh_er": 548,
+        "remove_leading_discourse_only": 112
+      }
+    },
+    {
+      "video_id": "0y_GezhRJr0",
+      "title": "Dante Livestream #6 (Sunday, June 21 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=0y_GezhRJr0",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/186 — Dante Livestream #6 (Sunday, June 21 10AM) [0y_GezhRJr0].md",
+      "source_file_sha256": "09afec3ffcb27553acad0965c5cb46c753a4f2f861864833f0ee8a87ed3bc865",
+      "editorial_file_sha256": "6ca6e33c4c158b62065269ff771f9f6300c9162b0943b7b129a1239dd9248526",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 182,
+        "remove_exposed_immediate_repeats": 6,
+        "remove_filler_um_uh_er": 581,
+        "remove_leading_discourse_only": 143
+      }
+    },
+    {
+      "video_id": "R526_WuG3mE",
+      "title": "Dante Livestream #5 (Saturday, June 20 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=R526_WuG3mE",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/187 — Dante Livestream #5 (Saturday, June 20 10AM) [R526_WuG3mE].md",
+      "source_file_sha256": "0312ee7bdd04f43b29ce7d20c5c0a13b5f34a703827fb971f7329ffeaa5b72af",
+      "editorial_file_sha256": "915cff30fb0e22c8d817d34dfdb91f042624261ee4509e790105e17e3932928d",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 169,
+        "remove_exposed_immediate_repeats": 9,
+        "remove_filler_um_uh_er": 480,
+        "remove_leading_discourse_only": 150
+      }
+    },
+    {
+      "video_id": "dsFMYuE7DKk",
+      "title": "Dante Livestream #4 (Thursday, June 18 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=dsFMYuE7DKk",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/188 — Dante Livestream #4 (Thursday, June 18 10AM) [dsFMYuE7DKk].md",
+      "source_file_sha256": "0df161c904d1accb959bfbcea89ed02707845a2bcfcecf2a9d2a6163996e50e1",
+      "editorial_file_sha256": "b77fd24bc26f7552378859851924354c09388119948c0fd149d7f0e4d27d8189",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 206,
+        "remove_exposed_immediate_repeats": 4,
+        "remove_filler_um_uh_er": 544,
+        "remove_leading_discourse_only": 142
+      }
+    },
+    {
+      "video_id": "04ngQzYqgPw",
+      "title": "Dante Livestream #3 (Wednesday, June 17 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=04ngQzYqgPw",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/189 — Dante Livestream #3 (Wednesday, June 17 10AM) [04ngQzYqgPw].md",
+      "source_file_sha256": "c52bc2e519765d3b9f4a94b6d3fcef7dc20d45c0473e9f634dccc145b55bd373",
+      "editorial_file_sha256": "81181c125304a676c1479dbdf02d6b642567bd7916ad01b3c3b4877501f429f4",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 193,
+        "remove_exposed_immediate_repeats": 15,
+        "remove_filler_um_uh_er": 589,
+        "remove_leading_discourse_only": 158
+      }
+    },
+    {
+      "video_id": "PscXuHPRWQ8",
+      "title": "Dante Livestream #2 (Tuesday, June 16 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=PscXuHPRWQ8",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/190 — Dante Livestream #2 (Tuesday, June 16 10AM) [PscXuHPRWQ8].md",
+      "source_file_sha256": "bfb41cf25078c44954a9a7fe4307fda7ec8e91235d4834fdb922506432d9e888",
+      "editorial_file_sha256": "0f8491a9b361f353ca2162e9118efa0ab3fb942c2cd255e6e3195679c82e46e8",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 162,
+        "remove_exposed_immediate_repeats": 9,
+        "remove_filler_um_uh_er": 433,
+        "remove_leading_discourse_only": 158
+      }
+    },
+    {
+      "video_id": "xUG-nSlD8H4",
+      "title": "Dante Livestream #1  (Monday, June 15 morning)",
+      "video_url": "https://www.youtube.com/watch?v=xUG-nSlD8H4",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/191 — Dante Livestream #1 (Monday, June 15 morning) [xUG-nSlD8H4].md",
+      "source_file_sha256": "b889abadb11ffd84533d049759bb771af8860de865add2f9fd591f848829e674",
+      "editorial_file_sha256": "984bc9f8668b754a975f2226160e8f82e4d0efa884e40a9d94e8405e46945283",
+      "rule_application_counts": {
+        "capitalize_exposed_sentence_start": 127,
+        "remove_exposed_immediate_repeats": 2,
+        "remove_filler_um_uh_er": 377,
+        "remove_leading_discourse_only": 144
+      }
+    }
+  ]
+}

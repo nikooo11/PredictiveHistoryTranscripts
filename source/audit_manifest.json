@@ -1,0 +1,3779 @@
+{
+  "channel_name": "Predictive History",
+  "channel_url": "https://www.youtube.com/@PredictiveHistory",
+  "total_uploads_discovered": 191,
+  "completed_transcripts": 191,
+  "unavailable_transcripts": 0,
+  "source_provider_counts": {
+    "Supadata": 100,
+    "TranscriptAPI": 91
+  },
+  "transcripts": [
+    {
+      "index": 1,
+      "video_id": "hcuT_mpeTxo",
+      "title": "Global Meet-Up #5 (Toronto):  Canada's Corporate Re-Structuring",
+      "video_url": "https://www.youtube.com/watch?v=hcuT_mpeTxo",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/001 — Global Meet-Up #5 (Toronto) Canada's Corporate Re-Structuring [hcuT_mpeTxo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 3578,
+      "source_text_sha256": "9d9f390179e676c65193b2c48abda21cb7536d8e48e7825a2d9660d9668629e4",
+      "archive_file_sha256": "faab07b7d434ea5d51112b9d5c755ca35106a2a3a599205038af5526019dd9c6",
+      "raw_api_response": "raw_api_responses/supadata/hcuT_mpeTxo.json",
+      "raw_api_response_sha256": "936cec743561fc449dd5881fbaf033a877f1c4c7cfc3739e33a920c52dd3a80f"
+    },
+    {
+      "index": 2,
+      "video_id": "5gyyAzfmWk4",
+      "title": "Global Meet-Up #4 (Austin, Texas):  American Prophecy",
+      "video_url": "https://www.youtube.com/watch?v=5gyyAzfmWk4",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/002 — Global Meet-Up #4 (Austin, Texas) American Prophecy [5gyyAzfmWk4].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 3568,
+      "source_text_sha256": "a210371b597c405508c11875dcc325e453e74b279a2b81fb89f8aebb19f38315",
+      "archive_file_sha256": "4d7fff3dbb2c6d399ab2c5563c5e65fd57ff1f15017737288bdf83a2d97470af",
+      "raw_api_response": "raw_api_responses/supadata/5gyyAzfmWk4.json",
+      "raw_api_response_sha256": "66640a83691cb957d50fac66e9de7ef134c7f27e6c24cfe46ede04b278276fb1"
+    },
+    {
+      "index": 3,
+      "video_id": "N2GFDDZtGQY",
+      "title": "Global Meet-Up #2 (Los Angeles):  The \"End of the World\" US Tour",
+      "video_url": "https://www.youtube.com/watch?v=N2GFDDZtGQY",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/003 — Global Meet-Up #2 (Los Angeles) The End of the World US Tour [N2GFDDZtGQY].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 2243,
+      "source_text_sha256": "a77450b67593a93e5e8886a6020fed1944fca178ed3480ad06a8422298ee9812",
+      "archive_file_sha256": "3fbca063791656a8d30e66807bde52d178b9be6ca75f1fd1b3f66d9fcbed3cdb",
+      "raw_api_response": "raw_api_responses/supadata/N2GFDDZtGQY.json",
+      "raw_api_response_sha256": "10f4d23b4ac5aec4ab0b392e13645c5618002081007498d769e978c464f09f64"
+    },
+    {
+      "index": 4,
+      "video_id": "5rDMq-5_xkM",
+      "title": "Global Meet-Up #3 (New York City):  The Eschatology of Capitalism",
+      "video_url": "https://www.youtube.com/watch?v=5rDMq-5_xkM",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/004 — Global Meet-Up #3 (New York City) The Eschatology of Capitalism [5rDMq-5_xkM].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 3766,
+      "source_text_sha256": "f0fd74b2cc9f887cd531f5ba6ec36d306cd58869346f4758491d9937ccc3491b",
+      "archive_file_sha256": "418344206b1a1b3cd0c4801b09d33b10413dbf0016201cdf3e478653bc6a3bb1",
+      "raw_api_response": "raw_api_responses/supadata/5rDMq-5_xkM.json",
+      "raw_api_response_sha256": "29b066f489dd65e883f5018bce92d89338ad2af4b085de9bd3dc6d524550d84a"
+    },
+    {
+      "index": 5,
+      "video_id": "Z1G6WI1Q0M8",
+      "title": "Emergency Discussion #2:  The Blackmailing of Spain",
+      "video_url": "https://www.youtube.com/watch?v=Z1G6WI1Q0M8",
+      "series_folder": "Emergency Discussion",
+      "relative_path": "Emergency Discussion/005 — Emergency Discussion #2 The Blackmailing of Spain [Z1G6WI1Q0M8].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 4300,
+      "source_text_sha256": "5e95eaff03d1e79932859239ed57ee170964bb78578772ec024ff7e31d431dfe",
+      "archive_file_sha256": "cd61b8d4c192e4b08d934685a5c1a22626e7439e45b43bc6c939e6b5585c1f39",
+      "raw_api_response": "raw_api_responses/supadata/Z1G6WI1Q0M8.json",
+      "raw_api_response_sha256": "972d6f68c920ba2010d1a050192483ff2ed8f16f11de5e75c99f88f25fdd1358"
+    },
+    {
+      "index": 6,
+      "video_id": "A9Sr-4c-3Tg",
+      "title": "Emergency Discussion #1:  Spain Wins World Cup, US Plans Ground Invasion of Iran",
+      "video_url": "https://www.youtube.com/watch?v=A9Sr-4c-3Tg",
+      "series_folder": "Emergency Discussion",
+      "relative_path": "Emergency Discussion/006 — Emergency Discussion #1 Spain Wins World Cup, US Plans Ground Invasion of Iran [A9Sr-4c-3Tg].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 3462,
+      "source_text_sha256": "f8470d23b5b36e3c8539847536b7eb7755d3e42d8846e07418b9b922261be518",
+      "archive_file_sha256": "9e463dbfaf2a23ccab2ec90a4c307960765a01c296328905e47d756443d33262",
+      "raw_api_response": "raw_api_responses/supadata/A9Sr-4c-3Tg.json",
+      "raw_api_response_sha256": "7581a473f7ab043281a8eaacc69fd1e10bb3930b5636a3517aef73a0b1b172de"
+    },
+    {
+      "index": 7,
+      "video_id": "E7QKiRnw0M8",
+      "title": "Live with Predictive History #2:  US-Iran War, World Cup",
+      "video_url": "https://www.youtube.com/watch?v=E7QKiRnw0M8",
+      "series_folder": "Live with Predictive History",
+      "relative_path": "Live with Predictive History/007 — Live with Predictive History #2 US-Iran War, World Cup [E7QKiRnw0M8].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1903,
+      "source_text_sha256": "43d7fc7e5b4b75e93cea2815c67ae0824becbea871d7125cf019641afa5b26ed",
+      "archive_file_sha256": "ade16bd4f896410c2b3db6dab88971ec5ff702e8537782c6a2dd27e7fe5075ca",
+      "raw_api_response": "raw_api_responses/supadata/E7QKiRnw0M8.json",
+      "raw_api_response_sha256": "6494150573243ed2a3a854e4f0579714fff8575730f81535f917ec11ece9a531"
+    },
+    {
+      "index": 8,
+      "video_id": "zbjLl85FLUc",
+      "title": "Global Meet-Up #1 (Tokyo):  Japan's Geo-Political Outlook",
+      "video_url": "https://www.youtube.com/watch?v=zbjLl85FLUc",
+      "series_folder": "Global Meet-Up",
+      "relative_path": "Global Meet-Up/008 — Global Meet-Up #1 (Tokyo) Japan's Geo-Political Outlook [zbjLl85FLUc].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1094,
+      "source_text_sha256": "e5af43ca75600afc4f4507b4e6dac65a2cbb2d784dba52ff9b5b485f47f92387",
+      "archive_file_sha256": "442f152ff1c4ab50c5da35491c6f3f8cda5a16269f0552f152f497975bdfc947",
+      "raw_api_response": "raw_api_responses/supadata/zbjLl85FLUc.json",
+      "raw_api_response_sha256": "5215724eea1cef5e4b8b83d5f9734a99750799a92027ef51b8336fe668904f15"
+    },
+    {
+      "index": 9,
+      "video_id": "qRCSZoGC2Dg",
+      "title": "Substack Founding Members Livestream #2",
+      "video_url": "https://www.youtube.com/watch?v=qRCSZoGC2Dg",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/009 — Substack Founding Members Livestream #2 [qRCSZoGC2Dg].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 4147,
+      "source_text_sha256": "e60d3de269cdf8d562e2deae1e9f22975afb377b0ed21aa07e89d6e698e2ff15",
+      "archive_file_sha256": "8c6c5dc0dfdb49c54a18c3fe379916a3fae743a9e402bd1ebf3447fa8707b621",
+      "raw_api_response": "raw_api_responses/supadata/qRCSZoGC2Dg.json",
+      "raw_api_response_sha256": "d77a4e239c09e5bb1714324b05a01d506a74971e3902a94da7b50d242c66f2ea"
+    },
+    {
+      "index": 10,
+      "video_id": "Sa5kffYLvBE",
+      "title": "Dante #12 (Final): Purgatory Cantos 26-33",
+      "video_url": "https://www.youtube.com/watch?v=Sa5kffYLvBE",
+      "series_folder": "Dante",
+      "relative_path": "Dante/010 — Dante #12 (Final) Purgatory Cantos 26-33 [Sa5kffYLvBE].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 7374,
+      "source_text_sha256": "06cdaf3cfd1358f481b472e06c1db17140853ebf82147557f4f274c1ead129e1",
+      "archive_file_sha256": "4c55574897920d3f2c15ed1b6aa96824d55a488c4eec611ab7890754c5d56913",
+      "raw_api_response": "raw_api_responses/supadata/Sa5kffYLvBE.json",
+      "raw_api_response_sha256": "a1a8692cc60d91f4f21beebb43db3b42faf3c331c76581a28df3c42046a0f007"
+    },
+    {
+      "index": 11,
+      "video_id": "oR3EOW52WCc",
+      "title": "Dante #11: Purgatory Cantos 15-25",
+      "video_url": "https://www.youtube.com/watch?v=oR3EOW52WCc",
+      "series_folder": "Dante",
+      "relative_path": "Dante/011 — Dante #11 Purgatory Cantos 15-25 [oR3EOW52WCc].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 6009,
+      "source_text_sha256": "e5e6a6f788cd324ca48b9139c72dda9b6f71a72308553742c6853c62be76b584",
+      "archive_file_sha256": "f26af92b87e813db534d856d88719143e30f9741fec8e07f096f7c76c4c9705d",
+      "raw_api_response": "raw_api_responses/supadata/oR3EOW52WCc.json",
+      "raw_api_response_sha256": "cdfc14f4c21ccaa4d2705c0baa2695123919e282812c515be8b36ef35f4aec9e"
+    },
+    {
+      "index": 12,
+      "video_id": "MDOK9qaaA7Q",
+      "title": "Dante #10: Purgatory Cantos 5-14",
+      "video_url": "https://www.youtube.com/watch?v=MDOK9qaaA7Q",
+      "series_folder": "Dante",
+      "relative_path": "Dante/012 — Dante #10 Purgatory Cantos 5-14 [MDOK9qaaA7Q].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 7084,
+      "source_text_sha256": "acda60dece2e5e2bb35993155afbc852510517a89099aed9b92d519011edf6c4",
+      "archive_file_sha256": "873f3d14df3272f95b8364f8bf6d5010d8f727c6ce3650e8bd5e51a86b6820fe",
+      "raw_api_response": "raw_api_responses/supadata/MDOK9qaaA7Q.json",
+      "raw_api_response_sha256": "2f81f895a11a25d037f4569d93b07f21415ebd527826a00e488addd1f47b5e57"
+    },
+    {
+      "index": 13,
+      "video_id": "SSmJKnUOsAc",
+      "title": "Dante #9: Hell Cantos 32-34, Purgatory Cantos 1-4",
+      "video_url": "https://www.youtube.com/watch?v=SSmJKnUOsAc",
+      "series_folder": "Dante",
+      "relative_path": "Dante/013 — Dante #9 Hell Cantos 32-34, Purgatory Cantos 1-4 [SSmJKnUOsAc].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 5756,
+      "source_text_sha256": "d397d753890b60c4b29cfe92ff7db7747cae6298d2f2521bfa3fc1efce71cc74",
+      "archive_file_sha256": "0f66fbf3c225630e2958293f321472e2811f87f5e0973116192a1c984532c792",
+      "raw_api_response": "raw_api_responses/supadata/SSmJKnUOsAc.json",
+      "raw_api_response_sha256": "740fc34f4e9af8405370f7407de18c42f5af6abc00a7482463ff21fa7aa094b3"
+    },
+    {
+      "index": 14,
+      "video_id": "oFK53cYz_h0",
+      "title": "Dante #8: Hell Cantos 20-32",
+      "video_url": "https://www.youtube.com/watch?v=oFK53cYz_h0",
+      "series_folder": "Dante",
+      "relative_path": "Dante/014 — Dante #8 Hell Cantos 20-32 [oFK53cYz_h0].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 5642,
+      "source_text_sha256": "50b5c2749cbeb3312532e0bf828c88a5ef4d91276f24fdf08ea8bcd93e775e79",
+      "archive_file_sha256": "0da26e466a3ef966e203a462297b9788e55f37cb8bd092c689510565fa4c4cb0",
+      "raw_api_response": "raw_api_responses/supadata/oFK53cYz_h0.json",
+      "raw_api_response_sha256": "b7017dd37722c812a4f86915d6b4c71aaa86c7fb0668e9611df8b3dcbe9648f1"
+    },
+    {
+      "index": 15,
+      "video_id": "P82v6UAc9ss",
+      "title": "Dante #7: Hell Cantos 10-19",
+      "video_url": "https://www.youtube.com/watch?v=P82v6UAc9ss",
+      "series_folder": "Dante",
+      "relative_path": "Dante/015 — Dante #7 Hell Cantos 10-19 [P82v6UAc9ss].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 5837,
+      "source_text_sha256": "f75e5169e4dbc9bbaa58185c167980fcf93cd2cfa12d38f41552d3682b96a69c",
+      "archive_file_sha256": "36d706d393fe8a6aaf8076e12668cbc0cc9839083f317a973672126de68e6d41",
+      "raw_api_response": "raw_api_responses/supadata/P82v6UAc9ss.json",
+      "raw_api_response_sha256": "37dbf914ed69d72e25e6a691088e17436e6e088360ede6a595d1c57523d2093e"
+    },
+    {
+      "index": 16,
+      "video_id": "e_9fndobOnI",
+      "title": "Dante #6: Hell Cantos 3-9",
+      "video_url": "https://www.youtube.com/watch?v=e_9fndobOnI",
+      "series_folder": "Dante",
+      "relative_path": "Dante/016 — Dante #6 Hell Cantos 3-9 [e_9fndobOnI].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 5472,
+      "source_text_sha256": "8b82392b1bc0258c661395775654a054b2a355b23165aeeb3727a839a688bfa9",
+      "archive_file_sha256": "01b87cf773654d9e5eabd3a50a79be565927c58971de94aca1623a3d0cc161ec",
+      "raw_api_response": "raw_api_responses/supadata/e_9fndobOnI.json",
+      "raw_api_response_sha256": "d52cffc721b0140b5cc601dcb3a3f0e944e46e74abcf25b54deded9e772b9b18"
+    },
+    {
+      "index": 17,
+      "video_id": "xPxEi5Zm0G4",
+      "title": "Dante #5: Paradise Cantos 30-33, Hell Cantos 1-2",
+      "video_url": "https://www.youtube.com/watch?v=xPxEi5Zm0G4",
+      "series_folder": "Dante",
+      "relative_path": "Dante/017 — Dante #5 Paradise Cantos 30-33, Hell Cantos 1-2 [xPxEi5Zm0G4].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 5542,
+      "source_text_sha256": "a4dc72cbbb7f9083d637d538314ac493700330d96786ed35d2fb57fad7511eda",
+      "archive_file_sha256": "f86cc943c86e24719414d16b0b216ce098c92956dc520d2df687aaf06fd183b1",
+      "raw_api_response": "raw_api_responses/supadata/xPxEi5Zm0G4.json",
+      "raw_api_response_sha256": "66200baf3b07569a1a38679cb7d59032d15bb439dc9c760d0944ab9b953c307e"
+    },
+    {
+      "index": 18,
+      "video_id": "brRNCLD7to0",
+      "title": "Dante #4: Paradise Cantos 24-29",
+      "video_url": "https://www.youtube.com/watch?v=brRNCLD7to0",
+      "series_folder": "Dante",
+      "relative_path": "Dante/018 — Dante #4 Paradise Cantos 24-29 [brRNCLD7to0].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 6130,
+      "source_text_sha256": "00d9e303d067bc54dc1ddcaabec70659379552730eddda37452556c548ce76e3",
+      "archive_file_sha256": "af98f3942c5baaefac84f82650760783eb28658a3c1a198239796223b6175f07",
+      "raw_api_response": "raw_api_responses/supadata/brRNCLD7to0.json",
+      "raw_api_response_sha256": "ad01f8502f5beb4f3a8f8e9fe636ecd9772c706cc09537275b4bfe073f9228ba"
+    },
+    {
+      "index": 19,
+      "video_id": "6tzAyCZ4Omk",
+      "title": "Dante #3: Paradise Cantos 11, 12, 17, 24",
+      "video_url": "https://www.youtube.com/watch?v=6tzAyCZ4Omk",
+      "series_folder": "Dante",
+      "relative_path": "Dante/019 — Dante #3 Paradise Cantos 11, 12, 17, 24 [6tzAyCZ4Omk].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 5516,
+      "source_text_sha256": "9aab44e71b5ff89a54b4c6f7d2e3e9e7f158de3ff4759dacb782ccf81b5df4f9",
+      "archive_file_sha256": "a05b9a41068d89662396d33e3c82c6bc23149a1592009b0592985e40a0791184",
+      "raw_api_response": "raw_api_responses/supadata/6tzAyCZ4Omk.json",
+      "raw_api_response_sha256": "4a87263c409c6398587bab8a8c472dde66eeb6e7f1e2bad3bb80270214b39461"
+    },
+    {
+      "index": 20,
+      "video_id": "eF5B3CWpKxg",
+      "title": "Dante #2: Paradise Cantos 5-7",
+      "video_url": "https://www.youtube.com/watch?v=eF5B3CWpKxg",
+      "series_folder": "Dante",
+      "relative_path": "Dante/020 — Dante #2 Paradise Cantos 5-7 [eF5B3CWpKxg].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 5382,
+      "source_text_sha256": "ad8705a904de1fde69c37bdf91b7e8a4758a7a4227b999f5281cfcb13c81feb7",
+      "archive_file_sha256": "9835dcd0bbf338684b0bc6b5988efea2f547b8cb962a430fd86ad07fc0842501",
+      "raw_api_response": "raw_api_responses/supadata/eF5B3CWpKxg.json",
+      "raw_api_response_sha256": "cfaddd781d2ea9dd636a5216a859ee88c84947ad2e0bc3eeb0cadb27c1639e96"
+    },
+    {
+      "index": 21,
+      "video_id": "7AG3EMDvKT0",
+      "title": "Dante #1:  Paradise Cantos 1-5",
+      "video_url": "https://www.youtube.com/watch?v=7AG3EMDvKT0",
+      "series_folder": "Dante",
+      "relative_path": "Dante/021 — Dante #1 Paradise Cantos 1-5 [7AG3EMDvKT0].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 5650,
+      "source_text_sha256": "7260690d69f0c25bfcbb375c3a3f8fcb7994ef8e8e13c3a05510592f4560eaca",
+      "archive_file_sha256": "c808b20c51186cd6a8b9aa76015a3d8b4fda68c2b2d9ce22df399cbb6a4999b6",
+      "raw_api_response": "raw_api_responses/supadata/7AG3EMDvKT0.json",
+      "raw_api_response_sha256": "1d19928b410527a9330be716ec7c7fb1f4ae665d036411d5bf0f5ed9a826c2e9"
+    },
+    {
+      "index": 22,
+      "video_id": "f03GAKlvZRs",
+      "title": "Substack Live #1:  Welcome to Boomer Hell",
+      "video_url": "https://www.youtube.com/watch?v=f03GAKlvZRs",
+      "series_folder": "Substack Live",
+      "relative_path": "Substack Live/022 — Substack Live #1 Welcome to Boomer Hell [f03GAKlvZRs].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 2101,
+      "source_text_sha256": "78929795aeefb34bef8bd192b6d909fdf73df6ebe6f607c0e573b2a4622bb88b",
+      "archive_file_sha256": "a37a68c69bd040af36dadb6f028167e2522366eba7c17797616cb86a06a1f72a",
+      "raw_api_response": "raw_api_responses/supadata/f03GAKlvZRs.json",
+      "raw_api_response_sha256": "a043f2f227d6051907008f5a687a6d6572b1f3726d33fb7c18d079c75b65a009"
+    },
+    {
+      "index": 23,
+      "video_id": "kFH4AujWqtI",
+      "title": "Predictive History Founding Members #1",
+      "video_url": "https://www.youtube.com/watch?v=kFH4AujWqtI",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/023 — Predictive History Founding Members #1 [kFH4AujWqtI].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1701,
+      "source_text_sha256": "1149b226f6cd46ed90e88599c04b378f2afd6af5fec17ad10bee607accb1b0d3",
+      "archive_file_sha256": "6623dc48681f06dc224646f04b69f30860bc7eed34344fbe2cd013f4c002d2dd",
+      "raw_api_response": "raw_api_responses/supadata/kFH4AujWqtI.json",
+      "raw_api_response_sha256": "c5b1d26fab403bfbeef2201881d6b947934add3bbe79a2587dd17259844a6218"
+    },
+    {
+      "index": 24,
+      "video_id": "VWmPHHnZuiw",
+      "title": "Great Books #13:  Gay Talese's Sparks of Light",
+      "video_url": "https://www.youtube.com/watch?v=VWmPHHnZuiw",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/024 — Great Books #13 Gay Talese's Sparks of Light [VWmPHHnZuiw].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 952,
+      "source_text_sha256": "838eec7771e995b61722540948090b658053723a77c274820eecb538ad660b0a",
+      "archive_file_sha256": "9c3b2981a99fef4cb90ebebb39028489e395abac8c8ba45cf3a477610b6b145e",
+      "raw_api_response": "raw_api_responses/supadata/VWmPHHnZuiw.json",
+      "raw_api_response_sha256": "f24fb4176dbf8d5beb4ba1084e2ba0416e76870759694c1b01ccab2841f0e9e0"
+    },
+    {
+      "index": 25,
+      "video_id": "RE2UribEFIo",
+      "title": "Game Theory #29:  Final Examination",
+      "video_url": "https://www.youtube.com/watch?v=RE2UribEFIo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/025 — Game Theory #29 Final Examination [RE2UribEFIo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 2827,
+      "source_text_sha256": "f16c4cdb33f38048ad9bb673c6c940dba2ee473dc875a6f742ba5c1538ff2413",
+      "archive_file_sha256": "d50df2b9f0739711b98e1522a788183fc3d816794d6d8751bbca3eed30f196b1",
+      "raw_api_response": "raw_api_responses/supadata/RE2UribEFIo.json",
+      "raw_api_response_sha256": "721e17054dbd174df1de0a482fb6bc1b2a8601985e25adc27a72fb43431aa032"
+    },
+    {
+      "index": 26,
+      "video_id": "FspDllFoiDE",
+      "title": "Great Books #12:  Dante in Paradise",
+      "video_url": "https://www.youtube.com/watch?v=FspDllFoiDE",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/026 — Great Books #12 Dante in Paradise [FspDllFoiDE].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 988,
+      "source_text_sha256": "91ea8757acd2b2a7509e77c50c22d936f318c3830234121b03e54966d29509c7",
+      "archive_file_sha256": "d3155c4a25481c44588221844d40cb054b0ab142c4d786bda99da19f0a2d064a",
+      "raw_api_response": "raw_api_responses/supadata/FspDllFoiDE.json",
+      "raw_api_response_sha256": "f2cb6a7e8666cc010a2e22813f6ec07c4dd1b62d95095ed7d496f274ba2525c3"
+    },
+    {
+      "index": 27,
+      "video_id": "dja6dkCfngE",
+      "title": "Game Theory #28:  Predictive History",
+      "video_url": "https://www.youtube.com/watch?v=dja6dkCfngE",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/027 — Game Theory #28 Predictive History [dja6dkCfngE].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1674,
+      "source_text_sha256": "f1bf735203526c1578f44c0fd1fa4af01767fab406ef33fb8317b38e4ab9cf2c",
+      "archive_file_sha256": "a1f60cca34a3fa714a7f705490c45d7fed3187dd2fbfa1fc5516eae82bb9ae3f",
+      "raw_api_response": "raw_api_responses/supadata/dja6dkCfngE.json",
+      "raw_api_response_sha256": "b18517b0069799aa7e35ef837d5a1b21111fda63aa82bb3d41825a092f1e9efc"
+    },
+    {
+      "index": 28,
+      "video_id": "otyUpKhpTYM",
+      "title": "Great Books #11:  Dante's Revolution",
+      "video_url": "https://www.youtube.com/watch?v=otyUpKhpTYM",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/028 — Great Books #11 Dante's Revolution [otyUpKhpTYM].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1573,
+      "source_text_sha256": "d97eb01db308cb9b7640a2eaa1367377338c132a557ff8cd9957c33630575e3c",
+      "archive_file_sha256": "2a1744ae7065953b6dd6333ce161f4c552c55bb4a268ee33139dad8fb1d927ac",
+      "raw_api_response": "raw_api_responses/supadata/otyUpKhpTYM.json",
+      "raw_api_response_sha256": "cfb7d6bb330f3cb11fe8e7ef3f4b2707630a4841bc50713320794e0ee42771c7"
+    },
+    {
+      "index": 29,
+      "video_id": "x83HcLWvHI8",
+      "title": "Game Theory #27:  Putin Enters the Chat",
+      "video_url": "https://www.youtube.com/watch?v=x83HcLWvHI8",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/029 — Game Theory #27 Putin Enters the Chat [x83HcLWvHI8].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1577,
+      "source_text_sha256": "9bb16a43d9478fe890dc92bcb62ce202a69525ea15d9d35c92e9a1476b859d7f",
+      "archive_file_sha256": "0fa524e617a9c72b52208eb96cfd7f1a5d214ae474c801f8dee65e1b2785f35b",
+      "raw_api_response": "raw_api_responses/supadata/x83HcLWvHI8.json",
+      "raw_api_response_sha256": "46226525591c2b3ae9641a74b643ee3465e39e600379ec08a080932ea32e5cd0"
+    },
+    {
+      "index": 30,
+      "video_id": "RG1clZlrfOo",
+      "title": "Game Theory #26:  The Holy Empire of AI",
+      "video_url": "https://www.youtube.com/watch?v=RG1clZlrfOo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/030 — Game Theory #26 The Holy Empire of AI [RG1clZlrfOo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1730,
+      "source_text_sha256": "d823e910250a32d6b7b7a0bab8eddb0dbe7f6c143820d078f9fe97e38f95d8e6",
+      "archive_file_sha256": "ada3a610966780103b071e183e629faf67ee320b71f1a6b3772223e75018c330",
+      "raw_api_response": "raw_api_responses/supadata/RG1clZlrfOo.json",
+      "raw_api_response_sha256": "11ce39e1b06bb7eaccd4f646b21a156e1b367f38ab68e2fae4a7d306deda503f"
+    },
+    {
+      "index": 31,
+      "video_id": "BIl5vJn6ohI",
+      "title": "Game Theory #25:  Trump Visits China",
+      "video_url": "https://www.youtube.com/watch?v=BIl5vJn6ohI",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/031 — Game Theory #25 Trump Visits China [BIl5vJn6ohI].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1823,
+      "source_text_sha256": "ac244158abbf87116aafd44a83c3fbcb11372d0fa4bb3c3ae6c44384df7bcc52",
+      "archive_file_sha256": "ea3d47e1e591af1e01438da3985da8563f31c993dd9f45aeaa8dc6018e6da145",
+      "raw_api_response": "raw_api_responses/supadata/BIl5vJn6ohI.json",
+      "raw_api_response_sha256": "b82e25c616f1f780d05e279fedbeca28fc6e87c73d527bf66a45f8f0e0e89f2c"
+    },
+    {
+      "index": 32,
+      "video_id": "8nsxuB3Vsts",
+      "title": "Game Theory #24:  The AI Apocalypse",
+      "video_url": "https://www.youtube.com/watch?v=8nsxuB3Vsts",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/032 — Game Theory #24 The AI Apocalypse [8nsxuB3Vsts].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1389,
+      "source_text_sha256": "0ee49390c3d164cf5fccbd6f301ca3b36b3c2b33c7db63ddbf690a5d940736f7",
+      "archive_file_sha256": "99e1ebc9839d44c0794e36adad5e9a4a59d90399003e0211d33242c312a19244",
+      "raw_api_response": "raw_api_responses/supadata/8nsxuB3Vsts.json",
+      "raw_api_response_sha256": "3fe5a5028e053da0e7804508368e4bb8c7792bd8a7b2a4bdbe0a4ae89a9efb66"
+    },
+    {
+      "index": 33,
+      "video_id": "6aNh6sBpqvQ",
+      "title": "Game Theory #23:  The WWIII Chessboard",
+      "video_url": "https://www.youtube.com/watch?v=6aNh6sBpqvQ",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/033 — Game Theory #23 The WWIII Chessboard [6aNh6sBpqvQ].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1287,
+      "source_text_sha256": "eca9887d9536927dc7a15d4ec4facef79e783210bafa12e31118d8500ea82712",
+      "archive_file_sha256": "03de42ee0c7988298ce5ce7e0353221a2b66a8665e5fac0ff615addf2cbaf846",
+      "raw_api_response": "raw_api_responses/supadata/6aNh6sBpqvQ.json",
+      "raw_api_response_sha256": "a5e758a25fe50a26b5a14afe6d9a10fe086a18e98f953f9285f9c35baa0b50ce"
+    },
+    {
+      "index": 34,
+      "video_id": "wGpdMYa2bME",
+      "title": "Great Books #10:  Dante's Hierarchy of Hell",
+      "video_url": "https://www.youtube.com/watch?v=wGpdMYa2bME",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/034 — Great Books #10 Dante's Hierarchy of Hell [wGpdMYa2bME].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1166,
+      "source_text_sha256": "c820077650206f344ade908cb6965bf508b7d90d58258c05ece6795939bebbb7",
+      "archive_file_sha256": "36026a206179070da2cccb001a49b5a21f56e83be6ab3befdd936b26779f4048",
+      "raw_api_response": "raw_api_responses/supadata/wGpdMYa2bME.json",
+      "raw_api_response_sha256": "a41b91b26293946a103d6e3da437b17c441480a24544232c91f892ba52936e9b"
+    },
+    {
+      "index": 35,
+      "video_id": "txgPfnXgzcE",
+      "title": "Game Theory #22:  Twilight of the Nation-State",
+      "video_url": "https://www.youtube.com/watch?v=txgPfnXgzcE",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/035 — Game Theory #22 Twilight of the Nation-State [txgPfnXgzcE].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1233,
+      "source_text_sha256": "563f434dcd66dde7c89690685b42a0113c270726f72de5dfe8544c3ab226362a",
+      "archive_file_sha256": "592c9820a3ca22f29c4d1466fea9d98efcaf795202a5699e3bb7794b03b68523",
+      "raw_api_response": "raw_api_responses/supadata/txgPfnXgzcE.json",
+      "raw_api_response_sha256": "d64811d6104cf4fba8f2d080fec2bf2cebafc71d908895210886db39cd744ca5"
+    },
+    {
+      "index": 36,
+      "video_id": "Ts-AA6LQf6I",
+      "title": "Game Theory #21:  World War Trump",
+      "video_url": "https://www.youtube.com/watch?v=Ts-AA6LQf6I",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/036 — Game Theory #21 World War Trump [Ts-AA6LQf6I].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1352,
+      "source_text_sha256": "cee658f328d1bcdeb581baf209724bda7166b1a07b6c7678471068e0acdbb060",
+      "archive_file_sha256": "53549fc4cf861c074d2c615e0e87747d5a3392e20b8f7c9bbab9e18ec945ea53",
+      "raw_api_response": "raw_api_responses/supadata/Ts-AA6LQf6I.json",
+      "raw_api_response_sha256": "916c063cac85ef6541c7c616c2e58151f9c1694eba4957c0bca4adf94ea876ae"
+    },
+    {
+      "index": 37,
+      "video_id": "ue8y5e3HnHE",
+      "title": "Game Theory #20:  Mid-Term Examination",
+      "video_url": "https://www.youtube.com/watch?v=ue8y5e3HnHE",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/037 — Game Theory #20 Mid-Term Examination [ue8y5e3HnHE].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1877,
+      "source_text_sha256": "36f7cf44f5bd83ca0af9ab4e756049fa80111433e983d9bc54e1632ab8c8acba",
+      "archive_file_sha256": "d14e218adf746eebacb7e4bdea2ac17a119ebf3555a2ad2e4ee0b268e3984609",
+      "raw_api_response": "raw_api_responses/supadata/ue8y5e3HnHE.json",
+      "raw_api_response_sha256": "b4777e5d2dcb0030149463d3590bce2d701446d40339a8e482b51aba07bf8814"
+    },
+    {
+      "index": 38,
+      "video_id": "4EZUrGPgAos",
+      "title": "Great Books #9:  Dante (Re-Upload with Audio Fixed)",
+      "video_url": "https://www.youtube.com/watch?v=4EZUrGPgAos",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/038 — Great Books #9 Dante (Re-Upload with Audio Fixed) [4EZUrGPgAos].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 972,
+      "source_text_sha256": "48aa50bf987ef4698d43d6d202e2b4a03f05998606a63644690f9307c72b9d5b",
+      "archive_file_sha256": "7d74eb50f9affb8bb86aea7f8843430153f846ae9dfb1dd12e974ff59702838b",
+      "raw_api_response": "raw_api_responses/supadata/4EZUrGPgAos.json",
+      "raw_api_response_sha256": "66040638e32f262d996f582958a204a6c28b72422f4603a18a920d12fdfbea5f"
+    },
+    {
+      "index": 39,
+      "video_id": "6M1Z_V3WgOk",
+      "title": "Great Books #9:  Dante's La Commedia",
+      "video_url": "https://www.youtube.com/watch?v=6M1Z_V3WgOk",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/039 — Great Books #9 Dante's La Commedia [6M1Z_V3WgOk].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 974,
+      "source_text_sha256": "b37116389e6d29666d7e7823881b1d6d62875608ac629f365f40ffa520b5c035",
+      "archive_file_sha256": "d1ca43809645c3a4b7cda2af3e9b4fc1742e34575f4b802d374e38765f1d992e",
+      "raw_api_response": "raw_api_responses/supadata/6M1Z_V3WgOk.json",
+      "raw_api_response_sha256": "68a5ce14409057a7d17b0b8fac52fe4e108a0669b32749c539ddd6f55c4dec7a"
+    },
+    {
+      "index": 40,
+      "video_id": "0HYET47Cc-E",
+      "title": "Game Theory #19:  The Hollywood-Pentagon Complex",
+      "video_url": "https://www.youtube.com/watch?v=0HYET47Cc-E",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/040 — Game Theory #19 The Hollywood-Pentagon Complex [0HYET47Cc-E].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1206,
+      "source_text_sha256": "83528d38aaad090217b00525a8a52718c1e6f8bcd47d1537d6fbb971c4c96f30",
+      "archive_file_sha256": "813db3e67bdb6e3f62cb804c55f2efe2f0b3ab902ddf913eb4b182211ea905fe",
+      "raw_api_response": "raw_api_responses/supadata/0HYET47Cc-E.json",
+      "raw_api_response_sha256": "1fe97927674daa3751db2f026a867dce0c233f9490532f6efbe31880814adfae"
+    },
+    {
+      "index": 41,
+      "video_id": "xrmERlHUqBk",
+      "title": "Game Theory #18:  Trump World Order",
+      "video_url": "https://www.youtube.com/watch?v=xrmERlHUqBk",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/041 — Game Theory #18 Trump World Order [xrmERlHUqBk].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1017,
+      "source_text_sha256": "e36a34805642fcc792d032d0e0eab257a03483056369665a53e7754cc8e9ff3c",
+      "archive_file_sha256": "786c262ac1d35554603c85c93159b95b520b0e05c3075a95482d5ba6f7653977",
+      "raw_api_response": "raw_api_responses/supadata/xrmERlHUqBk.json",
+      "raw_api_response_sha256": "157993b878560f73a1ebf6f24c04624d495f4ba533cc2fdeb39b5561e9a98cf9"
+    },
+    {
+      "index": 42,
+      "video_id": "VbowBTJWKBo",
+      "title": "Game Theory #17:  The Great Reset",
+      "video_url": "https://www.youtube.com/watch?v=VbowBTJWKBo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/042 — Game Theory #17 The Great Reset [VbowBTJWKBo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1303,
+      "source_text_sha256": "ffb53d73007cbadaaedeab4137d1836565d8873e34e1303061485ae173da1d3d",
+      "archive_file_sha256": "4d592510e410dc31483db1ac44a9cd0b476d35116149140da386debcbc7e9249",
+      "raw_api_response": "raw_api_responses/supadata/VbowBTJWKBo.json",
+      "raw_api_response_sha256": "01eeb2b5c1e69881cbe2155444a08ab8a7f9359fe51d2b47d2e080db4642fdb9"
+    },
+    {
+      "index": 43,
+      "video_id": "mk4vcHtawSo",
+      "title": "Game Theory #16:  Pax Judaica Rising (Re-Upload)",
+      "video_url": "https://www.youtube.com/watch?v=mk4vcHtawSo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/043 — Game Theory #16 Pax Judaica Rising (Re-Upload) [mk4vcHtawSo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1409,
+      "source_text_sha256": "eb9917615f0ac9f8ec356a630103c9ccc1e24362baceaf44ef802b2c45a0da40",
+      "archive_file_sha256": "842cf7dbbd9d59d6170b131e53c85efda0eb3ff97155364f94b314917e0e4c3c",
+      "raw_api_response": "raw_api_responses/supadata/mk4vcHtawSo.json",
+      "raw_api_response_sha256": "9180ef2f86df62db2633830ae4c3e44190c5391fc6e39273668f7432388defe8"
+    },
+    {
+      "index": 44,
+      "video_id": "0aASxQrJYuo",
+      "title": "Game Theory #16:  Pax Judaica Rising",
+      "video_url": "https://www.youtube.com/watch?v=0aASxQrJYuo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/044 — Game Theory #16 Pax Judaica Rising [0aASxQrJYuo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1420,
+      "source_text_sha256": "ce1c1df79888f7d280d40ccb1372f2900e569fc81f821e665f688e9924ba2fd4",
+      "archive_file_sha256": "4770d7a7ff1d343d5d7965d08df3d3ab6b0e4c99ad0968e0b90b05d521d3825e",
+      "raw_api_response": "raw_api_responses/supadata/0aASxQrJYuo.json",
+      "raw_api_response_sha256": "672b2eb11acf9ea553d87dfa3b8b22a1551ee4632583ef9013006b315d1709b8"
+    },
+    {
+      "index": 45,
+      "video_id": "YXTRlvFIRt8",
+      "title": "Great Books #8:  The Poetry of Empire",
+      "video_url": "https://www.youtube.com/watch?v=YXTRlvFIRt8",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/045 — Great Books #8 The Poetry of Empire [YXTRlvFIRt8].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1068,
+      "source_text_sha256": "f2e51fd056f7f1e1022bf80a54e047f11fbe21ccced4052d728a75e02fd25a8b",
+      "archive_file_sha256": "165e7b059d9e720221ad0f6cc321a294e2ba2a5342542c36dffea1653e2c0eea",
+      "raw_api_response": "raw_api_responses/supadata/YXTRlvFIRt8.json",
+      "raw_api_response_sha256": "2dbb5e095ac70b8c6d3261ccbd707f9a2ceb0748c6b0844f7904db4632262546"
+    },
+    {
+      "index": 46,
+      "video_id": "zAer-Mqe7tQ",
+      "title": "Game Theory #15:  The Return of History",
+      "video_url": "https://www.youtube.com/watch?v=zAer-Mqe7tQ",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/046 — Game Theory #15 The Return of History [zAer-Mqe7tQ].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1057,
+      "source_text_sha256": "e3dc24f73e48d47c464643e5831e351cba409bab6f99c6f29a46cac98463986a",
+      "archive_file_sha256": "e09b40ce7a23f5bf3ba33d94639dee710680137ab07c18aa2b2b8dd53145b608",
+      "raw_api_response": "raw_api_responses/supadata/zAer-Mqe7tQ.json",
+      "raw_api_response_sha256": "6d164177a4fe14826a79d68f0c14a7178e0ccea4ac05037ba02a1db899d8b638"
+    },
+    {
+      "index": 47,
+      "video_id": "nOQqGy4boBY",
+      "title": "Game Theory #14:  The Law of Proximity",
+      "video_url": "https://www.youtube.com/watch?v=nOQqGy4boBY",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/047 — Game Theory #14 The Law of Proximity [nOQqGy4boBY].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1055,
+      "source_text_sha256": "157cdd9d5d4784507c716de083c5b1b0bc92bee78d6b6e8204577f9aeb64bf45",
+      "archive_file_sha256": "482ba555c9322f4e10f7376955ea7cb34b22013989222605a9a8d40930b229c9",
+      "raw_api_response": "raw_api_responses/supadata/nOQqGy4boBY.json",
+      "raw_api_response_sha256": "2087fbf69a34b4fc3b5ed212d99fdfeadf61af881f87590d5726189e52508cba"
+    },
+    {
+      "index": 48,
+      "video_id": "EBWTRvjZ1dw",
+      "title": "Great Books #7:  The Anti-Homer",
+      "video_url": "https://www.youtube.com/watch?v=EBWTRvjZ1dw",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/048 — Great Books #7 The Anti-Homer [EBWTRvjZ1dw].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 657,
+      "source_text_sha256": "0cd5eb3a3ae06e375d6fb64560a720bcdfc3ab0fe5063d76680134558405288f",
+      "archive_file_sha256": "fc1896ce6d808dfb070d76324281552cc26cf114b8a46b9ac4f7df2b9c8e801f",
+      "raw_api_response": "raw_api_responses/supadata/EBWTRvjZ1dw.json",
+      "raw_api_response_sha256": "f8414acbae2c55f250fef13c51a2ab1d310d893a41d5b4ef9d0bcbd064d11ce4"
+    },
+    {
+      "index": 49,
+      "video_id": "aQSDSqdlFxk",
+      "title": "Game Theory #13:  Epstein's World",
+      "video_url": "https://www.youtube.com/watch?v=aQSDSqdlFxk",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/049 — Game Theory #13 Epstein's World [aQSDSqdlFxk].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1136,
+      "source_text_sha256": "b044cf73ba9fabd4c31df4f0691ff96c2ff880cfe7ee6ed62ca9170ab1693f43",
+      "archive_file_sha256": "76a439082505a3b461ec9f80aa6309f2e462819c4b1ede79cb1203948c9ae107",
+      "raw_api_response": "raw_api_responses/supadata/aQSDSqdlFxk.json",
+      "raw_api_response_sha256": "38a4fec9c86b57cb4ff4b34b3a3b37cbc06d5bf5b2cc1d2c369617f8d9bcbbbb"
+    },
+    {
+      "index": 50,
+      "video_id": "spg58Glfz68",
+      "title": "Game Theory #12:  The Law of Eschatological Convergence",
+      "video_url": "https://www.youtube.com/watch?v=spg58Glfz68",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/050 — Game Theory #12 The Law of Eschatological Convergence [spg58Glfz68].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1358,
+      "source_text_sha256": "1e7b4a409115ed22d23c864d3f6b7a522dde1bbeb177bf4efaf633a3431dbb1f",
+      "archive_file_sha256": "98cd2343dec59fa57979f6f713cf1b9b8b2d8eea82e66ff99496216ec961232c",
+      "raw_api_response": "raw_api_responses/supadata/spg58Glfz68.json",
+      "raw_api_response_sha256": "ecbef8cc75cc8462f41e991ad727bdd8ed5c8cfcaa4446e6b35a13c254ea5765"
+    },
+    {
+      "index": 51,
+      "video_id": "aS-NfPSPMu8",
+      "title": "Great Books #6:  The Intimacy of Love",
+      "video_url": "https://www.youtube.com/watch?v=aS-NfPSPMu8",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/051 — Great Books #6 The Intimacy of Love [aS-NfPSPMu8].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 692,
+      "source_text_sha256": "333fded186123c95b1f25c3f3a38600bff025df372883340e5e15cf8821363d0",
+      "archive_file_sha256": "d3620f1796f0d31bd4ab0d2363f9c93259b483bc8ed3e96616c1588f9bb277f2",
+      "raw_api_response": "raw_api_responses/supadata/aS-NfPSPMu8.json",
+      "raw_api_response_sha256": "986be4f90f3c467ad9ea833fdc83748c34349843aaeadad4642ae8a208d268a1"
+    },
+    {
+      "index": 52,
+      "video_id": "fz-Dan7NRss",
+      "title": "Game Theory #11:  The Law of Escalation",
+      "video_url": "https://www.youtube.com/watch?v=fz-Dan7NRss",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/052 — Game Theory #11 The Law of Escalation [fz-Dan7NRss].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1320,
+      "source_text_sha256": "178c5fb49c5545ecf653fe53517e4efc4808cb70095f1839ffe56b0e73075b2e",
+      "archive_file_sha256": "5aebec2a9143fbe630bb2e0d449bdef9055654b95da186c4e6268a3d13541557",
+      "raw_api_response": "raw_api_responses/supadata/fz-Dan7NRss.json",
+      "raw_api_response_sha256": "d2d805ae335b824dd7d71cb5fc30951eda0c3aa80ffcbe34732d0ec1b4b3be0b"
+    },
+    {
+      "index": 53,
+      "video_id": "t5oisJiorsU",
+      "title": "Game Theory #10:  The Law of Asymmetry",
+      "video_url": "https://www.youtube.com/watch?v=t5oisJiorsU",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/053 — Game Theory #10 The Law of Asymmetry [t5oisJiorsU].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1172,
+      "source_text_sha256": "d02e5fd5473ddf219e30fff7be92f8db8f02159bc730cb291bc5e4930001a700",
+      "archive_file_sha256": "d7b98cb4cce09b42aab706d4b0af821e8165c94957914a02e5282f3d95f52dda",
+      "raw_api_response": "raw_api_responses/supadata/t5oisJiorsU.json",
+      "raw_api_response_sha256": "26f72704c4400f48afa496d092ada352cdcf8e7074913a7e16af9420d7bb5330"
+    },
+    {
+      "index": 54,
+      "video_id": "gXlcR7uHHdA",
+      "title": "Great Books #5:  The Odyssey",
+      "video_url": "https://www.youtube.com/watch?v=gXlcR7uHHdA",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/054 — Great Books #5 The Odyssey [gXlcR7uHHdA].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 886,
+      "source_text_sha256": "d156bf03e5b09d68018d95a33598f49c061045ff0099f1b04cdc2c40d40a8024",
+      "archive_file_sha256": "9e6fc6857445f9fd4dea7f370510a7fec75b90cc5a42c9c4d167e34bde54d3e6",
+      "raw_api_response": "raw_api_responses/supadata/gXlcR7uHHdA.json",
+      "raw_api_response_sha256": "313fa3e382b31d0783406ab72df18bea01adf633b495fced4169b7354d6459fc"
+    },
+    {
+      "index": 55,
+      "video_id": "jIS2eB-rGv0",
+      "title": "Game Theory #9:  The US-Iran War",
+      "video_url": "https://www.youtube.com/watch?v=jIS2eB-rGv0",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/055 — Game Theory #9 The US-Iran War [jIS2eB-rGv0].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 973,
+      "source_text_sha256": "86f987c32f138aa719803c9c0e1b354c99f0be80a0c6fa79a976fbea0c1d9985",
+      "archive_file_sha256": "9e42f8395d9121191f362a16feb94ca8c65b619495e9ffc83eaff4fde8fea90d",
+      "raw_api_response": "raw_api_responses/supadata/jIS2eB-rGv0.json",
+      "raw_api_response_sha256": "3fd94427a8b680724fd7b6bb8e20d82a49f6f37aa115d4896bf1f0bded7fefb5"
+    },
+    {
+      "index": 56,
+      "video_id": "axqDLhWs93Q",
+      "title": "Game Theory #8:  Communist Specter",
+      "video_url": "https://www.youtube.com/watch?v=axqDLhWs93Q",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/056 — Game Theory #8 Communist Specter [axqDLhWs93Q].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1185,
+      "source_text_sha256": "0a7087076bded1bf5d26e9f7af4596918efde2df9f1254749b78d048fafdea69",
+      "archive_file_sha256": "f6401d4d8d823e145643f4726cb4d70748d659c734899b89e36d6cf24e041ad4",
+      "raw_api_response": "raw_api_responses/supadata/axqDLhWs93Q.json",
+      "raw_api_response_sha256": "9abe095449d750b3990cbc7b7459f062106ef945103e51bebc6af1178613ad9f"
+    },
+    {
+      "index": 57,
+      "video_id": "dkzr5A8IlLA",
+      "title": "Great Books #4:  The Conscious Universe",
+      "video_url": "https://www.youtube.com/watch?v=dkzr5A8IlLA",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/057 — Great Books #4 The Conscious Universe [dkzr5A8IlLA].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1225,
+      "source_text_sha256": "b2e856ab8540623c4cf56385667f20fe8e10c874370afcf31780a6ece2d9df2c",
+      "archive_file_sha256": "6a40f2eb4cdbbe3df084c6e00aa61021822ad247538e4cb1e1dd8bc546613d85",
+      "raw_api_response": "raw_api_responses/supadata/dkzr5A8IlLA.json",
+      "raw_api_response_sha256": "4d1c302c03831f056dd0cd17044311b72e65d827358ba7b8c9c37e7a10ba9d82"
+    },
+    {
+      "index": 58,
+      "video_id": "ijnkCt1QK6k",
+      "title": "Game Theory #7:  America's Game",
+      "video_url": "https://www.youtube.com/watch?v=ijnkCt1QK6k",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/058 — Game Theory #7 America's Game [ijnkCt1QK6k].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1072,
+      "source_text_sha256": "7640acf2eb22a32cbf8777a4138798c34fe687a36b2e76bad737cf7c6c0a6065",
+      "archive_file_sha256": "2a04118d4007c6f27371f045487a1751607dcaf052c2f63bf3d420cdb57bbfe2",
+      "raw_api_response": "raw_api_responses/supadata/ijnkCt1QK6k.json",
+      "raw_api_response_sha256": "b5012e0167561ef99b458cfdb0978128f7b775e035b3e973c97a048e922c41f1"
+    },
+    {
+      "index": 59,
+      "video_id": "CbamEcNuDXo",
+      "title": "Game Theory #6:  The World's Bank",
+      "video_url": "https://www.youtube.com/watch?v=CbamEcNuDXo",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/059 — Game Theory #6 The World's Bank [CbamEcNuDXo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 988,
+      "source_text_sha256": "c8d81bbb82df4a0516887e2c8dafd9153297f49ea4e55b4145cfd1f4da3839a2",
+      "archive_file_sha256": "699896e1a1ffc3f91a80fb2c3543f4ef011dd41ed391cba85379b117427cedb7",
+      "raw_api_response": "raw_api_responses/supadata/CbamEcNuDXo.json",
+      "raw_api_response_sha256": "881b50c8fcb162e012fd67f85ff34fdb170d45a6dd47e0b48a7c87c14fc2e876"
+    },
+    {
+      "index": 60,
+      "video_id": "XRP407WsA0w",
+      "title": "Great Books #3:  Poets and Prophets",
+      "video_url": "https://www.youtube.com/watch?v=XRP407WsA0w",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/060 — Great Books #3 Poets and Prophets [XRP407WsA0w].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 955,
+      "source_text_sha256": "4905240241956d797bfa89abc0f2610e5f8ceeec274a383288404fc4f82f3772",
+      "archive_file_sha256": "3358d52b2ee082b73e1f841d5340718ea5800ed8f50388983bf3490ff8904e5f",
+      "raw_api_response": "raw_api_responses/supadata/XRP407WsA0w.json",
+      "raw_api_response_sha256": "1998fb6bf500a2320624c551f4e8eb5554df8f2e4a94864fb5018af860c51ba5"
+    },
+    {
+      "index": 61,
+      "video_id": "ybufqRY77PQ",
+      "title": "Game Theory #5:  The World Game",
+      "video_url": "https://www.youtube.com/watch?v=ybufqRY77PQ",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/061 — Game Theory #5 The World Game [ybufqRY77PQ].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1309,
+      "source_text_sha256": "f4d47db360e6e90b3b78fa36a3f30ce7c5d5f18d2d56ed126a08dd326d0ecb0d",
+      "archive_file_sha256": "fbaec1927ecbba329209f24079c50d484104b94ae7e501514a37773dd327f353",
+      "raw_api_response": "raw_api_responses/supadata/ybufqRY77PQ.json",
+      "raw_api_response_sha256": "68673b61fe9a0b9bc4ec4767a2003152e7ad339ce3b6ea4be54806f8b885c990"
+    },
+    {
+      "index": 62,
+      "video_id": "35HRPLVyF0g",
+      "title": "Game Theory #4:  The Immigration Trap",
+      "video_url": "https://www.youtube.com/watch?v=35HRPLVyF0g",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/062 — Game Theory #4 The Immigration Trap [35HRPLVyF0g].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 73,
+      "source_text_sha256": "4c661f92f44404b36f0ac28cbc5e43184bdf3ee7a7429e54b681ed7d7373eef2",
+      "archive_file_sha256": "cc7e65134c9ab8db644986a677b55e2fc31ea8471c1920f7556e271e50b43280",
+      "raw_api_response": "raw_api_responses/supadata/35HRPLVyF0g.json",
+      "raw_api_response_sha256": "52753bf8fdf78e1a46082cd68e70202ba7153092bd4a6889f38fd52ce16721a3"
+    },
+    {
+      "index": 63,
+      "video_id": "Ft2CuowGuYc",
+      "title": "Great Books #2:  Homer and the Invention of the Human",
+      "video_url": "https://www.youtube.com/watch?v=Ft2CuowGuYc",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/063 — Great Books #2 Homer and the Invention of the Human [Ft2CuowGuYc].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 776,
+      "source_text_sha256": "3f665443fc1b407d8732825deba26d55a4e5452a26b069bed00216335abca214",
+      "archive_file_sha256": "c811111b2d5a343f309f1512d109247c4899853ccacf180565de1af8fabf8f8f",
+      "raw_api_response": "raw_api_responses/supadata/Ft2CuowGuYc.json",
+      "raw_api_response_sha256": "da1063301eae6f3d01f2a59bc79dc0567f02459b8feb7404cd9159080611ea2e"
+    },
+    {
+      "index": 64,
+      "video_id": "MX93U4KzA28",
+      "title": "Game Theory #3:  Rich Dad, Poor Dad",
+      "video_url": "https://www.youtube.com/watch?v=MX93U4KzA28",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/064 — Game Theory #3 Rich Dad, Poor Dad [MX93U4KzA28].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1131,
+      "source_text_sha256": "a28dd8d02eee3fbe0b4eb916efa0b10b071238a054fd2e1e6f57ecf0397c7f81",
+      "archive_file_sha256": "d8a3e1151a5a3d2ae6f940d1eebe8456c62f9378ada453cdf6296a8150944738",
+      "raw_api_response": "raw_api_responses/supadata/MX93U4KzA28.json",
+      "raw_api_response_sha256": "617c98660b9d15a8132aeb64ebe34f2f27877951aea19e3ff0e2990ce2fe46d6"
+    },
+    {
+      "index": 65,
+      "video_id": "kS-muAuq62E",
+      "title": "Game Theory #2:  Why Schools Suck",
+      "video_url": "https://www.youtube.com/watch?v=kS-muAuq62E",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/065 — Game Theory #2 Why Schools Suck [kS-muAuq62E].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1151,
+      "source_text_sha256": "58407d455bac2aa4f334256b44feb189d63230a13d2a4bada724004f4e33614d",
+      "archive_file_sha256": "00ad45a8c5b87e357d9c361429bfc6fe5231afd43812bd0ddd73c0755f71ba98",
+      "raw_api_response": "raw_api_responses/supadata/kS-muAuq62E.json",
+      "raw_api_response_sha256": "0f31b123aa414d0c2c65e2bb8c35facc8634a150292598fa698848727545c0c9"
+    },
+    {
+      "index": 66,
+      "video_id": "TsD-8FGA84A",
+      "title": "Great Books #1:  Secrets of the Universe",
+      "video_url": "https://www.youtube.com/watch?v=TsD-8FGA84A",
+      "series_folder": "Great Books",
+      "relative_path": "Great Books/066 — Great Books #1 Secrets of the Universe [TsD-8FGA84A].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 958,
+      "source_text_sha256": "e3e3e4a847fa8bc0054507fc61909976e84044e8e90a173461a7e3d8f03e4d1f",
+      "archive_file_sha256": "39ffc671fe1e990d3d505e2ce39c132f449863301a650ec5e6f2bf9bc3aca00c",
+      "raw_api_response": "raw_api_responses/supadata/TsD-8FGA84A.json",
+      "raw_api_response_sha256": "c5291d42c9fdfeeec1a55916a436815ff82910b381cbec4dca04587418af56de"
+    },
+    {
+      "index": 67,
+      "video_id": "hE4l9WyLF3U",
+      "title": "Game Theory #1:  The Dating Game",
+      "video_url": "https://www.youtube.com/watch?v=hE4l9WyLF3U",
+      "series_folder": "Game Theory",
+      "relative_path": "Game Theory/067 — Game Theory #1 The Dating Game [hE4l9WyLF3U].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1247,
+      "source_text_sha256": "a6be6a82179dd6aa77c2618d51af0b3b78b9a5728ccd3c0727b70d539955517b",
+      "archive_file_sha256": "48dba182a471b6016249421e60dbede86458355b3685d6dcdbacacd6b08e36fd",
+      "raw_api_response": "raw_api_responses/supadata/hE4l9WyLF3U.json",
+      "raw_api_response_sha256": "93341f622eeb12e6d14fcc42a88a508bf79309ac832e979848a3fd7325889d5c"
+    },
+    {
+      "index": 68,
+      "video_id": "WFWizN3QoPg",
+      "title": "Secret History #END:  Pax Judaica",
+      "video_url": "https://www.youtube.com/watch?v=WFWizN3QoPg",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/068 — Secret History #END Pax Judaica [WFWizN3QoPg].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 180,
+      "source_text_sha256": "8c4416e76dbd17bea9d7d66aec9ebcf8e83f17b6d82a04db85cd7d5fe48c100f",
+      "archive_file_sha256": "1f5b48f774cce31c374dfc6400faae9c990b919c058657a142221d549b6c8d3e",
+      "raw_api_response": "raw_api_responses/supadata/WFWizN3QoPg.json",
+      "raw_api_response_sha256": "504925e3e61b9c7dc9289d8b525ce65c9e3a5325791fc5b561ce793340c2fa5b"
+    },
+    {
+      "index": 69,
+      "video_id": "ZPrecJHUOUs",
+      "title": "Secret History #27:  Empire of Evil",
+      "video_url": "https://www.youtube.com/watch?v=ZPrecJHUOUs",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/069 — Secret History #27 Empire of Evil [ZPrecJHUOUs].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 159,
+      "source_text_sha256": "d66e7b3fc0e3df89da63efbba949234a5a5dd3e44a92c2518d64e232a7576678",
+      "archive_file_sha256": "cdbf2da904c02e5ebfb10d5adf4ed45708401af1417416b5b599cabaa42478e5",
+      "raw_api_response": "raw_api_responses/supadata/ZPrecJHUOUs.json",
+      "raw_api_response_sha256": "01b82d712c383c439b02f17f2160a7071760b10b49dc3f18d9af4aa5fc1d974c"
+    },
+    {
+      "index": 70,
+      "video_id": "kULUM_eB8KI",
+      "title": "Secret History #26:  Faith of Evil",
+      "video_url": "https://www.youtube.com/watch?v=kULUM_eB8KI",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/070 — Secret History #26 Faith of Evil [kULUM_eB8KI].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 2022,
+      "source_text_sha256": "fe2747ba42c6205c77c56f5e2b3ce9d15eb323d1f02812bd79bb633ee392f1f3",
+      "archive_file_sha256": "fb58a8dbbb8ffa4e11e030fcfef88df50fabd0a2b63d7ba14f3487f6af5b7b5f",
+      "raw_api_response": "raw_api_responses/supadata/kULUM_eB8KI.json",
+      "raw_api_response_sha256": "9f8368972710af94dd39fe51e412775c62cfa4310465240c2d77c2c114cc9723"
+    },
+    {
+      "index": 71,
+      "video_id": "B5FtHagng8c",
+      "title": "Secret History #25:  Capital of Evil",
+      "video_url": "https://www.youtube.com/watch?v=B5FtHagng8c",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/071 — Secret History #25 Capital of Evil [B5FtHagng8c].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1628,
+      "source_text_sha256": "1df13c3bf4bfe91a2f0f8ef0f12f48ae7a56d95e78b4781f57a1e19d776fdf14",
+      "archive_file_sha256": "1986089c5ae5866f43aba60b07a9f3d8cf6f2c805f5b0a7e863c45d4d30db9ca",
+      "raw_api_response": "raw_api_responses/supadata/B5FtHagng8c.json",
+      "raw_api_response_sha256": "61bf89d2b4571349e09225ef6f558905492923dc5a546433f3e92b5a2da2912b"
+    },
+    {
+      "index": 72,
+      "video_id": "TEdVhyE8pO0",
+      "title": "Secret History #24:  Empire of Church",
+      "video_url": "https://www.youtube.com/watch?v=TEdVhyE8pO0",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/072 — Secret History #24 Empire of Church [TEdVhyE8pO0].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1923,
+      "source_text_sha256": "24e8878cb6befc1beb0f3d087acf5fd2f50020d9501fb630b03f1a48e5d89933",
+      "archive_file_sha256": "8efde1a789549ef32c9104498be6cc305bb1f211c8ad8160bc26c2ce084cabcc",
+      "raw_api_response": "raw_api_responses/supadata/TEdVhyE8pO0.json",
+      "raw_api_response_sha256": "0c75c2f975982bcbcdaf0da0f36a1dadee7788a409eeb588df9f9862d69f7873"
+    },
+    {
+      "index": 73,
+      "video_id": "6XGAc_OqCbU",
+      "title": "Secret History #23:  The Organization of Evil",
+      "video_url": "https://www.youtube.com/watch?v=6XGAc_OqCbU",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/073 — Secret History #23 The Organization of Evil [6XGAc_OqCbU].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 2284,
+      "source_text_sha256": "15a60232011200fd626a47e69dfe9b600a0d30021d8f0d981bec4fce7b1ab0ad",
+      "archive_file_sha256": "cbaaa59dff22c19615a8a1df1d0b57fb566037d5061f32dcefd802e3085fcc25",
+      "raw_api_response": "raw_api_responses/supadata/6XGAc_OqCbU.json",
+      "raw_api_response_sha256": "c4cef286148f1dd6c0a16767bdd7306b3aeee976317e17121c56abce81b47543"
+    },
+    {
+      "index": 74,
+      "video_id": "pp0E1gb80WQ",
+      "title": "Secret History #22:  The Divine Spark of Jesus",
+      "video_url": "https://www.youtube.com/watch?v=pp0E1gb80WQ",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/074 — Secret History #22 The Divine Spark of Jesus [pp0E1gb80WQ].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 2264,
+      "source_text_sha256": "cdc5b8a4559ed645def6cfbe172b89ea2a1e4721c3fd9de46f545b1894d94275",
+      "archive_file_sha256": "c6b8fc4db89f6bfdae8f4684590ac79eed869de3d07fb19442c40d8adab66d18",
+      "raw_api_response": "raw_api_responses/supadata/pp0E1gb80WQ.json",
+      "raw_api_response_sha256": "fd9bff57183204183d408b6dca40c4449e2d932fd73eb9775969722768929dc8"
+    },
+    {
+      "index": 75,
+      "video_id": "Y-gXVzwbFMU",
+      "title": "Secret History #21:  Roman Anti-Civilization",
+      "video_url": "https://www.youtube.com/watch?v=Y-gXVzwbFMU",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/075 — Secret History #21 Roman Anti-Civilization [Y-gXVzwbFMU].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 2065,
+      "source_text_sha256": "0e24859ebed7362be34323997b717b7be8783fa4c3e510a97e4cc9d0a13df0e8",
+      "archive_file_sha256": "ac15cade8e503e142aa393ee1f8bba916ab7c75eeef521d9959763611e71f30c",
+      "raw_api_response": "raw_api_responses/supadata/Y-gXVzwbFMU.json",
+      "raw_api_response_sha256": "b35d80134933e15827de10994582b41c40a6431850d0c665fd3e161d4666f325"
+    },
+    {
+      "index": 76,
+      "video_id": "z0AwFin83lo",
+      "title": "Secret History #20:  The Hellenistic World",
+      "video_url": "https://www.youtube.com/watch?v=z0AwFin83lo",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/076 — Secret History #20 The Hellenistic World [z0AwFin83lo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1879,
+      "source_text_sha256": "0477947eabb70893a92a09f21edb0e503c284a0d660f92d4d0115cfa67ed71b3",
+      "archive_file_sha256": "fba007adf4ff29593e0f8d207cd5e16e2d3639e7a55d9e148f750aa780cb93e9",
+      "raw_api_response": "raw_api_responses/supadata/z0AwFin83lo.json",
+      "raw_api_response_sha256": "e9e2988505c7829b796c422b3985042256d1449294d6ca0e69bbff57dd2c6729"
+    },
+    {
+      "index": 77,
+      "video_id": "3t0MeVBD24I",
+      "title": "Secret History #19:  Dawn of the Jews",
+      "video_url": "https://www.youtube.com/watch?v=3t0MeVBD24I",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/077 — Secret History #19 Dawn of the Jews [3t0MeVBD24I].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1779,
+      "source_text_sha256": "a7f5543e40e0195e3a5202b11702d2330314cc1931e08d7f88dfc215f4f12f93",
+      "archive_file_sha256": "d201e086342320de5caa156af7fca9234a84cfc22c6d03e808539e8c40e083b7",
+      "raw_api_response": "raw_api_responses/supadata/3t0MeVBD24I.json",
+      "raw_api_response_sha256": "6d04da2527b3ab7b274a2864c09228faccf8ba44e939b96f41a479e654f2a3ab"
+    },
+    {
+      "index": 78,
+      "video_id": "dELEdxh0ceg",
+      "title": "Secret History #18:  Thus Spoke Zarathustra",
+      "video_url": "https://www.youtube.com/watch?v=dELEdxh0ceg",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/078 — Secret History #18 Thus Spoke Zarathustra [dELEdxh0ceg].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1481,
+      "source_text_sha256": "8969a190290f975826384d7f5a2f2d6eb9c21221086463fd2896a78ba5a611d2",
+      "archive_file_sha256": "4e9142c19de3f72464b16cb63b3a67d898a5e86810879f68461429c25b67ba6c",
+      "raw_api_response": "raw_api_responses/supadata/dELEdxh0ceg.json",
+      "raw_api_response_sha256": "b5b1c7ddeda531798d840ad6c4fe8e82cdf8b4bba50136d2089036f2eea4bb34"
+    },
+    {
+      "index": 79,
+      "video_id": "PlMNq44tBG0",
+      "title": "Secret History #17:  Literary Genesis",
+      "video_url": "https://www.youtube.com/watch?v=PlMNq44tBG0",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/079 — Secret History #17 Literary Genesis [PlMNq44tBG0].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1584,
+      "source_text_sha256": "307efe18bba74bb0819c1e4c6acaa276b72ae56359405a956e9f5e961df71e00",
+      "archive_file_sha256": "20423971fab155ffbb1f410ae96a256ea90818d3aa8531590a1d984ea87bae79",
+      "raw_api_response": "raw_api_responses/supadata/PlMNq44tBG0.json",
+      "raw_api_response_sha256": "b5ad3bd700ff428cfc4bee02c65972fb1e7f33f953420f551be3ca19ea074618"
+    },
+    {
+      "index": 80,
+      "video_id": "4ehovUNrSrw",
+      "title": "Secret History #16:  The Big Bang of Greek Civilization",
+      "video_url": "https://www.youtube.com/watch?v=4ehovUNrSrw",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/080 — Secret History #16 The Big Bang of Greek Civilization [4ehovUNrSrw].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1595,
+      "source_text_sha256": "9ea86e40cf8e279a69cad8361541fdbb9e934ba017837bf3e4bb536d78aaaddb",
+      "archive_file_sha256": "f1a834d123235c7dbce1b4c2538465ba8ee07afcd9123c285d72d49cae27cb02",
+      "raw_api_response": "raw_api_responses/supadata/4ehovUNrSrw.json",
+      "raw_api_response_sha256": "bf582feef5dfdf9228543ae0bf413b4755628367e455eb6a6b9f63dcac152cbb"
+    },
+    {
+      "index": 81,
+      "video_id": "rkt0HQOogHE",
+      "title": "Secret History #15:  Capital and the Bronze Age Collapse",
+      "video_url": "https://www.youtube.com/watch?v=rkt0HQOogHE",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/081 — Secret History #15 Capital and the Bronze Age Collapse [rkt0HQOogHE].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1296,
+      "source_text_sha256": "8ff2f0e119b73ae0308f07fac84995723b22e689639edaeec07e90f87aae66ec",
+      "archive_file_sha256": "75168ffe487c9c796acfca8dcb15fe357bf16bad0f6149697298f66c70d5c416",
+      "raw_api_response": "raw_api_responses/supadata/rkt0HQOogHE.json",
+      "raw_api_response_sha256": "911da971c41acbac230636ab2de352cdb341931317d193bd06ca1d31c409a32d"
+    },
+    {
+      "index": 82,
+      "video_id": "JpTI2gFYWrU",
+      "title": "Secret History #14:  Legacy of the Steppes",
+      "video_url": "https://www.youtube.com/watch?v=JpTI2gFYWrU",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/082 — Secret History #14 Legacy of the Steppes [JpTI2gFYWrU].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1385,
+      "source_text_sha256": "af671d222ff52aa9028bf44b2dba21048fc75e34d168703195cdf01d3e765eab",
+      "archive_file_sha256": "309cf9cefce2cf17c0a4f555bf9a6e228a9eaecf3ed59f0e6a28735ba10ab20f",
+      "raw_api_response": "raw_api_responses/supadata/JpTI2gFYWrU.json",
+      "raw_api_response_sha256": "899afcb10cf810a10ac0baee61ac2e850a78dc07892a10d27d20ab3c474cd241"
+    },
+    {
+      "index": 83,
+      "video_id": "FJF8oD_5c_w",
+      "title": "Secret History #13:  Mandate of Heaven",
+      "video_url": "https://www.youtube.com/watch?v=FJF8oD_5c_w",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/083 — Secret History #13 Mandate of Heaven [FJF8oD_5c_w].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1364,
+      "source_text_sha256": "d5fb397431c783f544d9894226732da71356fafe4e2539dffc119349e32cab3a",
+      "archive_file_sha256": "180fa64cebefb05b2541ba1d830c7f6c5fd85b9eee63950e62e1c7b6b71e1c45",
+      "raw_api_response": "raw_api_responses/supadata/FJF8oD_5c_w.json",
+      "raw_api_response_sha256": "423bb973985927f72699e2859f1c39342ad36daa9df3bc459baff73bdc11ce1c"
+    },
+    {
+      "index": 84,
+      "video_id": "VtnRA-GNKM8",
+      "title": "Secret History #12:  Heaven on Earth",
+      "video_url": "https://www.youtube.com/watch?v=VtnRA-GNKM8",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/084 — Secret History #12 Heaven on Earth [VtnRA-GNKM8].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1394,
+      "source_text_sha256": "930876aa0cbd1c237dc25356ef72eace9c98c3407474ec6ccce643e431842713",
+      "archive_file_sha256": "c006018db26642b45274a33862a0d2a64511c3e92897631f3f181779df7c1431",
+      "raw_api_response": "raw_api_responses/supadata/VtnRA-GNKM8.json",
+      "raw_api_response_sha256": "64b2ca605b5d91bd97f7be74ea7ae69168d12a227949375e040e4b23fc637f82"
+    },
+    {
+      "index": 85,
+      "video_id": "LvHsg5qtDs8",
+      "title": "Secret History #11:  Dawn of the Human Imagination",
+      "video_url": "https://www.youtube.com/watch?v=LvHsg5qtDs8",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/085 — Secret History #11 Dawn of the Human Imagination [LvHsg5qtDs8].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1493,
+      "source_text_sha256": "e8db9df77029b3b7ded140d5d1d7fbaf13dfce604a18b34902cd8ae51e34b24f",
+      "archive_file_sha256": "321975b78b23296631780dcd027c7a10827d9694a024e6c86f4afba79490828a",
+      "raw_api_response": "raw_api_responses/supadata/LvHsg5qtDs8.json",
+      "raw_api_response_sha256": "7115cbca8facf72c3d55fdc7744185f8a92332f0f442c814f0b711ecaa902b46"
+    },
+    {
+      "index": 86,
+      "video_id": "ihh1fdW4-cA",
+      "title": "Secret History #10:  The Conspiracy of Evil",
+      "video_url": "https://www.youtube.com/watch?v=ihh1fdW4-cA",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/086 — Secret History #10 The Conspiracy of Evil [ihh1fdW4-cA].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1328,
+      "source_text_sha256": "ae579997acfd6bc7486e20f580a26c4fdbe3b791fe623872e5e58b47ddfa8096",
+      "archive_file_sha256": "9812e73fb10f6f3bf59d6e1a8de30e7a5ecc4f1768577666bc81a03148159979",
+      "raw_api_response": "raw_api_responses/supadata/ihh1fdW4-cA.json",
+      "raw_api_response_sha256": "337bc43e54c63d8270f200d66fafc848df34a4c1aef2217b7e28a5d9a90f58fd"
+    },
+    {
+      "index": 87,
+      "video_id": "9MURGjjG4aA",
+      "title": "Secret History #9:   The Theory of Everything",
+      "video_url": "https://www.youtube.com/watch?v=9MURGjjG4aA",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/087 — Secret History #9 The Theory of Everything [9MURGjjG4aA].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1432,
+      "source_text_sha256": "104036210ca518a27d841751360d852c0c26ce7ed446311e8e1eec3957ba270e",
+      "archive_file_sha256": "cf6ad633f9616a71166ff26c9e54bbb08b5f41fb043d431c86d770b879f598ea",
+      "raw_api_response": "raw_api_responses/supadata/9MURGjjG4aA.json",
+      "raw_api_response_sha256": "956a584eb127d15e9d83464a8b361bd715bf2808823d6b7f6205b344755818db"
+    },
+    {
+      "index": 88,
+      "video_id": "hk_yhi3-prw",
+      "title": "Secret History #8:  Death by Bureaucracy",
+      "video_url": "https://www.youtube.com/watch?v=hk_yhi3-prw",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/088 — Secret History #8 Death by Bureaucracy [hk_yhi3-prw].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 651,
+      "source_text_sha256": "cdebabb7471dffc9897b40d45f978ef5bed17de14fd85e3c79f1b55f8c8d4032",
+      "archive_file_sha256": "ee2293a35337d716be29d800253832d248e98dc76fe571c04bd302e07e7c4ce0",
+      "raw_api_response": "raw_api_responses/supadata/hk_yhi3-prw.json",
+      "raw_api_response_sha256": "b77f46daaefae0d25bf12476bcbe8dd6a953ea1b88ff885338f79df55a89a7c7"
+    },
+    {
+      "index": 89,
+      "video_id": "JU_8fJjtGxA",
+      "title": "Secret History #7:  Death by Meritocracy",
+      "video_url": "https://www.youtube.com/watch?v=JU_8fJjtGxA",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/089 — Secret History #7 Death by Meritocracy [JU_8fJjtGxA].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 687,
+      "source_text_sha256": "2667aaef0a0ce6278c5bb282e769d91db79518454daa803757d089c6b8cd3755",
+      "archive_file_sha256": "dfcbdf254825995f739a753680d896fb5e2fdc6b52797f571730aa3fc7f9238a",
+      "raw_api_response": "raw_api_responses/supadata/JU_8fJjtGxA.json",
+      "raw_api_response_sha256": "55cc109f48c445547ce4c1fe5c99b479f2978fa64262a008f8a30dc4adb556a3"
+    },
+    {
+      "index": 90,
+      "video_id": "6PdfD44DkqA",
+      "title": "Secret History #6:  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)",
+      "video_url": "https://www.youtube.com/watch?v=6PdfD44DkqA",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/090 — Secret History #6 The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised) [6PdfD44DkqA].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 489,
+      "source_text_sha256": "81f77f3b870885d4eeeb21deec46b90418d36fd745a2f6b34116da10c0733465",
+      "archive_file_sha256": "b92f1dc6021562a465553c9b9f172a18c8cf789e12d8531818481868944c2033",
+      "raw_api_response": "raw_api_responses/supadata/6PdfD44DkqA.json",
+      "raw_api_response_sha256": "f5bc30885022576ef6a4c5c81f4dc1ad567d5ef3f3fc04e31232d123ec6b15af"
+    },
+    {
+      "index": 91,
+      "video_id": "EgGfQdv_rPc",
+      "title": "Secret History #5:  The Birth of Evil",
+      "video_url": "https://www.youtube.com/watch?v=EgGfQdv_rPc",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/091 — Secret History #5 The Birth of Evil [EgGfQdv_rPc].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 709,
+      "source_text_sha256": "2bb26f35d5f05d279194d2a903924a64d3fe451e36adf0a32de32036db3917e0",
+      "archive_file_sha256": "72b77976be39b6e9de078384e68de3677ddca5b7d0f5aa701502837a4afd501f",
+      "raw_api_response": "raw_api_responses/supadata/EgGfQdv_rPc.json",
+      "raw_api_response_sha256": "9776b20a3be051c6cf41d522844f6c4bad50bebee19ad6c3afa5ab64e4dd77e3"
+    },
+    {
+      "index": 92,
+      "video_id": "BtlWoqWLm9Q",
+      "title": "Secret History #4:  How Evil Triumphs",
+      "video_url": "https://www.youtube.com/watch?v=BtlWoqWLm9Q",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/092 — Secret History #4 How Evil Triumphs [BtlWoqWLm9Q].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 63,
+      "source_text_sha256": "673ee8e9d24a701db4284fb3d1e3a482d78578d5f75eaa91d14818d405990565",
+      "archive_file_sha256": "e8e1ee98ffa98e84a1b134dc932c7aab157f1aac2c25a86f7b4679bb064a3ef9",
+      "raw_api_response": "raw_api_responses/supadata/BtlWoqWLm9Q.json",
+      "raw_api_response_sha256": "ba088cb229221bea2b1f0a3881ecefec063c90a0aac417239bdeb194ad9037dc"
+    },
+    {
+      "index": 93,
+      "video_id": "0g3yo1DjiLM",
+      "title": "Secret History #3:  Death by Gerontocracy",
+      "video_url": "https://www.youtube.com/watch?v=0g3yo1DjiLM",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/093 — Secret History #3 Death by Gerontocracy [0g3yo1DjiLM].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 92,
+      "source_text_sha256": "a35738474e678cf965bfd2015589a2d1af645db1ed63648d89f93deb00909344",
+      "archive_file_sha256": "3b7c00ba09331943982df33684f569487ada6929bded1eaf9a3c0d7af2ae7f91",
+      "raw_api_response": "raw_api_responses/supadata/0g3yo1DjiLM.json",
+      "raw_api_response_sha256": "352fdf87459fabcb29edba81326b90640a7ca10e64fe7186ea900650d807dc62"
+    },
+    {
+      "index": 94,
+      "video_id": "K-_l9jBGo74",
+      "title": "Secret History #2:  How Societies Collapse",
+      "video_url": "https://www.youtube.com/watch?v=K-_l9jBGo74",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/094 — Secret History #2 How Societies Collapse [K-_l9jBGo74].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 98,
+      "source_text_sha256": "e0181bbe816f6d2a615a89c74bb0428779143d937814357912e071ef24201142",
+      "archive_file_sha256": "5b92fb55c37faf63a304892b27f91682d053697b136c5267b427784f4031cbdb",
+      "raw_api_response": "raw_api_responses/supadata/K-_l9jBGo74.json",
+      "raw_api_response_sha256": "ec2e57bead167bfdf2805937a28fdd8d592495b9bfa0ad9bb9349fb6618f0fd1"
+    },
+    {
+      "index": 95,
+      "video_id": "lt8XLz78ZvY",
+      "title": "Secret History #1:  How Power Works (4K Re-Upload with Audio Fixed)",
+      "video_url": "https://www.youtube.com/watch?v=lt8XLz78ZvY",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/095 — Secret History #1 How Power Works (4K Re-Upload with Audio Fixed) [lt8XLz78ZvY].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 646,
+      "source_text_sha256": "03851692e6ca6731101805400c2604c7472c191c8a5d559892444558d8c61157",
+      "archive_file_sha256": "2823e0c04e9188db8d82d6c6e97644c80895342723198d5af401ea0c4346902d",
+      "raw_api_response": "raw_api_responses/supadata/lt8XLz78ZvY.json",
+      "raw_api_response_sha256": "418a6b860e7064324deb84908d51cabf4f40da80531f6c40867a78804aa41d40"
+    },
+    {
+      "index": 96,
+      "video_id": "ajFXykT9Joo",
+      "title": "Secret History #1:  How Power Works",
+      "video_url": "https://www.youtube.com/watch?v=ajFXykT9Joo",
+      "series_folder": "Secret History",
+      "relative_path": "Secret History/096 — Secret History #1 How Power Works [ajFXykT9Joo].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1586,
+      "source_text_sha256": "300aa3f884af0edf47dd50ea3830b4d23b6347caefaaa2727da916609e6820a7",
+      "archive_file_sha256": "92e4baa3a7085f4f3163e654fce872412cb8cc39499594639d28887bdace8b53",
+      "raw_api_response": "raw_api_responses/supadata/ajFXykT9Joo.json",
+      "raw_api_response_sha256": "868c9188e7dc1b98978a4020da3e56335d0147a313f64c1dc0d03c390d1baf4f"
+    },
+    {
+      "index": 97,
+      "video_id": "E83dpuyvpiM",
+      "title": "Geo-Strategy Update #8:  Why the West is Doomed",
+      "video_url": "https://www.youtube.com/watch?v=E83dpuyvpiM",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/097 — Geo-Strategy Update #8 Why the West is Doomed [E83dpuyvpiM].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 372,
+      "source_text_sha256": "46c301d7248d1acfed9c8be80c063949bbc769dd517f19634a6f0e599db68473",
+      "archive_file_sha256": "086386597ef79e0876c4b32f24c766aaa51df48007957c96e56f826c62ad4012",
+      "raw_api_response": "raw_api_responses/supadata/E83dpuyvpiM.json",
+      "raw_api_response_sha256": "2e202bfb0c05129d4c3ab2050fc7109382ab64432d11e9945361bb1ae52a99ea"
+    },
+    {
+      "index": 98,
+      "video_id": "YQ-xg1nIbMs",
+      "title": "Geo-Strategy Update #7:  When Eschatologies Converge",
+      "video_url": "https://www.youtube.com/watch?v=YQ-xg1nIbMs",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/098 — Geo-Strategy Update #7 When Eschatologies Converge [YQ-xg1nIbMs].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 883,
+      "source_text_sha256": "3d8dc68c9552d5187ba5bbe7309a196059101df2a13c85d3790657ba6dc8af67",
+      "archive_file_sha256": "842429674b3551f108884bf3d0ccd17aa92eb61b916cb476c9a54c6d21ada731",
+      "raw_api_response": "raw_api_responses/supadata/YQ-xg1nIbMs.json",
+      "raw_api_response_sha256": "90e5827cb532ebd7a528bde945c02b1f603205ac000a15ee3b0d6af92f08886d"
+    },
+    {
+      "index": 99,
+      "video_id": "ZgvAHZqaawA",
+      "title": "Geo-Strategy Update #6:  Is Putin the Ubermensch?",
+      "video_url": "https://www.youtube.com/watch?v=ZgvAHZqaawA",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/099 — Geo-Strategy Update #6 Is Putin the Ubermensch [ZgvAHZqaawA].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 934,
+      "source_text_sha256": "dfdca9787bd2c1de4651c3dcfaf75f40b58e46282a4d822413b4527231e601a0",
+      "archive_file_sha256": "bc5e2f02b342952201880e360ae39e2edac5d8efe6b6d6f0108ca397fe8dafd9",
+      "raw_api_response": "raw_api_responses/supadata/ZgvAHZqaawA.json",
+      "raw_api_response_sha256": "74d215c7c36a290fb4c548f75aca0679a0f894901efb505545a6b27e7d03e90a"
+    },
+    {
+      "index": 100,
+      "video_id": "5I2VPYPJJ68",
+      "title": "Geo-Strategy Update #5:   The Universal Law of Game Theory",
+      "video_url": "https://www.youtube.com/watch?v=5I2VPYPJJ68",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/100 — Geo-Strategy Update #5 The Universal Law of Game Theory [5I2VPYPJJ68].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": null,
+      "source_segment_count": 368,
+      "source_text_sha256": "cc5e5e8e979cc9837407c56f0978881d7dbf930f300ad63abc3ebf9ea42beca1",
+      "archive_file_sha256": "bb0a2968ecfe7783719638904032e0f5aa63024166d73ad5086e59e573aa5b21",
+      "raw_api_response": "raw_api_responses/transcriptapi/5I2VPYPJJ68.json",
+      "raw_api_response_sha256": "bbc81d280d341e75982011ab1f1396917cb3ee3a1f1d646ed45c237cd4dd012e"
+    },
+    {
+      "index": 101,
+      "video_id": "Kw-TiN6dEcM",
+      "title": "Geo-Strategy Update #4:  Newton's Divine Plan",
+      "video_url": "https://www.youtube.com/watch?v=Kw-TiN6dEcM",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/101 — Geo-Strategy Update #4 Newton's Divine Plan [Kw-TiN6dEcM].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 286,
+      "source_text_sha256": "4b0491eae8443dc1fc2667b55f0824dcf3e907cb406c34ff167357c78cf5f4e9",
+      "archive_file_sha256": "417d581c03e5d6ce45fdb18a136ab9ba7b321be7a493c29966adb2969b2c5cc9",
+      "raw_api_response": "raw_api_responses/transcriptapi/Kw-TiN6dEcM.json",
+      "raw_api_response_sha256": "e870d56e7d7b861d63e1adcd965aeed3e525c86f29c0f98acce18d81c8396e57"
+    },
+    {
+      "index": 102,
+      "video_id": "bc9adtiIN_k",
+      "title": "Geo-Strategy Update #3:  The Messianic Calling",
+      "video_url": "https://www.youtube.com/watch?v=bc9adtiIN_k",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/102 — Geo-Strategy Update #3 The Messianic Calling [bc9adtiIN_k].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 496,
+      "source_text_sha256": "2030d06784f733654dab043ff580136b2926bd7aa349f9a9dcf92fa33d3f4eb4",
+      "archive_file_sha256": "a07fc8d9cd648833bd86fd449cfd81fc254d02de71cd36841cbc3e61392cf5c0",
+      "raw_api_response": "raw_api_responses/transcriptapi/bc9adtiIN_k.json",
+      "raw_api_response_sha256": "9a133bbd92eeee4ca8e1bbd3c639ff7dfd419c96e583e9e35b8a8d3612dfbb43"
+    },
+    {
+      "index": 103,
+      "video_id": "N4cs-8mrP_s",
+      "title": "Geo-Strategy Update #2:  WWIII Begins, Let's Game Theory",
+      "video_url": "https://www.youtube.com/watch?v=N4cs-8mrP_s",
+      "series_folder": "Geo-Strategy Update",
+      "relative_path": "Geo-Strategy Update/103 — Geo-Strategy Update #2 WWIII Begins, Let's Game Theory [N4cs-8mrP_s].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 463,
+      "source_text_sha256": "8b7e7195db729d0da5aaf1652836251e843c6de000d2a465f0deda1b07bde61f",
+      "archive_file_sha256": "85d8b6fd9a26c942c7effd4c6a447cca09902f79956eb5a64a70027442f42f51",
+      "raw_api_response": "raw_api_responses/transcriptapi/N4cs-8mrP_s.json",
+      "raw_api_response_sha256": "ccbc253ed4e9ff194ac4efe4573f7b79a51509df8ebe5fa7a7c9f67b9b9a1e77"
+    },
+    {
+      "index": 104,
+      "video_id": "8XdL-7tAqnU",
+      "title": "Geo-Strategy Update:  US-Iran War Incoming",
+      "video_url": "https://www.youtube.com/watch?v=8XdL-7tAqnU",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/104 — Geo-Strategy Update US-Iran War Incoming [8XdL-7tAqnU].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 595,
+      "source_text_sha256": "4a559de0f3a0e781e61b692762437beb70f23b5af0b5e8c8ede7b159f769cc6a",
+      "archive_file_sha256": "85b9b1e070a4f629701029300937c0a952e2fff2a44980d404ff6c6132657c51",
+      "raw_api_response": "raw_api_responses/transcriptapi/8XdL-7tAqnU.json",
+      "raw_api_response_sha256": "09bc42ee883ce312e66fed3566f41d508f5994e4e4acfa607befdf67e4ec28e3"
+    },
+    {
+      "index": 105,
+      "video_id": "voQEteh6Hko",
+      "title": "Civilization BONUS:  Meet Professor Jiang",
+      "video_url": "https://www.youtube.com/watch?v=voQEteh6Hko",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/105 — Civilization BONUS Meet Professor Jiang [voQEteh6Hko].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 272,
+      "source_text_sha256": "bde2db4331ad1b2c9e9555e4d0041dfe6baaefa92374bb21bcdf78e1c1c82a32",
+      "archive_file_sha256": "1029d585b51a66f1d2e181c5993c693f9c96a5e23811fbba3618b074d9bcca84",
+      "raw_api_response": "raw_api_responses/transcriptapi/voQEteh6Hko.json",
+      "raw_api_response_sha256": "787bf6ea588321778ac66d2f75e4a5667811c1a3dce693b9d0bfbe0ebfb9fa09"
+    },
+    {
+      "index": 106,
+      "video_id": "_gH4PvIni5E",
+      "title": "Civilization #END:  The Decline and Fall of the American Empire",
+      "video_url": "https://www.youtube.com/watch?v=_gH4PvIni5E",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/106 — Civilization #END The Decline and Fall of the American Empire [_gH4PvIni5E].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 1636,
+      "source_text_sha256": "1553df04a841400c0451a6ece9ab0ac62274e4dc22e2953d8be25b0111a19903",
+      "archive_file_sha256": "00c615d6b9c9514ea171485edf816c3269871c39f94877102fb1de0c34bdb01c",
+      "raw_api_response": "raw_api_responses/transcriptapi/_gH4PvIni5E.json",
+      "raw_api_response_sha256": "31934735af145dd67b23170c3c1fc0504292a9043ea381666c9a81744540d4ec"
+    },
+    {
+      "index": 107,
+      "video_id": "QtqfIjK1GAc",
+      "title": "Civilization #59:  The Man of Steel",
+      "video_url": "https://www.youtube.com/watch?v=QtqfIjK1GAc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/107 — Civilization #59 The Man of Steel [QtqfIjK1GAc].md",
+      "source_provider": "Supadata",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        "en"
+      ],
+      "source_segment_count": 1767,
+      "source_text_sha256": "2f56ce889a6ca9496017329a7095bba3317340c9826c7f05eac7002154bc79cf",
+      "archive_file_sha256": "23581612fc6e7d7a6317bc966053f3a351ae3d078ff98eddd31a1182ffb3695e",
+      "raw_api_response": "raw_api_responses/supadata/QtqfIjK1GAc.json",
+      "raw_api_response_sha256": "0e97d2edd6cabb40e3502f983b76ccd0e57d1a588b595fca59383cca898db03a"
+    },
+    {
+      "index": 108,
+      "video_id": "tquo1UsC5Nw",
+      "title": "Civilization #58:  Birth of the Nation-State",
+      "video_url": "https://www.youtube.com/watch?v=tquo1UsC5Nw",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/108 — Civilization #58 Birth of the Nation-State [tquo1UsC5Nw].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 604,
+      "source_text_sha256": "0900f27ab8daa152de8c91cb72bdd9bdd70e72a1b9a33974a74a267beda279a2",
+      "archive_file_sha256": "a6fb2e74afbc9196186c82e2a04238c8fe0de7a244c60fb006fe44eb7cff087d",
+      "raw_api_response": "raw_api_responses/transcriptapi/tquo1UsC5Nw.json",
+      "raw_api_response_sha256": "1b743e8c743293073bdf948954bad9ce50e6ce5cf79ff4d65ffa588b3fd94766"
+    },
+    {
+      "index": 109,
+      "video_id": "cylkQPsfFRY",
+      "title": "Civilization #57： How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)",
+      "video_url": "https://www.youtube.com/watch?v=cylkQPsfFRY",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/109 — Civilization #57： How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa) [cylkQPsfFRY].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 590,
+      "source_text_sha256": "6e2f0106ff2098a9fa0c53586011ec984f3a76e4ff3adb8b8c7ce6987bb27079",
+      "archive_file_sha256": "4dd05c4bb9cad3088243de99e053f12ccb842fa7539ec4f0dced7a3c8e48ff05",
+      "raw_api_response": "raw_api_responses/transcriptapi/cylkQPsfFRY.json",
+      "raw_api_response_sha256": "6b3c58cf58c1cd4965760ed2be3824c2aadff07a212c0f9c65ba4b30e24837a8"
+    },
+    {
+      "index": 110,
+      "video_id": "ra2v9HkaHz8",
+      "title": "Civilization #57:  How Modernism Ruined Everything",
+      "video_url": "https://www.youtube.com/watch?v=ra2v9HkaHz8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/110 — Civilization #57 How Modernism Ruined Everything [ra2v9HkaHz8].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 585,
+      "source_text_sha256": "6512a24bbaf6e3f85e4ba1b4c86a5660ac26c62b950d11d9011873b4713e6634",
+      "archive_file_sha256": "08ef2f6221708fe313882b4277bf640b24d191b65e8e2c5434e7a5627292cde3",
+      "raw_api_response": "raw_api_responses/transcriptapi/ra2v9HkaHz8.json",
+      "raw_api_response_sha256": "ede544edee26f5b01d57779e0a217b88b0f5a155069cf21d8085cf9f75533dca"
+    },
+    {
+      "index": 111,
+      "video_id": "m24LnQ-Ksjk",
+      "title": "Civilization #56:  What Marx Got Wrong",
+      "video_url": "https://www.youtube.com/watch?v=m24LnQ-Ksjk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/111 — Civilization #56 What Marx Got Wrong [m24LnQ-Ksjk].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 705,
+      "source_text_sha256": "b9940f2d9eea9e1489e118d0dbc76696163a6fdd7e6a28389a26834e971a0478",
+      "archive_file_sha256": "c3d9d5181d4e2b28b5e654754067261dfbeaee554409f01d03f407442df886a1",
+      "raw_api_response": "raw_api_responses/transcriptapi/m24LnQ-Ksjk.json",
+      "raw_api_response_sha256": "9f080df5aecf7fd338d6339e696f70c1d657f68aaa95c9345c1b7d2fef7cbb42"
+    },
+    {
+      "index": 112,
+      "video_id": "_3c3FjS57x4",
+      "title": "Civilization #55:  Kant, Hegel, and the Theory of Everything",
+      "video_url": "https://www.youtube.com/watch?v=_3c3FjS57x4",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/112 — Civilization #55 Kant, Hegel, and the Theory of Everything [_3c3FjS57x4].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 637,
+      "source_text_sha256": "9e3a6e4db721ef75b7b142bcbeb7dddf2c6bc6e64fd1d1cd50fec807b8f53ad6",
+      "archive_file_sha256": "3c4054fb7a1eb368df296a22566d653576dea0b29a455d11a6159ca5b636d1c7",
+      "raw_api_response": "raw_api_responses/transcriptapi/_3c3FjS57x4.json",
+      "raw_api_response_sha256": "c1176dd4c88d7ec2f151b28589649c316c921ee37c126ffe84bf9bf538ddb993"
+    },
+    {
+      "index": 113,
+      "video_id": "o2Nq--qU9Kc",
+      "title": "Civilization #54:  The German Will to Power",
+      "video_url": "https://www.youtube.com/watch?v=o2Nq--qU9Kc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/113 — Civilization #54 The German Will to Power [o2Nq--qU9Kc].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 695,
+      "source_text_sha256": "6d75ff1905b27461884d7c0616b30ff328925728cb894cf70c22336113b8a15c",
+      "archive_file_sha256": "0779a932d3ca2da11626cd8ca7c108a85191b7c1355112b75c9a9aae830423a7",
+      "raw_api_response": "raw_api_responses/transcriptapi/o2Nq--qU9Kc.json",
+      "raw_api_response_sha256": "9f0252b5220cb208f368065e7eeaa04b2fc333bb61605b2002684295b4c5e511"
+    },
+    {
+      "index": 114,
+      "video_id": "0rALqcPWuH0",
+      "title": "Civilization #53:  Dostoevsky and the Soul of Russia",
+      "video_url": "https://www.youtube.com/watch?v=0rALqcPWuH0",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/114 — Civilization #53 Dostoevsky and the Soul of Russia [0rALqcPWuH0].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 675,
+      "source_text_sha256": "587f3e52654b448d2e7a867993e27f33f3e658aa94f46fe77785a198b1237841",
+      "archive_file_sha256": "88a8c90faa340cc965d66c0f27b44d8d29a0341e042308a29069a159f742440e",
+      "raw_api_response": "raw_api_responses/transcriptapi/0rALqcPWuH0.json",
+      "raw_api_response_sha256": "2689872c636429b68f972449b35ba8a221e9cce92d574163010ca0cd39f6160f"
+    },
+    {
+      "index": 115,
+      "video_id": "ea20aMYfT5I",
+      "title": "Civilization #52:  Empire of Democracy",
+      "video_url": "https://www.youtube.com/watch?v=ea20aMYfT5I",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/115 — Civilization #52 Empire of Democracy [ea20aMYfT5I].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 617,
+      "source_text_sha256": "2beedb62c2c4125e9c95eac8a284e9d547da7877888770066c23ca193843d21d",
+      "archive_file_sha256": "45f6e1d2dd6c34b19f40b7ed51f8fe599a5963fada65457e2f39b197f6a53685",
+      "raw_api_response": "raw_api_responses/transcriptapi/ea20aMYfT5I.json",
+      "raw_api_response_sha256": "0a3913dd9b80a7494e0cf852c5666138cb6b65479a38cbe8feb2628f61ebdbc4"
+    },
+    {
+      "index": 116,
+      "video_id": "Qms7trnKwqQ",
+      "title": "Civilization #51:  Shakespeare's Language of Empire",
+      "video_url": "https://www.youtube.com/watch?v=Qms7trnKwqQ",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/116 — Civilization #51 Shakespeare's Language of Empire [Qms7trnKwqQ].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 705,
+      "source_text_sha256": "b861a4eb33b943e52799f1ca773ee0509ce93ab377d290b637d44baef680eac4",
+      "archive_file_sha256": "51ce6b34c2b3cb21021472146d6a5529869babccfa752c5ab342baeaded8df26",
+      "raw_api_response": "raw_api_responses/transcriptapi/Qms7trnKwqQ.json",
+      "raw_api_response_sha256": "5c7133917bc74ff384da256446feb98555e1b2550204c705892f46c21a7eb2df"
+    },
+    {
+      "index": 117,
+      "video_id": "laGSxfvlOfk",
+      "title": "Civilization #50:  Rule, Britannia!",
+      "video_url": "https://www.youtube.com/watch?v=laGSxfvlOfk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/117 — Civilization #50 Rule, Britannia! [laGSxfvlOfk].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 640,
+      "source_text_sha256": "b852c4045414fd1b17201c5a6bd16d883eaa6985dbafe8a08846820ed362d8ae",
+      "archive_file_sha256": "b099ce5c7dde2f27dd1017ee502a5d6aa4c84c66a5757ca89b8c06763cea5260",
+      "raw_api_response": "raw_api_responses/transcriptapi/laGSxfvlOfk.json",
+      "raw_api_response_sha256": "bf5aa48196f351ee22d2a7ba60305f03c4987a4531928a67b4821fd64116e138"
+    },
+    {
+      "index": 118,
+      "video_id": "JZ8P-FZHWnQ",
+      "title": "Civilization #49:  The Dutch Golden Age and the Rise of the Middle Class",
+      "video_url": "https://www.youtube.com/watch?v=JZ8P-FZHWnQ",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/118 — Civilization #49 The Dutch Golden Age and the Rise of the Middle Class [JZ8P-FZHWnQ].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 659,
+      "source_text_sha256": "5a01c777ab27c4fc89372d220b9a5d94a1efcd9af2d60aaf05c3fed498aaa119",
+      "archive_file_sha256": "a4990bbecabdb35df44fcfd94b4cc363e104c5f0682fa66eb3c75c5eb5df6080",
+      "raw_api_response": "raw_api_responses/transcriptapi/JZ8P-FZHWnQ.json",
+      "raw_api_response_sha256": "b15db2b7d080f92ba70d86a63c557c3314cc4795a4c5ef85dde1cfcfd3f33a61"
+    },
+    {
+      "index": 119,
+      "video_id": "enEET_0j_Y8",
+      "title": "Civilization #48:  Napoleon's Empire of Myth",
+      "video_url": "https://www.youtube.com/watch?v=enEET_0j_Y8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/119 — Civilization #48 Napoleon's Empire of Myth [enEET_0j_Y8].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 642,
+      "source_text_sha256": "3c477930219760773478cf7ec2aa4ec78cacd3b37e9e67bf4dc9963e25c4424a",
+      "archive_file_sha256": "5daf84877f69cb8ab437aef148bfdbd512b64974fc1d26d2271bf2b5b1182031",
+      "raw_api_response": "raw_api_responses/transcriptapi/enEET_0j_Y8.json",
+      "raw_api_response_sha256": "99a336ddabd340a39367798a62e2f4dc9d4c6fdc37d8e3607765aab5bb64e5b3"
+    },
+    {
+      "index": 120,
+      "video_id": "ef-Ch2LGDDI",
+      "title": "Civilization #47:  The Passion of Robespierre",
+      "video_url": "https://www.youtube.com/watch?v=ef-Ch2LGDDI",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/120 — Civilization #47 The Passion of Robespierre [ef-Ch2LGDDI].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 791,
+      "source_text_sha256": "b1b359245a710276d8810fe103007a9ffdd007d2217e459bb4dca5ae57b2d50c",
+      "archive_file_sha256": "9f5b410d498c1ff6af64d8099b7fd1b994314f7ca6f16c54996df39a220c3ef7",
+      "raw_api_response": "raw_api_responses/transcriptapi/ef-Ch2LGDDI.json",
+      "raw_api_response_sha256": "5c6dae350e7d9eb4a68cc34dba7640e7b22105de8fd8a33fb01ea7e099b350f5"
+    },
+    {
+      "index": 121,
+      "video_id": "5HwZx5kQm9o",
+      "title": "Civilization #46:  The Revolution of Reason",
+      "video_url": "https://www.youtube.com/watch?v=5HwZx5kQm9o",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/121 — Civilization #46 The Revolution of Reason [5HwZx5kQm9o].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 812,
+      "source_text_sha256": "37d88b577c9f44c9f7db902b92d34dd08ba52edf31e19df6c2d62645cc2d95eb",
+      "archive_file_sha256": "b1a01858ad91e9ab137f5080f452997919c67d1caf2c3ff4edba1d5fb55c1ff5",
+      "raw_api_response": "raw_api_responses/transcriptapi/5HwZx5kQm9o.json",
+      "raw_api_response_sha256": "9ff8e76181265085b0b4f54f68175a251f6b54ab1449e39cb6cdf61b22b887f7"
+    },
+    {
+      "index": 122,
+      "video_id": "DiRJyy-8V54",
+      "title": "Civilization #45:  The Gunpowder Revolution",
+      "video_url": "https://www.youtube.com/watch?v=DiRJyy-8V54",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/122 — Civilization #45 The Gunpowder Revolution [DiRJyy-8V54].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 656,
+      "source_text_sha256": "30ccbe7d738595e2735bfd23d4acff880dd28a23d865b693dfbf3861a58be168",
+      "archive_file_sha256": "bc17837029c7e9e3913e20b90b4b7019adb4091ee82b93d1f2b81c96cb5eb61c",
+      "raw_api_response": "raw_api_responses/transcriptapi/DiRJyy-8V54.json",
+      "raw_api_response_sha256": "ecd5b0e69e4a1bd8fed2627b742351517c751ca6d7c8b1443241e329351869ad"
+    },
+    {
+      "index": 123,
+      "video_id": "-DnfGcvZrfA",
+      "title": "Civilization #44:  The Spanish Conquest of the New World",
+      "video_url": "https://www.youtube.com/watch?v=-DnfGcvZrfA",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/123 — Civilization #44 The Spanish Conquest of the New World [-DnfGcvZrfA].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 540,
+      "source_text_sha256": "1acec6695fb1ceccc8cb0b1ae601a304d281b40b1e63c2963e6252b798ae15b0",
+      "archive_file_sha256": "6e6b60246f70a39b84fb4eba9e0ffe108e41234625e9ea38c289cd66ac7cd055",
+      "raw_api_response": "raw_api_responses/transcriptapi/-DnfGcvZrfA.json",
+      "raw_api_response_sha256": "c753b47028474c18476a7e3a77cdde9c0dfdfd91a2a620b18c96a0f1f5fea7ee"
+    },
+    {
+      "index": 124,
+      "video_id": "CjtUnKcU1IA",
+      "title": "Civilization #43:  The Structure of Scientific Revolutions",
+      "video_url": "https://www.youtube.com/watch?v=CjtUnKcU1IA",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/124 — Civilization #43 The Structure of Scientific Revolutions [CjtUnKcU1IA].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 727,
+      "source_text_sha256": "96760f1e91b6d004c8844bd156ce3de43effcccb6e758603c546d0a008a89384",
+      "archive_file_sha256": "ff1bab9f721851d4b6a0ec1b1c695794e74c40cba4a9a2874adbe4835efce2d2",
+      "raw_api_response": "raw_api_responses/transcriptapi/CjtUnKcU1IA.json",
+      "raw_api_response_sha256": "524f7406ed1869bf1f88e146b5430816fef62a7985c8deb9f75a6e38727c6eec"
+    },
+    {
+      "index": 125,
+      "video_id": "TcxlOiJz8V0",
+      "title": "Civilization #42:  The Protestant Reformation and the Birth of Capitalism",
+      "video_url": "https://www.youtube.com/watch?v=TcxlOiJz8V0",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/125 — Civilization #42 The Protestant Reformation and the Birth of Capitalism [TcxlOiJz8V0].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 762,
+      "source_text_sha256": "b4dce75cdf211ea70aafc6a324309f3089a42e6b2f52f0eec31b5ecae4fee5e4",
+      "archive_file_sha256": "57557ba3e9257d862bc0b78218015bf26a7a6d16d106a2388d4640aa08e64aa8",
+      "raw_api_response": "raw_api_responses/transcriptapi/TcxlOiJz8V0.json",
+      "raw_api_response_sha256": "c600cfbef1623759278559378b3ec3820bc3e16dc107422e61daf2e60661870e"
+    },
+    {
+      "index": 126,
+      "video_id": "v6CDqJnrvLk",
+      "title": "Civilization #41:  Dante's Quiet Revolution",
+      "video_url": "https://www.youtube.com/watch?v=v6CDqJnrvLk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/126 — Civilization #41 Dante's Quiet Revolution [v6CDqJnrvLk].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 682,
+      "source_text_sha256": "95fc3bc6e790ffd04f98e5555c6087813dc0897eb51fe1678eb08202e75315e8",
+      "archive_file_sha256": "dda481588b9f3ea321366fa5340e30238a57d66f8b4e8a7191d39ca0007c8cf6",
+      "raw_api_response": "raw_api_responses/transcriptapi/v6CDqJnrvLk.json",
+      "raw_api_response_sha256": "bc7ec610ded9275b053377b1f7146bfbe15f5b9489c4007e7d3c22efb1c9e058"
+    },
+    {
+      "index": 127,
+      "video_id": "3751ZjwmrBw",
+      "title": "Civilization #40:  Church and Empire",
+      "video_url": "https://www.youtube.com/watch?v=3751ZjwmrBw",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/127 — Civilization #40 Church and Empire [3751ZjwmrBw].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 635,
+      "source_text_sha256": "c42546107fa66619d70613a9432fd891e70c2c865eb36a75473b2907f8eb6091",
+      "archive_file_sha256": "5e9710d5fff7d2de863941a4635ea1ea90546fe98190092adb4e7c1f2e85815c",
+      "raw_api_response": "raw_api_responses/transcriptapi/3751ZjwmrBw.json",
+      "raw_api_response_sha256": "5239b63f6907254da43be9f64c7d063f01fd7a6ba036637cbde4aec5d888a9b0"
+    },
+    {
+      "index": 128,
+      "video_id": "mPQzAPnjYkM",
+      "title": "Civilization #39:  Genghis Khan, World Shatterer",
+      "video_url": "https://www.youtube.com/watch?v=mPQzAPnjYkM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/128 — Civilization #39 Genghis Khan, World Shatterer [mPQzAPnjYkM].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 634,
+      "source_text_sha256": "03331718b115cda783a6ed219f59fbb7c0fd050a6290992210705c568d755a79",
+      "archive_file_sha256": "24909fa8ebb63f3968f034fc96fa49510637241b2d6c393fd4ac73dd2f5b7018",
+      "raw_api_response": "raw_api_responses/transcriptapi/mPQzAPnjYkM.json",
+      "raw_api_response_sha256": "2cffb65ee771a5d8931c4dddba43cc321d935486829926730787e01a23a8c4aa"
+    },
+    {
+      "index": 129,
+      "video_id": "A2LMJerHcKM",
+      "title": "Civilization #38:  Twilight of the Middle Kingdom",
+      "video_url": "https://www.youtube.com/watch?v=A2LMJerHcKM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/129 — Civilization #38 Twilight of the Middle Kingdom [A2LMJerHcKM].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 621,
+      "source_text_sha256": "47e2f70990cd4385b42c93d0eff6dba229c1c47d702da3c2d9c031f778694e32",
+      "archive_file_sha256": "8016dd330ae327900b28be694c3207dc5f139bb16a91cd856ee9cb2eeb818850",
+      "raw_api_response": "raw_api_responses/transcriptapi/A2LMJerHcKM.json",
+      "raw_api_response_sha256": "695cf0420315e70f5ed9e7a9628ea514eb7b719e3edfc19b4d10541fc9cac8b8"
+    },
+    {
+      "index": 130,
+      "video_id": "2OdO8LoKuo8",
+      "title": "Civilization #37:  The Golden Age of Islam",
+      "video_url": "https://www.youtube.com/watch?v=2OdO8LoKuo8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/130 — Civilization #37 The Golden Age of Islam [2OdO8LoKuo8].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 708,
+      "source_text_sha256": "07897e2e1bf99247c03e210a8d60ce9b66ea04d5bd2bc6c4ee04ea74c310bc53",
+      "archive_file_sha256": "166d14eea2930c5af7aa6f627cb509672dc78de8b8b614351649725ea4306458",
+      "raw_api_response": "raw_api_responses/transcriptapi/2OdO8LoKuo8.json",
+      "raw_api_response_sha256": "ff6e417c66e326e25fb77c85292215dd5a5b51a38592db438ce76f4c5bdb02b8"
+    },
+    {
+      "index": 131,
+      "video_id": "tYMNsa83NHY",
+      "title": "Civilization #36:  Memory of the Norse",
+      "video_url": "https://www.youtube.com/watch?v=tYMNsa83NHY",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/131 — Civilization #36 Memory of the Norse [tYMNsa83NHY].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 650,
+      "source_text_sha256": "de11dc53578efa6e167c65d0f84e6bb0c56e65dd982220f82164ab8cae85d33f",
+      "archive_file_sha256": "7fe00143f16da1baee9a6af22b313f5e77aedb93329fe893bbc4a92e6019b9fc",
+      "raw_api_response": "raw_api_responses/transcriptapi/tYMNsa83NHY.json",
+      "raw_api_response_sha256": "532321d36b188cca5bf2531725c97b6e9b635f17bc5d56bff1d5ed74524fcc2e"
+    },
+    {
+      "index": 132,
+      "video_id": "7k5XoLzwmls",
+      "title": "Civilization #35:  The Viking Legacy",
+      "video_url": "https://www.youtube.com/watch?v=7k5XoLzwmls",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/132 — Civilization #35 The Viking Legacy [7k5XoLzwmls].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 1464,
+      "source_text_sha256": "817fddf35f1ce1e116d68c4cb75692a943d173895ef734d42fd94263ddf9ef13",
+      "archive_file_sha256": "1af88a31d17653e144f80736d2f3c8d1cdffbbe5f8410ae2caa88f83057961cf",
+      "raw_api_response": "raw_api_responses/transcriptapi/7k5XoLzwmls.json",
+      "raw_api_response_sha256": "ff213065aa5d323d006e00a95e6fa09cf3a8f1723c42c3a272ef4b0793827753"
+    },
+    {
+      "index": 133,
+      "video_id": "1dwvgtc7XzY",
+      "title": "Civilization #34:  The Useful Fiction of the Holy Roman Empire",
+      "video_url": "https://www.youtube.com/watch?v=1dwvgtc7XzY",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/133 — Civilization #34 The Useful Fiction of the Holy Roman Empire [1dwvgtc7XzY].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 1335,
+      "source_text_sha256": "0f609344faa0fef8c4d978f0a8aa41ec224d6ef518f0f1acde0600ca59b69208",
+      "archive_file_sha256": "0ea5dfa24e102fdbc1554e72eda05cd8336edb2f62ee5dbfd3667c0ba07601f0",
+      "raw_api_response": "raw_api_responses/transcriptapi/1dwvgtc7XzY.json",
+      "raw_api_response_sha256": "245bf9b7d726b42cb697dc95f965224ff1b85656888bfc709caaf24739ce497a"
+    },
+    {
+      "index": 134,
+      "video_id": "abs6z7VPEMc",
+      "title": "Civilization #33:  The Rise and Fall of the Byzantine Empire",
+      "video_url": "https://www.youtube.com/watch?v=abs6z7VPEMc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/134 — Civilization #33 The Rise and Fall of the Byzantine Empire [abs6z7VPEMc].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 595,
+      "source_text_sha256": "930330200a279f5a814100126005f7a7c4246fe2e946f5ee7e96bcfc8ececa29",
+      "archive_file_sha256": "92f7bd43755f8e46a6f6687595caa1d013eea191f47a2d48014c1241751ee244",
+      "raw_api_response": "raw_api_responses/transcriptapi/abs6z7VPEMc.json",
+      "raw_api_response_sha256": "5efbeb7c3b874fca5493531b6103eeb0439302dbca01c90376a72cfc7f95b311"
+    },
+    {
+      "index": 135,
+      "video_id": "_Io7-_RS8uE",
+      "title": "Civilization #32:  Rome's Rise, Fall, and Legacy",
+      "video_url": "https://www.youtube.com/watch?v=_Io7-_RS8uE",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/135 — Civilization #32 Rome's Rise, Fall, and Legacy [_Io7-_RS8uE].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 1373,
+      "source_text_sha256": "8ecdc80249f136c3fbd28cc6649657de47e014b1339eafb5b973faef739369a9",
+      "archive_file_sha256": "ab8b0d66a31c79d8c854f51fe391090d685cfd430e6cd5e0ab474301f008e7d3",
+      "raw_api_response": "raw_api_responses/transcriptapi/_Io7-_RS8uE.json",
+      "raw_api_response_sha256": "8cf089c6b5cfe667539d9f883fad568a3180079acb7ee13b7cea1e406bdd81a1"
+    },
+    {
+      "index": 136,
+      "video_id": "HIoYQBbBllk",
+      "title": "Civilization #31:  The Oceanic Currents of History",
+      "video_url": "https://www.youtube.com/watch?v=HIoYQBbBllk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/136 — Civilization #31 The Oceanic Currents of History [HIoYQBbBllk].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 632,
+      "source_text_sha256": "316b2cafb73cd68daf708673e2ae548d9ba4bc3cd8f3e8449c6e29141f2b1bcc",
+      "archive_file_sha256": "4cfcc44c2c9b260ac73001fce811ec525b006fb32089626e4ce11c14bdadaee7",
+      "raw_api_response": "raw_api_responses/transcriptapi/HIoYQBbBllk.json",
+      "raw_api_response_sha256": "04032418ee8d6793c8b2b1794718f964183e3b41c8b52b88eb34267c773c350b"
+    },
+    {
+      "index": 137,
+      "video_id": "asbKjezwIJM",
+      "title": "Civilization #30:  Dante as the Second Coming of Homer",
+      "video_url": "https://www.youtube.com/watch?v=asbKjezwIJM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/137 — Civilization #30 Dante as the Second Coming of Homer [asbKjezwIJM].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 549,
+      "source_text_sha256": "d26b442412dfb8331d90ed880dcebeee93e8a938969819b6d47f6d904d3b29f5",
+      "archive_file_sha256": "1ba703d6df78138bfb96726ea5d569659eede4d3bcc1312d53f4f4de8a1ed9ea",
+      "raw_api_response": "raw_api_responses/transcriptapi/asbKjezwIJM.json",
+      "raw_api_response_sha256": "44fb71754df3b141b07315f3a8b592aaa3ed7cb629902cd3eacfca86d82ea4ad"
+    },
+    {
+      "index": 138,
+      "video_id": "GfqJi0qevok",
+      "title": "Civilization #29:  Dante's Divine Comedy and the Liberation of the Human Imagination",
+      "video_url": "https://www.youtube.com/watch?v=GfqJi0qevok",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/138 — Civilization #29 Dante's Divine Comedy and the Liberation of the Human Imagination [GfqJi0qevok].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 435,
+      "source_text_sha256": "f793774fdaaa2e368b66eee3898e717ae9c7170147528418e015f59a06427e5b",
+      "archive_file_sha256": "02dfd014a5244a632591a7c94281727347734c2231663a9055a29bbb218afce4",
+      "raw_api_response": "raw_api_responses/transcriptapi/GfqJi0qevok.json",
+      "raw_api_response_sha256": "a489b5501bcd7a3aa079b20e3ae538005c764664be44f423ae7d0dbd4d19def3"
+    },
+    {
+      "index": 139,
+      "video_id": "C9rzPGJ0wm4",
+      "title": "Civilization #28:  Muhammad's Revolution of God",
+      "video_url": "https://www.youtube.com/watch?v=C9rzPGJ0wm4",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/139 — Civilization #28 Muhammad's Revolution of God [C9rzPGJ0wm4].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 967,
+      "source_text_sha256": "b971303bafad64a8b63e539935ad0b2f93272e1e9bf74ee093c4b533f54866b0",
+      "archive_file_sha256": "c499b4d02564c74a4fda05ed7f246b33b8c10307877916aa65faabcaed6107d3",
+      "raw_api_response": "raw_api_responses/transcriptapi/C9rzPGJ0wm4.json",
+      "raw_api_response_sha256": "e159584608eb9e925e4b10167d9351929b72f68e42a698a137301599c72746e4"
+    },
+    {
+      "index": 140,
+      "video_id": "GdbZBVUIVDE",
+      "title": "Civilization #27:  Augustine's Empire of God",
+      "video_url": "https://www.youtube.com/watch?v=GdbZBVUIVDE",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/140 — Civilization #27 Augustine's Empire of God [GdbZBVUIVDE].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 1095,
+      "source_text_sha256": "46624d9c8e915e9ecc15455210218321e4a560c1ef90830b5b545013a671fc49",
+      "archive_file_sha256": "bb7b86af53d44e7b7135772c025668cf41a4dbe77eddb13663293fd7324b8bca",
+      "raw_api_response": "raw_api_responses/transcriptapi/GdbZBVUIVDE.json",
+      "raw_api_response_sha256": "bb0d6649f8490bb1e4613cd605fbbee57562103e444f6fe2fa54efa6945a4ce5"
+    },
+    {
+      "index": 141,
+      "video_id": "za30rbC3tTg",
+      "title": "Civilization #26:  Constantine's Monotheistic Revolution",
+      "video_url": "https://www.youtube.com/watch?v=za30rbC3tTg",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/141 — Civilization #26 Constantine's Monotheistic Revolution [za30rbC3tTg].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 507,
+      "source_text_sha256": "eda1e7b5c8a581f761a14e7f25b935ab68056fc2a8b72fe8865b2278e48f04fc",
+      "archive_file_sha256": "0628fbc8e879b233d11a2084522d3ce2a81ade345b3875a54ace5f175dcf15c2",
+      "raw_api_response": "raw_api_responses/transcriptapi/za30rbC3tTg.json",
+      "raw_api_response_sha256": "6eb4705f3fb62adabb728cb89a0c5e7d8c9dc09d61e5c8352a79e243cb679fd6"
+    },
+    {
+      "index": 142,
+      "video_id": "kuMhSFXnr5I",
+      "title": "Civilization #25:  Paul of Tarsus, Messiah of Rome",
+      "video_url": "https://www.youtube.com/watch?v=kuMhSFXnr5I",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/142 — Civilization #25 Paul of Tarsus, Messiah of Rome [kuMhSFXnr5I].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 506,
+      "source_text_sha256": "4cb2443ba8764e8facec5573ec042e9529be4e279e33f04ded54c4cd8ab7fe5d",
+      "archive_file_sha256": "81dab7de39947a15c2eb27b89cbfcb632dfad6acd0ff3baa782efd27844b5cc6",
+      "raw_api_response": "raw_api_responses/transcriptapi/kuMhSFXnr5I.json",
+      "raw_api_response_sha256": "30e6076a91669b3c1f0b259a4763edcc29c8909e8423b88f4c8c98bde1034692"
+    },
+    {
+      "index": 143,
+      "video_id": "_bXHBT5NTfc",
+      "title": "Civilization #24:  Resurrecting the Gnostic Jesus",
+      "video_url": "https://www.youtube.com/watch?v=_bXHBT5NTfc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/143 — Civilization #24 Resurrecting the Gnostic Jesus [_bXHBT5NTfc].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 1151,
+      "source_text_sha256": "682848c2238aff6f745dde07dbcd0e4ae07427b68102b8b0a75b0309b7171d2c",
+      "archive_file_sha256": "20fdb9d0c5f9d309b439b4d907d1fec269255b25fb3ede78226431d672629434",
+      "raw_api_response": "raw_api_responses/transcriptapi/_bXHBT5NTfc.json",
+      "raw_api_response_sha256": "23f05c568ed25b72d2ca162ea1a4534535bea3763d5271f9fe92d55b2ab2260e"
+    },
+    {
+      "index": 144,
+      "video_id": "HvVTNTPzq7E",
+      "title": "Civilization #23:  Cyrus the Great as Messiah",
+      "video_url": "https://www.youtube.com/watch?v=HvVTNTPzq7E",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/144 — Civilization #23 Cyrus the Great as Messiah [HvVTNTPzq7E].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 570,
+      "source_text_sha256": "5bb5c6fe51aab6732f2a15562197275bb183dc7b9be8f1e80df3129991bddd2c",
+      "archive_file_sha256": "4c5050dce40c1e7ed7cd553928f0c5f149f3861c87db866957746b93e3f906cb",
+      "raw_api_response": "raw_api_responses/transcriptapi/HvVTNTPzq7E.json",
+      "raw_api_response_sha256": "3011586fa4325dfae920de43e344c81641ee34429b60dfc398f5b3e97201c33e"
+    },
+    {
+      "index": 145,
+      "video_id": "GhLd_h1QsL4",
+      "title": "Civilization #22:  The Literary Genesis of the Yahwist",
+      "video_url": "https://www.youtube.com/watch?v=GhLd_h1QsL4",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/145 — Civilization #22 The Literary Genesis of the Yahwist [GhLd_h1QsL4].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 562,
+      "source_text_sha256": "17f3455b406efaa1d2a6ea7a798e28288e4f9d02bab0141b6f09298dad14ce9c",
+      "archive_file_sha256": "b67c739b828fdde1ca61a0637731ef47e0d83aea7d1949f8d8227bc14e31ebbb",
+      "raw_api_response": "raw_api_responses/transcriptapi/GhLd_h1QsL4.json",
+      "raw_api_response_sha256": "3cc5a54e5ae9064977c4c500e2b4c90ff2795287f30635ff51e9ed429fe50917"
+    },
+    {
+      "index": 146,
+      "video_id": "RkpGrRUgjnk",
+      "title": "Civilization #21:  The Apology of King David of Israel",
+      "video_url": "https://www.youtube.com/watch?v=RkpGrRUgjnk",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/146 — Civilization #21 The Apology of King David of Israel [RkpGrRUgjnk].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 1457,
+      "source_text_sha256": "b41641a58716fa43f9b2e108ee85ee7bde76ddf1702ee316aac34aff87029392",
+      "archive_file_sha256": "82d7a1a3a7ebd7b6685ca4764886bccc57d11973cf8e454cddaf6643e6b8dd3c",
+      "raw_api_response": "raw_api_responses/transcriptapi/RkpGrRUgjnk.json",
+      "raw_api_response_sha256": "a43410c9bd2b76c324074f5d066dbc6dc5ba3f0b964e96ae4c5028e2a25386a5"
+    },
+    {
+      "index": 147,
+      "video_id": "cvI8rukoda8",
+      "title": "Civilization #20:  The Proto-Buddhists of the Indus Valley (Harappan) Civilization",
+      "video_url": "https://www.youtube.com/watch?v=cvI8rukoda8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/147 — Civilization #20 The Proto-Buddhists of the Indus Valley (Harappan) Civilization [cvI8rukoda8].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 567,
+      "source_text_sha256": "4f432f511c49005d50b4698173d2e94ae70255acaeaaf0a2dba0a2fc72878f26",
+      "archive_file_sha256": "400a3eb489f6555edc30fc9af83261c42805440525b16cb3077219e23bb282fe",
+      "raw_api_response": "raw_api_responses/transcriptapi/cvI8rukoda8.json",
+      "raw_api_response_sha256": "5c36a5b8379b0028310d808c3d681bb16d3d261880d218680311ade5489fa402"
+    },
+    {
+      "index": 148,
+      "video_id": "e92jyBMmAyM",
+      "title": "Civilization #19:  Gilgamesh and Mesopotamia's Quest for Immortality",
+      "video_url": "https://www.youtube.com/watch?v=e92jyBMmAyM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/148 — Civilization #19 Gilgamesh and Mesopotamia's Quest for Immortality [e92jyBMmAyM].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 476,
+      "source_text_sha256": "fc5e5294a7eef93b8f83560d45a4fcc88acc75d3880b3fa1df084b99116c51c2",
+      "archive_file_sha256": "2e0d0221b077f1a345bff6300079e6642405a39c1b687a3e19f752ff547be92c",
+      "raw_api_response": "raw_api_responses/transcriptapi/e92jyBMmAyM.json",
+      "raw_api_response_sha256": "9553c9f58796e509bf2e0dea6e265616f524d637b541ce90a9c8d6cb9def3d85"
+    },
+    {
+      "index": 149,
+      "video_id": "KSSSCznYrGo",
+      "title": "Civilization #18:  The Great Pyramid as Ancient Egypt's Manhattan Project",
+      "video_url": "https://www.youtube.com/watch?v=KSSSCznYrGo",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/149 — Civilization #18 The Great Pyramid as Ancient Egypt's Manhattan Project [KSSSCznYrGo].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 476,
+      "source_text_sha256": "c8c1af769a8385372261f268c24bd76e5025583dd7d10e2ec512c2cebacffa2d",
+      "archive_file_sha256": "a90177f36906811bd332c96a9ea5eaa4a5f978d97c2bbeb0dfd8fe20b191d871",
+      "raw_api_response": "raw_api_responses/transcriptapi/KSSSCznYrGo.json",
+      "raw_api_response_sha256": "6863e096730c6f8485e55675d4f3390b695c5cd3b4e6a816359227f6f5b16a62"
+    },
+    {
+      "index": 150,
+      "video_id": "myTurqU7NxU",
+      "title": "Civilization #17:  Homer, Vergil, and the War for the Soul of Rome",
+      "video_url": "https://www.youtube.com/watch?v=myTurqU7NxU",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/150 — Civilization #17 Homer, Vergil, and the War for the Soul of Rome [myTurqU7NxU].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 548,
+      "source_text_sha256": "0c7390c58f4344e3347f21fea2b2f3eee385a9820d19c5037ea6337e67fffbe5",
+      "archive_file_sha256": "5d94b6e1e42ba5e57ced364028a839cb78d65cb6ffa40ecffd593d51915f6658",
+      "raw_api_response": "raw_api_responses/transcriptapi/myTurqU7NxU.json",
+      "raw_api_response_sha256": "b77e84f9c53a92708a47ca5bbbbcc94c5cd64ca48a1ac6f2ab48579bfc1ec6cd"
+    },
+    {
+      "index": 151,
+      "video_id": "Dc54IquR7ik",
+      "title": "Civilization #16:  Julius Caesar's Will and Octavian's Birth of Empire",
+      "video_url": "https://www.youtube.com/watch?v=Dc54IquR7ik",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/151 — Civilization #16 Julius Caesar's Will and Octavian's Birth of Empire [Dc54IquR7ik].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 456,
+      "source_text_sha256": "e835444006a03f13514c8628f1fd852eac92a494be7a152c00a1b8ee9caee594",
+      "archive_file_sha256": "3dbd5190c271ad2f9e4bd7ce6bc0c02902a4f7d930d92c8544ec2646db7e97ad",
+      "raw_api_response": "raw_api_responses/transcriptapi/Dc54IquR7ik.json",
+      "raw_api_response_sha256": "7ca42fcdd0f7d1d3fa8e7dd4d5823ba8c98a215575723136812613bacb30d539"
+    },
+    {
+      "index": 152,
+      "video_id": "F8qQgsEFGgc",
+      "title": "Civilization #15:  The Myth-Making Genius of Julius Caesar",
+      "video_url": "https://www.youtube.com/watch?v=F8qQgsEFGgc",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/152 — Civilization #15 The Myth-Making Genius of Julius Caesar [F8qQgsEFGgc].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 599,
+      "source_text_sha256": "b33b8ecd0442724d1705e4f741ba7a62bc85dab1d1e6fd7e1c3c4a9d0fe93a91",
+      "archive_file_sha256": "ddbcec2edfa111659e82ea1ed42d5a08d32e253f2cbbfdc04c59788baee4edd3",
+      "raw_api_response": "raw_api_responses/transcriptapi/F8qQgsEFGgc.json",
+      "raw_api_response_sha256": "3e73fadbd60e5b6503c89f2b1d3510612deb97d029aad21315ba411491acca49"
+    },
+    {
+      "index": 153,
+      "video_id": "TdcE7XGDayo",
+      "title": "Civilization #14:  Hannibal Barca, Lucius Brutus, and the Triumph of Rome",
+      "video_url": "https://www.youtube.com/watch?v=TdcE7XGDayo",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/153 — Civilization #14 Hannibal Barca, Lucius Brutus, and the Triumph of Rome [TdcE7XGDayo].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 660,
+      "source_text_sha256": "82111df88b208b23f004471a4d28607450a09f1077b7f7c67a9f98e73f8aa722",
+      "archive_file_sha256": "a36ed2dec04db27bcc4e718d012e945bc270c31bc84f9d75dcbcb79b3107ff29",
+      "raw_api_response": "raw_api_responses/transcriptapi/TdcE7XGDayo.json",
+      "raw_api_response_sha256": "40d012700f33e8b393f97ebd58fc97c5524652c8dab1eac3a308cd083fd2b696"
+    },
+    {
+      "index": 154,
+      "video_id": "WoTOxE4DTFA",
+      "title": "Civilization #13:  Aristotle and the Greek Legacy",
+      "video_url": "https://www.youtube.com/watch?v=WoTOxE4DTFA",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/154 — Civilization #13 Aristotle and the Greek Legacy [WoTOxE4DTFA].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 491,
+      "source_text_sha256": "9dfb9b5c87909fe58aa1d452fb969fbaf0282ea110008ca6f14b5247bca9b665",
+      "archive_file_sha256": "cace3199cae3535d59e9dd6945787609d6d7b15164c2d8f02d4a0f60255320d2",
+      "raw_api_response": "raw_api_responses/transcriptapi/WoTOxE4DTFA.json",
+      "raw_api_response_sha256": "c4940faf37e4435a5860053e532a36e83ed2a9c3be6ca385d8025f7ea0703a55"
+    },
+    {
+      "index": 155,
+      "video_id": "iTuRB48Of9Y",
+      "title": "Civilization #12:  The Tyranny of Alexander the Great",
+      "video_url": "https://www.youtube.com/watch?v=iTuRB48Of9Y",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/155 — Civilization #12 The Tyranny of Alexander the Great [iTuRB48Of9Y].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 476,
+      "source_text_sha256": "d9bc79fcb274ab74d23de7ff3251971a980a89657375b004182c9adfe17532e4",
+      "archive_file_sha256": "7ae0355be1c365bfc1c29c78b7d7ae3e7e2f41d356f902e37db62b1914b7af6c",
+      "raw_api_response": "raw_api_responses/transcriptapi/iTuRB48Of9Y.json",
+      "raw_api_response_sha256": "a164a4bc66f64cbff5aeb4c1e577b25f4b6287ecc219dc1032fa0f718cad33b3"
+    },
+    {
+      "index": 156,
+      "video_id": "l6AroD58jkE",
+      "title": "Civilization #11:  The Greatness of Philip II of Macedon",
+      "video_url": "https://www.youtube.com/watch?v=l6AroD58jkE",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/156 — Civilization #11 The Greatness of Philip II of Macedon [l6AroD58jkE].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 504,
+      "source_text_sha256": "54a738c177dbe63d15b34e14b72404ed8cc6c47252b15009aa4b20276f151690",
+      "archive_file_sha256": "275b71e580d7ac70f3680dc0f6dfcedb3cac632def63ed39281cf00ec9e35743",
+      "raw_api_response": "raw_api_responses/transcriptapi/l6AroD58jkE.json",
+      "raw_api_response_sha256": "e357f0136f2f1c9588505796a8c84fe3c316464d13af2af41be312ca54c3a719"
+    },
+    {
+      "index": 157,
+      "video_id": "LWlTtdNww_k",
+      "title": "Civilization #10:  The Trial of Socrates and Plato's Allegory of the Cave",
+      "video_url": "https://www.youtube.com/watch?v=LWlTtdNww_k",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/157 — Civilization #10 The Trial of Socrates and Plato's Allegory of the Cave [LWlTtdNww_k].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 890,
+      "source_text_sha256": "680c0ac3354774d4bffbbd7a75ed26cc62713a3a478e9235a434ce2a47e935a5",
+      "archive_file_sha256": "e3492796753c3ab2c2ba5eac9bb6c8e053908dc713be0b42f30ccce7e8260912",
+      "raw_api_response": "raw_api_responses/transcriptapi/LWlTtdNww_k.json",
+      "raw_api_response_sha256": "a3dc6cacca79c3961729c4c8526b2f5a3c191bfd7c3ff7d9ecd21e4b5fe69188"
+    },
+    {
+      "index": 158,
+      "video_id": "96hzWlozdHw",
+      "title": "Civilization #9:  Aeschylus, Sophocles, and Euripides as Prophets of Democracy",
+      "video_url": "https://www.youtube.com/watch?v=96hzWlozdHw",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/158 — Civilization #9 Aeschylus, Sophocles, and Euripides as Prophets of Democracy [96hzWlozdHw].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 1092,
+      "source_text_sha256": "5c14361fad6c8d2e79dfa74d684857f7f6cc6f66814982284014b7b645fd6b0c",
+      "archive_file_sha256": "44935b30907694c83ca81c7c417556baede15a3c1c70b86068fd7cf57f7fd63e",
+      "raw_api_response": "raw_api_responses/transcriptapi/96hzWlozdHw.json",
+      "raw_api_response_sha256": "c77c0a880a4625b97e0fe7398c82e7407a8526a0b2aca04e775de5b7aad07789"
+    },
+    {
+      "index": 159,
+      "video_id": "NpNCQ_gNqdE",
+      "title": "Civilization #8:  Rat Utopia and the Peloponnesian War",
+      "video_url": "https://www.youtube.com/watch?v=NpNCQ_gNqdE",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/159 — Civilization #8 Rat Utopia and the Peloponnesian War [NpNCQ_gNqdE].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 628,
+      "source_text_sha256": "ba9a6c89c6e3a5e975c0c82c48deb7909efe30947dbe3ef778bbc9308610b620",
+      "archive_file_sha256": "02d86e8c4d21c8cf45bbb34bc6df9b2aa72b5bd54584982f38f7f8253ad77e02",
+      "raw_api_response": "raw_api_responses/transcriptapi/NpNCQ_gNqdE.json",
+      "raw_api_response_sha256": "e6f32b55e63b3c753bf7eeac8a9040a075e2ba1a1dfe4f07578e12d733bc78bc"
+    },
+    {
+      "index": 160,
+      "video_id": "677rmlRgvLQ",
+      "title": "Civilization #7:  Homer's Iliad and the Birth of Greek Civilization",
+      "video_url": "https://www.youtube.com/watch?v=677rmlRgvLQ",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/160 — Civilization #7 Homer's Iliad and the Birth of Greek Civilization [677rmlRgvLQ].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 436,
+      "source_text_sha256": "6088db95ecede180e23618988cac79a4310819caa6f122f4a1eb698eeb494e12",
+      "archive_file_sha256": "0294ef7aacf89b2a3435cdd4e2c1967c69079bf854d0184a69d4a1f28393886b",
+      "raw_api_response": "raw_api_responses/transcriptapi/677rmlRgvLQ.json",
+      "raw_api_response_sha256": "f9aafce6880ab7df81d6b769a5d3f93db22e09fd3ad4dd90808b4125e111a5c2"
+    },
+    {
+      "index": 161,
+      "video_id": "QwfB-vXXKWU",
+      "title": "Civilization #6:  Elite Overproduction and the Bronze Age Collapse",
+      "video_url": "https://www.youtube.com/watch?v=QwfB-vXXKWU",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/161 — Civilization #6 Elite Overproduction and the Bronze Age Collapse [QwfB-vXXKWU].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 479,
+      "source_text_sha256": "266a35efe24c65e0ec04cb9d0144acaf1ebce07120bff51aefb1db3ce03c1c06",
+      "archive_file_sha256": "1e6b4bef105c38f4eacb71b9cac26f5278a5252835608ad0307d8ee94dfdc874",
+      "raw_api_response": "raw_api_responses/transcriptapi/QwfB-vXXKWU.json",
+      "raw_api_response_sha256": "d83f0988152b8e43d13b29054f492e909c3139b4c4157858b7c481b898425e1b"
+    },
+    {
+      "index": 162,
+      "video_id": "J4HTFJWl5D8",
+      "title": "Civilization #5:  The Yamnaya Conquest of Europe",
+      "video_url": "https://www.youtube.com/watch?v=J4HTFJWl5D8",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/162 — Civilization #5 The Yamnaya Conquest of Europe [J4HTFJWl5D8].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 374,
+      "source_text_sha256": "68ec30fd287a602187d7e0e0449aa4fefd412b050c8db4c24c9d53ece9361906",
+      "archive_file_sha256": "651ec9ac285dff9c75c0b8788a0161f91ac85a1c4e71bc9be18ee846a190d937",
+      "raw_api_response": "raw_api_responses/transcriptapi/J4HTFJWl5D8.json",
+      "raw_api_response_sha256": "96d9bf49091c7f97d1a8b68e9de61a31fa29c831b060f37075980aa16ed2897f"
+    },
+    {
+      "index": 163,
+      "video_id": "RaT_ZUDjHrM",
+      "title": "Civilization #4:  The Paradise Lost of Marija Gimbutas",
+      "video_url": "https://www.youtube.com/watch?v=RaT_ZUDjHrM",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/163 — Civilization #4 The Paradise Lost of Marija Gimbutas [RaT_ZUDjHrM].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 517,
+      "source_text_sha256": "ecf9b3c55ec90a48d7cda59732daf3d2fefe010f78bba083ddf7a1da5f9a6167",
+      "archive_file_sha256": "0279d1e807c6424962be0298ee7ee0df784ac7b0571e0c76d4f1c1da8b63d141",
+      "raw_api_response": "raw_api_responses/transcriptapi/RaT_ZUDjHrM.json",
+      "raw_api_response_sha256": "1bf59b194572e1d1a2c8f4c5272704023fcfe455d0039ad271b893155b044606"
+    },
+    {
+      "index": 164,
+      "video_id": "VanPH0GFTsA",
+      "title": "Civilization #3:  The Religious Imagination",
+      "video_url": "https://www.youtube.com/watch?v=VanPH0GFTsA",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/164 — Civilization #3 The Religious Imagination [VanPH0GFTsA].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 505,
+      "source_text_sha256": "7506927d140bbd377925e85fa2032ab58d16e5d9f8c17383edb3d555b84a1478",
+      "archive_file_sha256": "6bfbe575aebc10d71762aad19d4e3a19e99dca479126cdfadd47b1b1eec84ad8",
+      "raw_api_response": "raw_api_responses/transcriptapi/VanPH0GFTsA.json",
+      "raw_api_response_sha256": "4e0e6cfb9260b7fd236bf55c73381ba671ece8e31f0769a230150c5387b3bbcc"
+    },
+    {
+      "index": 165,
+      "video_id": "x1E5rRmCiT4",
+      "title": "Civilization #2:  Religion and the Dawn of Society",
+      "video_url": "https://www.youtube.com/watch?v=x1E5rRmCiT4",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/165 — Civilization #2 Religion and the Dawn of Society [x1E5rRmCiT4].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 506,
+      "source_text_sha256": "3f5b51b5f7d3b365fadaf722db6c68d3befa97e945b7c0fd56ffc1b4cb12d8e2",
+      "archive_file_sha256": "166c808932eb6f63c2e6a45c770d20917df70602c5262bf79148516be93a8adf",
+      "raw_api_response": "raw_api_responses/transcriptapi/x1E5rRmCiT4.json",
+      "raw_api_response_sha256": "a0a5ccb3262865239a507f172a8d51294e86968051c60c673e56dbbada1ebab3"
+    },
+    {
+      "index": 166,
+      "video_id": "Jjqf9T59uY0",
+      "title": "Civilization #1:  Explaining Humanity's Transition to Agriculture",
+      "video_url": "https://www.youtube.com/watch?v=Jjqf9T59uY0",
+      "series_folder": "Civilization",
+      "relative_path": "Civilization/166 — Civilization #1 Explaining Humanity's Transition to Agriculture [Jjqf9T59uY0].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 467,
+      "source_text_sha256": "4a6c4e52abcc409949bec0910d5b88226093fdc7f6e3ac7fcc90067abca864ea",
+      "archive_file_sha256": "2879f35a616d4ddc6c26347c7d79c5e9746d6714332d20196394741b617838f8",
+      "raw_api_response": "raw_api_responses/transcriptapi/Jjqf9T59uY0.json",
+      "raw_api_response_sha256": "d711907c17f2b069a407da3e0be4c46c46426f83d94c532dbb4405d2224920a1"
+    },
+    {
+      "index": 167,
+      "video_id": "s_k6esWheqA",
+      "title": "Geo-Strategy END:  Psychohistory (The Science of Imagining the Future)",
+      "video_url": "https://www.youtube.com/watch?v=s_k6esWheqA",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/167 — Geo-Strategy END Psychohistory (The Science of Imagining the Future) [s_k6esWheqA].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 628,
+      "source_text_sha256": "03ea302e52159de7e72b3748ab25313afcd6d5c857e487107e3b954a9ffb63de",
+      "archive_file_sha256": "cd13ca7683090fc2223db804700d357a3a48b0261785ab01b69618ca68f9d5a7",
+      "raw_api_response": "raw_api_responses/transcriptapi/s_k6esWheqA.json",
+      "raw_api_response_sha256": "6b549b7863ca076586b8ce9c2a183d27d8f5df2c709510d2ba95b82674aa4619"
+    },
+    {
+      "index": 168,
+      "video_id": "Go1bMQKnJBQ",
+      "title": "Geo-Strategy #11:  The Second American Civil War",
+      "video_url": "https://www.youtube.com/watch?v=Go1bMQKnJBQ",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/168 — Geo-Strategy #11 The Second American Civil War [Go1bMQKnJBQ].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 609,
+      "source_text_sha256": "c13c4d2768ab4f8d16cc149e667d4b7d06d7ae31b7a3c87448097dbe6aa06a37",
+      "archive_file_sha256": "71e43b76f151d18047676e44a05235f0244bb873f3e02bf7372ceef748f08459",
+      "raw_api_response": "raw_api_responses/transcriptapi/Go1bMQKnJBQ.json",
+      "raw_api_response_sha256": "e27bbb90ad7f3ddb58e86b6deec597c6f4b020613f7829436ca9ef54a026b630"
+    },
+    {
+      "index": 169,
+      "video_id": "B_al2wgk49Y",
+      "title": "Geo-Strategy #10:  Putin's Strategic Imagination",
+      "video_url": "https://www.youtube.com/watch?v=B_al2wgk49Y",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/169 — Geo-Strategy #10 Putin's Strategic Imagination [B_al2wgk49Y].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 593,
+      "source_text_sha256": "7b9d23953a29349c06009b3b13fac1368313cf1c390064dfb22b6c44f0e2cfac",
+      "archive_file_sha256": "b56841d8de6be99ce07f568db1a1731c9614cc518d5ac3afd1110b24fc87316f",
+      "raw_api_response": "raw_api_responses/transcriptapi/B_al2wgk49Y.json",
+      "raw_api_response_sha256": "e50c00e4822c1c2275c1c23480de045d023049683d2fdf3c11aa70121bc89979"
+    },
+    {
+      "index": 170,
+      "video_id": "AEPSUC-UQ5k",
+      "title": "Geo-Strategy #9:  Putin's War for the Soul of Russia",
+      "video_url": "https://www.youtube.com/watch?v=AEPSUC-UQ5k",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/170 — Geo-Strategy #9 Putin's War for the Soul of Russia [AEPSUC-UQ5k].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 576,
+      "source_text_sha256": "48e428fb7869c446079dbc5c48aabde55389b067848583067496f28232903560",
+      "archive_file_sha256": "959f959e990897099693f244a32e7972f5fa76be52cdd9d66f1bce2a82ee9533",
+      "raw_api_response": "raw_api_responses/transcriptapi/AEPSUC-UQ5k.json",
+      "raw_api_response_sha256": "82a973ae2e9ebd8d5a6e2509f22b7977029601a97df07f67053d84ada0f938b3"
+    },
+    {
+      "index": 171,
+      "video_id": "7y_hbz6loEo",
+      "title": "Geo-Strategy #8:  The Iran Trap",
+      "video_url": "https://www.youtube.com/watch?v=7y_hbz6loEo",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/171 — Geo-Strategy #8 The Iran Trap [7y_hbz6loEo].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 580,
+      "source_text_sha256": "fbe5051da8b37d68269e38ee16fe0fbba10f2e90e9de218ae2bca56c84322050",
+      "archive_file_sha256": "6bd3e6d2416b349aaaf5b4803f6f47c9d6035f5c76eeb130fe6bc8c953bf2ccf",
+      "raw_api_response": "raw_api_responses/transcriptapi/7y_hbz6loEo.json",
+      "raw_api_response_sha256": "328b09ba2f337fc68e5528b992ebfbbe35671813145c008f0cb85c9e77f96a50"
+    },
+    {
+      "index": 172,
+      "video_id": "LsRGvKxfLts",
+      "title": "Geo-Strategy #7:  Who Killed Iranian President Ebrahim Raisi?",
+      "video_url": "https://www.youtube.com/watch?v=LsRGvKxfLts",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/172 — Geo-Strategy #7 Who Killed Iranian President Ebrahim Raisi [LsRGvKxfLts].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 434,
+      "source_text_sha256": "c72418df326fc3ac8feceb3cf98d605c0c70422e2156fdd6d75e67df15ec64f8",
+      "archive_file_sha256": "ada552d3d993ce88e69dce204fb822150d820329e062afaa16b1ad51b0c8df9e",
+      "raw_api_response": "raw_api_responses/transcriptapi/LsRGvKxfLts.json",
+      "raw_api_response_sha256": "9738fc2f0cb8129546f7724989ab4961d8e4c90d5c957f3ad76d17e749e30182"
+    },
+    {
+      "index": 173,
+      "video_id": "JieFC4Yww4o",
+      "title": "Geo-Strategy #6:  America's Imperial Hubris",
+      "video_url": "https://www.youtube.com/watch?v=JieFC4Yww4o",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/173 — Geo-Strategy #6 America's Imperial Hubris [JieFC4Yww4o].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 506,
+      "source_text_sha256": "25f1592d8e11ca015c92fb72fa34c5f80d079fc9b2e74aee2ff054d911bb0ee6",
+      "archive_file_sha256": "d299d2bc5661daa872cad2f8b7782a081a23baec4453a38bc8a89c19855d69a1",
+      "raw_api_response": "raw_api_responses/transcriptapi/JieFC4Yww4o.json",
+      "raw_api_response_sha256": "44dadf9175a258c9dfa73f2fd815a86c4d7909d2bb4e08f1b8b091500857f8a7"
+    },
+    {
+      "index": 174,
+      "video_id": "exRK-85630k",
+      "title": "Geo-Strategy #5:  Why Trump Will Win (And Pick Nikki Haley as VP)",
+      "video_url": "https://www.youtube.com/watch?v=exRK-85630k",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/174 — Geo-Strategy #5 Why Trump Will Win (And Pick Nikki Haley as VP) [exRK-85630k].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 364,
+      "source_text_sha256": "19614f039369dda4ae1b4f4a3a0542d33f1a112e0ab0770168bf11cc2afeac74",
+      "archive_file_sha256": "919d2a2ed406791dc555270708de97565119e4610d9e9bc3e716c9fe4392054f",
+      "raw_api_response": "raw_api_responses/transcriptapi/exRK-85630k.json",
+      "raw_api_response_sha256": "2aed54cfe41edb8f6f2adfba398b1defd0eae0fec59f0490a46714237a693efb"
+    },
+    {
+      "index": 175,
+      "video_id": "LctUcVqhhns",
+      "title": "Geo-Strategy #4:   Saudi Arabia's Trump Card Against Iran",
+      "video_url": "https://www.youtube.com/watch?v=LctUcVqhhns",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/175 — Geo-Strategy #4 Saudi Arabia's Trump Card Against Iran [LctUcVqhhns].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 324,
+      "source_text_sha256": "838d3deb96cf2bf472834c2ae2e59c89b395fa2792df7e0ef5b0a114fe03dd8e",
+      "archive_file_sha256": "3820a425807dae4954ddd606588f65329d57a8e52e1a2e79f142725d547e46b7",
+      "raw_api_response": "raw_api_responses/transcriptapi/LctUcVqhhns.json",
+      "raw_api_response_sha256": "9116a478262edde78b86311c2cbce246a8a84ddcdc5101cdfbe5a30434d14a38"
+    },
+    {
+      "index": 176,
+      "video_id": "_blj8zKdKgA",
+      "title": "Geo-Strategy #3:  How Empire is Destroying America",
+      "video_url": "https://www.youtube.com/watch?v=_blj8zKdKgA",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/176 — Geo-Strategy #3 How Empire is Destroying America [_blj8zKdKgA].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 424,
+      "source_text_sha256": "333aeb21f2b5fd52a65040e3a05d1b94201b6611c1c21ba8527edd471a7984fd",
+      "archive_file_sha256": "64ee504e10b84e17054934ae8be8e7f163346614a710fca79147a003e4e8ba60",
+      "raw_api_response": "raw_api_responses/transcriptapi/_blj8zKdKgA.json",
+      "raw_api_response_sha256": "110b4793e1f56a502f91c2d75b61a3f85cfa229858aea1120dddcf42b61253cc"
+    },
+    {
+      "index": 177,
+      "video_id": "lkKrZq4YdqY",
+      "title": "Geo-Strategy#2:  Christian Zionism and the Middle East Conflict",
+      "video_url": "https://www.youtube.com/watch?v=lkKrZq4YdqY",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/177 — Geo-Strategy#2 Christian Zionism and the Middle East Conflict [lkKrZq4YdqY].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 377,
+      "source_text_sha256": "6accb2dd092f917b93fb0a06eae9c0abdb6e63bae8a68658c39885a154c5245c",
+      "archive_file_sha256": "ded7218fd6b730708f09581b9ca18b8e71544318a8bc2333d739795dc127f592",
+      "raw_api_response": "raw_api_responses/transcriptapi/lkKrZq4YdqY.json",
+      "raw_api_response_sha256": "61c2e8ac0a5ab701db83a5aed728b1c6490b23941c9f2bb75e54bea07c774290"
+    },
+    {
+      "index": 178,
+      "video_id": "xEEpOxqdU5E",
+      "title": "Geo-Strategy #1:  Iran's Strategy Matrix",
+      "video_url": "https://www.youtube.com/watch?v=xEEpOxqdU5E",
+      "series_folder": "Geo-Strategy",
+      "relative_path": "Geo-Strategy/178 — Geo-Strategy #1 Iran's Strategy Matrix [xEEpOxqdU5E].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "en"
+        }
+      ],
+      "source_segment_count": 398,
+      "source_text_sha256": "978d556a451e53615efc56732b8373d72164f529458533f6f62a251db83adab7",
+      "archive_file_sha256": "7362224ae76690f088f904b7be85a359853b4d135707eaad94c84ad7d1064559",
+      "raw_api_response": "raw_api_responses/transcriptapi/xEEpOxqdU5E.json",
+      "raw_api_response_sha256": "d126a6a5f8492caa69bf6cdd966c3ca68b9ee0c2db85ef2aa892635dca0ee608"
+    },
+    {
+      "index": 179,
+      "video_id": "Gp9Hv1PXx0o",
+      "title": "Jiang Xueqin Teaching Gay Talese Research Method (Introduction)",
+      "video_url": "https://www.youtube.com/watch?v=Gp9Hv1PXx0o",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/179 — Jiang Xueqin Teaching Gay Talese Research Method (Introduction) [Gp9Hv1PXx0o].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 114,
+      "source_text_sha256": "ecf5683f18c9c0e4cea5e8fe7878c3650d335228768be11562bca19e4bda49bc",
+      "archive_file_sha256": "63dbc341e57d5295962ef044c17020846a35a1314667fe7832f4badaf82deb69",
+      "raw_api_response": "raw_api_responses/transcriptapi/Gp9Hv1PXx0o.json",
+      "raw_api_response_sha256": "5fa7b9e5cfc19a93626ffb1678a13b1565d6ff6735fce37e6d023b228e067f23"
+    },
+    {
+      "index": 180,
+      "video_id": "TZHsSDiNoJ0",
+      "title": "Dante Livestream #12 Final (Saturday, June 27 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=TZHsSDiNoJ0",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/180 — Dante Livestream #12 Final (Saturday, June 27 10AM) [TZHsSDiNoJ0].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 7283,
+      "source_text_sha256": "392fbe19745876844fa4f696bdcda42a7a4b2453e2bb0f71b4a2e55b90f6e5a1",
+      "archive_file_sha256": "63eaf1f96eb2b7ba7b21cfe1acfab0263bc73b9920e94c7b1d146f97e7102386",
+      "raw_api_response": "raw_api_responses/transcriptapi/TZHsSDiNoJ0.json",
+      "raw_api_response_sha256": "9c0f798443c142903463f6e05ccb517a75b26bc9a238d9ea4631f84bac8fc519"
+    },
+    {
+      "index": 181,
+      "video_id": "ynMurcuyLoY",
+      "title": "Dante Livestream #11 (Friday, June 26 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=ynMurcuyLoY",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/181 — Dante Livestream #11 (Friday, June 26 10AM) [ynMurcuyLoY].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5974,
+      "source_text_sha256": "702efb05ab2a7db64d6a22e4472d52243e8f80ffdc8258067b104e0f9c012004",
+      "archive_file_sha256": "f0774cc3cb0282a70e7ca1547e746cc39c10498fd19def589ce3444cbc7c3768",
+      "raw_api_response": "raw_api_responses/transcriptapi/ynMurcuyLoY.json",
+      "raw_api_response_sha256": "0ccd798cde3f161d69e6d68eb163e2428110c02d3ddfc52294fc03363211a8fd"
+    },
+    {
+      "index": 182,
+      "video_id": "O2f-XTdVeIo",
+      "title": "Dante Livestream #10 (Thursday, June 25 9AM)",
+      "video_url": "https://www.youtube.com/watch?v=O2f-XTdVeIo",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/182 — Dante Livestream #10 (Thursday, June 25 9AM) [O2f-XTdVeIo].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 7180,
+      "source_text_sha256": "e8276bb1ae5b460377ce82ab5f08735dd7007be09ad3b17d2e8d4d513d9a796c",
+      "archive_file_sha256": "1f3667f35c38420db249f7aaeae4b24a4afd813f13a6959f78193f77f8442a03",
+      "raw_api_response": "raw_api_responses/transcriptapi/O2f-XTdVeIo.json",
+      "raw_api_response_sha256": "50ab2cdff49d75e8f83e43c836eee434a3e696d3d9de6cb72d3185c7bd2e9ebc"
+    },
+    {
+      "index": 183,
+      "video_id": "VIo-EBsYVUo",
+      "title": "Dante Livestream #9 (Wednesday, June 24 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=VIo-EBsYVUo",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/183 — Dante Livestream #9 (Wednesday, June 24 10AM) [VIo-EBsYVUo].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5764,
+      "source_text_sha256": "a6f43f2767b73549f0245475a4eba5750e7a578fc926861da1e8a15c86c93cfa",
+      "archive_file_sha256": "43beb61da95af660f5a1600e08be3d65cf527f0019e8294d43737ac140c0a567",
+      "raw_api_response": "raw_api_responses/transcriptapi/VIo-EBsYVUo.json",
+      "raw_api_response_sha256": "16ee1cfbf08abac0f77daa436f421ee99f4799c3f2bea271f6adeeb814972e69"
+    },
+    {
+      "index": 184,
+      "video_id": "esoTLV4-ibM",
+      "title": "Dante Livestream #8 (Tuesday, June 23 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=esoTLV4-ibM",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/184 — Dante Livestream #8 (Tuesday, June 23 10AM) [esoTLV4-ibM].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5633,
+      "source_text_sha256": "0cdfe968457737000a300262b4e5511326072ac56287fe74adc910c9a9bec869",
+      "archive_file_sha256": "eea39edc463942598bcd836bf3a3bf8666269d8c8d17f95cd63bcb7cbd3be190",
+      "raw_api_response": "raw_api_responses/transcriptapi/esoTLV4-ibM.json",
+      "raw_api_response_sha256": "d292294900a0c168c646ff1224af27b7d9ad58d212b3f5ee9eaf093828701d31"
+    },
+    {
+      "index": 185,
+      "video_id": "Qod_GuAmObc",
+      "title": "Dante Livestream #7 (Monday, June 22 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=Qod_GuAmObc",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/185 — Dante Livestream #7 (Monday, June 22 10AM) [Qod_GuAmObc].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5827,
+      "source_text_sha256": "5187dd53294af71516751f74b68ccda476e9b536f4627451d5f6a46bdcb3dabb",
+      "archive_file_sha256": "080441ff633888478b9d374d7f5dadfe5702e0b1161338c904d14fc4f43eeeb4",
+      "raw_api_response": "raw_api_responses/transcriptapi/Qod_GuAmObc.json",
+      "raw_api_response_sha256": "1cbda8b04df1e66df6f934e5b104fbe610641dd1e5db1a2c3d159b61c16e6a2c"
+    },
+    {
+      "index": 186,
+      "video_id": "0y_GezhRJr0",
+      "title": "Dante Livestream #6 (Sunday, June 21 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=0y_GezhRJr0",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/186 — Dante Livestream #6 (Sunday, June 21 10AM) [0y_GezhRJr0].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5489,
+      "source_text_sha256": "f8b68aa3036846b4445f68965d84f54a06cedd952bd59c8fcca38310c70e745e",
+      "archive_file_sha256": "8d8b85b0430e51a2d09549da4b42f9ceb39aa648662c6c7fbc1d9a1ba93ad23c",
+      "raw_api_response": "raw_api_responses/transcriptapi/0y_GezhRJr0.json",
+      "raw_api_response_sha256": "446d70638fdd8b2e57bec212629f66676753742b5658d28b263fab3c83af7c63"
+    },
+    {
+      "index": 187,
+      "video_id": "R526_WuG3mE",
+      "title": "Dante Livestream #5 (Saturday, June 20 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=R526_WuG3mE",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/187 — Dante Livestream #5 (Saturday, June 20 10AM) [R526_WuG3mE].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5557,
+      "source_text_sha256": "b85b719f501c8171e65c6045282504da5d1a1d2f6bf0409d276254f6f13b8a65",
+      "archive_file_sha256": "f727ac0da5466e0ff80c98d91380c30b17ea49884066dc2468a6e80eaf14d0ff",
+      "raw_api_response": "raw_api_responses/transcriptapi/R526_WuG3mE.json",
+      "raw_api_response_sha256": "fffc073b5c4e3ca1068cfbd960458d0599779575c58b48691b677ec1c80d5fb0"
+    },
+    {
+      "index": 188,
+      "video_id": "dsFMYuE7DKk",
+      "title": "Dante Livestream #4 (Thursday, June 18 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=dsFMYuE7DKk",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/188 — Dante Livestream #4 (Thursday, June 18 10AM) [dsFMYuE7DKk].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5311,
+      "source_text_sha256": "c9463bd2b23c5091cbf3a2f1302de4255c282284ada16ffc94c332ba2dc4e3c0",
+      "archive_file_sha256": "003537410f0d98284e2649d3f6843fdc2c413b7089c246e693591fa25fa6a154",
+      "raw_api_response": "raw_api_responses/transcriptapi/dsFMYuE7DKk.json",
+      "raw_api_response_sha256": "d6345fad345c6f157d1c35f3df681bab824d8a6fafd5bf450ea4bc3cb06e9ecc"
+    },
+    {
+      "index": 189,
+      "video_id": "04ngQzYqgPw",
+      "title": "Dante Livestream #3 (Wednesday, June 17 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=04ngQzYqgPw",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/189 — Dante Livestream #3 (Wednesday, June 17 10AM) [04ngQzYqgPw].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5506,
+      "source_text_sha256": "73e62ded84089cbcb57c2c9f8fc7d0d7da323df7801934e4e06c175c9ddded02",
+      "archive_file_sha256": "2f008291077f67f31e9ab1b1e8bcf1bd7638379734caadc909c1be60467547f4",
+      "raw_api_response": "raw_api_responses/transcriptapi/04ngQzYqgPw.json",
+      "raw_api_response_sha256": "5ef19143bf372dbe243a2263ed55a5f96ccab9ca1f6866d41e68a0a85a292a15"
+    },
+    {
+      "index": 190,
+      "video_id": "PscXuHPRWQ8",
+      "title": "Dante Livestream #2 (Tuesday, June 16 10AM)",
+      "video_url": "https://www.youtube.com/watch?v=PscXuHPRWQ8",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/190 — Dante Livestream #2 (Tuesday, June 16 10AM) [PscXuHPRWQ8].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 5402,
+      "source_text_sha256": "fa370c864f4f0953d65f603e8028bb4121a17841e9a664ee53dfd50fb874277a",
+      "archive_file_sha256": "cd4b5334c6bf3112380e887eac299a8972afb4179203f74601ed52f1a7d928de",
+      "raw_api_response": "raw_api_responses/transcriptapi/PscXuHPRWQ8.json",
+      "raw_api_response_sha256": "77c2fd2b7081d9b3ba072f4d49a1ba84bc2a613f8d273968cbb547d701b275c2"
+    },
+    {
+      "index": 191,
+      "video_id": "xUG-nSlD8H4",
+      "title": "Dante Livestream #1  (Monday, June 15 morning)",
+      "video_url": "https://www.youtube.com/watch?v=xUG-nSlD8H4",
+      "series_folder": "Other Uploads",
+      "relative_path": "Other Uploads/191 — Dante Livestream #1 (Monday, June 15 morning) [xUG-nSlD8H4].md",
+      "source_provider": "TranscriptAPI",
+      "returned_caption_language": "en",
+      "reported_available_languages": [
+        {
+          "code": "en",
+          "name": "English"
+        },
+        {
+          "code": "asr-en",
+          "name": "English (auto-generated)"
+        }
+      ],
+      "source_segment_count": 4812,
+      "source_text_sha256": "0e9b20dfbab472dc5d58b76c92ec74cfa937b181af64c7e8fd8cf8838738fd5d",
+      "archive_file_sha256": "cec7e8e515fd41488d08ca4b89f5c24a564dd4ebf696a0eb5be2c7b1881cf2b3",
+      "raw_api_response": "raw_api_responses/transcriptapi/xUG-nSlD8H4.json",
+      "raw_api_response_sha256": "56ed53d9d2a6385548bf44151cd2d4bea81d37bed311b1cf7daf2f7c05d31c23"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "audit_rows": 191,
+  "recomputed_rule_application_counts": {
+    "capitalize_exposed_sentence_start": 9703,
+    "remove_exposed_immediate_repeats": 681,
+    "remove_filler_um_uh_er": 39033,
+    "remove_leading_discourse_only": 7954,
+    "repair_dangling_basically_prevent": 3,
+    "repair_dangling_basically_prohibit": 1,
+    "repair_ever_since_working": 1,
+    "repair_partial_first_time": 1,
+    "repair_partial_to_the": 1,
+    "repair_split_negotiate": 1,
+    "repair_split_previous": 1,
+    "repair_worked_in_capacities": 1,
+    "standardize_us_canada": 2
+  },
+  "audit_rule_application_counts": {
+    "capitalize_exposed_sentence_start": 9703,
+    "remove_exposed_immediate_repeats": 681,
+    "remove_filler_um_uh_er": 39033,
+    "remove_leading_discourse_only": 7954,
+    "repair_dangling_basically_prevent": 3,
+    "repair_dangling_basically_prohibit": 1,
+    "repair_ever_since_working": 1,
+    "repair_partial_first_time": 1,
+    "repair_partial_to_the": 1,
+    "repair_split_negotiate": 1,
+    "repair_split_previous": 1,
+    "repair_worked_in_capacities": 1,
+    "standardize_us_canada": 2
+  },
+  "errors": [],
+  "status": "pass"
+}
